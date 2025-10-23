@@ -29,7 +29,7 @@ footer: false,
 ```
 
 ### doc Frontmatter
-
+``` frontmatter
 ---
 title: 
 tags:
@@ -41,7 +41,7 @@ aside: false
 outline: [2,4]
 contributors: false
 ---
-
+```
 
 ### 一些模板
 
