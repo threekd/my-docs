@@ -22,7 +22,8 @@ dist
 readingTime: false,
 
 ```
-plume.config.js
+
+### plume.config.js
 ```js
 footer: false,
 
@@ -46,7 +47,7 @@ contributors: false
 ### 一些模板
 
 #### 标题+文件引用
-
+```
 ::: card title="" icon=" "
 ::ri:file-pdf-2-line:: []()
 
@@ -54,7 +55,7 @@ contributors: false
 
 ::ri:file-pdf-2-line:: []()
 :::
-
+```
 
 ### 常用icon
 
@@ -68,9 +69,9 @@ ri:folder-zip-line
 ```
 
 ### 引用视频
-
+```
 <ArtPlayer src="" fullscreen height="200px" />
-
+```
 ### 安装轮播图
 ```js
 pnpm add swiper
@@ -87,6 +88,7 @@ export default defineClientConfig({
 })
 ```
 
+```
 <Swiper :items="['img_link1', 'img_link2']" />
 <Swiper :items="[
     '/images/Research_Field/Realistic_Rendering_01.png', 
@@ -94,5 +96,5 @@ export default defineClientConfig({
     '/images/Research_Field/Realistic_Rendering_03.png', 
     '/images/Research_Field/Realistic_Rendering_04.png', 
     ]" />
-
+```
 
