@@ -20,6 +20,8 @@ dist
 
 ```js
 readingTime: false,
+lastUpdated: false,
+contributors: false,
 
 ```
 
