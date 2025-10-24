@@ -48,7 +48,25 @@ const linux = defineCollection({
   sidebar: 'auto',
 })
 
+const lobehub = defineCollection({
+  type: 'doc',
+  dir: 'Project_Setups/LobeHub',
+  title: 'LobeHub Setup Notes',
+  linkPrefix: '/Project_Setups/LobeHub/',
+  sidebar: 'auto',
+})
+
+const themePlume = defineCollection({
+  type: 'doc',
+  dir: 'Project_Setups/theme-plume',
+  title: 'theme-plume Setup Notes',
+  linkPrefix: '/Project_Setups/theme-plume/',
+  sidebar: 'auto',
+})
+
 export default defineCollection([
   recipes,
   linux,
+  lobehub,
+  themePlume,
 ])

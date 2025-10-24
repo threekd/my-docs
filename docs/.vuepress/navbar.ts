@@ -21,4 +21,11 @@ export default defineNavbarConfig([
       { text: 'initial', link: '/Linux/initial.md' },
     ],
   },
+  {
+    text: 'Project Setups',
+    items: [
+      { text: 'LobeHub', link: '/Project_Setups/LobeHub/initial.md' },
+      { text: 'theme-plume', link: '/Project_Setups/theme-plume/initial.md' },
+    ],
+  },
 ])
