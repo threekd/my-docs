@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-uHM6EITr.js";const r={};function o(s,c){return a(),t("div")}const i=e(r,[["render",o]]),l=JSON.parse('{"path":"/Recipes/categories/","title":"Categories","lang":"en-US","frontmatter":{"lang":"en-US","title":"Categories","draft":true},"git":{},"filePathRelative":null,"headers":[],"type":"posts-categories"}');export{i as comp,l as data};
