@@ -1,3 +1,8 @@
+---
+title: initial
+createTime: 2025/10/23 18:45:28
+permalink: /Project_Setups/LobeHub/6kx6roy0/
+---
 # LobeChat 初始化配置
 
 ## 使用Docker compose部署LobeChat

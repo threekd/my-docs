@@ -1,3 +1,8 @@
+---
+title: initial
+createTime: 2025/10/23 18:45:28
+permalink: /Project_Setups/theme-plume/awnvk8y6/
+---
 # 基础配置
 
 ### 安装运行
