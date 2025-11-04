@@ -16,16 +16,16 @@ aside: false
 
 ::: card title="技能清单" icon="mdi-star-outline"
 
-::logos:microsoft-icon:: Microsoft Power Platform <Badge type="tip" text="熟练" />:
+::logos:microsoft-icon:: Microsoft Power Platform:
     Power Query、Power BI、Power Automate、Power Apps
 
-::material-icon-theme:python:: Python <Badge type="tip" text="熟练" />:
+::material-icon-theme:python:: Python:
     熟练使用Pandas进行数据清洗与分析，利用Requests爬取数据，使用FastAPI构建轻量级API服务，使用PyQt6开发桌面应用
 
-::cryptocurrency-color:auto:: 自动化与低代码开发 <Badge type="tip" text="熟练" />:
+::cryptocurrency-color:auto:: 自动化与低代码开发:
     具备从0到1搭建业务流程应用的能力，熟悉明道云HAP低代码平台
 
-::ant-design:code-outlined:: 其他技能 <Badge type="tip" text="熟悉" />:
+::ant-design:code-outlined:: 其他技能:
     Linux、SQL、Nginx、HTML/CSS、Vue3
 
 ::icon-park:english::英语可作为工作语言。
@@ -45,6 +45,9 @@ aside: false
 - 主导数据自动化处理与可视化看板开发，为实验室运营与管理层决策提供数据支持。
 - 为实验室用户提供IT解决方案与培训，推广数字化工具，提升团队数字化技能。
 :::
+
+<div style="page-break-after: always;"></div>
+<br>
 
 ::: card title="项目经验" icon="streamline-sharp:user-work-laptop-wifi"
 ::: timeline 
@@ -88,6 +91,8 @@ aside: false
     - 积极推广并组织培训Python，Power query及Power BI的使用，赋能业务人员自己进行简单的数据处理和可视化。
 :::
 
+<div style="page-break-after: always;"></div>
+<br>
 
 ::: card title="自我评价" icon="mdi-account-star-outline"
 - 喜欢学习新技术，持续关注AI与自动化技术的前沿发展，并成功将其应用于实际业务场景中以提升效率
