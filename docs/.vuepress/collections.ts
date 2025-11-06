@@ -35,7 +35,8 @@ const recipes = defineCollection({
   linkPrefix: '/Recipes/',
   postList: true,
   tags: true,
-  archives: true,
+  archives: false,
+  categories: false,
   postCover: 'right',
   pagination: 15,
 })

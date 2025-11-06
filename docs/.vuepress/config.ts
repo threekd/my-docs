@@ -21,7 +21,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/quill.png' }],
   ],
 
   bundler: viteBundler(),
@@ -93,6 +93,7 @@ export default defineUserConfig({
     markdown: {
       bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
       artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)
+      mermaid: true,      // 启用 mermaid
       timeline: true,   // 启用时间轴容器语法 ::: timeline
     //   abbr: true,         // 启用 abbr 语法  *[label]: content
     //   annotation: true,   // 启用 annotation 语法  [+label]: content
@@ -120,7 +121,6 @@ export default defineUserConfig({
     //   },
     //   chartjs: true,      // 启用 chart.js
     //   echarts: true,      // 启用 ECharts
-    //   mermaid: true,      // 启用 mermaid
     //   flowchart: true,    // 启用 flowchart
     //   image: {
     //     figure: true,     // 启用 figure
