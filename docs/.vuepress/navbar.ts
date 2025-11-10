@@ -28,4 +28,11 @@ export default defineNavbarConfig([
       { text: 'theme-plume', link: '/Project_Setups/theme-plume/initial.md' },
     ],
   },
+  {
+    text: 'Somethings',
+    items: [
+      { text: 'English Roots', link: '/Others/English_Roots.md' },
+      { text: 'resume_di', link: '/Others/resume_di.md'}
+    ],
+  },
 ])
