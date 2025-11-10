@@ -120,3 +120,105 @@ aside: true
 - anthropography
 - anthropogenesis
 - anthropotomy
+
+## arch = rule
+> 在政治术语anarchy、monarch、monarchy和oligarch中，有个常用词根arch。它来自希腊名词arkhos，意为rule（统治）。在派生词中arch常作ruler（统治者）或government（政体）解。
+
+- anarchy
+  - anarchic
+  - anarchism
+  - anarchist
+- monarch
+- monarchy
+  - monarchic
+  - monarchism
+- oligarchy
+  - oligarchic
+- oligarch
+- polyarchy
+  - polyarchic
+- matriarch
+  - matriarchal
+- matriarchy
+- archives
+  - archivist
+  - archival
+- architect
+  - architecture
+- archenemy
+
+## aud(it) = to hear
+> 从audience和auditorium两个常用词中，可以分析出一对词根aud和audit，它们分别来源于拉丁动词audire的现在词干和分词词干，意思就是to hear（听）。
+
+- audience
+- auditorium
+- audible
+  - inaudible
+  - audibility
+- audit
+  - auditor
+- audition
+- auditory
+- audio
+- audiology
+  - audiologist
+
+## aug,auct,auth = to increase
+> 读者可能想不到August（八月），auction（拍卖）和author（作者）居然是同根词吧！它们分别来自拉丁动词aguere，它的过去分词auctus及其变体auth，其基本意思都是to increase（增加）或to cause to grow（使产生，使增大）。
+
+- august
+- augment
+  - augmentative
+- auction
+  - auctioneer
+- author
+  - authoress
+  - authorial
+- auxiliary
+- auctorial
+- authority
+- authorize
+  - authorization
+
+
+## bi(o) = life
+> 常用词biology（生物学）中的bi是个希腊词根，它来自希腊名词bios，意思为life（生命，生物）。在构词中，bi经常通过连接字母-o-与其他词素结合，所以也可以把bio看作bi的异体。
+
+- biology
+  - biologist
+  - biological
+- biography
+  - biographer
+  - biographical
+  - biographize
+- biocide
+- antibiotic
+- microbial
+- symbiosis
+  - symbiotic
+- biochemistry
+  - biochemist
+- biophysics
+  - biophysicist
+
+## cad, cas, cid = to fall or befall
+> cad、cas、cid是同源异形词根，都源于拉丁动词cadere，意思相当于英语的to fall（降落）或to befall（降临，发生）。其中，cad是现在词干，cas是分词词干，cid是cadere的异体cidere的现在词干。这族同根词数量较大，其中cas和cid的派生词比较多。
+
+- case
+- casual
+  - casualness
+  - casualty
+- occasion
+  - occasional
+- accident
+  - accidental
+- incident
+  - incidence
+  - incidental
+- decadent
+  - decadence
+- coincide
+  - coincident
+- deciduous
+- occident
+  - occidental
