@@ -31,7 +31,7 @@ export default defineNavbarConfig([
   {
     text: 'Somethings',
     items: [
-      { text: 'English Roots', link: '/Others/English_Roots.md' },
+      { text: 'Routine', link: '/Others/routine.md' },
       { text: 'resume_di', link: '/Others/resume_di.md'}
     ],
   },
