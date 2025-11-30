@@ -32,7 +32,8 @@ export default defineNavbarConfig([
     text: 'Somethings',
     items: [
       { text: 'Routine', link: '/Others/routine.md' },
-      { text: 'resume_di', link: '/Others/resume_di.md'}
+      { text: 'resume_di', link: '/Others/resume_di.md'},
+      { text: '17 Days to Conquer GRE Words', link: '/Others/gre.md'},
     ],
   },
 ])
