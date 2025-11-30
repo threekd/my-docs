@@ -6,4 +6,6 @@ navbar: true
 aside: true  
 ---  
 
-- 模唱练习
+- 模唱
+- 半音阶
+- 英语

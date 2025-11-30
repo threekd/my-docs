@@ -1,5 +1,5 @@
 ---
-title: Resume - 张磾
+title: Resume
 createTime: 2025/10/23 18:45:28
 permalink: /Others/resume_di
 navbar: false
@@ -9,7 +9,7 @@ password: 567
 
 
 ::: card title="基本信息" icon="mdi-account-circle-outline"
-- 性别: 男 | 年龄: 29岁 
+- 姓名: 张磾 | 性别: 男 | 年龄: 29岁 
 - 学校: 山东理工大学 | 专业: 物理学 | 学历: 本科
 - 手机: 17861969190 | 微信: st_mos | 邮箱: threekd42@gmail.com
 :::
@@ -37,7 +37,7 @@ password: 567
 
 ::mdi:company:: 公司: **Coca-Cola - 亚太技术中心|APTC** (Manpower 人力派遣)
 
-::uiw:date:: 时间: 2022年2月 - 至今
+::uiw:date:: 时间: 2022年2月 - 2025年8月
 
 ::solar:card-outline:: 职位: **Lab Digital Specialist**
 
