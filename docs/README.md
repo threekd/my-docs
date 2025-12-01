@@ -44,6 +44,4 @@ config:
         title: Project Setups
         icon: 🚀
         details: LobeHub与Plume主题的基础配置
-        link: /Others/resume_di.md
-
 ---
