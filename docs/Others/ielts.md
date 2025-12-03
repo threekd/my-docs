@@ -1,5 +1,5 @@
 ---  
-title: 17 Days to Conquer GRE Words
+title: 14 Days to Conquer IELTS Words
 createTime: 2025/11/30 14:45:28  
 permalink: /Others/ielts
 navbar: true  
