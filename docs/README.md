@@ -21,10 +21,10 @@ config:
         details: 各种家常菜谱
         link: /Recipes/
       -
-        title: GRE Words
+        title: IELTS Words
         icon: 📖
         details: 17 Days to Conquer GRE Words
-        link: /Others/gre.md
+        link: /Others/ielts.md
       -
         title: Routine
         icon: 🚀

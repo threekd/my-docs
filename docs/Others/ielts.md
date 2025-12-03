@@ -1,7 +1,7 @@
 ---  
 title: 17 Days to Conquer GRE Words
 createTime: 2025/11/30 14:45:28  
-permalink: /Others/gre
+permalink: /Others/ielts
 navbar: true  
 aside: true  
 ---  
@@ -11,7 +11,7 @@ aside: true
 | 日期   | 新学内容 | 复习内容| 完成情况 |
 | :------- | :------- | :------------------------------- | :------|
 | 12月1日  | L 1~4    | *L 1~4                           | Done |
-| 12月2日  | L 5~8    | *L 1~4, *L 5~8                   |
+| 12月2日  | L 5~8    | *L 1~4, *L 5~8                   | Done |
 | 12月3日  | L 9~12   | *L 5~8, *L 9~12                  |
 | 12月4日  | L 13~16  | *L 1~4, *L 9~12, *L 13~16        |
 | 12月5日  | L 17~20  | *L 5~8, *L 13~16, *L 17~20       |
