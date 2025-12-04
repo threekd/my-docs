@@ -23,7 +23,7 @@ config:
       -
         title: IELTS Words
         icon: 📖
-        details: 17 Days to Conquer GRE Words
+        details: 14 Days to Conquer IELTS Words
         link: /Others/ielts.md
       -
         title: Routine
