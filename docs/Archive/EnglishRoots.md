@@ -1,4 +1,4 @@
-## ag,act = to do or drive
+## [1] ag,act = to do or drive
 agent
 agential
 agency
@@ -41,7 +41,7 @@ interactive
 transact
 transaction
 transactor
-## am(at) = to love
+## [2] am(at) = to love
 amiable
 amateur
 amateurism
@@ -53,7 +53,7 @@ amorous
 enamor
 enamored
 amatory
-## anim = life
+## [3] anim = life
 animal
 animalism
 animalize
@@ -69,7 +69,7 @@ longanimity
 longanimous
 unanimous
 unanimity
-## ann,enn = year
+## [4] ann,enn = year
 anniversary
 annual
 annals
@@ -82,7 +82,7 @@ semiannual
 biannual
 biennial
 biennium
-## anthrop(o) = man
+## [5] anthrop(o) = man
 anthropology
 anthropologist
 philanthropist
@@ -95,7 +95,7 @@ anthropoid
 anthropography
 anthropogenesis
 anthropotomy
-## arch = rule
+## [6] arch = rule
 anarchy
 anarchic
 anarchism
@@ -118,7 +118,7 @@ archival
 architect
 architecture
 archenemy
-## aud(it) = to hear
+## [7] aud(it) = to hear
 audience
 auditorium
 audible
@@ -131,7 +131,7 @@ auditory
 audio
 audiology
 audiologist
-## aug,auct,auth = increase
+## [8] aug,auct,auth = increase
 august
 augment
 augmentative
@@ -145,7 +145,7 @@ auctorial
 authority
 authorize
 authorization
-## bi(o) = life
+## [9] bi(o) = life
 biology
 biologist
 biological
@@ -162,7 +162,7 @@ biochemistry
 biochemist
 biophysics
 biophysicist
-## cad,cas,cid = to fall or befall
+## [10] cad,cas,cid = to fall or befall
 case
 casual
 casualness
@@ -181,7 +181,7 @@ coincident
 deciduous
 occident
 occidental
-## cap,capt,cept,ceive = to take
+## [11] cap,capt,cept,ceive = to take
 capable
 capability
 capably
@@ -234,7 +234,7 @@ participator
 emancipate
 emancipation
 emancipator
-## ced,ceed,cess = to go
+## [12] ced,ceed,cess = to go
 antecedent
 antecedence
 antecessor
@@ -268,7 +268,7 @@ secession
 concede
 concession
 concessive
-## centr = the middle point
+## [13] centr = the middle point
 centre
 central
 centralism
@@ -284,7 +284,7 @@ eccentric
 eccentricity
 centrifugal
 centripetal
-## cern,cret = separate
+## [14] cern,cret = separate
 concern
 concernment
 concerned
@@ -306,7 +306,7 @@ secrete
 secretion
 secretive
 secretory
-## cid,cis = to cut
+## [15] cid,cis = to cut
 decide
 decidable
 decided
@@ -330,7 +330,7 @@ suicide
 suicidal
 bactericide
 bactericidal
-## claim,clam(at) = to call out
+## [16] claim,clam(at) = to call out
 claim
 claimer
 claimable
@@ -351,7 +351,7 @@ acclaim
 acclamation
 clamor
 clamorous
-## clin,clim = to lean or slope
+## [17] clin,clim = to lean or slope
 incline
 inclination
 decline
@@ -367,7 +367,7 @@ climate
 climatic
 acclimatize
 acclimatization
-## clud,clus = to shut or close
+## [18] clud,clus = to shut or close
 conclude
 concluding
 conclusion
@@ -389,7 +389,7 @@ occlusive
 recluse
 reclusion
 reclusive
-## cord = heart
+## [19] cord = heart
 accord
 accordance
 accordant
@@ -408,7 +408,7 @@ cordial
 cordiality
 cordiform
 obcordate
-##corp(or) = body
+## [20] corp(or) = body
 corps
 corporal
 corporality
@@ -424,7 +424,7 @@ corporeal
 corporeality
 corpuscle
 corpuscular
-## cred(it) = to believe or trust
+## [21] cred(it) = to believe or trust
 credit
 creditable
 discredit
@@ -438,7 +438,7 @@ accreditation
 credence
 credential
 credo
-## cresc,cret,cre = to grow
+## [22] cresc,cret,cre = to grow
 crescent
 increase
 increasingly
@@ -456,7 +456,7 @@ increscent
 accretion
 excrescence
 excrescent
-## cub,cumb = to lie down
+## [23] cub,cumb = to lie down
 incumbent
 incumbency
 succumb
@@ -472,7 +472,7 @@ cubicular
 encumber
 encumbrance
 recumbent
-## cult,col = to till
+## [24] cult,col = to till
 colony
 colonial
 colonize
@@ -499,7 +499,7 @@ floriculturist
 pisciculture
 piscicultural
 pisciculturist
-## cur(r),curs,cours = to run
+## [25] cur(r),curs,cours = to run
 occur
 occurence
 occurrent
@@ -520,7 +520,7 @@ precursory
 course
 discourse
 recourse
-## cur = care
+## [26] cur = care
 cure
 cureless
 curable
@@ -540,7 +540,7 @@ procurable
 procurement
 procurator
 curator
-## cycl = circle
+## [27] cycl = circle
 bicycle
 cycle
 cyclic
@@ -555,7 +555,7 @@ cyclone
 cyclonic
 hemicycle
 tetracycline
-## dem(o) = the people
+## [28] dem(o) = the people
 democracy
 democrat
 democratic
@@ -572,7 +572,7 @@ epidemic
 endemic
 endemicity
 pandemic
-## dic,dict(at) = to say
+## [29] dic,dict(at) = to say
 indicate
 indication
 indicator
@@ -597,7 +597,7 @@ benediction
 benedictive
 malediction
 maledictive
-## doc,doct = to teach
+## [30] doc,doct = to teach
 doctor
 doctorate
 doctoral
@@ -609,7 +609,7 @@ document
 documentary
 docile
 docility
-## duc,duct = to lead
+## [31] duc,duct = to lead
 conduct
 conductor
 conductible
@@ -647,7 +647,7 @@ inductee
 inductor
 induction
 inductive
-## equ = even,equal
+## [32] equ = even,equal
 equal
 equality
 equalize
@@ -671,7 +671,7 @@ equilibrist
 equivocal
 equivocality
 equivocate
-## fac,fact,fect = to do or make
+## [33] fac,fact,fect = to do or make
 facile
 facility
 facilitate
@@ -703,7 +703,7 @@ perfect
 perfection
 perfective
 perfectible
-## fer = to carry,to bring,to bear
+## [34] fer = to carry,to bring,to bear
 confer
 conference
 conferee
@@ -739,7 +739,7 @@ auriferous
 fructiferous
 luminiferous
 somniferous
-## fid = to trust
+## [35] fid = to trust
 fidelity
 confide
 confidant
@@ -755,3 +755,207 @@ infidel
 infidelity
 perfidious
 perfidy
+## [36] fig(ur),fict = to shape
+figure
+figuration
+figurative
+figural
+figment
+figmentary
+effigy
+prefigure
+prefiguration
+prefigurative
+transfigure
+transfiguration
+fiction
+fictional
+fictitious
+fictive
+## [37] fin = end,limit
+final
+finality
+finalist
+finalize
+finish
+finisher
+refinish
+fine
+finery
+finable
+finance
+financial
+financier
+finite
+finitude
+finitary
+confine
+confinement
+confinable
+define
+definition
+definitive
+definable
+definite
+## [38] flu,flux = to flow
+fluid
+fluidity
+fluidify
+fluent
+fluency
+influence
+influencial
+influenza
+affluent
+affluence
+confluence
+confluent
+effluent
+effluence
+superfluous
+superfluity
+## [39] form,form(at) = shape,to form
+form
+former
+formation
+formal
+formality
+formalism
+formalist
+formalize
+informal
+formulate
+formulation
+formula
+formulary
+formular
+formulaic
+inform
+informant
+information
+perform
+performance
+reform
+reformation
+reformism
+reformist
+conform
+conformable
+conformity
+conformism
+conformist
+deform
+deformation
+deformity
+deformable
+transform
+transformation
+## [40] fort,forc = strong,strength
+effort
+effortless
+comfort
+comforter
+comfortless
+force
+forceful
+forceless
+enforce
+enforcement
+fort
+fortify
+fortifier
+fortification
+fortitude
+fortitudinous
+reinforce
+reinforcement
+## [41] frag,fract = to break
+fragile
+fragility
+fragment
+fragmentary
+fragmentation
+fraction
+fractional
+fractionize
+fracture
+infraction
+refract
+refractable
+refractive
+refractory
+anfractuous
+## [42] fund,found,fus = to melt,to pour
+confuse
+confusion
+confusable
+refuse
+refusal
+profuse
+profusion
+effuse
+ffusion
+effusive
+fuse
+fusion
+refund
+refundable
+foundry
+confound
+## [43] gen(er) = birth,race
+genius
+genuine
+generate
+generation
+generative
+general
+generality
+generalize
+generalist
+generous
+generosity
+gene
+genetic
+genetics
+geneticist
+genesis
+eugenic
+eugenics
+eugenist
+congenial
+congeniality
+## [44] ger,gest = to bear or carry
+belligerent
+belligerency
+digest
+digestion
+digestible
+digest
+digester
+suggest
+suggestion
+suggestive
+gesture
+gestation
+ingest
+ingestion
+ingestive
+congest
+congestion
+## [45] gnos,gnit,gniz = to know
+diagnose
+diagnosis
+cognition
+cognitive
+recognize
+recognizee
+recognizor
+recognizable
+recognition
+recognitive
+agnostic
+incognito
+precognition
+precognitive
+prognosis
+prognostic
