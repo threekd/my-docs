@@ -23,7 +23,7 @@ config:
       -
         title: IELTS Words
         icon: 📖
-        details: 14 Days to Conquer IELTS Words
+        details: 12 Days to Conquer IELTS Words
         link: /Others/ielts.md
       -
         title: Routine
@@ -41,7 +41,8 @@ config:
         details: 常用Linux命令
         link: /Linux/commands
       - 
-        title: Project Setups
+        title: EnglishPod
         icon: 🚀
-        details: LobeHub与Plume主题的基础配置
+        details: EnglishPod
+        link: /Archive/EnglishPod.md
 ---

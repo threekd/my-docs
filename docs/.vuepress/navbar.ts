@@ -33,7 +33,8 @@ export default defineNavbarConfig([
     items: [
       { text: 'Routine', link: '/Others/routine.md' },
       { text: 'resume_di', link: '/Others/resume_di.md'},
-      { text: '17 Days to Conquer GRE Words', link: '/Others/ielts.md'},
+      { text: '12 Days to Conquer IELTS Words', link: '/Others/ielts.md'},
+      { text: 'English Roots by LPW', link: '/Archive/EnglishRoots_LPW.md'},
     ],
   },
 ])
