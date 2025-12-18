@@ -38,9 +38,9 @@ A: I’m sorry to hear that. What’s wrong?
 
 B: I think I’m coming down with **the flu**. I have a **headache**, a **sore throat** a **runny nose** and I’m feeling **slightly feverish**.
 
-A: I see... so you’re calling in sick?
+A: I see... so you’re **calling in sick**?
 
-B: Yes, I was hoping to take the day off to **recover**.
+B: Yes, I was hoping to **take the day off** to **recover**.
 
 A: OK, then. Try and get some rest.
 
@@ -58,7 +58,7 @@ A: Are you sure? Let me double check .
 
 B:Yeah...Here, this is my confirmation number.
 
-A: You're right Mr. Roberts, there seems to be a **mix-up**, unfortunately we're **overbooked** at the moment .
+A: You're right Mr. Roberts, there seems to be a **mix-up**, unfortunately we're **overbooked** at the moment.
 
 B:So...
 
