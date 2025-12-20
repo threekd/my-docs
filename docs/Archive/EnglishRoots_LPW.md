@@ -1,4 +1,4 @@
-## [1] ag,act = to do or drive
+### [1] ag,act = to do or drive
 agent
 agential
 agency
@@ -41,7 +41,7 @@ interactive
 transact
 transaction
 transactor
-## [2] am(at) = to love
+### [2] am(at) = to love
 amiable
 amateur
 amateurism
@@ -53,7 +53,7 @@ amorous
 enamor
 enamored
 amatory
-## [3] anim = life
+### [3] anim = life
 animal
 animalism
 animalize
@@ -69,7 +69,7 @@ longanimity
 longanimous
 unanimous
 unanimity
-## [4] ann,enn = year
+### [4] ann,enn = year
 anniversary
 annual
 annals
@@ -82,7 +82,7 @@ semiannual
 biannual
 biennial
 biennium
-## [5] anthrop(o) = man
+### [5] anthrop(o) = man
 anthropology
 anthropologist
 philanthropist
@@ -95,7 +95,7 @@ anthropoid
 anthropography
 anthropogenesis
 anthropotomy
-## [6] arch = rule
+### [6] arch = rule
 anarchy
 anarchic
 anarchism
@@ -118,7 +118,7 @@ archival
 architect
 architecture
 archenemy
-## [7] aud(it) = to hear
+### [7] aud(it) = to hear
 audience
 auditorium
 audible
@@ -131,7 +131,7 @@ auditory
 audio
 audiology
 audiologist
-## [8] aug,auct,auth = increase
+### [8] aug,auct,auth = increase
 august
 augment
 augmentative
@@ -145,7 +145,7 @@ auctorial
 authority
 authorize
 authorization
-## [9] bi(o) = life
+### [9] bi(o) = life
 biology
 biologist
 biological
@@ -162,7 +162,7 @@ biochemistry
 biochemist
 biophysics
 biophysicist
-## [10] cad,cas,cid = to fall or befall
+### [10] cad,cas,cid = to fall or befall
 case
 casual
 casualness
@@ -181,7 +181,7 @@ coincident
 deciduous
 occident
 occidental
-## [11] cap,capt,cept,ceive = to take
+### [11] cap,capt,cept,ceive = to take
 capable
 capability
 capably
@@ -234,7 +234,7 @@ participator
 emancipate
 emancipation
 emancipator
-## [12] ced,ceed,cess = to go
+### [12] ced,ceed,cess = to go
 antecedent
 antecedence
 antecessor
@@ -268,7 +268,7 @@ secession
 concede
 concession
 concessive
-## [13] centr = the middle point
+### [13] centr = the middle point
 centre
 central
 centralism
@@ -284,7 +284,7 @@ eccentric
 eccentricity
 centrifugal
 centripetal
-## [14] cern,cret = separate
+### [14] cern,cret = separate
 concern
 concernment
 concerned
@@ -306,7 +306,7 @@ secrete
 secretion
 secretive
 secretory
-## [15] cid,cis = to cut
+### [15] cid,cis = to cut
 decide
 decidable
 decided
@@ -330,7 +330,7 @@ suicide
 suicidal
 bactericide
 bactericidal
-## [16] claim,clam(at) = to call out
+### [16] claim,clam(at) = to call out
 claim
 claimer
 claimable
@@ -351,7 +351,7 @@ acclaim
 acclamation
 clamor
 clamorous
-## [17] clin,clim = to lean or slope
+### [17] clin,clim = to lean or slope
 incline
 inclination
 decline
@@ -367,7 +367,7 @@ climate
 climatic
 acclimatize
 acclimatization
-## [18] clud,clus = to shut or close
+### [18] clud,clus = to shut or close
 conclude
 concluding
 conclusion
@@ -389,7 +389,7 @@ occlusive
 recluse
 reclusion
 reclusive
-## [19] cord = heart
+### [19] cord = heart
 accord
 accordance
 accordant
@@ -408,7 +408,7 @@ cordial
 cordiality
 cordiform
 obcordate
-## [20] corp(or) = body
+### [20] corp(or) = body
 corps
 corporal
 corporality
@@ -424,7 +424,7 @@ corporeal
 corporeality
 corpuscle
 corpuscular
-## [21] cred(it) = to believe or trust
+### [21] cred(it) = to believe or trust
 credit
 creditable
 discredit
@@ -438,7 +438,7 @@ accreditation
 credence
 credential
 credo
-## [22] cresc,cret,cre = to grow
+### [22] cresc,cret,cre = to grow
 crescent
 increase
 increasingly
@@ -456,7 +456,7 @@ increscent
 accretion
 excrescence
 excrescent
-## [23] cub,cumb = to lie down
+### [23] cub,cumb = to lie down
 incumbent
 incumbency
 succumb
@@ -472,7 +472,7 @@ cubicular
 encumber
 encumbrance
 recumbent
-## [24] cult,col = to till
+### [24] cult,col = to till
 colony
 colonial
 colonize
@@ -499,7 +499,7 @@ floriculturist
 pisciculture
 piscicultural
 pisciculturist
-## [25] cur(r),curs,cours = to run
+### [25] cur(r),curs,cours = to run
 occur
 occurence
 occurrent
@@ -520,7 +520,7 @@ precursory
 course
 discourse
 recourse
-## [26] cur = care
+### [26] cur = care
 cure
 cureless
 curable
@@ -540,7 +540,7 @@ procurable
 procurement
 procurator
 curator
-## [27] cycl = circle
+### [27] cycl = circle
 bicycle
 cycle
 cyclic
@@ -555,7 +555,7 @@ cyclone
 cyclonic
 hemicycle
 tetracycline
-## [28] dem(o) = the people
+### [28] dem(o) = the people
 democracy
 democrat
 democratic
@@ -572,7 +572,7 @@ epidemic
 endemic
 endemicity
 pandemic
-## [29] dic,dict(at) = to say
+### [29] dic,dict(at) = to say
 indicate
 indication
 indicator
@@ -597,7 +597,7 @@ benediction
 benedictive
 malediction
 maledictive
-## [30] doc,doct = to teach
+### [30] doc,doct = to teach
 doctor
 doctorate
 doctoral
@@ -609,7 +609,7 @@ document
 documentary
 docile
 docility
-## [31] duc,duct = to lead
+### [31] duc,duct = to lead
 conduct
 conductor
 conductible
@@ -647,7 +647,7 @@ inductee
 inductor
 induction
 inductive
-## [32] equ = even,equal
+### [32] equ = even,equal
 equal
 equality
 equalize
@@ -671,7 +671,7 @@ equilibrist
 equivocal
 equivocality
 equivocate
-## [33] fac,fact,fect = to do or make
+### [33] fac,fact,fect = to do or make
 facile
 facility
 facilitate
@@ -703,7 +703,7 @@ perfect
 perfection
 perfective
 perfectible
-## [34] fer = to carry,to bring,to bear
+### [34] fer = to carry,to bring,to bear
 confer
 conference
 conferee
@@ -739,7 +739,7 @@ auriferous
 fructiferous
 luminiferous
 somniferous
-## [35] fid = to trust
+### [35] fid = to trust
 fidelity
 confide
 confidant
@@ -755,7 +755,7 @@ infidel
 infidelity
 perfidious
 perfidy
-## [36] fig(ur),fict = to shape
+### [36] fig(ur),fict = to shape
 figure
 figuration
 figurative
@@ -772,7 +772,7 @@ fiction
 fictional
 fictitious
 fictive
-## [37] fin = end,limit
+### [37] fin = end,limit
 final
 finality
 finalist
@@ -797,7 +797,7 @@ definition
 definitive
 definable
 definite
-## [38] flu,flux = to flow
+### [38] flu,flux = to flow
 fluid
 fluidity
 fluidify
@@ -814,7 +814,7 @@ effluent
 effluence
 superfluous
 superfluity
-## [39] form,form(at) = shape,to form
+### [39] form,form(at) = shape,to form
 form
 former
 formation
@@ -850,7 +850,7 @@ deformity
 deformable
 transform
 transformation
-## [40] fort,forc = strong,strength
+### [40] fort,forc = strong,strength
 effort
 effortless
 comfort
@@ -869,7 +869,7 @@ fortitude
 fortitudinous
 reinforce
 reinforcement
-## [41] frag,fract = to break
+### [41] frag,fract = to break
 fragile
 fragility
 fragment
@@ -885,7 +885,7 @@ refractable
 refractive
 refractory
 anfractuous
-## [42] fund,found,fus = to melt,to pour
+### [42] fund,found,fus = to melt,to pour
 confuse
 confusion
 confusable
@@ -902,7 +902,7 @@ refund
 refundable
 foundry
 confound
-## [43] gen(er) = birth,race
+### [43] gen(er) = birth,race
 genius
 genuine
 generate
@@ -924,7 +924,7 @@ eugenics
 eugenist
 congenial
 congeniality
-## [44] ger,gest = to bear or carry
+### [44] ger,gest = to bear or carry
 belligerent
 belligerency
 digest
@@ -942,7 +942,7 @@ ingestion
 ingestive
 congest
 congestion
-## [45] gnos,gnit,gniz = to know
+### [45] gnos,gnit,gniz = to know
 diagnose
 diagnosis
 cognition
@@ -959,7 +959,7 @@ precognition
 precognitive
 prognosis
 prognostic
-## [46] grad,gress = to step,step
+### [46] grad,gress = to step,step
 grade
 gradation
 gradual
@@ -985,7 +985,7 @@ digressive
 regress
 regression
 regressive
-## [47] gram(m),graph = written character,writing
+### [47] gram(m),graph = written character,writing
 grammar
 grammarian
 grammatival
@@ -1008,7 +1008,7 @@ photographer
 photography
 photographic
 autograph
-## [48] grat,grac = pleasing,thankful
+### [48] grat,grac = pleasing,thankful
 grateful
 congratulate
 gratitude
@@ -1024,7 +1024,7 @@ grace
 graceful
 graceless
 gracious
-## [49] hab(it),hibit = to hold or have
+### [49] hab(it),hibit = to hold or have
 habit
 habitual
 habituate
@@ -1046,7 +1046,7 @@ prohibtive
 inhibit
 inhibition
 inhibiting
-## [50] it = to go
+### [50] it = to go
 ambition
 ambitionless
 exit
@@ -1072,7 +1072,7 @@ obit
 obituary
 obituariese
 obituarist
-## [51] jac,ject = throw
+### [51] jac,ject = throw
 adjacent
 adjacency
 ejaculate
@@ -1098,7 +1098,7 @@ subject
 subjective
 deject
 dejected
-## [52] junct,join = to connect
+### [52] junct,join = to connect
 conjunction
 conjunctive
 injunction
@@ -1114,7 +1114,7 @@ adjoining
 enjoin
 subjoin
 rejoin
-## [53] jur,just = law,right
+### [53] jur,just = law,right
 jury
 juryman
 juror
@@ -1137,7 +1137,7 @@ adjust
 adjustment
 adjustant
 adjustable
-## [54] lat = to carry,to bring,to bear
+### [54] lat = to carry,to bring,to bear
 translate
 translation
 translator
@@ -1156,7 +1156,7 @@ delate
 delator
 illation
 illative
-## [55] leg,lig,lect = to gather,to pick
+### [55] leg,lig,lect = to gather,to pick
 collect
 collection
 collector
@@ -1185,7 +1185,7 @@ intelligent
 intelligence
 intelligentsia
 intelligential
-## [56] leg,legis = law
+### [56] leg,legis = law
 legal
 legality
 legalize
@@ -1207,7 +1207,7 @@ allegation
 alleged
 privilege
 privileged
-## [57] loc = place
+### [57] loc = place
 local
 locality
 locate
@@ -1225,7 +1225,7 @@ dislocate
 dislocation
 relocate
 relocation
-## [58] log,logue = speech,reason
+### [58] log,logue = speech,reason
 logic
 logical
 logician
@@ -1247,7 +1247,7 @@ sociology
 sociological
 sociologist
 trilogy
-## [59] loqu,locut = to speak
+### [59] loqu,locut = to speak
 eloquent
 eloquence
 elocution
@@ -1266,7 +1266,7 @@ circumlocution
 circumlocutory
 magniloquent
 magniloquence
-## [60] lud,lus = to play or mock
+### [60] lud,lus = to play or mock
 delude
 delusion
 illusion
@@ -1283,7 +1283,7 @@ collude
 collusion
 collusive
 postlude
-## [61] man(u) = hand
+### [61] man(u) = hand
 manual
 manualism
 manage
@@ -1307,7 +1307,7 @@ quadrumanous
 maintain
 maintainable
 maintenance
-## [62] mand,mend = to entrust
+### [62] mand,mend = to entrust
 mandate
 mandatory
 command
@@ -1321,7 +1321,7 @@ recommend
 recommendation
 remand
 countermand
-## [63] medi = middle
+### [63] medi = middle
 medium
 mediate
 mediation
@@ -1338,7 +1338,7 @@ intermediary
 intermediation
 mediocre
 mediocrity
-## [64] min = smaller,less
+### [64] min = smaller,less
 minor
 minority
 minus
@@ -1356,7 +1356,7 @@ administer
 administration
 administrative
 administrator
-## [65] mit,miss to send
+### [65] mit,miss to send
 admit
 admittance
 admission
@@ -1384,7 +1384,7 @@ transmit
 transmitter
 transmission
 transmissive
-## [66] mod = measure,manner
+### [66] mod = measure,manner
 model
 modern
 modest
@@ -1399,7 +1399,7 @@ module
 modular
 accommodate
 commodity
-## [67] mont,mount = hill,to climb
+### [67] mont,mount = hill,to climb
 mountain
 mountaineer
 mountainous
@@ -1418,7 +1418,7 @@ remount
 mont
 monticule
 promontory
-## [68] mort = death
+### [68] mort = death
 mortal
 mortality
 immortal
@@ -1434,7 +1434,7 @@ mortified
 mortician
 mortuary
 antemortem
-## [69] mov,mot,mob = to move
+### [69] mov,mot,mob = to move
 move
 movable
 remove
@@ -1459,7 +1459,7 @@ mobilization
 mobilizable
 demobilize
 demobilization
-## [70] nasc,nat = to be born
+### [70] nasc,nat = to be born
 nation
 national
 native
@@ -1482,7 +1482,7 @@ nascent
 nascence
 renaissance
 renaissant
-## [71] not = to get to know
+### [71] not = to get to know
 note
 noted
 notable
@@ -1503,7 +1503,7 @@ annotation
 connote
 connotation
 connotative
-## [72] nounc,nunci = to tell
+### [72] nounc,nunci = to tell
 pronounce
 pronouncement
 pronounced
@@ -1524,7 +1524,7 @@ renunciation
 enunciate
 enunciation
 enunciator
-## [73] ord(in) = order
+### [73] ord(in) = order
 order
 order
 orderless
@@ -1544,7 +1544,7 @@ disorderly
 coordinate
 coordination
 coordinator
-## [74] pra,per = to get ready
+### [74] pra,per = to get ready
 prepare
 preparation
 preparatory
@@ -1566,7 +1566,7 @@ imperialism
 imperialist
 imperative
 imperious
-## [75] part = part,to part
+### [75] part = part,to part
 part
 partable
 partage
@@ -1589,7 +1589,7 @@ impart
 impartment
 impartable
 counterpart
-## [76] pati,pass = to suffer or endure
+### [76] pati,pass = to suffer or endure
 patient
 impatient
 patienthood
@@ -1607,7 +1607,7 @@ compassionate
 diapassionate
 passible
 impassible
-## [77] patri,patern = father,fatherland
+### [77] patri,patern = father,fatherland
 patriarch
 patriarchal
 patriarchy
@@ -1628,7 +1628,7 @@ paternal
 paternalism
 paternalist
 paternity
-## [78] ped,pod = foot
+### [78] ped,pod = foot
 pedal
 peddle
 peddler
@@ -1647,7 +1647,7 @@ pedicure
 peicurist
 biped
 bipedal
-## [79] pel,puls = to drive or push
+### [79] pel,puls = to drive or push
 compel
 compellable
 compulsion
@@ -1674,7 +1674,7 @@ propellant
 propulsion
 propulsive
 dispel
-## [80] pend,pens = to hang,to weigh,to pay
+### [80] pend,pens = to hang,to weigh,to pay
 depend
 dependence
 dependant
@@ -1704,7 +1704,7 @@ compensate
 compensation
 compensator
 compensative
-## [81] pet(it) = to seek or strive
+### [81] pet(it) = to seek or strive
 compete
 competition
 competitor
@@ -1727,7 +1727,7 @@ impetuous
 impetuosity
 appetent
 appetence
-## [82] ple(t),plen = to fill
+### [82] ple(t),plen = to fill
 complement
 m=complementary
 complete
@@ -1746,7 +1746,7 @@ plenteous
 replenish
 replenishment
 replenisher
-## [83] plic,pli,ply = to bend or fold
+### [83] plic,pli,ply = to bend or fold
 apply
 appliance
 applicable
@@ -1771,7 +1771,7 @@ explicable
 supplicate
 supplication
 supplicant
-## [84] polic,polis,polit = city,citizen
+### [84] polic,polis,polit = city,citizen
 police
 policeman
 policing
@@ -1785,7 +1785,7 @@ polity
 metropolis
 metropolitan
 cosmopolian
-## [85] pon,pos(it) = to place,to put
+### [85] pon,pos(it) = to place,to put
 compose
 composer
 composite
@@ -1819,7 +1819,7 @@ disposable
 disposition
 impose
 imposition
-## [86] port(at) = to carry
+### [86] port(at) = to carry
 portable
 portability
 export
@@ -1844,7 +1844,7 @@ sportful
 sporty
 deport
 deportation
-## [87] prehend,prehens,pris = to seize
+### [87] prehend,prehens,pris = to seize
 comprehend
 comprehension
 comprehensible
@@ -1862,7 +1862,7 @@ comprise
 comprisable
 enterprise
 enterpriser
-## [88] press = to press
+### [88] press = to press
 press
 pressing
 pressure
@@ -1887,7 +1887,7 @@ repressive
 suppress
 suppression
 suppressive
-## [89] prob,prov = to test
+### [89] prob,prov = to test
 probe
 probing
 probable
@@ -1905,7 +1905,7 @@ probate
 probation
 probationary
 reprobate
-## [90] quer,ques(i)t,quir,quisit = t seek or ask for
+### [90] quer,ques(i)t,quir,quisit = t seek or ask for
 conquer
 conquest
 conquistador
@@ -1929,7 +1929,7 @@ inquisitive
 exquisite
 perquisite
 perk
-## [91] reg,rect = to rule,to guide,to govern
+### [91] reg,rect = to rule,to guide,to govern
 region
 regional
 regular
@@ -1953,7 +1953,7 @@ rectification
 rectangle
 rectangular
 rectilineal
-## [92] rog(at) = to ask
+### [92] rog(at) = to ask
 interrogate
 arrogant
 arrogance
@@ -1967,7 +1967,7 @@ prorogation
 surrogate
 surrogacy
 supererogation
-## [94] rupt = to break
+### [94] rupt = to break
 corrupt
 corruption
 corruptible
@@ -1984,7 +1984,7 @@ abrupt
 abruption
 irrupt
 irruption
-## [94] sci = to know
+### [94] sci = to know
 science
 scientific
 scientist
@@ -2001,7 +2001,7 @@ nescience
 nescient
 prescient
 prescience
-## [95] scrib,script = to write
+### [95] scrib,script = to write
 describe
 description
 descriptive
@@ -2024,7 +2024,7 @@ ascribe
 ascription
 postscript
 scripture
-## [96] sect = cut
+### [96] sect = cut
 section
 sectional
 subsection
@@ -2044,7 +2044,7 @@ transect
 transection
 vivisect
 cicisection
-## [97] sent,sens = to feel
+### [97] sent,sens = to feel
 sentence
 sententious
 sentiment
@@ -2072,7 +2072,7 @@ sensitive
 sensitivity
 sensitize
 sensuous
-## [98] sequ,secut = to follow
+### [98] sequ,secut = to follow
 consequent
 consequently
 subsequent
@@ -2089,7 +2089,7 @@ persecutee
 prosecute
 prosecutor
 prosecutive
-## [99] serv = (to be) a slave
+### [99] serv = (to be) a slave
 serve
 server
 servery
@@ -2105,7 +2105,7 @@ servile
 servility
 servitude
 subservient
-## [100] sid,sess = to sit or settle
+### [100] sid,sess = to sit or settle
 preside
 presider
 presidium
@@ -2134,7 +2134,7 @@ assess
 assessment
 assessor
 assessable
-## [101] sign = mark,to mark
+### [101] sign = mark,to mark
 sign
 signable
 signless
@@ -2158,7 +2158,7 @@ designing
 designable
 resign
 resignation
-## [102] sist = to stand
+### [102] sist = to stand
 assist
 assistance
 assistant
@@ -2177,7 +2177,7 @@ desist
 desistence
 subsist
 subsistence
-## [103] solv,solut = to loosen
+### [103] solv,solut = to loosen
 resolve
 resolved
 resolvable
@@ -2197,7 +2197,7 @@ solved
 soluble
 solvent
 solvency
-## [104] spec,spect,spic = to look
+### [104] spec,spect,spic = to look
 expect
 expectancy
 expectant
@@ -2231,7 +2231,7 @@ auspice
 auspicious
 despise
 despicable
-## [105] spir = to breathe
+### [105] spir = to breathe
 spirit
 spiritual
 spiritless
@@ -2258,7 +2258,7 @@ perspirable
 perspiratory
 transpire
 transpiration
-## [106] st(at) = to stand
+### [106] st(at) = to stand
 state
 statehood
 stateless
@@ -2282,7 +2282,7 @@ ecstasize
 ecstatic
 obstacle
 rest
-## [107] string,strict,strain,stress = to draw tight or bind
+### [107] string,strict,strain,stress = to draw tight or bind
 stringent
 stringency
 restrict
@@ -2305,7 +2305,7 @@ restrained
 restraint
 distrain
 distraint
-## [108] stru,struct = to pile up or build
+### [108] stru,struct = to pile up or build
 structure
 structural
 structured
@@ -2326,7 +2326,7 @@ superstructure
 industry
 industrial
 industrious
-## [109] tang,tact = to touch
+### [109] tang,tact = to touch
 contact
 contactual
 contactor
@@ -2344,7 +2344,7 @@ contagion
 contagium
 tangent
 tangential
-## [110] ten,tin,tent,tain = to hold
+### [110] ten,tin,tent,tain = to hold
 contain
 container
 containment
@@ -2374,7 +2374,7 @@ continual
 continuous
 continuity
 continuance
-## [101] tend,tens,tent = to stretch
+### [101] tend,tens,tent = to stretch
 tend
 tendency
 tendentious
@@ -2416,7 +2416,7 @@ distensible
 ostentation
 ostentatious
 ostensible
-## [112] tract = to draw
+### [112] tract = to draw
 attract
 attraction
 attractive
@@ -2442,7 +2442,7 @@ protraction
 subtract
 subtraction
 subtractive
-## [113] un(i) = one
+### [113] un(i) = one
 unify
 unification
 unifiable
@@ -2466,7 +2466,7 @@ uniformize
 unilateral
 unison
 unisonant
-## [114] val(u),vail = to be strong or effective or worth
+### [114] val(u),vail = to be strong or effective or worth
 valid
 validity
 validate
@@ -2486,7 +2486,7 @@ devaluation
 valency
 valediction
 valedictory
-## [115] ven,vent = to come
+### [115] ven,vent = to come
 convene
 convener
 convention
@@ -2516,7 +2516,7 @@ adventurism
 adventurous
 circumvent
 circumvention
-## [116] vert,vers = to turn
+### [116] vert,vers = to turn
 convert
 converter
 convertible
@@ -2548,7 +2548,7 @@ reversion
 subvert
 subversion
 subversive
-## [117] vid,vis = to see
+### [117] vid,vis = to see
 evident
 evidence
 evidential
@@ -2584,7 +2584,7 @@ revision
 supervise
 supervisor
 supervision
-## [118] viv,vit = to live,life
+### [118] viv,vit = to live,life
 vivid
 vividness
 revive
@@ -2606,7 +2606,7 @@ viviparity
 vivipara
 vitamin
 vitaminize
-## [119] voc,vok = to call,voice
+### [119] voc,vok = to call,voice
 vocal
 vocalic
 cocalist
@@ -2631,7 +2631,7 @@ invocatory
 revoke
 revocation
 revocatory
-## [120] volv,volut = to roll or turn
+### [120] volv,volut = to roll or turn
 invole
 involvement
 involution
