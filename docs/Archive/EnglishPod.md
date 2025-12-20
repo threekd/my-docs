@@ -136,3 +136,62 @@ B: Um... do you think we can make a **pit stop**?
 A: But we've only been on the road for ten minutes. 
 
 B: I know, but I forgot to go to the bathroom before we left.
+
+---
+### [7] Virus
+A: Oh great! This stupid computer **froze** again! That's the third time today! Hey Samuel, can you come take a look at my PC? **It's acting up again**. It must have a virus or something. 
+
+B: Just give me a second; **I'll be right up**. 
+
+B: I ran a virus scan on your computer, and **it turns out that** you have a lot of **infected files**! 
+
+A: But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus. 
+
+B: Well, you have to make sure that your anti-virus software is updated regularly; 
+yours wasn't **up to date**, that's probably what was causing your problems. 
+
+A: Ok. Anything else? 
+
+B: Yeah, try not to kick or hit the computer! 
+
+A: Um yeah... Sorry about that.
+
+---
+### [8] What's your name again
+A: Nick! **How's it going**? 
+
+B: Oh, hey... 
+
+A: What are you doing in this neighbourhood? Do you live around here? 
+
+B: Actually, my office is right around the corner. 
+
+A: It was great to meet you last week at the conference. I really enjoyed our conversation about foreign investment. 
+
+B: Yeah, yeah, it was really interesting. You know, **I'm in a bit of a hurry**, but here's my card. We should definitely meet up again and continue our discussion. 
+
+A: Sure, you still have my **contact details**, right ? 
+
+B: You know what, this is really embarrassing, but your name has just **slipped my mind**. Can you remind me? 
+
+A: Sure, my name is Ana Ferris. Don't worry about it; it happens to me all the time. I'm **terrible with** names too.
+
+---
+### [9] Silence Please
+A: Those people in front of us are making so much noise. It's so **inconsiderate**! 
+
+B: Don't worry about it; it's **not such a big deal**. 
+
+A: Oh...  **I can't hear a thing**! Excuse me, can you **keep it down**? 
+
+C: Sure, sorry 'bout that! 
+
+A: Someone's phone is ringing! 
+
+B: Honey, I think it's your phone. Did you forget to **switch it off**? 
+
+A: Oh, no! You're right. That's so embarrassing! 
+
+C: **Do you mind** keeping it down? I'm trying to watch a movie here! 
+
+---
