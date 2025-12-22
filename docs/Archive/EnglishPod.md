@@ -222,7 +222,7 @@ B: Yeah, I know. I met the owner of the house yesterday as he was moving in. His
 
 A: Really? What's he like? You have to **fill me in**. 
 
-B: Actually, he's a bit strange. I don't know... I've got **a bad feeling** about him. 
+B: Actually, he's a bit strange. I don't know... I've just got **a bad feeling** about him. 
 
 A: Really? Why? 
 
