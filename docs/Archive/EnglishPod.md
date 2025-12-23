@@ -317,15 +317,13 @@ A: Oh, no! I'm so sorry! Are you all right?
 
 A: Oh...I don't know.
 
-A: **I feel terrible**, I really didn't mean to **knock you over**. My tire, just **exploded**, and I lost control of my bike. Really, it was an accident. Please accept my apologies.
+A: **I feel terrible**, I really didn't mean to **knock you over**. My tire just **exploded** and I lost control of my bike. Really, it was an accident. Please accept my apologies.
 
 A: Just let me try to stand up.
 
-A: Are you okay?
-
 A: Oh, wait a second, you seem really **familiar**, I think I know you from somewhere.
 
-A: Yeah, I think we have met somewhere before. That's right! We met at Aaron's **place** last weekend! What a **coincidence**! But anyway, I'm glad to see that you're not too badly hurt, and I should probably get going. I have a nine o'clock meeting. But here's my number. Call me and we'll exchange insurance information.
+A: Yeah, That's right! I think we have met somewhere before. We met at Aaron's **place** last weekend! What a **coincidence**! But anyway, I'm glad to see you're not too badly hurt, and I should probably get going. I've got a 9 o'clock meeting. But here's my number. Call me and we'll exchange insurance information.
 
 A: Ouch! My ankle! I think it's broken! You can't just leave me like this! Are you calling an ambulance?
 
