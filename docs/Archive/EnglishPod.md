@@ -337,7 +337,7 @@ A: Hurry up, get in.
 
 B: I'm in, let's go! 
 
-A: OK, **make a left** here... no wait, I meant make a right. Come on, speed up! 
+A: OK, **make a left** here... no wait, I meant make a right. Come on, **speed up**! 
 
 B: Geez! What's the rush? 
 
