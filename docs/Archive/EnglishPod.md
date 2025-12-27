@@ -265,19 +265,19 @@ A: Wait! Don't turn it on...
 ### [13] The Office - Out of Control Spending
 A: OK, so now the last point on our agenda. Jill, let's **go over** the profit and loss statement. 
 
-A: Great. Well, the main issue here, as you can see, is that our **expenses** are **through the roof**. 
+B: Great. Well, the main issue here, as you can see, is that our **expenses** are **through the roof**. 
 
 A: Let's see... These numbers are **off the charts**! What's going on here! 
 
-A: Well, um, sir, the company **expenditures** on entertainment and travel are **out of control**. Look at these bills for example. Just this month we've paid over twenty thousand dollars for hotel charges! 
+B: Well, um, sir, the company **expenditures** on entertainment and travel are **out of control**. Look at these bills for example. Just this month we've paid over twenty thousand dollars for hotel charges! 
 
 A: OK, thank you. I'll look into it. 
 
-A: The list goes on and on. Here, this is a bill for five thousand dollars for spa treatments! 
+B: The list goes on and on. Here, this is a bill for five thousand dollars for spa treatments! 
 
 A: Thank you; that will be all. I'll **take care of** it. 
 
-A: Look at this one sir, eight thousand dollars were spent in one night at a place called "Wild Things"? 
+B: Look at this one sir, eight thousand dollars were spent in one night at a place called "Wild Things"? 
 ! 
 
 A: OK, I get it! ! Thank you for your very thorough analysis!
