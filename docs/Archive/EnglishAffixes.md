@@ -1106,3 +1106,251 @@ baggage
 orphanage
 pupilage
 ### [3] -al (-ail, -ical, -ual) = of ~; like ~; having the nature of ~; the act of ~ing
+national
+natioonalism
+nationality
+nationalize
+industrial
+industrialize
+mental
+oral
+arrival
+denial
+### [4] -ance (-ancy) = the act or fact of ~ing; the state or quality of being ~ed; a thing that ~s; what is ~ed
+appearance
+annoyance
+conveyance
+contrivance
+ascendancy
+buoyancy
+### [5] -ant = that ~s; ~ing; a person or thing that ~s
+accordant
+accordance
+triumphant
+distant
+distance
+errant
+errancy
+vacant
+vacancy
+assistant
+disinfectant
+merchant
+pendant
+### [6] -ar (-ular, -icular) = of ~; like ~; having the nature of ~; one that is connected with~
+lunar
+nuclear
+familiar
+familiarity
+familiarize
+popular
+popularity
+popularize
+bursar
+justiciar
+cellar
+grammar
+grammatical
+### [7] -ary = a place for ~; a collection of ~s; a person or thing connected with ~; of ~; being ~; characterized by ~;
+depositary
+aviary
+formulary
+library
+boundary
+secretary
+honorary
+secondary
+customary
+military
+### [8] -ate = of ~; having ~; like ~; to become ~ or cause to be ~; to produce ~; to supply or treat with ~; to combine with ~; salt made from ~, etc.
+collegiate
+fortunate
+stellate
+liberate
+liberation
+ulcerate
+ulceration
+vaccinate
+caccination
+oxygenate
+oxygenation
+terminate
+termination
+dictate
+dictation
+### [9] -dom = the rank or realm of ~; all who are ~s; the condition or fact of being~
+earldom
+kingdom
+officialdom
+freedom
+wisdom
+### [10] -ed = having ~; having the characteristics of ~
+coloured
+gifted
+kind-hearted
+pig-headed
+### [11] -ee = a person who is ~ed; a person to whom sth. is ~ed; a person who ~s
+employee
+inductee
+mortgagee
+standee
+donee
+nominee
+### [12] -en = to cause to be ~; to cause to have ~; made of ~; having the look of ~
+sharpen
+soften
+strengthen
+lengthen
+wooden
+ashen
+### [13] -ence = the act or fact of ~ing; the quality or condition of ~ing
+dependence
+dependent
+difference
+different
+effluence
+effluent
+sentience
+sentient
+currency
+current
+pungency
+pungent
+urgency
+urgent
+tendency
+### [14] -ent = that ~s; ~ing; one that ~s
+absorbent
+absorbency
+indulgent
+indulgence
+indulgency
+orient
+patient
+patience
+correspondent
+correspondence
+president
+presidency
+agent
+agency
+parent
+parental
+corrodent
+detergent
+### [15] -er = a person or thing that ~s; a person living in ~; a person who makes or works with ~; a person who has ~
+admirer
+bomber
+farmer
+hatter
+philosopher
+rancher
+### [16] -ery = a place for ~ing; a place for ~s; the art or occupation of a ~; the condition, quality or action of a ~; a group of ~s
+bakery
+nunnery
+cookery
+slavery
+knavery
+machinery
+### [17] -ful = full of ~; showing ~; having the qualities of ~; that can be of ~; as much as a ~ can fill
+cheerful
+careful
+harmful
+masterful
+useful
+spoonful
+### [18] -fy (-ify, -efy) = to make ~, to cause to be; to become
+beautify
+beautification
+classify
+classification
+uglify
+uglification
+solidify
+olidification
+rarefy
+rarefication
+fortify
+fortification
+identify
+identification
+petrify
+petrification
+petrifaction
+daupefy
+stupefaction
+### [19] -hood = the state or quality of ~; the character of ~; a group or body of ~s; a concrete instance of ~;
+boyhood
+priesthood
+neighbourhood
+falsehood
+likelihood
+### [20] -ic = of ~; having the nature of ~; being ~; made up of ~; made or caused by ~; like ~; an art or system of thought; a person connected with ~;
+atmospheric
+bombastic
+heroic
+alcoholic
+quixotic
+volcanic
+logic
+logical
+music
+musical
+rhetoric
+rhetorical
+critic
+critical
+### [21] -ion = the act or process of ~ing; the result of ~ing; the condition of being ~ed; a thing or process that ~s
+attraction
+calculation
+collection
+fascination
+connection
+admission
+decision
+derivation
+competition
+falsification
+resolution
+### [22] -ish = like ~; of ~; tending to ~; about or slightly past ~; somewhat ~
+childish
+girlish
+English
+bookish
+seventyish
+eightish
+coldish
+sweetish
+reddish
+### [23] -ism = the doctrine, theory or system of ~; a disease caused by ~; the quality or condition of being ~; instance of being ~
+Darwinism
+Darwinist
+heroism
+alcoholism
+colonialism
+colonialist
+humanism
+humanist
+criticism
+### [24] -ite = an inhabitant of ~; a descendant of ~; a supporter or follower of ~; a person associated with ~; a mineral species; a fossil; an explosive; a chemical product
+Canaanite
+Israelite
+Trotskyite
+laborite
+hematite
+lignite
+dynamite
+nitrite
+### [25] -ity (-ty, -ety) = the condition, quality or fact of being ~
+density
+laxity
+sincerity
+acuity
+brevity
+cavity
+unity
+beauty
+liberty
+royalty
+safety
+### [26] -ive = ~ing; having the quality of ~ing; tending to
