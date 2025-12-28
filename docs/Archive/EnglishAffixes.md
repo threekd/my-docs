@@ -1354,3 +1354,183 @@ liberty
 royalty
 safety
 ### [26] -ive = ~ing; having the quality of ~ing; tending to
+attractive
+interrogative
+imitative
+decisive
+expensive
+native
+talkative
+tentative
+competitive
+punitive
+### [27] -ize (-ise) = to make ~; to become ~; to engage in or use ~; to treat in the way of ~; to act like ~
+criticize
+criticism
+capitalize
+capitalization
+crystallize
+crystallization
+Americanize
+Americanization
+civilize
+civilization
+dramatize
+dramatization
+### [28] -less = without ~; lacking ~; free from ~; that never ~s; that cannot be ~ed
+homeless
+rainless
+painless
+ceaseless
+ceaselessly
+tireless
+tirelessly
+countless
+### [29] -logy = the doctrine, study or science of ~; the speech or discussion of ~
+anthropology
+anthropologist
+anthropological
+biology
+biologist
+biological
+geology
+geologist
+geological
+philology
+philologist
+eulogy
+eulogist
+eulogize
+eulogistic
+tautology
+tautological
+### [30] -ly = like a ~; characteristic of ~; suited to ~; occuring once a ~; of or being a ~
+brotherly
+ghostly
+manly
+monthly
+heavenly
+### -ment = the act or state of fact of ~ing; the condition of being ~ed; the product or result of ~ing; the cause or means of ~ing
+enjoyment
+amazement
+measurement
+pavement
+government
+governmental
+fragment
+fragmental
+instrument
+instrumental
+nutriment
+parliament
+parliamentary
+### [32] -ness = the quality or condition of being ~; ~ action or behaviour; an instance of being ~
+blackness
+preparedness
+carefulness
+kindness
+willingness
+### [33] -or = a person or thing that ~s
+actor
+conductor
+refrigerator
+doctor
+tractor
+### [34] -ory = a place of ~ing; a thing used for ~ing; characterized by ~ion; tending or serving to ~
+depository
+factory
+observatory
+directory
+contradictory
+illusory
+compulsory
+preparatory
+conciliatory
+### [35] -our (-or) = the act, state, quality or characteristics of ~ing
+ardor
+ardour
+favor
+favour
+labor
+labour
+error
+horror
+tremor
+### [36] -ous = having ~, full of ~; characterized by ~; having the nature of ~; having to do with ~; of ~; like ~; practising
+advantageous
+joyous
+murderous
+monogamous
+thunderous
+bigamous
+anxious
+credulous
+ferrous
+obvious
+flagitious
+### [37] -ry = the occupation of a ~; the act of a ~; the quality or condition of a ~; a collection of ~s; a place for ~
+dentistry
+devilry
+rivalry
+peasantry
+poultry
+vestry
+pantry
+### [38] -ship = the position or occupation of ~; the quality or condition of being ~; the act or skill of ~; the relation between ~s; the number of ~s
+authorship
+governorship
+friendship
+dictatorship
+workmansship
+partnership
+readership
+### [39] ### -some = causing ~; tending to ~; ~ to a considerable degree
+fearsome
+troublesome
+meddlesome
+quarrelsome
+gladsome
+lonesome
+### [40] -th = number ~ in order; the action or process of ~ing; the quality or condition of being ~
+gorwth
+stealth
+birth
+coolth
+length
+mirth
+### [41] -ure = the act or fact of ~ing; the condition of being ~ed; the result of being ~ed; sth. that ~s or is ~ed
+failure
+pleasure
+exposure
+disclosure
+legislature
+culture
+cultural
+flexure
+nature
+picture
+### [42] ### -ward = tending to ~; in the direction of ~; toward ~
+afterwards
+backward
+homeward
+### [43] ### -wise = in a ~ manner; like a ~; in the direction of ~; in the ~ respect
+likewise
+otherwise
+slantwise
+lengthwise
+figure-wise
+### [44] ### -y (-ey) = full of ~; containing ~; characterized by ~; resembling ~; somewhat ~; inclined to ~
+bumpy
+cloudy
+salty
+funny
+sugary
+chilly
+sleepy
+### [45] ### -y = the act of ~ing; the condition or quality of being ~; a group of ~s; ~ condition or quality
+delivery
+discovery
+victory
+soldiery
+jealousy
+memory
