@@ -322,7 +322,7 @@ A: Just let me try to stand up.
 
 B: Oh, wait a second, you seem really **familiar**, I think I know you from somewhere.
 
-A: Yeah, That's right! I think we have met somewhere before. We met at Aaron's **place** last weekend! What a **coincidence**! But anyway, I'm glad to see you're not too badly hurt, and I should probably get going. I've got a 9 o'clock meeting. But here's my number. Call me and we'll exchange insurance information.
+A: Yeah, That's right! I think we've met somewhere before. We met at Aaron's **place** last weekend! What a **coincidence**! But anyway, I'm glad to see you're not too badly hurt, and I should probably get going. I've got a 9 o'clock meeting. But here's my number. Call me and we'll exchange insurance information.
 
 B: Ouch! My ankle! I think it's broken! You can't just leave me like this! Are you calling an ambulance?
 
