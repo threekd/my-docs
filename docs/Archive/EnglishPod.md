@@ -1,6 +1,6 @@
 # EnglishPod
 
-## P1-15
+## P1-10
 
 ### [1] Difficult Customer
 A: Good evening. My name is Fabio, I'll be your waiter for tonight. May I take your order?
@@ -214,6 +214,8 @@ D: A two-for-one promotion? Hmm. I kind of like the sound of that. **It sounds l
 A: Yeah, exactly. Just what I was thinking! In fact, that's a **brilliant** idea! I'm glad we thought of that. Very creative.
 
 ---
+## P11-20
+
 ### [11] Daily Life - New Guy in Town
 A: Oh, **I don't know if you heard**, but someone moved into that old house down the road. 
 
@@ -329,7 +331,6 @@ B: Ouch! My ankle! I think it's broken! You can't just leave me like this! Are y
 A: Nope, I'm canceling my appointment so that I can stay here with you.
 
 ---
-## P16-20
 
 ### [16] Turn left here!
 A: Hurry up, get in. 
@@ -378,7 +379,7 @@ B: Oh great! Does this mean that the reception is canceled?
 ### [18] Protest!
 A: This is Action 5 News reporter Sarah O'Connell reporting live from Washington, D. C. where a protest has **broken out**. Thousands of angry citizens are protesting against the proposed **bailout** of the auto manufacturing industry! Sir, sir, Sarah O'Connell, Action 5 news. Can you tell us what's happening? 
 
-B: Yeah, yeah, we're here because we feel this is an **injustice**! The financial irresponsibility of big business has to stop! We're there to show the government that we don't like the way that they're spending our tax dollars! 
+B: Yeah, yeah, we're here because we feel this is an **injustice**! The financial irresponsibility of big business has to stop! We're here to show the government that we don't like the way that they're spending our tax dollars! 
 
 A: Sir but what exactly is making everyone so angry? 
 
@@ -389,3 +390,110 @@ A: I see. But, many supporters of the bailout argue that it could help save the 
 B: That maybe true, and I for one don't want to see anyone lose their job, but how can these CEOs ask for a bailout when they're making millions of dollars? And then, they **have the nerve to** fly to Washington in private jets! This costs hundreds of thousands of dollars! And they're asking for money! That is just not right! 
 
 A: Good point. This is Sarah O'Connell reporting live from Washington D. C., back to you, Tom.
+
+---
+### [19] The Weedkend - Christmas Chronicles I
+A: I hate working on Christmas Eve! Whoa! **Get a load of** this guy! Come in central, I think **we've got ourselves a situation here**. 
+
+B: License and registration please. Have you been drinking tonight, sir? 
+
+A: I had one or two glasses of **eggnog**, but nothing else. 
+
+B: **Step out** of the **vehicle**, please. Sir, what do you have in the back? 
+
+A: Just a few Christmas gifts, 'tis the season, after all! 
+
+B: **Don't take that tone with me**. Do you have an invoice for these items? 
+
+A: Umm... no... I make these in my workshop in the North Pole! 
+
+B: You are under arrest, sir. You have the right to remain silent. You better not pout, you better not cry. Anything you say can and will be used against you. You have the right to an **attorney**; if you cannot afford one, the state will **appoint** one for you. Do you understand all these rights that I have just been read to you? 
+
+A: You can't take me to jail! What about my **sleigh**? It's Christmas Eve! I have Presents to deliver! Rudolph! Prancer! Dancer! Get help!
+
+---
+### [20] I can See Clearly Now
+A: Hello, Arthur. **What seems to be** the problem? 
+
+B: Hey doc. Well, I think I might need glasses. I'm getting headaches, and I really **struggle** to see things that are far away. But I have always had **20/20 vision**. 
+
+A: Sounds like you may be **far-sighted**. OK, then, cover your left eye and read the chart in front of you.  
+
+B: Mmm... X, E, R, 3, a question mark, and I can't quite **make out** the other symbol but I think it's the peace sign. 
+
+A: Wow, Arthur! You're as blind as a bat! 
+
+B: Yeah, I know, my vision is really **blurry** at times. 
+
+A: Ok then, **head on** over to the other room and pick out some frames while I fill out your **prescription**. 
+
+B: Thanks doc! 
+
+A: Arthur, that's the bathroom.
+
+---
+## P21-30
+
+## [21] The Office - What Do You Do?
+A: Oh, look, there's Caroline and her boyfriend. She's **always going on about** him at the office. Oh, great, they saw us. They're coming this way. 
+
+B: Oh, man... 
+
+C: Jessica! Arthur! Hi! I'd like you to meet my boyfriend Greg, he's the **V. P.** of quality and safety for a top **Fortune 500 food company**. 
+
+A: Nice to meet you. This is my husband, Arthur. 
+
+B: Hey, how's it going? 
+
+D: Hello. 
+
+A: Caroline talks about you all the time. I guess you must be pretty busy at work. 
+
+D: Well, yeah, a V. P. position is not easy, you know! I **implement** policies and procedures nationwide of various departments, as well as train junior managers in FDA and EPA regulations. I also have to **oversee** daily operation of quality control for the entire East coast, that alone means I have 1500 employees under me. 
+
+B: Wow, yeah... that sounds exciting. 
+
+D: And what about you, Arthur? **What do you do for a living**? 
+
+B: Oh, I'm a Top Gun pilot!
+
+---
+## [22] The Weekend - Christmas Chronicles II
+A: Really, gentlemen, you can't take me to jail! 
+Don't you know who I am? 
+Kris Kringle, you know, Papa Noel, Pere Noel, Babbo Natale, sheng dan lao ren! 
+
+
+B: Yeah, Yeah, we've heard that one before, haven't we Joe? 
+
+
+C: Yeah, last week we booked this guy who claimed to be the tooth fairy! 
+Can you believe that? 
+
+
+A: It's Christmas Eve and I have all these Presents to deliver! 
+Where is your Christmas spirit? 
+What will happen when all the children wake up tomorrow and don't find any gifts in their stockings? 
+
+
+B: Sorry buddy, you were parked in a no-parking zone, you were speeding, and you have no ID! 
+
+
+C: Besides that, even if we let you go now, 
+your sleigh has been impounded and those reindeer were taken to the city zoo. 
+
+
+A: What! 
+This is unbelievable! 
+What's this world coming to? 
+Christmas is ruined! 
+
+
+C: What's that up ahead? It looks like... 
+elves! 
+! 
+Elves! 
+! 
+Whoa, they're shooting candy canes! 
+Mayday, Mayday, we are under heavy attack! 
+We need backup!
