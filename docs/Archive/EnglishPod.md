@@ -395,21 +395,21 @@ A: Good point. This is Sarah O'Connell reporting live from Washington D. C., bac
 ### [19] The Weedkend - Christmas Chronicles I
 A: I hate working on Christmas Eve! Whoa! **Get a load of** this guy! Come in central, I think **we've got ourselves a situation here**. 
 
-B: License and registration please. Have you been drinking tonight, sir? 
+A: License and registration please. Have you been drinking tonight, sir? 
 
-A: I had one or two glasses of **eggnog**, but nothing else. 
+B: I had one or two glasses of **eggnog**, but nothing else. 
 
-B: **Step out** of the **vehicle**, please. Sir, what do you have in the back? 
+A: **Step out** of the **vehicle**, please. Sir, what do you have in the back? 
 
-A: Just a few Christmas gifts, 'tis the season, after all! 
+B: Just a few Christmas gifts, 'tis the season, after all! 
 
-B: **Don't take that tone with me**. Do you have an invoice for these items? 
+A: **Don't take that tone with me**. Do you have an invoice for these items? 
 
-A: Umm... no... I make these in my workshop in the North Pole! 
+B: Umm... no... I make these in my workshop in the North Pole! 
 
-B: You are under arrest, sir. You have the right to remain silent. You better not pout, you better not cry. Anything you say can and will be used against you. You have the right to an **attorney**; if you cannot afford one, the state will **appoint** one for you. Do you understand all these rights that I have just been read to you? 
+A: You are under arrest, sir. You have the right to remain silent. You better not pout, you better not cry. Anything you say can and will be used against you. You have the right to an **attorney**; if you cannot afford one, the state will **appoint** one for you. Do you understand all these rights that I have just been read to you? 
 
-A: You can't take me to jail! What about my **sleigh**? It's Christmas Eve! I have Presents to deliver! Rudolph! Prancer! Dancer! Get help!
+B: You can't take me to jail! What about my **sleigh**? It's Christmas Eve! I have Presents to deliver! Rudolph! Prancer! Dancer! Get help!
 
 ---
 ### [20] I can See Clearly Now
