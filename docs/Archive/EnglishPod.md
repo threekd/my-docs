@@ -459,41 +459,90 @@ B: Oh, I'm a Top Gun pilot!
 
 ---
 ## [22] The Weekend - Christmas Chronicles II
-A: Really, gentlemen, you can't take me to jail! 
-Don't you know who I am? 
-Kris Kringle, you know, Papa Noel, Pere Noel, Babbo Natale, sheng dan lao ren! 
-
+A: Really, gentlemen, you can't take me to jail! Don't you know who I am? Kris Kringle, you know, Papa Noel, Pere Noel, Babbo Natale, sheng dan lao ren! 
 
 B: Yeah, Yeah, we've heard that one before, haven't we Joe? 
 
+C: Yeah, last week we booked this guy who claimed to be the tooth fairy! Can you believe that? 
 
-C: Yeah, last week we booked this guy who claimed to be the tooth fairy! 
-Can you believe that? 
-
-
-A: It's Christmas Eve and I have all these Presents to deliver! 
-Where is your Christmas spirit? 
-What will happen when all the children wake up tomorrow and don't find any gifts in their stockings? 
-
+A: It's Christmas Eve and I have all these Presents to deliver! Where is your Christmas spirit? What will happen when all the children wake up tomorrow and don't find any gifts in their stockings? 
 
 B: Sorry buddy, you were parked in a no-parking zone, you were speeding, and you have no ID! 
 
+C: Besides that, even if we let you go now, your sleigh has been impounded and those reindeer were taken to the city zoo. 
 
-C: Besides that, even if we let you go now, 
-your sleigh has been impounded and those reindeer were taken to the city zoo. 
+A: What! This is unbelievable! What's this world coming to? Christmas is ruined! 
 
+C: What's that up ahead? It looks like... elves! ! Elves! ! Whoa, they're shooting candy canes! Mayday, Mayday, we are under heavy attack! We need backup!
 
-A: What! 
-This is unbelievable! 
-What's this world coming to? 
-Christmas is ruined! 
+---
+## [23] Making an Appointment
+A: Hello, Fairbrook Consulting, how may I help you? 
 
+B: Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNealy. 
 
-C: What's that up ahead? It looks like... 
-elves! 
-! 
-Elves! 
-! 
-Whoa, they're shooting candy canes! 
-Mayday, Mayday, we are under heavy attack! 
-We need backup!
+A: Certainly, what day were you thinking of? 
+
+B: How's Thursday? Does she have any time available then? 
+
+A: Um... let me double check... unfortunately, she's booked solid on Thursday, how does next Monday work for you? 
+
+B: Actually, I've got something scheduled on Monday. Can she do Tuesday? 
+
+A: Sure, Tuesday's perfect. May I ask where you're calling from? 
+
+B: Sure, Merton Financial Advisors. 
+
+A: Oh, actually, Tuesday's no good. Sorry 'bout that.
+
+---
+## [24] Where should we eat?
+A: Do you two have any plans for the evening? 
+
+B: We were thinking of checking out a restaurant in the neigbourhood. Do you have any suggestions? 
+
+A: I know this really nice Italian place. The food is fantastic, and the d′ecor is beautiful. I'd recommend giving it a try. 
+
+C: Actually, I'm not all that crazy about Italian food; I'm in the mood for something a bit lighter. 
+
+A: In that case, I know a great little bistro. They make a really tasty seafood platter; the fish is outstanding. 
+
+B: It sounds fantastic, but I'm allergic to seafood, so... 
+
+A: Okay, well, let me think... Oh, I know this great little place. It's just a hole in the wall, but they do the most amazing sandwiches. You gotta give them a try. 
+
+C: Ella, you took me there last time I visited, and I got food poisoning, remember?
+
+---
+## [25] Planning For The Worst
+A: Well, right, let's move to our next order of business, as many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue. And it's come to my attention that our company lacks any sort of bird flu contingency plan. 
+
+B: Basically, we need to come up with a clear plan; we need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes. 
+
+A: So, what I'd like to do is: first appoint someone to look after drafting our plan; Ralph, I'd like you to head up this project. 
+
+C: Sure, no problem. What issues do you want me to consider? 
+
+B: Well, let's see, there are a few points we need to be thinking about... first, I'll need you to analyze our numbers and figure out what kind of financial impact an outbreak might have. 
+
+A: You'll also need to think about how we can avoid any of our employees getting infected; think of ways to reduce employee-customer contact, perhaps some IT solutions that will allow our people to work from home. 
+
+C: I guess you'll need me to forecast employee absences as well, right? And I'll think about the impact this will have on our clients. Hey, what about vaccines? Should we be thinking about getting vaccines for our employees? 
+
+A: Exactly right. So, I'll leave this to you, and we'll review the draft plan in two weeks. Okay, so, anyone want to order some KFC for lunch?
+
+---
+## [26] New Year Resolution
+A: So, did I tell you about my New Year's resolution? I've decided to go on a diet. 
+
+B: And you're going to completely transform your eating habits, right? 
+
+A: Exactly! I'm going to cut out all that junk I eat; no more chips, no more soda, no more fried food. 
+
+B: I've heard this one before. 
+
+A: But this time I'm going to stick to it. I really mean it! Trust me, Carol, I'm going to be a new man in one year's time! 
+
+B: Well, I guess we'll just have to wait and see. 
+
+A: Thanks, honey, that was a great meal. I'm stuffed. Do we have any chips left?
