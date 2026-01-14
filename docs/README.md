@@ -31,10 +31,10 @@ config:
         details: Routine
         link: /Others/routine.md
       -
-        title: Resume
-        icon: 👨‍💻
-        details: 一份简历
-        link: /Others/resume_di.md
+        title: Musical Notation
+        icon: 📖
+        details: 半音阶口琴曲谱
+        link: /Harmonica/musical_notation.md
       - 
         title: Linux Notes
         icon: 📝
