@@ -501,7 +501,7 @@ A: Do you two have any plans for the evening?
 
 B: We were thinking of **checking out** a restaurant in the neigbourhood. **Do you have any suggestions?** 
 
-A: I know this really nice Italian place. The food is fantastic, and the decor is beautiful. **I'd recommend giving it a try.**
+A: I know this really nice Italian place. The food is fantastic, and the décor is beautiful. **I'd recommend giving it a try.**
 
 C: Actually, **I'm not all that crazy about** Italian food; I'm **in the mood for** something a bit lighter. 
 
