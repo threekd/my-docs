@@ -479,19 +479,19 @@ C: What's that up ahead? It looks like... elves! ! Elves! ! Whoa, they're shooti
 ## [23] Making an Appointment
 A: Hello, Fairbrook Consulting, how may I help you? 
 
-B: Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNealy. 
+B: Yes, this is Julianne Horton, and **I'm calling to arrange an appointment** with Ms. McNealy. 
 
 A: Certainly, what day were you thinking of? 
 
-B: How's Thursday? Does she have any time available then? 
+B: **How's Thursday**? Does she have any time **available** then? 
 
-A: Um... let me double check... unfortunately, she's booked solid on Thursday, how does next Monday work for you? 
+A: Um... let me **double check**... unfortunately, she's **booked solid** on Thursday, how does next Monday work for you? 
 
-B: Actually, I've got something scheduled on Monday. Can she do Tuesday? 
+B: Actually, I've got something **scheduled** on Monday. **Can she do Tuesday**? 
 
 A: Sure, Tuesday's perfect. May I ask where you're calling from? 
 
-B: Sure, Merton Financial Advisors. 
+B: Sure, Merton **Financial Advisors**. 
 
 A: Oh, actually, Tuesday's no good. Sorry 'bout that.
 
@@ -499,19 +499,19 @@ A: Oh, actually, Tuesday's no good. Sorry 'bout that.
 ## [24] Where should we eat?
 A: Do you two have any plans for the evening? 
 
-B: We were thinking of checking out a restaurant in the neigbourhood. Do you have any suggestions? 
+B: We were thinking of **checking out** a restaurant in the neigbourhood. **Do you have any suggestions?** 
 
-A: I know this really nice Italian place. The food is fantastic, and the d′ecor is beautiful. I'd recommend giving it a try. 
+A: I know this really nice Italian place. The food is fantastic, and the decor is beautiful. **I'd recommend giving it a try.**
 
-C: Actually, I'm not all that crazy about Italian food; I'm in the mood for something a bit lighter. 
+C: Actually, **I'm not all that crazy about** Italian food; I'm **in the mood for** something a bit lighter. 
 
-A: In that case, I know a great little bistro. They make a really tasty seafood platter; the fish is outstanding. 
+A: In that case, I know a great little **bistro**. They make a really **tasty** seafood platter; the fish is outstanding. 
 
-B: It sounds fantastic, but I'm allergic to seafood, so... 
+B: It sounds fantastic, but I'm **allergic** to seafood, so... 
 
-A: Okay, well, let me think... Oh, I know this great little place. It's just a hole in the wall, but they do the most amazing sandwiches. You gotta give them a try. 
+A: Okay, well, let me think... Oh, I know this great little place. It's just a hole in the wall, but they do the most amazing sandwiches. **You gotta give them a try**. 
 
-C: Ella, you took me there last time I visited, and I got food poisoning, remember?
+C: Ella, you took me there last time I visited, and I got **food poisoning**, remember?
 
 ---
 ## [25] Planning For The Worst
