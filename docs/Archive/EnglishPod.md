@@ -515,21 +515,21 @@ C: Ella, you took me there last time I visited, and I got **food poisoning**, re
 
 ---
 ### [25] Planning For The Worst
-A: Well, right, let's move to our next order of business, as many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue. And it's come to my attention that our company lacks any sort of bird flu contingency plan. 
+A: Well, right, **let's move to our next order of business**, as many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue. And it's come to my attention that our company lacks any sort of bird flu **contingency plan**. 
 
-B: Basically, we need to come up with a clear plan; we need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes. 
+B: Basically, **we need to come up with a clear plan**; we need to outline specific actions that our company can take to maintain **critical** business functions in case a **pandemic** strikes. 
 
-A: So, what I'd like to do is: first appoint someone to look after drafting our plan; Ralph, I'd like you to head up this project. 
+A: So, what I'd like to do is: first appoint someone to look after drafting our plan; Ralph, I'd like you to **head up** this project. 
 
 C: Sure, no problem. What issues do you want me to consider? 
 
-B: Well, let's see, there are a few points we need to be thinking about... first, I'll need you to analyze our numbers and figure out what kind of financial impact an outbreak might have. 
+B: Well, let's see, there are a few points we need to be thinking about... first, I'll need you to analyze our numbers and figure out what kind of financial impact an **outbreak** might have. 
 
 A: You'll also need to think about how we can avoid any of our employees getting infected; think of ways to reduce employee-customer contact, perhaps some IT solutions that will allow our people to work from home. 
 
-C: I guess you'll need me to forecast employee absences as well, right? And I'll think about the impact this will have on our clients. Hey, what about vaccines? Should we be thinking about getting vaccines for our employees? 
+C: I guess you'll need me to **forecast** employee absences as well, right? And I'll think about the impact this will have on our clients. Hey, what about vaccines? Should we be thinking about getting **vaccines** for our employees? 
 
-A: Exactly right. So, I'll leave this to you, and we'll review the draft plan in two weeks. Okay, so, anyone want to order some KFC for lunch?
+A: Exactly right. So, **I'll leave this to you**, and we'll review the draft plan in two weeks. Okay, so, anyone want to order some KFC for lunch?
 
 ---
 ### [26] New Year Resolution
@@ -537,12 +537,46 @@ A: So, did I tell you about my New Year's resolution? I've decided to go on a di
 
 B: And you're going to completely transform your eating habits, right? 
 
-A: Exactly! I'm going to cut out all that junk I eat; no more chips, no more soda, no more fried food. 
+A: Exactly! I'm going to **cut out** all that **junk** I eat; no more chips, no more soda, no more fried food. 
 
 B: I've heard this one before. 
 
-A: But this time I'm going to stick to it. I really mean it! Trust me, Carol, I'm going to be a new man in one year's time! 
+A: But this time I'm going to **stick to it**. I really **mean it**! Trust me, Carol, I'm going to be a new man in one year's time! 
 
 B: Well, I guess we'll just have to wait and see. 
 
-A: Thanks, honey, that was a great meal. I'm stuffed. Do we have any chips left?
+A: Thanks, honey, that was a great meal. I'm **stuffed**. Do we have any chips left?
+
+---
+### [27] Asking for Time Off
+A: Mr. McKenna, do you have a second? I need to talk to you about something. 
+
+B: Sure, Liv, what can I do for you? 
+
+A: Well, I was just wondering... you see, I know I've used up all my vacation days this year, 
+but my sister is getting married, and the wedding is overseas, and, well... 
+
+B: You wanna take some time off, is that right? 
+
+A: Well, sir, I was just hoping that I might be able to take some unpaid leave this year. 
+
+B: What dates are you planning on taking off? I'll need at least two months notice, so that I can plan for your absence. 
+
+A: I was thinking of taking off from September first until the thirtieth . Would you be okay with that? 
+
+B: Well, I guess so.
+
+### [28] Daily Life - I'm Sorry, I Love You II
+A: I'm so relieved that your ankle wasn't broken! I feel just awful about this whole thing. I wanna make it up to you. Let me take you out to dinner tonight. My treat. 
+
+B: That sounds great! I'd love to! Here is my address. Pick me up at eight? 
+
+A: Perfect! 
+
+B: Thank you for such a lovely evening! The food was amazing, and I had a great time. 
+
+A: Me too. You look so beautiful tonight! I wish this night would never end. There's something I have to tell you... 
+
+B: What is it? 
+
+A: I woke up today thinking this would be just like any other ordinary day, but I was wrong. A twist of fate brought us together. I crashed into your life and you into mine, and this may sound crazy, but I'm falling in love with you, Monica.

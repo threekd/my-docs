@@ -21,6 +21,11 @@ config:
         details: 各种家常菜谱
         link: /Recipes/
       -
+        title: Musical Notation
+        icon: 📖
+        details: 半音阶口琴曲谱
+        link: /Harmonica/musical_notation.md
+      -
         title: IELTS Words
         icon: 📖
         details: 12 Days to Conquer IELTS Words
@@ -30,11 +35,6 @@ config:
         icon: 🚀
         details: Routine
         link: /Others/routine.md
-      -
-        title: Musical Notation
-        icon: 📖
-        details: 半音阶口琴曲谱
-        link: /Harmonica/musical_notation.md
       - 
         title: Linux Notes
         icon: 📝
