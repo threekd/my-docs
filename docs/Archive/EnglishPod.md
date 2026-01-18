@@ -586,15 +586,15 @@ A: Dad, I'd like to borrow some money.
 
 B: Sure, Johnny, how much do you need? five bucks? 
 
-A: Come on, Dad, I need thirty thousand. I wanna get into the market. You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses. I look at this as an opportunity. This is a chance for me to get a jump start on building my nest egg. 
+A: Come on, Dad, I need thirty thousand. I wanna get into the market. You know, I'm tired of hearing all this news about the economic downturn, the **inevitable** recession, people stuffing their money in their mattresses. I look at this as an opportunity. This is a chance for me to get a jump start on building my **nest egg**. 
 
-B: I don't know about that; with all the uncertainty in the markets right now, it would be a very unwise decision to invest. I don't know if you're aware son, but there has been a lot of turmoil in the markets recently. There have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact the economy. There's just too much instability. I wouldn't feel comfortable investing in this climate. 
+B: I don't know about that; with all the uncertainty in the markets right now, it would be a very unwise decision to invest. I don't know if you're aware son, but there has been a lot of **turmoil** in the markets recently. There have already been half a million layoffs in the last few months, and we have no idea how **the proposed stimulus package** will impact the economy. There's just too much instability. I wouldn't feel comfortable investing in this climate. 
 
-A: But look at it this way, every challenge is an opportunity. And anyway, I'm not talking about investing in the domestic market. There are emerging markets that promise great returns. Look at China, for example; they have 1.4 billion people, half a billion of whom have recently entered the middle class. Here alone, the aggregate demand for consumer goods presents an amazing wealth generating opportunity. 
+A: But look at it this way, every challenge is an opportunity. And anyway, I'm not talking about investing in the domestic market. There are **emerging** markets that promise great returns. Look at China, for example; they have 1.4 billion people, half a billion of whom have recently entered the middle class. Here alone, the **aggregate demand** for consumer goods presents an amazing wealth generating opportunity. 
 
 B: Come on, son, you're looking at this too naively, the Chinese market has exhibited a great deal of instability, and their currency has been devalued by almost a whole percentage point. 
 
-A: Fine, then! If that's the way you feel, so be it. But you're losing out on a great opportunity here. I'm going to go hit up Mum for the cash.
+A: Fine, then! If that's the way you feel, so be it. But you're losing out on a great opportunity here. I'm going to go **hit up** Mum for the cash.
 
 ---
 ### [30] Daily Life - New Guy in Town II
@@ -637,3 +637,61 @@ B: Sounds great. See you tomorrow.
 C: Angela... Angela, look up! See that lady over there who is trying on a red leather jacket? Isn't that Samantha? 
 
 B: What? No wonder she told me she couldn't make it to the meeting, oh, no, I think she saw me...
+
+---
+### [32] Daily Life - Opening a Bank Account
+A: Next, please. May I help you, sir? 
+
+B: Hello, yes, I'd like to open a bank account. 
+
+A: Certainly, I can can help you with that. What type of account would you like to open? A chequing or a savings account? 
+
+B: What features do they offer? 
+
+A: Well, if you just take a look here, see, with our chequing account, you can have unlimited daily transactions for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum balance of $ 10,000 dollars. 
+
+B: I see, well, I think I'm more interested in a chequing account; I like to have easy access to my money. 
+
+A: Alright, then, with this chequing account you'll be issued a debit card and a cheque book. Will you require overdraft protection? There is an extra fee for that. 
+
+B: No, that won't be necessary. 
+
+A: In that case, I'll get you to fill out this paperwork; I'll need your social insurance number, and two pieces of government ID. If you could just sign here, and here, and here; we'll be all set. Would you like to make a deposit today?
+
+---
+### Foul!
+A: Has the game started yet? 
+
+B: Yeah, about 5 minutes ago. 
+
+A: Who's winning? 
+
+B: The Bulls, of course! 
+
+A: What! That wasn't a foul! C'mon, ref! 
+
+B: Don't worry, Shaq always screws up free throws. 
+
+A: You were right! He didn't make the shot! 
+
+B: Yeah, That was a great shot! A three pointer, yeah! 
+
+A: Did you see that? He traveled and the ref didn't call it! 
+
+B: This ref needs glasses. Hey ref, open your eyes! I can't believe he didn't see that! 
+
+A: Okay... end of the first quarter... Alright, I'm gonna make a beer run.
+
+---
+### Upper-Intermediate-Live from Washington
+A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where, very shortly, the new President will deliver his inaugural address. Just moments ago, the President was sworn-in to office; following the United States Constitution the President swore an oath to faithfully execute the office of the presidency. 
+
+B: And what exactly is going on now, Madeline? 
+
+A: Well, Tom, true to American tradition, the band has just played "Hail to the Chief", and the President has been honored by a 21-gun salute. Now we're waiting for the President to take to the stage and deliver his speech. Tom, it's like a who's who of the political world here on Capital Hill, with dignitaries representing several different countries. 
+
+B: What's the mood on the ground like, Madeline? 
+
+A: In a word, the mood here is electric. The excitement in the air is palpable; I've never seen a larger crowd here on Capital Hill, and the audience is shouting, crying, and embracing each other. On this, a most historic day, you can feel the hope and the excitement in the air. The 20th of January will go down in history as the . ... Oh, Tom, it looks like the President is about to begin... 
+
+C: My fellow Americans, I stand before you today...

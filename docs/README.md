@@ -26,6 +26,11 @@ config:
         details: 半音阶口琴曲谱
         link: /Harmonica/musical_notation.md
       -
+        title: EnglishPod
+        icon: 🚀
+        details: EnglishPod
+        link: /Archive/EnglishPod.md
+      -
         title: IELTS Words
         icon: 📖
         details: 12 Days to Conquer IELTS Words
@@ -40,9 +45,4 @@ config:
         icon: 📝
         details: 常用Linux命令
         link: /Linux/commands
-      - 
-        title: EnglishPod
-        icon: 🚀
-        details: EnglishPod
-        link: /Archive/EnglishPod.md
 ---
