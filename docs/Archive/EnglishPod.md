@@ -622,15 +622,15 @@ A: Hello, Samantha speaking.
 
 B: Hi Samantha. This is Angela calling. 
 
-A: Oh, hi Angela, what's up? 
+A: Oh, hi Angela, **what's up**? 
 
-B: I'm just calling about our meeting today. I wonder, is it possible to reschedule our appointment in the afternoon? I have a bit of an emergency that I need to take care of. 
+B: I'm just calling about our meeting today. I wonder, is it possible to **reschedule** our appointment in the afternoon? I have a bit of an emergency that I need to take care of. 
 
 A: Let me see, it shouldn't be too much of a problem... 
 
-B: I'm really sorry, I hope it doesn't inconvenience you too much, it's just this thing came up, and ... 
+B: I'm really sorry, I hope it doesn't **inconvenience** you too much, it's just **this thing came up**, and ... 
 
-A: Angela, you know what, I can't make it to our meeting, either. Why don't we postpone it to tomorrow afternoon at the same time? 
+A: Angela, you know what, **I can't make it** to our meeting, either. Why don't we **postpone** it to tomorrow afternoon at the same time? 
 
 B: Sounds great. See you tomorrow. 
 
@@ -648,18 +648,20 @@ A: Certainly, I can can help you with that. What type of account would you like 
 
 B: What features do they offer? 
 
-A: Well, if you just take a look here, see, with our chequing account, you can have unlimited daily transactions for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum balance of $ 10,000 dollars. 
+A: Well, if you just take a look here, see, with our chequing account, you can have unlimited daily **transactions** for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum **balance** of $ 10,000 dollars. 
 
 B: I see, well, I think I'm more interested in a chequing account; I like to have easy access to my money. 
 
-A: Alright, then, with this chequing account you'll be issued a debit card and a cheque book. Will you require overdraft protection? There is an extra fee for that. 
+A: Alright, then, with this chequing account you'll be issued a debit card and a cheque book. Will you require **overdraft** protection? There is an extra fee for that. 
 
 B: No, that won't be necessary. 
 
-A: In that case, I'll get you to fill out this paperwork; I'll need your social insurance number, and two pieces of government ID. If you could just sign here, and here, and here; we'll be all set. Would you like to make a deposit today?
+A: In that case, **I'll get you to** fill out this paperwork; **I'll need your** social insurance number, and two pieces of government ID. **If you could just** sign here, and here, and here; we'll be all set. Would you like to make a deposit today?
+
+B: Yes, I'd like to deposit one billion dollars.
 
 ---
-### Foul!
+### [33] Foul!
 A: Has the game started yet? 
 
 B: Yeah, about 5 minutes ago. 
@@ -683,7 +685,7 @@ B: This ref needs glasses. Hey ref, open your eyes! I can't believe he didn't se
 A: Okay... end of the first quarter... Alright, I'm gonna make a beer run.
 
 ---
-### Upper-Intermediate-Live from Washington
+### [34] Upper-Intermediate-Live from Washington
 A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where, very shortly, the new President will deliver his inaugural address. Just moments ago, the President was sworn-in to office; following the United States Constitution the President swore an oath to faithfully execute the office of the presidency. 
 
 B: And what exactly is going on now, Madeline? 
