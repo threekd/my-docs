@@ -644,7 +644,7 @@ A: Next, please. May I help you, sir?
 
 B: Hello, yes, I'd like to open a bank account. 
 
-A: Certainly, I can can help you with that. What type of account would you like to open? A chequing or a savings account? 
+A: Certainly, I can help you with that. What type of account would you like to open? A chequing or a savings account? 
 
 B: What features do they offer? 
 
