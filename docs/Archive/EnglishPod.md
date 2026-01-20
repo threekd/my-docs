@@ -686,7 +686,7 @@ A: Okay... end of the first quarter... Alright, I'm gonna **make a beer run**.
 
 ---
 ### [34] Upper-Intermediate-Live from Washington
-A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where, very shortly, the new President will deliver his **inaugural address**. Just moments ago, the President was **sworn-in** to office; following the United States Constitution the President swore an **oath** to faithfully execute the office of the presidency. 
+A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where, very shortly, the new President will deliver his **inaugural address**. Just moments ago, the President was **sworn in** to office; following the United States Constitution the President swore an **oath** to faithfully execute the office of the presidency. 
 
 B: And what exactly is going on now, Madeline? 
 
