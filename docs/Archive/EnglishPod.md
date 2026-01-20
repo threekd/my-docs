@@ -670,30 +670,30 @@ A: Who's winning?
 
 B: The Bulls, of course! 
 
-A: What! That wasn't a foul! C'mon, ref! 
+A: What! That wasn't a **foul**! C'mon, **ref**! 
 
-B: Don't worry, Shaq always screws up free throws. 
+B: Don't worry, Shaq always **screws up** **free throws**. 
 
-A: You were right! He didn't make the shot! 
+A: You were right! He didn't **make the shot**! 
 
-B: Yeah, That was a great shot! A three pointer, yeah! 
+B: Yeah, That was a great shot! A **three pointer**, yeah! 
 
-A: Did you see that? He traveled and the ref didn't call it! 
+A: Did you see that? He **traveled** and the ref didn't call it! 
 
 B: This ref needs glasses. Hey ref, open your eyes! I can't believe he didn't see that! 
 
-A: Okay... end of the first quarter... Alright, I'm gonna make a beer run.
+A: Okay... end of the first quarter... Alright, I'm gonna **make a beer run**.
 
 ---
 ### [34] Upper-Intermediate-Live from Washington
-A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where, very shortly, the new President will deliver his inaugural address. Just moments ago, the President was sworn-in to office; following the United States Constitution the President swore an oath to faithfully execute the office of the presidency. 
+A: This is Madeline Wright, for BCC News reporting live from Washington D. C. where, very shortly, the new President will deliver his **inaugural address**. Just moments ago, the President was **sworn-in** to office; following the United States Constitution the President swore an **oath** to faithfully execute the office of the presidency. 
 
 B: And what exactly is going on now, Madeline? 
 
-A: Well, Tom, true to American tradition, the band has just played "Hail to the Chief", and the President has been honored by a 21-gun salute. Now we're waiting for the President to take to the stage and deliver his speech. Tom, it's like a who's who of the political world here on Capital Hill, with dignitaries representing several different countries. 
+A: Well, Tom, true to American tradition, the band has just played "Hail to the Chief", and the President has been honored by a 21-gun salute. Now we're waiting for the President to take to the stage and **deliver** his speech. Tom, it's like a **who's who** of the political world here on Capital Hill, with **dignitaries** representing several different countries. 
 
 B: What's the mood on the ground like, Madeline? 
 
-A: In a word, the mood here is electric. The excitement in the air is palpable; I've never seen a larger crowd here on Capital Hill, and the audience is shouting, crying, and embracing each other. On this, a most historic day, you can feel the hope and the excitement in the air. The 20th of January will go down in history as the . ... Oh, Tom, it looks like the President is about to begin... 
+A: **In a word**, the mood here is electric. The excitement in the air is **palpable**; I've never seen a larger crowd here on Capital Hill, and the audience is shouting, crying, and embracing each other. On this, a most historic day, you can feel the hope and the excitement in the air. The 20th of January will **go down in history** as the . ... Oh, Tom, it looks like the President is about to begin... 
 
-C: My fellow Americans, I stand before you today...
+C: **My fellow Americans**, I stand before you today...
