@@ -7,12 +7,10 @@ aside: true
 ---  
 
 ## English
-- EnglishPod - 2 dialogue (3 hours)
-- English Roots - 10 (30 minutes)
-- IELTS - 4 lists (1 hour)
+- EnglishPod - 2 dialogue (2 hours)
+- IELTS - 4 lists (0.5 hour)
 
 ## Harmonica
-- 3小节乐理课
 - 练习半小时
 
 ## Exercise

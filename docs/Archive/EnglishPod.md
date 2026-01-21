@@ -617,6 +617,8 @@ A: Oh Oh Armand! You are too kind!
 B: How did I get myself into this...
 
 ---
+## P31-40
+
 ### [31] Canceling an Appointment
 A: Hello, Samantha speaking. 
 
@@ -697,3 +699,369 @@ B: What's the mood on the ground like, Madeline?
 A: **In a word**, the mood here is electric. The excitement in the air is **palpable**; I've never seen a larger crowd here on Capital Hill, and the audience is shouting, crying, and embracing each other. On this, a most historic day, you can feel the hope and the excitement in the air. The 20th of January will **go down in history** as the . ... Oh, Tom, it looks like the President is about to begin... 
 
 C: **My fellow Americans**, I stand before you today...
+
+---
+### [35] Daily Life - He's not a Good Fit!
+A: So, Lauren, I just wanted to talk to you quickly about our new customer support representative, Jason Huntley. 
+
+B: Sure, what's up? 
+
+A: Basically, I've got a few concerns about him, and **the bottom line** is, I don't think he's **a good fit** for our company. 
+
+B: Okay... what makes you say that? I thought you were pleased with his **overall** **performance**. Didn't you just tell me last week how impressed you were with his attitude? 
+
+A: Yeah, his attitude is great, but he's really **unreliable**. Sometimes he's really **productive**, but then other times... take last Tuesday for instance, he was forty-five minutes late for our morning meeting! 
+
+B: Well, I'm sure he had a **perfectly good** reason... 
+
+A: But that's not the only thing... you know, he really doesn't have the best **work ethic**, I'm constantly catching him on MSN and Facebook when he should be talking to clients. 
+
+B: Yeah, but come on, Geoff, as if you don't check Facebook at work. Look, you hired this guy, we've invested a lot of time and money in his training, so now it's up to you to **coach** him. Make it work, Geoff! 
+
+A: Make it work, Geoff. You would say that, wouldn't you, he is your cousin; what a jerk, make me hire your stupid, useless, cousin.
+
+---
+### [36] I'm Sorry, I Love You III
+A: Steven! Where have you been? I've been trying to **get a hold** of you for hours! 
+
+B: I... um... there was an emergency at work, so... 
+
+A: I was waiting for you in the restaurant for three hours! And you didn't even have the decency to call me! **Do you have any idea** how embarrassed I was? 
+
+B: Honey, I promise this won't happen again, it's just that I... 
+
+A: Yeah, right. I've heard it all before. I'm not going to take any more of your empty promises. This is the 5th time you've **stood me up** in two weeks! You need to get your **priorities** straight. I'm tired of you putting your job first all the time! 
+
+B: Come on, Veronica, that's not fair. I do care about you a lot, you know that. I tried to ... 
+
+A: You know what? Maybe we should just **take a break**. I need some time to think about where this relationship is **heading**. 
+
+B: But... Veronica, would you just listen to me? There was a fire alarm at my office building today and I was stuck...
+
+---
+### [37] Intermediate - Chinese New Year
+A: I'm so excited about Chinese New Year! When do I get to visit Grandma? Grandma makes the best dumplings in the world! 
+
+B: Ha ha, right. Sounds to me like you're more excited about the dumplings than seeing your Grandma. 
+
+A: Of course I miss Grandma, too. I bet she's gonna teach me how to play Mahjong! Hey, Dad, are you going to buy me firecrackers this year? We're going to have the best fireworks! I'm really looking forward to lighting them! 
+
+B: Son, firecrackers aren't toys; they're dangerous! 
+
+A: No, fireworks are awesome! 
+
+B: Whoa, don't you remember? Last year when I set off the firecrackers, you covered both your ears and hid behind your mother? 
+
+A: Dad! I was scared because... because I saw a bug. That's all. 
+
+B: Hahaha... really? 
+
+A: Oh, and I can't wait to watch the dragon dance! Dad, can I sit on your shoulders this time? 
+
+B: Hey, I offered last year... 
+
+A: Well, I... anyways, I was just thinking of the red envelopes. I wanna make a list of all the things I'm gonna buy with my red envelope money! I can't wait! I'm gonna have so much money! Mom, can I get a pen and a piece of paper? I want a new transformer, no, two transformers... the Optimus Prime, and... maybe the wheel jack? I'll get a PSP game, hahaha, and I'll buy the entire class lunch at MacDonald's...
+
+---
+### [38] Daily Life - Buying a Car
+A: Hi there, can I help you folks? 
+
+B: I'm just browsing; seeing what's on the lot. My daughter wants a car for her birthday, you know how it is. 
+
+C: Dad! I'm sixteen already and I'm, like, the only one at school who doesn't have a car! 
+
+A: She is right, you know. Kids these days all have cars. Let me show you something we just got in: a 1996 sedan. Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver. 
+
+C: Dad, I love it! It's awesome! Can we get this one please? 
+
+B: I see... What can you tell me about this one? 
+
+A: Oh, that's just an old World War Two tank that we use for TV commercials. Now about this sedan... 
+
+B: Whoa, whoa wait a minute. Tell me more about this tank. 
+
+A: Well, Sir, if you are looking for quality and safety then look no further! Three inches of reinforced steel protect your daughter from short range missile attacks. 
+
+B: Does the sedan protect her from missile attacks? 
+
+A: It does not. 
+
+B: Well, I don't know. Let me sleep on it. 
+
+A: Did I mention the tank is a tank? 
+
+B: I'll take it! 
+
+C: Dad!
+
+---
+### [39] Me New Boyfriend
+A: Irene! I heard you were on a date last night! So, how how did it go? I want all the juicy details! 
+
+B: Um... well, actually, we had a fantastic time last night. He was... amazing! 
+
+A: Okay, now you really have to fill me in. What's he like? 
+
+B: He's really good looking; he's quite tall, around 6'1", he's in his early thirties, and he's got the most beautiful dark brown eyes... 
+
+A: He sounds hot! What does he do for a living? 
+
+B: You know what, this is the best part. David is a junior investment banker at Fortune Bank, so he's got a great career path ahead of him! 
+
+A: Hold on a sec, his name is David? 
+
+B: Yeah? 
+
+A: That's my brother!
+
+---
+### [40] Can I ask you a favor?
+A: Um, sorry to bother you, um... my name is Rachel. I'm new here. Can I ask you a favor? 
+
+B: Hi Rachel, welcome on board. I'm afraid I can't help you right now. I'm getting ready for a very important meeting. 
+
+A: Excuse me, but can I bother you for a sec? 
+
+C: You know what, I'd love to help you, but I'm about to meet an important client. Do you wanna try Sean instead? He sits right over there. 
+
+A: Sorry to interrupt you Sean, could you do me a quick favor? 
+
+D: Actually, I'm working on a document that is due in a couple minutes. I really can't talk to you right now. Sorry about that.
+
+---
+## P41-60
+### [41] The Weekend - Movie Trailer
+A: In a digital world, even the strongest must fight for survival. Two people, possess a secret so valuable, so powerful, they have to defend it at all costs. 
+
+B: I don't care where they are, I don't care what it takes... you find them and bring them to me! 
+
+A: They only had one chance! And their chance was to fight back! 
+
+D: You wanna play rough? Okay, say hello to my little friend! 
+
+A: With a little help from a Governor... 
+
+C: Listen to me! We have to get them outta there! No matter what! 
+
+A: Nothing will prevent them from doing their job! Double the action. 
+
+D: Get down! 
+
+A: Triple the excitement. 
+
+D: Get down again! 
+
+A: This summer... nothing will stand in their way. 
+
+B: I'm going to make him an offer he can't refuse. 
+
+A: Two hosts, one podcast, coming to a theater near you.
+
+---
+### [42] I Need More Time
+A: So, Casey, how are things going with the photos for the press kit? 
+
+B: Yeah, I've been meaning to talk to you about that. I might need to ask for an extension on that deadline. 
+
+A: You've had over a month to get this finalized! Why are things delayed? 
+
+B: Well, the thing is, we ran into a lot of problems... 
+
+A: I'm not looking for excuses here. I just want to get this finished on time! 
+
+B: I know, and I apologize for the delay. But some things were just beyond my control. I had trouble booking the photographer, and then Michael was sick for three weeks, so I couldn't include him in the photos, and the design team lost all the files, so I had to re-do the pictures. 
+
+A: I'm not going to put this off any longer, Casey! I want those photos ASAP!
+
+---
+### [43] Daily Life - Applying for a Visa
+A: So, you're applying for a B2 visa, where is your final destination and what's the purpose of your trip to the United States? 
+
+B: I'm going to visit my brother; he's just had a baby. He lives in Minneapolis. 
+
+A: And how long do you you plan to remain in the United States? 
+
+B: I'll be here for approximately three weeks. See, here's my return ticket for the twenty-sixth of March. 
+
+A: And, who is sponsoring your trip? 
+
+B: My brother, here, this is an invitation letter from him. I will stay with him and his family in their home. 
+
+A: Alright, tell me about the ties you have to your home country. 
+
+B: Well, I own a house; actually, I'm leaving my dog there with my neighbors. I have a car at home, and oh, my job! I'm employed by Tornel as an engineer. Actually, I only have three weeks' vacation, so I have to go back to work at the end of March. 
+
+A: And what evidence do you have that you are financially independent? 
+
+B: Well, I do have assets in my country; like I said, I own a house, and see, here's a bank statement showing my investments, and my bank balance. 
+
+A: I'm sorry, sir, we cannot grant you a B2 visa at this time, instead, you are granted a resident visa! Congratulations, you are the millionth person to apply for a visa! You win! Congratulations!
+
+---
+### [44] Small Talk
+A: Morning. 
+
+B: Hi there Mr. Anderson! How are you on this fine morning? 
+
+A: Fine, thank you. 
+
+B: It sure is cold this morning, isn't it? I barely even get out of bed! 
+
+A: Yeah. It's pretty cold, alright. 
+
+B: Did you catch the news this morning? I heard that there was a fire on Byron Street. 
+
+A: No, I didn't hear about that. 
+
+B: Did you happen to watch the football game last night? The Patriots scored in the last minute! 
+
+A: No, I don't like football. 
+
+B: Oh... By the way, I saw you with your daughter at the office Christmas party. She is really beautiful! 
+
+A: She's my wife! Oh, here's my floor! Nice talking to you. Goodbye. 
+
+B: Sir this is the 56th floor! We are on the 70th! 
+
+A: That's okay, I'll take the stairs!
+
+---
+### [45] Intermediate - I'm Sorry I love You IV
+A: ... so, I said, "let's take a break ." And since that night, I've been waiting for him to call, but I still haven't heard from him. You don't think he's seeing someone else, do you? ... 
+
+B: Come on, don't be so dramatic! I'm sure everything is going to work out just fine. 
+
+A: You think so? Oh, no! How can he do this to me? I'm sure he's cheating on me! Why else wouldn't he call? 
+
+B: But, you two are on a break. Theoretically he can do whatever he likes. 
+
+A: He's the love of my life! I've really messed this up. 
+
+B: Come on, hon. Pull yourself together. It's going to be alright. 
+
+A: But I... I still love him! And it's all my fault! I can't believe how immature and selfish I was being. I mean, he is a firefighter, it's not like he can just leave someone in a burning building and meet me for dinner. I've totally messed this up! 
+
+B: You know what, Veronica, I think you should make the first step. I'm sure he'll forgive you... 
+
+A: No, this is not gonna happen! I... I've ruined everything... 
+
+B: Hey... do you hear something? Guess what? It's your lovely firefighter! 
+
+C: When I had you, I treated you bad and wrong dear. And since, since you went away, don't you know I sit around with my head hanging down and I wonder who's loving you.
+
+---
+### [46] Emergency Room
+A: Help! Are you a doctor? My poor little Frankie has stopped breathing! Oh my gosh, Help me! I tried to perform CPR, but I just don't know if I could get any air into his lungs! Oh, Frankie! 
+
+B: Ellen, get him hooked up to a monitor! Someone page Dr. Howser. Get the patient to hold still, I can't get a pulse! Okay, he's on the monitor. His BP is falling! He's flatlining! 
+
+A: NOOOOOO! Frankie! Doctor! Do something! 
+
+B: Someone get her out of here! Get me the defibrillator. Okay, clear! Again! Clear! Come on! dammit! I'm not letting you go! Clear! I've got a pulse! 
+
+C: Okay, what's happening? 
+
+B: The patient is in acute respiratory failure, I think were going to have to intubate! 
+
+C: Alright! Tubes in! Bag him! Someone give him 10 cc's of adrenaline! Let's go, people move, move! 
+
+A: Doctor, oh, thank god! How is he? 
+
+B: We managed to stabilize Frankie, but hes not out of the woods yet; he's still in critical condition. 
+Were moving him to intensive care, but.... 
+
+A: Doctor, just do whatever it takes. I just want my little Frankie to be okay. I couldn't imagine life without my little hamster!
+
+---
+### [47] Just In Time Strategy
+A: I called this meeting today in order to discuss our manufacturing plan. As I'm sure you're all aware, with the credit crunch, and the global financial crisis, we're obligated to look for more cost efficient ways of producing our goods. We don't want to have to be looking at redundancies. So, we've outlined a brief plan to implement the just-in-time philosophy. 
+
+B: We have two basic points that we want to focus on. First of all, we want to reduce our lead time. 
+
+C: Why would want to do that? I think this is not an area that really needs to be worked on. 
+
+B: Well, we want to reduce production and delivery lead times for better overall efficiency. 
+
+A: Right, production lead times can be reduced by moving work stations closer together, reducing queue length, like for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes. Delivery lead times can be reduced through close cooperation with suppliers, possibly by inducing suppliers to locate closer to the factory or working with a faster shipping company. 
+
+C: I see... That makes sense. 
+
+B: The second point is that we want to require supplier quality assurance and implement a zero defects quality program. We currently have far too many errors that lead to defective items and therefore, they must be eliminated. A quality control at the source program must be implemented to give workers the personal responsibility for the quality of the work they do, and the authority to stop production when something goes wrong. 
+
+C: I'm with you on this one. It's essential that we reduce these errors; we've got to force our suppliers to reduce their mistakes. 
+
+A: Exactly. Well, let's look at how we're going to put this plan into action. First... (fade out)
+
+---
+### [48] Intermediate - Carnical in Rio!
+A: I can't believe we're here! Carnival in Rio! Seriously, this is like a once in a lifetime opportunity! Can you believe it? We're here at the biggest party in the world! 
+
+B: I know! We're so lucky that we found tickets for the Sambadrome! Good thing we found that ticket scalper. 
+
+A: Look! It's starting! Wow, this is amazing! Look at how many dancers there are. Oh my gosh! The costumes are so colorful! This is so cool! 
+
+B: It says here that the school that is dancing now is one of the oldest and most prestigious samba schools in Rio. 
+
+A: No kidding! Look at them, they're amazing! Look at that girl on the top of that float! She must be the carnival queen! Move over there so I can get a picture of you! 
+
+B: Ok. Hurry up take the picture! 
+
+C: join us! come and dance! 
+
+B: Oh really... no I can't. No really, I don't know how to dance! Honey I'll see you later! 
+
+A: Patrick! Don't just leave me here!
+
+---
+### [49] Daily Life - Daddy Please!
+A: Hey daddy! You look great today; I like your tie! By the way, I was wondering can I... 
+
+B: NO! 
+
+A: I haven't even told you what it is yet! 
+
+B: Okay, okay, what do you want? 
+
+A: Do you think I could borrow the car? I'm going to a concert tonight. 
+
+B: Um... I don't think so. I need the car tonight to pick up your mother. 
+
+A: Ugg! I told you about it last week! Smelly Toes is playing, and Eric asked if I would go with him! 
+
+B: Who's this Eric guy? 
+
+A: Duh! He's like the hottest and most popular guy at school! Come on, dad! Please! 
+
+B: No can do... sorry. 
+
+A: Fine then! Would you mind giving me 100 bucks? 
+
+B: No way! 
+
+A: That's so unfair!
+
+---
+### [50] Daily Life - New Guy In Town III
+A: Please make yourselves at home. Let me take your coats. Dinner is almost ready; I hope you brought your appetite. 
+
+B: Your house is lovely, Armand! Very interesting decor... very... Gothic. 
+
+C: I think it's amazing! You have such good taste, Armand. I'm thinking of re-decorating my house; maybe you could give me a few pointers? 
+
+A: It would be my pleasure. Please have a seat. Can I offer you a glass of wine? 
+
+C: We would love some! 
+
+A: Here you are. A very special merlot brought directly from my home country. It has a unique ingredient which gives it a pleasant aroma and superior flavor. 
+
+C: Mmm... it's delicious! 
+
+B: It's a bit bitter for my taste... almost tastes like... like... 
+
+C: Ellen! Ellen! Are you okay? 
+
+A: Did she pass out? 
+
+C: Yeah... 
+
+A: I hope that you didn't poison her drink too much! You'll ruin our meal!
