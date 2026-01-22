@@ -740,15 +740,15 @@ B: But... Veronica, would you just listen to me? There was a fire alarm at my of
 
 ---
 ### [37] Intermediate - Chinese New Year
-A: I'm so excited about Chinese New Year! When do I get to visit Grandma? Grandma makes the best dumplings in the world! 
+A: **I'm so excited about** Chinese New Year! When do I get to visit Grandma? Grandma makes the best **dumplings** in the world! 
 
 B: Ha ha, right. Sounds to me like you're more excited about the dumplings than seeing your Grandma. 
 
-A: Of course I miss Grandma, too. I bet she's gonna teach me how to play Mahjong! Hey, Dad, are you going to buy me firecrackers this year? We're going to have the best fireworks! I'm really looking forward to lighting them! 
+A: Of course I miss Grandma, too. **I bet** she's gonna teach me how to play Mahjong! Hey, Dad, are you going to buy me **firecrackers** this year? We're going to have the best fireworks! **I'm really looking forward to** lighting them! 
 
 B: Son, firecrackers aren't toys; they're dangerous! 
 
-A: No, fireworks are awesome! 
+A: No, **fireworks** are awesome! 
 
 B: Whoa, don't you remember? Last year when I set off the firecrackers, you covered both your ears and hid behind your mother? 
 
@@ -756,7 +756,7 @@ A: Dad! I was scared because... because I saw a bug. That's all.
 
 B: Hahaha... really? 
 
-A: Oh, and I can't wait to watch the dragon dance! Dad, can I sit on your shoulders this time? 
+A: Oh, and **I can't wait** to watch the dragon dance! Dad, can I sit on your shoulders this time? 
 
 B: Hey, I offered last year... 
 
