@@ -796,7 +796,7 @@ C: Dad!
 
 ---
 ### [39] Me New Boyfriend
-A: Irene! I **heard** you were on a date last night! So, how how did it go? I want all the juicy details! 
+A: Irene! I **heard** you were on a date last night! So, how did it go? I want all the juicy details! 
 
 B: Um... well, actually, we had a fantastic time last night. He was... amazing! 
 
@@ -816,7 +816,7 @@ A: That's my brother!
 
 ---
 ### [40] Can I ask you a favor?
-A: Um, **sorry to bother you**, um... my name is Rachel. I'm new here. Can I ask you a favor? 
+A: Um, **sorry to bother you**, um... my name is Rachel. I'm new here. Can I ask you for a favor? 
 
 B: Hi Rachel, welcome **on board**. I'm afraid I can't help you right now. I'm getting ready for a very important meeting. 
 
