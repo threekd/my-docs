@@ -796,17 +796,17 @@ C: Dad!
 
 ---
 ### [39] Me New Boyfriend
-A: Irene! I heard you were on a date last night! So, how how did it go? I want all the juicy details! 
+A: Irene! I **heard** you were on a date last night! So, how how did it go? I want all the juicy details! 
 
 B: Um... well, actually, we had a fantastic time last night. He was... amazing! 
 
-A: Okay, now you really have to fill me in. What's he like? 
+A: Okay, now you really have to **fill me in**. What's he like? 
 
-B: He's really good looking; he's quite tall, around 6'1", he's in his early thirties, and he's got the most beautiful dark brown eyes... 
+B: He's really **good looking**; he's quite tall, around 6'1", he's in his **early thirties**, and he's got the most beautiful dark brown eyes... 
 
-A: He sounds hot! What does he do for a living? 
+A: He sounds **hot**! What does he do for a living? 
 
-B: You know what, this is the best part. David is a junior investment banker at Fortune Bank, so he's got a great career path ahead of him! 
+B: You know what, this is the best part. David is a junior investment banker at Fortune Bank, so he's got a great **career path** ahead of him! 
 
 A: Hold on a sec, his name is David? 
 
@@ -816,17 +816,19 @@ A: That's my brother!
 
 ---
 ### [40] Can I ask you a favor?
-A: Um, sorry to bother you, um... my name is Rachel. I'm new here. Can I ask you a favor? 
+A: Um, **sorry to bother you**, um... my name is Rachel. I'm new here. Can I ask you a favor? 
 
-B: Hi Rachel, welcome on board. I'm afraid I can't help you right now. I'm getting ready for a very important meeting. 
+B: Hi Rachel, welcome **on board**. I'm afraid I can't help you right now. I'm getting ready for a very important meeting. 
 
 A: Excuse me, but can I bother you for a sec? 
 
-C: You know what, I'd love to help you, but I'm about to meet an important client. Do you wanna try Sean instead? He sits right over there. 
+C: You know what, I'd love to help you, but I'm **about to** meet an important client. Do you wanna try Sean **instead**? He sits right over there. 
 
-A: Sorry to interrupt you Sean, could you do me a quick favor? 
+A: Sorry to **interrupt** you Sean, could you do me a quick favor? 
 
 D: Actually, I'm working on a document that is due in a couple minutes. I really can't talk to you right now. Sorry about that.
+
+A: Geez, I just want to know where the bathroom is. What's wrong with you people? 
 
 ---
 ## P41-50
