@@ -832,6 +832,7 @@ A: Geez, I just want to know where the bathroom is. What's wrong with you people
 
 ---
 ## P41-50
+
 ### [41] The Weekend - Movie Trailer
 A: In a digital world, even the strongest must fight for survival. Two people, possess a secret so valuable, so powerful, they have to defend it at all costs. 
 
@@ -861,19 +862,19 @@ A: Two hosts, one podcast, coming to a theater near you.
 
 ---
 ### [42] I Need More Time
-A: So, Casey, how are things going with the photos for the press kit? 
+A: So, Casey, how are things going with the photos for the **press kit**? 
 
-B: Yeah, I've been meaning to talk to you about that. I might need to ask for an extension on that deadline. 
+B: Yeah, **I've been meaning to** talk to you about that. I might need to ask for an **extension** on that **deadline**. 
 
-A: You've had over a month to get this finalized! Why are things delayed? 
+A: You've had over a month to get this finalized! Why are things **delayed**? 
 
-B: Well, the thing is, we ran into a lot of problems... 
+B: Well, the thing is, we **ran into** a lot of problems... 
 
 A: I'm not looking for excuses here. I just want to get this finished on time! 
 
-B: I know, and I apologize for the delay. But some things were just beyond my control. I had trouble booking the photographer, and then Michael was sick for three weeks, so I couldn't include him in the photos, and the design team lost all the files, so I had to re-do the pictures. 
+B: I know, and I apologize for the delay. But some things were just **beyond my control**. I had trouble booking the photographer, and then Michael was sick for three weeks, so I couldn't include him in the photos, and the design team lost all the files, so I had to re-do the pictures. 
 
-A: I'm not going to put this off any longer, Casey! I want those photos ASAP!
+A: I'm not going to **put this off** any longer, Casey! I want those photos ASAP!
 
 ---
 ### [43] Daily Life - Applying for a Visa
@@ -885,19 +886,21 @@ A: And how long do you you plan to remain in the United States?
 
 B: I'll be here for approximately three weeks. See, here's my return ticket for the twenty-sixth of March. 
 
-A: And, who is sponsoring your trip? 
+A: And, who is **sponsoring** your trip? 
 
-B: My brother, here, this is an invitation letter from him. I will stay with him and his family in their home. 
+B: My brother, here, this is an **invitation letter** from him. I will stay with him and his family in their home. 
 
-A: Alright, tell me about the ties you have to your home country. 
+A: Alright, tell me about the **ties** you have to your home country. 
 
 B: Well, I own a house; actually, I'm leaving my dog there with my neighbors. I have a car at home, and oh, my job! I'm employed by Tornel as an engineer. Actually, I only have three weeks' vacation, so I have to go back to work at the end of March. 
 
 A: And what evidence do you have that you are financially independent? 
 
-B: Well, I do have assets in my country; like I said, I own a house, and see, here's a bank statement showing my investments, and my bank balance. 
+B: Well, I do have **assets** in my country; like I said, I own a house, and see, here's a bank statement showing my investments, and my bank balance. 
 
 A: I'm sorry, sir, we cannot grant you a B2 visa at this time, instead, you are granted a resident visa! Congratulations, you are the millionth person to apply for a visa! You win! Congratulations!
+
+B: Yay!
 
 ---
 ### [44] Small Talk
