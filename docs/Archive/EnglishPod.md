@@ -910,49 +910,47 @@ B: Hi there Mr. Anderson! How are you on this fine morning?
 
 A: Fine, thank you. 
 
-B: It sure is cold this morning, isn't it? I barely even get out of bed! 
+B: **It sure is cold** this morning, isn't it? I **barely even** get out of bed! 
 
-A: Yeah. It's pretty cold, alright. 
+A: Yeah. It's **pretty cold, alright**. 
 
-B: Did you catch the news this morning? I heard that there was a fire on Byron Street. 
+B: Did you **catch** the news this morning? I heard that there was a fire on Byron Street. 
 
 A: No, I didn't hear about that. 
 
-B: Did you happen to watch the football game last night? The Patriots scored in the last minute! 
+B: **Did you happen to** watch the football game last night? The Patriots scored in the last minute! 
 
 A: No, I don't like football. 
 
-B: Oh... By the way, I saw you with your daughter at the office Christmas party. She is really beautiful! 
+B: Oh... **By the way**, I saw you with your daughter at the office Christmas party. She is really beautiful! 
 
 A: She's my wife! Oh, here's my floor! Nice talking to you. Goodbye. 
 
 B: Sir this is the 56th floor! We are on the 70th! 
 
-A: That's okay, I'll take the stairs!
+A: That's okay, I'll **take the stairs**!
 
 ---
 ### [45] Intermediate - I'm Sorry I love You IV
-A: ... so, I said, "let's take a break ." And since that night, I've been waiting for him to call, but I still haven't heard from him. You don't think he's seeing someone else, do you? ... 
+A: ... so, I said, "let's **take a break** ." And since that night, I've been waiting for him to call, but I still haven't heard from him. You don't think he's **seeing someone** else, do you? ... 
 
-B: Come on, don't be so dramatic! I'm sure everything is going to work out just fine. 
+B: Come on, don't be so dramatic! I'm sure **everything is going to work out just fine**. 
 
-A: You think so? Oh, no! How can he do this to me? I'm sure he's cheating on me! Why else wouldn't he call? 
+A: You think so? Oh, no! How can he do this to me? I'm sure he's **cheating on** me! Why else wouldn't he call? 
 
 B: But, you two are on a break. Theoretically he can do whatever he likes. 
 
-A: He's the love of my life! I've really messed this up. 
+A: He's the love of my life! I've really **messed this up**. 
 
-B: Come on, hon. Pull yourself together. It's going to be alright. 
+B: Come on, hon. **Pull yourself together**. **It's going to be alright**. 
 
-A: But I... I still love him! And it's all my fault! I can't believe how immature and selfish I was being. I mean, he is a firefighter, it's not like he can just leave someone in a burning building and meet me for dinner. I've totally messed this up! 
+A: But I... I still love him! And it's all my fault! I can't believe how **immature** and **selfish** I was being. I mean, he is a firefighter, it's not like he can just leave someone in a burning building and meet me for dinner. I've totally messed this up! 
 
 B: You know what, Veronica, I think you should make the first step. I'm sure he'll forgive you... 
 
 A: No, this is not gonna happen! I... I've ruined everything... 
 
 B: Hey... do you hear something? Guess what? It's your lovely firefighter! 
-
-C: When I had you, I treated you bad and wrong dear. And since, since you went away, don't you know I sit around with my head hanging down and I wonder who's loving you.
 
 ---
 ### [46] Emergency Room
