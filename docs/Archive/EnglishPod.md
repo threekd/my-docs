@@ -997,15 +997,15 @@ A: Exactly. Well, let's look at how we're going to put this plan into action. Fi
 
 ---
 ### [48] Intermediate - Carnical in Rio!
-A: I can't believe we're here! Carnival in Rio! Seriously, this is like a once in a lifetime opportunity! Can you believe it? We're here at the biggest party in the world! 
+A: I can't believe we're here! Carnival in Rio! Seriously, this is like a **once in a lifetime** opportunity! Can you believe it? We're here at the biggest party in the world! 
 
-B: I know! We're so lucky that we found tickets for the Sambadrome! Good thing we found that ticket scalper. 
+B: I know! We're so lucky that we found tickets for the **Sambadrome**! **Good thing** we found that **ticket scalper**. 
 
 A: Look! It's starting! Wow, this is amazing! Look at how many dancers there are. Oh my gosh! The costumes are so colorful! This is so cool! 
+ 
+B: It says here that the school that is dancing now is one of the oldest and most **prestigious** samba schools in Rio. 
 
-B: It says here that the school that is dancing now is one of the oldest and most prestigious samba schools in Rio. 
-
-A: No kidding! Look at them, they're amazing! Look at that girl on the top of that float! She must be the carnival queen! Move over there so I can get a picture of you! 
+A: **No kidding**! Look at them, they're amazing! Look at that girl on the top of that **float**! She must be the carnival queen! Move over there so I can get a picture of you! 
 
 B: Ok. Hurry up take the picture! 
 
@@ -1017,7 +1017,7 @@ A: Patrick! Don't just leave me here!
 
 ---
 ### [49] Daily Life - Daddy Please!
-A: Hey daddy! You look great today; I like your tie! By the way, I was wondering can I... 
+A: Hey daddy! You look great today; I like your tie! By the way, **I was wondering** can I... 
 
 B: NO! 
 
@@ -1025,7 +1025,7 @@ A: I haven't even told you what it is yet!
 
 B: Okay, okay, what do you want? 
 
-A: Do you think I could borrow the car? I'm going to a concert tonight. 
+A: **Do you think I could** borrow the car? I'm going to a **concert** tonight. 
 
 B: Um... I don't think so. I need the car tonight to pick up your mother. 
 
@@ -1033,11 +1033,11 @@ A: Ugg! I told you about it last week! Smelly Toes is playing, and Eric asked if
 
 B: Who's this Eric guy? 
 
-A: Duh! He's like the hottest and most popular guy at school! Come on, dad! Please! 
+A: Duh! He's like the **hottest** and **most popular** guy at school! Come on, dad! Please! 
 
 B: No can do... sorry. 
 
-A: Fine then! Would you mind giving me 100 bucks? 
+A: **Fine then**! **Would you mind** giving me 100 bucks? 
 
 B: No way! 
 
