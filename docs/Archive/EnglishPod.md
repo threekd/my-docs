@@ -9,19 +9,19 @@ B: No, **I'm still working on it**. This menu is not even in English. What's goo
 
 A: For you sir, I would recommend spaghetti and meatballs.
 
-A: Does it come with **coke and fries**?
+B: Does it come with **coke and fries**?
 
-B:It comes with either soup or salad and a **complimentary** glass of wine, Sir.
+A:It comes with either soup or salad and a **complimentary** glass of wine, Sir.
 
-A: **I'll go with** the spaghetti and meatballs, salad and the wine.
+B: **I'll go with** the spaghetti and meatballs, salad and the wine.
 
-B: Excellent choice, your order will be ready soon.
+A: Excellent choice, your order will be ready soon.
 
-A: How soon is soon?  
+B: How soon is soon?  
 
-B: Twenty minutes?
+A: Twenty minutes?
 
-A: You know what? I'll just go **grab** a burger across the street.  
+B: You know what? I'll just go **grab** a burger across the street.  
 
 ---
 ### [2] Calling In Sick
