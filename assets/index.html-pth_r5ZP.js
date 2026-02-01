@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-D-lHaXc5.js";const c={};function n(r,s){return a(),t("div")}const i=e(c,[["render",n]]),l=JSON.parse('{"path":"/Recipes/","title":"Recipes","lang":"en-US","frontmatter":{"lang":"en-US","title":"Recipes","draft":true},"git":{},"filePathRelative":null,"headers":[],"type":"posts"}');export{i as comp,l as data};
