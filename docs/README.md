@@ -30,19 +30,5 @@ config:
         icon: 🚀
         details: EnglishPod
         link: /English/EnglishPod/EnglishPod_1-50.md
-      -
-        title: IELTS Words
-        icon: 📖
-        details: 12 Days to Conquer IELTS Words
-        link: /Others/ielts.md
-      -
-        title: Routine
-        icon: 🚀
-        details: Routine
-        link: /Others/routine.md
-      - 
-        title: Linux Notes
-        icon: 📝
-        details: 常用Linux命令
-        link: /Linux/commands
+
 ---
