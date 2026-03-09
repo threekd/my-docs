@@ -29,7 +29,7 @@ config:
         title: EnglishPod
         icon: 🚀
         details: EnglishPod
-        link: /Archive/EnglishPod.md
+        link: /English/EnglishPod/EnglishPod_1-50.md
       -
         title: IELTS Words
         icon: 📖

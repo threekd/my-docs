@@ -65,9 +65,18 @@ const themePlume = defineCollection({
   sidebar: 'auto',
 })
 
+const EnglishPod = defineCollection({
+  type: 'doc',
+  dir: 'English/EnglishPod',
+  title: 'EnglishPod',
+  linkPrefix: '/English/EnglishPod/',
+  sidebar: 'auto',
+})
+
 export default defineCollection([
   recipes,
   linux,
   lobehub,
   themePlume,
+  EnglishPod,
 ])

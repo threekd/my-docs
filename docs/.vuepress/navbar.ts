@@ -34,7 +34,7 @@ export default defineNavbarConfig([
       { text: 'Routine', link: '/Others/routine.md' },
       { text: 'resume_di', link: '/Others/resume_di.md'},
       { text: '12 Days to Conquer IELTS Words', link: '/Others/ielts.md'},
-      { text: 'English Roots by LPW', link: '/Archive/EnglishRoots_LPW.md'},
+      { text: 'English Roots by LPW', link: '/English/EnglishRoots_LPW.md'},
     ],
   },
 ])
