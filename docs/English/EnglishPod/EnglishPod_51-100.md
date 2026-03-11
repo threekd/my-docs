@@ -79,28 +79,28 @@ A: Good afternoon. May I help you?
 
 B: Yes, I'm here to see Joanna Stevens. I have an appointment at four. 
 
-A: Certainly, may I take your name? I'll let her know you've arrived. 
+A: **Certainly**, **may I take your name**? I'll let her know you've arrived. 
 
 B: Sure, it's Josh O'Neil. 
 
-A: Ms. Stevens will be with you momentarily. Can I offer you something to drink? 
+A: Ms. Stevens **will be with you momentarily**. Can I offer you something to drink? 
 
 B: Yes, a coffee would be nice, thank you. 
 
-A: Here you are. Ms. Stevens is ready for you now. I'll show you to her office, right this way. 
+A: Here you are. Ms. Stevens is ready for you now. **I'll show you to her office**, right this way. 
 
-A: Just watch your step here...
+A: Just **watch your step** here...
 
 ### [64] Daily Life - I'm Sorry I Love You VI
-A: This is ridiculous! I can't believe you've been sleeping with someone else! How could you do this! You know what? I'm out of here! 
+A: This is ridiculous! I can't believe you've been **sleeping with** someone else! How could you do this! You know what? I'm out of here! 
 
 B: Wait! Doctor how is this possible? I haven't cheated on my boyfriend! 
 
-C: I have something to confess... I'm sorry Veronica, I lied. 
+C: I have something to **confess**... I'm sorry Veronica, I lied. 
 
 B: Wait... what? What do do you mean? 
 
-C: I lied. You aren't even pregnant; there's no bun in the oven. I was just so overwhelmed with jealousy that I couldn't help myself. Veronica I love you! 
+C: I lied. You aren't even pregnant; there's no **bun in the oven**. I was just so **overwhelmed** with **jealousy** that **I couldn't help myself**. Veronica I love you! 
 
 B: What are you talking about! ! ! Who... Who are you? 
 
@@ -108,6 +108,6 @@ C: It's me! Daniel, don't you remember me? From high school. I sat behind you ev
 
 B: You are insane! We never even spoke! Why did you lie like that to my boyfriend? 
 
-C: Because Veronica... It's not fair! I love you; I have since the first day we met! Everything was going fine until that jerk came into the picture and ruined everything! I went to med school and became a doctor for you! You always said how you wanted to marry a doctor! You will be mine now... one way or another... 
+C: Because Veronica... It's not fair! I love you; I have since the first day we met! Everything was going fine until that **jerk** **came into the picture** and ruined everything! I went to med school and became a doctor for you! You always said how you wanted to marry a doctor! You will be mine now... one way or another... 
 
-A: I heard everything, you lying bastard! Get your hands off her!
+A: I heard everything, you lying **bastard**! Get your hands off her!
