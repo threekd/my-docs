@@ -111,3 +111,90 @@ B: You are insane! We never even spoke! Why did you lie like that to my boyfrien
 C: Because Veronica... It's not fair! I love you; I have since the first day we met! Everything was going fine until that **jerk** **came into the picture** and ruined everything! I went to med school and became a doctor for you! You always said how you wanted to marry a doctor! You will be mine now... one way or another... 
 
 A: I heard everything, you lying **bastard**! Get your hands off her!
+
+### [65] The Office - Job Interview III
+A: Very good. Now, I have a couple of final questions.
+
+B: I hope they're not too hard!
+
+A: Well, why should we hire you?
+
+B: **I think that I would be a perfect fit in this company**. I have a unique combination of strong technical **acumen**, and outstanding soft skills; you know, I **excel** at building strong, long-term customer relationships. For example, when I headed the customer support department in my previous company, our team solved about seventy percent of our customers' problems. I decided that we needed better information and technical preparation on our products, so after I implemented a series of training sessions in coordination with our technical department, we were able to solve ninety percent of our customers' issues. Given the opportunity, I could bring this kind of success to this company.
+
+A: Impressive! So, what would you consider to be your greatest weakness?
+
+B: To be honest, I **struggle** with organization and time management. Punctuality has never been a strength of mine. I find it hard to organize my time efficiently. I have actually **addressed** this weakness recently, by attending a workshop on efficient time management. It helped me a lot, by providing me with great insights on how to get organized and use my time efficiently, so I think I'm getting better now.
+
+A: Great... Well, let me tell you that I am very pleased with this interview. We are short-listing our candidates this week, and next week we will inform our short listed candidates of the day and time for a second interview with our CEO.
+
+B: Great, thanks a lot! I hope to hear from you! Good bye.
+
+## [67] The Weekend - Soccer
+A: Welcome back, soccer fans. My name is Rick Fields and, as always, I am joined by my commentating **wingman**, Bob Copeland. 
+
+B: And we're on the brink of soccer history today, as Ecuador and Brazil are **tied** one-one as we begin the second half of the 2022 World Cup! 
+
+A: The ref calls the players for the **kick off**, and here we go! Ecuador quickly passes the ball to the midfield, but, ohhh, it's **out of bounds**. 
+
+B: That will be a **throw in** for Brazil. Adriano has the ball and makes a long pass to Robinho, and the ref has called him offside. 
+
+A: No question about it. He was **offside** by a mile! We have a goal kick for Ecuador. Edison Mendez heads it to Valenica, he shoots! Deflected by the defender and we have a **corner kick**. 
+
+B: Delgado takes the corner. We have a **foul**! Oh no, Dida, the goalkeeper, has fouled the Ecuadorian player! He gets a yellow card and that will be a penalty kick! 
+
+A: This is the perfect opportunity for Ecuador to get ahead in this match and become World Champions! He gets ready for the kick. He shoots! and he...
+
+### [68] The Office - Ground breaking Research
+A: We've been over this a thousand times. The data is **irrefutable**! Look, we've done **extensive research**, built studies, and read the literature, and there is **conclusive evidence** to support my theory! 
+
+B: Horowitz, I beg to differ. Even in your most recent study, the investigative approach was **flawed**! You know as well as I do that the collection of data was not **systematic**, and there is a large margin of error. To draw a **definitive conclusion** based on that data would be misleading. 
+
+A: That is **preposterous**! 
+
+B: You are trying to single-handedly solve one of the world's greatest mysteries, and yet you are oblivious to the fact that you are wrong! 
+
+A: I am not wrong! The chicken came first! 
+
+B: No! The egg came first!
+
+### [69] Daily Life - How Would You Like Your Eggs?
+A: Wow, you're up early today! What's for breakfast? 
+
+B: Well, **I felt like baking**, so I made some muffins. 
+
+A: Smells good! I'll make some coffee. Do you want me to make you some eggs? 
+
+B: Sure, I'll take mine, **sunny side up**. 
+
+A: Eww, I don't know how you can eat your eggs like that! Ever since I was small, I've had **eggs and soldiers**. 
+
+B: You know, my dad had **scrambled eggs** every morning for twenty years. It drove my mom crazy! 
+
+A: You know what really **drives me crazy**? When I ask for **soft boiled eggs**, and they overcook them, so they come out hard boiled! How can you dip your toast into a **hard boiled egg**? 
+
+B: You're so **picky** sometimes. 
+
+A: Here you go, honey, **fried eggs**. 
+
+B: Dammit! I asked for sunny side up! How many times do I have to tell you.
+
+### [70] Media - Buying Underwear
+A: This sucks; I hate buying **lingerie**. Okay, just find something and get out of here. Alright, these are fine. Oh, no, don't come over here, don't come over here. 
+
+B: You look a little lost, can I help you? 
+
+A: Um, I'm just having a look around. It's my girlfriend's birthday tomorrow. I'm trying to find her something. 
+
+B: Well, you can't give her **granny panties**. Have you thought about getting her some **sleepwear**? We've got these lovely, silky **nighties**. Or, how about a nice panty-and and-bra set. Look, here's a nice satin push-up bra, and you can choose a few different styles of **undies** to go with it. 
+
+A: Sure that's fine. This is so awkward... what ones do I pick? What size is she? 
+
+B: Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts? 
+
+A: Just pick something and get the hell out of here. Um, I'll go with these two. This is **mortifying**; I just want to get this over with. She better thank me for this... 
+
+B:Here you are, sir. I'm sure she'll enjoy them. 
+
+A: Finally! 
+
+C: I'm sorry, sir. I'm going to have to take a look inside your bag.
