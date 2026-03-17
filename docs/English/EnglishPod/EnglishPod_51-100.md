@@ -198,3 +198,39 @@ B:Here you are, sir. I'm sure she'll enjoy them.
 A: Finally! 
 
 C: I'm sorry, sir. I'm going to have to take a look inside your bag.
+
+## [71] The Weekend - Happy Hour
+A: Hey man, what do you have **on tap**? 
+
+B: Heineken and Budweiser. We have a two-for-one **happy hour** special. 
+
+A: Cool, gimme a pint of Heineken and half a pint of Bud. 
+
+B: Okay... A **pint** of Heineken and and half a pint of bud for table six! And **what about** some **appetizers**? 
+
+A: Sure! Let's have some **nachos** and **mozzarella sticks**. 
+
+B: Okay. That'll be 80 bucks. 
+
+A: Wait... What! 
+
+## [72] You are Fired!
+A: Hi Isabel! You wanted to see me? 
+
+B: Yes Anthony, come on in. Have a seat. 
+
+A: Is everything okay? You seem a bit **preoccupied**. 
+
+B: Well, Anthony, this is not going to be an easy conversation. The company has made some decisions which will have a **direct impact** on your employment. 
+
+A: Okay... 
+
+B: I don't want to **beat around the bush** so I'm just gonna **come out with it**. We are going to have to let you go. 
+
+A: What? Why? I mean... just like that? I'm fired? 
+
+B: I'm sorry but, to be honest, you are a terrible employee! 
+
+A: What! I **resent** that! 
+
+B: Anthony, you were caught making international calls from the office phone, you called in sick in eight times this month and you smell like alcohol!
