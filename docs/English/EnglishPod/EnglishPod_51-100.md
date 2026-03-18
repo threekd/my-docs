@@ -129,7 +129,7 @@ A: Great... Well, let me tell you that I am very pleased with this interview. We
 
 B: Great, thanks a lot! I hope to hear from you! Good bye.
 
-## [67] The Weekend - Soccer
+### [67] The Weekend - Soccer
 A: Welcome back, soccer fans. My name is Rick Fields and, as always, I am joined by my commentating **wingman**, Bob Copeland. 
 
 B: And we're on the brink of soccer history today, as Ecuador and Brazil are **tied** one-one as we begin the second half of the 2022 World Cup! 
@@ -199,7 +199,7 @@ A: Finally!
 
 C: I'm sorry, sir. I'm going to have to take a look inside your bag.
 
-## [71] The Weekend - Happy Hour
+### [71] The Weekend - Happy Hour
 A: Hey man, what do you have **on tap**? 
 
 B: Heineken and Budweiser. We have a two-for-one **happy hour** special. 
@@ -214,7 +214,7 @@ B: Okay. That'll be 80 bucks.
 
 A: Wait... What! 
 
-## [72] You are Fired!
+### [72] You are Fired!
 A: Hi Isabel! You wanted to see me? 
 
 B: Yes Anthony, come on in. Have a seat. 
