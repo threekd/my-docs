@@ -206,7 +206,7 @@ B: Heineken and Budweiser. We have a two-for-one **happy hour** special.
 
 A: Cool, gimme a pint of Heineken and half a pint of Bud. 
 
-B: Okay... A **pint** of Heineken and and half a pint of bud for table six! And **what about** some **appetizers**? 
+B: Okay... A **pint** of Heineken and half a pint of bud for table six! And **what about** some **appetizers**? 
 
 A: Sure! Let's have some **nachos** and **mozzarella sticks**. 
 
@@ -234,3 +234,132 @@ B: I'm sorry but, to be honest, you are a terrible employee!
 A: What! I **resent** that! 
 
 B: Anthony, you were caught making international calls from the office phone, you called in sick in eight times this month and you smell like alcohol!
+
+### [77] The Weekend - F1 Racing
+A: Welcome back racing fans! My name is Rick Fields and, as always, I am joined by my partner in crime, Bob Copeland. 
+
+B: We're in the last stretch of this very exciting race, and Kimi Rikknen is leading the pack with only four laps to go! They are heading to turn three and Lewis Hamilton tries to pass Rikknen! It's a close one and, oh no! Hamilton hits the wall! 
+
+A: He came in too fast, **jammed on the breaks** and **spun out**. We have a yellow flag and the **pace car** is making its way onto the track. 
+
+B: The cleanup **crew** is towing the heavily damaged car and the green flag drops! Rikknen is still in the lead with only two laps to go! 
+
+A: Smoke is coming out of his car! He seems to be having engine trouble! He makes his way into the pit, and Fernando Alonso takes the lead! 
+
+B: How unlucky for Rikknen, and this race is over ladies and gentlemen, Alonso takes the checkered flag!
+
+### [78] The Weekend - International Workers Day
+A: Alright everyone settle down. Let's get started. As you know, **an important aspect** of becoming a good citizen is understanding the **genesis** of our legal system. **It is not enough to** simply memorize our laws, it is necessary that we comprehend why and how they were formed. This brings me to our topic for today. Does anyone know what we celebrate on May first? 
+
+B: Cinco de mayo? 
+
+A: No, that's May fifth in Spanish, James, no wonder you are failing my Spanish class. No, May first is International Workers' Day. 
+
+B: Do we get a day off from school then? 
+
+A: No! It is not considered to be a national holiday here in the US, but in other countries it is. 
+
+B: Aww, man! 
+
+A: In the nineteenth century, working conditions were **appalling**, with workers being forced to work ten, twelve, and fourteen hours a day. Support for the eight-hour work day movement was growing rapidly, despite the indifference and **hostility** of many union leaders, and by April 1886, 250,000 workers were involved in the May Day movement. Previous legislative attempts to improve working conditions had failed, so labor organizers took **drastic measures**. They passed a resolution stating that eight hours would constitute a legal day's work. And, on May First 1886, the resolution took effect. 
+
+B: Cool! Is that why we only work eight hours now? 
+
+A: Yes! But the happy ending came at a high price. On May third, 1886, police fired into a crowd of strikers at the McCormick Reaper Works Factory, killing four and wounding many. A mass meeting was called for the next day to protest the **brutality**. 
+
+B: And then what happened? 
+
+A: Well, as we say, the rest is history.
+
+### [80] Daily Life - I'm Sorry I Love You VII
+A: Thank god you **showed up** when you did! He's insane! Do you think we should call the police? 
+
+B: Don't worry about it, I'll call my friend and have him take care of it. I can't believe he was **stalking** you all these years. **What a nut job**! 
+
+A: I know! Well... he said I'm not pregnant. I'm sorry if I got you all **worked up** **over nothing**. I want you to know that I didn't do it on purpose... 
+
+B: Don't apologize! From the moment I met you, **not a day has gone by** when I haven't thought of you. And now that I'm with you again, I'm... I'm just scared, Veronica. The closer I get to you, the worse it gets. The thought of not being with you, I mean, I just can't handle it! We were made for each other, Veronica. You are my everything, my **soulmate**. What can I do? 
+
+A: Just hold me... I'll always be here for you, **no matter what**. And together, we can tackle whatever life throws at us. I believe in us, Steven. 
+
+B: I'm so happy to hear that! I knew we belong together. I love you so much.
+
+### [81] Daily Life - Getting A Hair Cut
+A: Hello there! Come on in! Don't just stand there! Come and take a seat! 
+
+B: Um, okay. Well, I just want a **trim**. Nothing too **fancy**. 
+
+A: Oh my gosh! Your hair is amazing! So silky, so shiny! I am going to work my magic on your hair! You hear me? You are going to look like a million bucks! 
+
+B: Okay. Um... can you make sure my sideburns are even and you just take a little off the top. 
+
+A: Don't you worry, I'll take care of everything! (starts cutting) Oh my god! I just love your curly hair! It's so fluffy and cute! You should totally let it grow out. An afro would look great on you! 
+
+B: Um... no. 
+
+A: Okay, but you are going to be my masterpiece!
+
+### [83] Daily Life - Using The ATM
+A: Stupid girl, making me spend so much money, now I have to get it from the ATM... 
+
+B: Hello, welcome to Universal Bank. Please insert your card into the slot. 
+
+A: I know where to put my card! Stupid machine, talking to me like I'm an idiot... 
+
+B: Please input your 6 digit PIN code followed by the pound key. Thank you. Please select an option. Thank you. You have selected withdrawal. 
+
+A: Yeah, yeah, I know what I selected. Just gimme my money! 
+
+B: Please type the amount you would like to withdraw. Thank you, you want to transfer 10000 USD to the World Wildlife Foundation. If this is correct please press 1. 
+
+A: No, no! Stupid machine, what are you doing! No! 
+
+B: Confirmed. Thank you for using our bank! Please remove your card from the slot. Goodbye! 
+
+A:No way! What happened! Give me my money! 
+
+C: Danger, danger! The exits have been sealed and the doors will remain locked in until the local authorities arrive. Thank you for using our bank. Have a nice day.
+
+### [84] Daily Life - At The Pharmacy
+A: Hello sir, how can I help you? 
+
+B: Yes, I need this **prescription** please. 
+
+A: Let's see. Okay, so 50 mg of Prozac, would you prefer this in **capsule** or tablet? 
+
+B: Capsules are fine. 
+
+A: Okay, you should take 1 capsule 3 times a day. **Be sure not to** take it on an empty stomach, and also, don't ever mix it with alcohol! 
+
+B: Yes, I know. It's not the first time I'm taking this! Don't worry, I won't overdose! 
+
+A: Okay, anything else I can get you? 
+
+B: Oh, yes, I almost forgot! Can I also get some eye drops and um, some condoms? 
+
+A: Sure. Darn condoms aren't registered in our system. 
+
+B: Oh, well that's okay, I'll get some later, thanks... Really it's no problem. 
+
+A: Just **hang on** there a sec. Can I get a **price check** on " Fun Times Ribbed Condoms" please! 
+
+### [86] Daily Life - Looking for an Apartment
+A: Hi! We are the Christianson's! We are here to see the apartment. 
+
+
+B: Oh, hi! Sure, come on in! Well, as you can see, the place has just been **renovated**. The previous tenants left a huge mess here, so the **landlord** has redone everything. 
+
+
+A: It looks great. It's so bright and **airy**! What great light! I really like these hardwood floors. What's the **square footage** of this place? 
+
+B: Well, it's about 120 square meters, or 1300 square feet, more or less. Oh, the landlord has also installed new kitchen appliances. There's a new dishwasher, and a **professional-grade** **gas range**. Really, at this price, this place is an amazing deal! 
+
+A: I love it! But what are the payment terms? 
+
+B: First and last month rent as deposit and rent is due on the 1st of every month. Considering the amount of money invested into the apartment, it's a very good deal! 
+
+A: Yes, it is! Too good to be true... 
+
+B: The living room and dinning room are quite **spacious** as you can see, and down this hall, here's the **master bedroom**. It has a huge **walk-in closet** and an en suit bathroom. We can't go in there yet as the police... I mean the clean up crew hasn't finished. 
+
+A: What do you mean? What's in here?
