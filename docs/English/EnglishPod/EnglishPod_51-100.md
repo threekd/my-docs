@@ -363,3 +363,43 @@ A: Yes, it is! Too good to be true...
 B: The living room and dinning room are quite **spacious** as you can see, and down this hall, here's the **master bedroom**. It has a huge **walk-in closet** and an en suit bathroom. We can't go in there yet as the police... I mean the clean up crew hasn't finished. 
 
 A: What do you mean? What's in here?
+
+### [88] Daily Life - Will You Be My Girlfriend?
+A: Hey, you're early! Where's everyone? 
+
+B: Well... I told them not to come. I made a reservation **just for the two of us**. I thought we could have an quiet evening **all to ourselves**. 
+
+A: Oh... why? 
+
+B: Jennifer, there's something I wanna ask you. 
+
+A: Sure. What is it? 
+
+B: Hmm... okay, **here's the thing**. **I've always seen you** as more than just a friend, and **I can't take it** any more. I know you better than anyone, I know the pros and cons of your personality, I even know what side of the bed is yours! I think we would be great together, don't you? 
+
+A: **Are you serious**? We've been friends for years! We can't just change that overnight! 
+
+B: I know! I never **had the guts** to tell you... until today. So, what do you say? Are you willing to **give me a shot**? 
+
+A: I... I...
+
+### [89] Daily Life - At The Airport
+A: Next please! Hello sir, may I see your passport please? 
+
+B: Yes, here you go. 
+
+A: Will you be checking any bags today. 
+
+B: Yes, I'd like to check three **pieces**. 
+
+A: I'm sorry, sir. Airline policy allows only two pieces of checked luggage, at twenty kilograms each, plus one piece of **carry-on** luggage. I will have to charge you extra for the additional suitcase. 
+
+B: What? Why! I am taking an **intercontinental** flight! I'm flying sixteen thousand kms! **How am I supposed to** only take two, twenty kilo bags? That's absurd! 
+
+A: I am sorry, sir, **there's nothing I can do**. You cannot **board** the flight with that large bag either. Carry-on bags must fit in the **over-head** compartment or under your seat. That bag is clearly too big. 
+
+B: Now I see. You charge **next to nothing** for an international ticket, but when it comes to charging for any other small thing, you charge **an arm and a leg**! So tell me, miss, how much will I have to pay for all of this. 
+
+A: Let's see... six hundred and twenty-five US dollars. 
+
+B: That's more than my round-trip ticket!
