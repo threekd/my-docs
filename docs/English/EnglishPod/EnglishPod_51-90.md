@@ -55,7 +55,62 @@ B: Perfect. Thank you. Bye...
 
 A: Sir, wait! ! I need your address!
 
-### [53] Job Interview I
+### [54] Intermediate - I'm Sorry But I Love You V
+A: Honey, of course I forgive you! I love you so much! I've really missed you. I was wrong to get upset over nothing. 
+
+B: I'm sorry I haven't called or anything, but right after you decided you wanted a break, I was called up north to put out some major forest fires! I was in the middle of nowhere, working day and night, trying to prevent the blaze from spreading! It was pretty intense. 
+
+A: Oh, honey, I'm glad you're okay! But I have some exciting news... I think I'm pregnant! 
+
+B: Really? Wow, that's amazing! This is great news! I've always wanted to be a father! We'll go to the doctor first thing in the morning! 
+
+C: We have your test results back and, indeed, you are pregnant. Let's see here... everything seems to be in order. Your approximate due date is October twenty-seventh two thousand and nine, so that means that the baby was conceived on February third, two thousand and nine. 
+
+B: Are you sure? Are these things accurate? 
+
+C: Well, yes sir, they are. 
+
+A: What's wrong? Why are you asking these questions? 
+
+B: This baby isn't mine! I was away the first week of February at a training seminar! 
+
+A: I... I... no, it can't be...
+
+### [56] Daily Life - Planning a Bank Robbery
+A: All right, so this is what we are going to do. I've carefully mapped this out, so don't screw it up. Mr. Rabbit, you and Mr. Fox will go into the bank wearing these uniforms. We managed to get replicas of the one the guards wear when they pick up the money. 
+
+B: Got it. 
+
+C: No problem, boss. 
+
+A: When you get inside, tell them that you are filling in for Carl and Tom, and say that they are on another route today. Don't lose your cool. Just act natural. 
+
+B: What if they want to call and confirm? 
+
+A: You let him. 
+
+C: What! ? 
+
+A: Don't worry, we have the phones tapped, so the call will be patched through to me, and I'll pretend to be the transport company. 
+
+B: Ha ha, you are so clever boss! 
+
+A: Okay, shut up. Only take as much money as you can fit in these bags. Don't get greedy! Are you ready? Let's go.
+
+### [57] The Office - Malfunction
+A: Hey Carl, can you make a copy of this contract for me please? When you have it ready, send it out ASAP to our subbranch. 
+
+B: Sure! Um... I think I broke this thing. Maxine, can you help me out here? I'm not really a tech guy. 
+
+C: Yeah, sure. I think it's just out of toner. You can go use the other one upstairs. On your way up, can you fax this while I try and fix this thing? 
+
+B: Sure! Dammit! Everything in this office seems to be breaking down! Never mind. I'll send this stupid fax later. Oh great! Is someone playing a practical joke on me? This is ridiculous! 
+
+D: The elevator has some sort of malfunction. Just take the stairs dude. What floor are you going to? 
+
+B: I have to go up fifteen floors! Never mind. Made it! There is the copier!
+
+### [59] Job Interview I
 A: Okay, so let's go over everything one more time. I really want you to get this job! 
 
 B: I know! It's an **amazing growth opportunity**! They're true industry leaders, and it would be so interesting to be part of an organization that is the **undisputed** leader in business process platform development. 
@@ -73,6 +128,46 @@ A: Sounds good, and so, why do you want to work with them?
 B: Well, as I said they're the industry leaders, they have a really great growth strategy, amazing development opportunities for employees, and it seems like they have strong corporate governance. They're all about helping companies grow and **unleashing potential**. I guess their **core values** and mission really **resonated** with me. Oh, and they offer six weeks' vacation, stock options and bonuses... I'm totally going to cash in on that. 
 
 A: You idiot! Don't say that! Do you want this job, or not?
+
+### [61] The Weekend - Swim Faster!
+A: This is such a beautiful day! Great for sailing! 
+
+B: It sure is! The water looks so nice! Anchor the boat for a little while. I'm going to take a dip. 
+
+A: Why are you doggy-paddling? I taught you how to swim! Do your breast stroke! 
+
+B: I get too tired! I'll just backstroke, it's easier! 
+
+A: Try kicking your legs more. That's good. Don't go out too far! 
+
+B: It's fine.Jump in! 
+
+A: Kathy! Get back here! I see a shark! 
+
+B: Ahhhh! ! ! ! Help me! Help! Bring the boat closer! The shark is coming straight towards me! 
+
+A: It's right under you! Kathy! ! ! ! !
+
+### [62] Job Interview II
+A: Thanks for coming in today, did you have any trouble finding us? Please take a seat. 
+
+B: Thank you. 
+
+A: So, let's get started; tell me a bit about your educational background. 
+
+B: Sure! Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology. I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology. 
+
+A: Interesting. And, your postgraduate studies? 
+
+B: Well, I am really passionate about consumer behavior, so I pursued a master's in that area. I also strive to keep my professional skills current, so I continuously attend seminars and conferences related management and customer service. 
+
+A: Very good. Now, tell me a little bit about your work experience. I see here that you previously worked at Oracle. 
+
+B: Yeah, I worked as their customer support manager, which brought me a breadth of experience in both client care, and process management. I supervised and coordinated the customer support team as well as implemented new strategies to achieve better customer satisfaction. 
+
+A: Interesting... 
+
+B: Yes, in this position I was able to make some pretty significant contributions to the overall success of the company. With the different initiatives that we implemented, we lowered our churn rate to about five percent, which had a direct impact on revenue.
 
 ### [63] The Office - Receptionist
 A: Good afternoon. May I help you? 
@@ -234,6 +329,38 @@ B: I'm sorry but, to be honest, you are a terrible employee!
 A: What! I **resent** that! 
 
 B: Anthony, you were caught making international calls from the office phone, you called in sick in eight times this month and you smell like alcohol!
+
+### [73] Daily Life - Which Finger?
+A: ... The rings please. May this ring be blessed so he who gives it and she who wears it may abide in peace, and continue in love until life's end. ... 
+
+B: With this ring I thee wed. Wear it as a symbol of our love and commitment. 
+
+A: Honey, that's my pinkie. The ring goes on the ring finger! 
+
+B: This one? 
+
+A: That's my index finger! 
+
+B: Oh, right. This one, right? 
+
+A: Umm... that's the thumb, Nick. 
+
+B: Okay, I got it! This is the ring finger! 
+
+A: That's my middle finger, Nick. This is my ring finger!
+
+### [75] Daily Life - Going To The Dentist
+A: Hey, Gary, great to see you again. Please have a seat. So tell me, what seems to be the problem? 
+
+B: Thanks, doc. I've got a really bad toothache! I can't eat anything, and look, my face is all swollen. I think it might be my wisdom tooth. 
+
+A: Well, let's have a look. Open wide. Hmm... this doesn't look good. Well, it looks like you have a cavity and your crown is loose. We'll need to put in a filling before it gets any worse, and the crown probably needs to be refitted. I'm going to order some x-rays. 
+
+B: Is it gonna hurt? 
+
+A: No, not at all! Just lay back and relax. 
+
+A: Ok, spit.
 
 ### [77] The Weekend - F1 Racing
 A: Welcome back racing fans! My name is Rick Fields and, as always, I am joined by my partner in crime, Bob Copeland. 
