@@ -7,7 +7,9 @@ A: Oh honey, this is so romantic! I have never seen so many stars before! It's b
 
 B: See that **constellation** there? That's Orion! And the very bright star? Well, it's not a star since it doesn't blink. That's actually Venus. 
 
-A: What's that big flashy one? B: I don't know. . . I think it's a UFO!
+A: What's that big flashy one? 
+
+B: I don't know. . . I think it's a UFO!
 
 C: Greetings **earthlings**. I come from afar, from a distant galaxy known only to a few. 
 
