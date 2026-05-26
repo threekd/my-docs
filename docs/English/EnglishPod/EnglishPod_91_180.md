@@ -52,3 +52,62 @@ B: Xu **spikes** it! Wow, what a great hit! The Brazilian blockers anticipated t
 A: It's China's **service** now. What a superb **jump serve** by Li, oh, and we have a let serve. The ball was coming in fast and almost made it over the net.
 
 B: Brazil calls for a time out and we'll be right back, after a short commercial break.
+
+### [94] Global View - Big Bang Theory
+A: What's up? You don't look too good. 
+
+B: Yeah, my head hurts, that's all. I've been in physics class all day. It's killer!
+
+A: I liked physics. It's all math, really; arcs, curves, velocity, cool stuff. 
+
+B: Yeah, yeah, but today's lesson was all about the creation of the universe.
+
+A: A physics class about the creation of the universe? That's some pretty unscientific language there. Sounds more religious to me. 
+
+B: It's all religion. Take the theory of the Big Bang. How is it possible that all of the stuff in the universe comes from an explosion? That's no better than Atlas carrying the globe on his back or African myths about turtles and stuff. 
+
+A: Turtles? Whatever. . . Look, all that's required for the creation of **matter** an imbalance of **particles** and **anti-particles**. At least, that's what the math says.
+
+B: Math, sh. . math. What's the evidence? 
+
+A: There is evidence! You know Edwin Hubble? He's the guy who in the early twentieth century was the first scientist to measure the **drift of matter** in the universe, **thus** **advancing notions** of an expanding universe. What would it be expanding from? Well, the Big Bang. . . DUH! 
+
+B: Anyway, it's just a theory. Why do people go around **touting** theories? Where's the **rigor** in that?
+
+A: Dude, don't **equivocate**. A theory only becomes a theory after withstanding **rigorous** testing. You slept through class, didn't you? 
+
+B: Agh! You're making my head hurt again! Quit with the questions!
+
+### [95] Daily Life - Talking About a Past Event
+A: Mike! What's going on, man! Long time no see! 
+
+B: Hey, Pat! Yeah, I haven't seen you in **ages**! How's it going?
+
+A: This is going great! It's funny running into you like this. Small world there! Just last week I **ran into** Matt as well. 
+
+B: Yeah? How's he doing?
+
+A: He's doing well. We went out for a couple of beers and the funniest thing happened. 
+
+B: Oh yeah?
+
+A: Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden, Matt saw a mouse run under his chair and he completely **lost it**! He started **freaking out**, and screaming. . . 
+
+B: Ha ha, really? 
+
+A: Yeah, and the funniest thing was, that he jumped on to his chair and started **shrieking** like a girl. You should have been there! Everyone was **staring** and laughing. . . it was hilarious!
+
+B: Ha Ha.
+
+### [96] The Weekend - 1960's English
+A: Hey man. . . I really like your **pad**. Those lava lamps are **far out**! Thanks for letting me **crash** here tonight. 
+
+B: It's no problem, brother! I wanted a pad where people could come, listen to music and just hang loose, you **dig** what I'm saying?
+
+A: I dig it man! We could **throw a bash** here and make it a really happening scene! 
+
+B: Yeah man, that would be **groovy**! Hey, I gotta **split** for a while, are you OK here by yourself?
+
+A: Don't worry about me brother. . . You go **take care of business**. 
+
+B: Alright, peace out.
