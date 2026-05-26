@@ -54,7 +54,7 @@ A: It's China's **service** now. What a superb **jump serve** by Li, oh, and we 
 B: Brazil calls for a time out and we'll be right back, after a short commercial break.
 
 ### [94] Global View - Big Bang Theory
-A: What's up? You don't look too good. 
+A: **What's up**? You don't look too good. 
 
 B: Yeah, my head hurts, that's all. I've been in physics class all day. It's killer!
 
