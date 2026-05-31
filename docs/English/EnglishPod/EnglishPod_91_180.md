@@ -66,7 +66,7 @@ A: A physics class about the creation of the universe? That's some pretty unscie
 
 B: It's all religion. Take the theory of the Big Bang. How is it possible that all of the stuff in the universe comes from an explosion? That's no better than Atlas carrying the globe on his back or African myths about turtles and stuff. 
 
-A: Turtles? Whatever. . . Look, all that's required for the creation of **matter** an imbalance of **particles** and **anti-particles**. At least, that's what the math says.
+A: Turtles? Whatever. . . Look, all that's required for the creation of **matter** is an imbalance of **particles** and **anti-particles**. At least, that's what the math says.
 
 B: Math, sh. . math. What's the evidence? 
 
@@ -177,3 +177,74 @@ B: You have always been so soft, Dick!
 A: Open your heart Dave. Don't shut us out. 
 
 B: Anyway... That's all for today folks! Join us next time as we talk about; How to lose a guy in 10 days. I'm sure you'll love that one Dick!
+
+### [100] Daily Life - Where are you from?
+A: Where to, miss?
+
+B: Hi! Crenshaw and Hawthorne, at the Holiday Inn that is on that corner.
+
+A: **Sure thing**. So, where are you flying in from?
+
+B: From China.
+
+A: Really? You don't look very Chinese to me, **if you don't mind me saying so**.
+
+B: It's fine. I am actually from Mexico. I was in China on a business trip, visiting some local companies that manufacture bathroom products.
+
+A: Wow sounds interesting! **Excuse me if I am being a bit nosy but**, how old are you?
+
+B: Don't you know it's rude to ask a lady her age?
+
+A: **Don't get me wrong**! It's just that you seem so young and already doing business overseas!
+
+B: Well thank you! In that case, I am 26 years old, and **what about yourself**?
+
+A: I am 40 years old and was **born and raised** here in the good old U.S, although I have some Colombian **heritage**.
+
+B: Really? That's great! Do you speak Spanish?
+
+A: Uh...yeah...of course!
+
+B: Que bien! Entonces podemos hablar en espanol!
+
+### [101] The Weekend - 1970's
+A: Hey man! **How's it hanging**? 
+
+B: Hey man! Everything is just groovy baby! 
+
+A: Did you go to the **roller rink** on Saturday? I heard it was **far out**, man! 
+
+B: I wanted to, but I ran into this **foxy lady** that just moved to my **block**! I was **chatting her up** a bit and then we **mellowed out** at her place.
+
+A: **Right on**, right on! Well, Jim went to the rink with Sherry and he said it was dy-no-mite! He was low on bread, but Sherry paid for everything. 
+
+B: **Gravy**! Jim is such a jive turkey man. He is always **hitting me up** for cash. Anyway, you wanna **book** and go **grab some grub**?
+
+A: Yeah man, I'm starving!
+
+### [102] Global View - Global Warming
+A: And therefore, global warming is the greatest deception of the early 21st century. Questions? 
+
+B: Uh. . . yeah. In the lecture you said there's more evidence in the scientific record supporting global cooling?
+
+A: Well, yes, essentially, the historical record supports a theory of climate cycles. Warming and cooling are cooperating processes in the planetary eco-system. 
+
+B: If that's true and the planet is getting cooler, what explains the rapid melting of the **polar ice caps** and the dramatic rise in the global average temperatures? 
+
+A: But are global temperatures rising? If you look at the data from nineteen seventy-five you'll. . . . . . 
+
+B: You'll be misled. If you were serious, you would look at the record starting in the 1880s. Then you would see how dramatically the earths temperature has changed.
+
+A: Young lady, I beg to differ. Look, the point of the lecture was to emphasize that there is evidence for both sides, and I'm **putting forth** the argument that there's greater evidence in support of the global cooling hypothesis. Look, it's an **indisputable fact** that the public is being manipulated and scared into believing there's some kind of climate crisis; this **scaremongering** is done, quite simply, for political reasons. 
+
+B: But even without the uncomfortable reality that greenhouse gases like carbon dioxide contribute to global warming, isn't the topic appropriate for politicians to discuss?
+
+A: Not if they want to use your tax dollars and mine to fund completely unnecessary initiatives. 
+
+B: Yeah, like conservation, protecting **endangered species** and investing in renewable energy. At the very least, you have to **concede** that this debate has the potential to end our dependence on foreign oil. Buying oil supports **autocratic** countries that use these revenues to devastating ends.
+
+A: Why, I've never been so disrespected in all of my days. I'm a professor, a scientist and researcher of high regard. 
+
+B: Yeah, and a **duplicitous** one at that. Everyone knows you're in the **pocket** of the oil lobby. Why should we trust your **so-called** findings more than tobacco institute studies which say smoking doesn't harm health? **You're full of it**. 
+
+A: Some people just cannot handle civil debate!
