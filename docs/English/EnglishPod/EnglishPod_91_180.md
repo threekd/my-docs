@@ -1,3 +1,9 @@
+---
+title: EnglishPod_51-100
+createTime: 2026/03/05 08:19:20
+permalink: /English/EnglishPod/14wybo4y/
+---
+
 # EnglishPod
 
 ## P91-180
@@ -314,7 +320,7 @@ A: Aw, come on; **it was nothing**. I'm just doing my job.
 
 B: No, I think you deserve some recognition here; I mean, if I look back on your previous Presentations, this is a huge improvement. 
 
-A: Well, Kristin did give me a hand with the **slides**. Shes a real **wiz** on PowerPoint.
+A: Well, Kristin did give me a hand with the **slides**. She's a real **wiz** on PowerPoint.
 
 B: And I saw that you **took on board** my feedback about pricing strategies. I really appreciate you taking the time to **think through** my suggestions. 
 
