@@ -254,11 +254,11 @@ A: Can we talk?
 
 B: Sure, honey, we're talking now, aren't we?
 
-A: You know what I mean. 
+A: **You know what I mean**. 
 
 B: Yeah. I know.
 
-A: I want to know where this relationship is going. I'm in love with you and I need to know. . . 
+A: I want to know **where this relationship is going**. I'm **in love with** you and I need to know. . . 
 
 B: You know, I think you're awesome.
 
@@ -266,7 +266,7 @@ A: I'm awesome. Well, I guess that's my answer, isn't it.
 
 B: Honey. . . 
 
-A: Look, if you don't love me, it's not a thing, alright, we've had our laughs, but I don't appreciate. . . maybe it's just time we. . . 
+A: Look, if you don't love me, it's not a thing, alright, **we've had our laughs**, but I don't appreciate. . . maybe it's just time we. . . 
 
 B: Baby, I love you so much.
 
@@ -284,18 +284,18 @@ A: Oh baby, I'm so sorry.
 A: Welcome ski lovers of all ages! My name is Rick Fields and here with me is the man that needs no introduction, Bob Copeland. 
 
 B: Thank you, Rick! What a beautiful day here in Aspen, Colorado where the sun is shinning,
-and we've got twelve inches of fresh powder. It doesn't get much better than this. 
+and we've got twelve inches of **fresh powder**. It doesn't get much better than this. 
 
-A: That's right, Bob, but today we have a special treat for our viewers. We're joined here by Ian Roussy, the four-time giant slalom champion. And on this special edition of the show, Ian is going to teach us the basics of skiing! So, let's hit the slopes! 
+A: That's right, Bob, but today we have a special treat for our viewers. We're joined here by Ian Roussy, the **four-time giant slalom champion**. And on this special edition of the show, Ian is going to teach us the basics of skiing! So, let's **hit the slopes**! 
 
-C: Well, first off, let's get those boots on. You're going to want to make sure your boots fit snugly. That's right; now snap them into your bindings. And you're also going to want a good pair of goggles to protect your eyes. It's a bright day today, so there's going to be a lot of glare out there on the slopes. We don't want you hitting any of those moguls! 
+C: Well, first off, let's get those boots on. You're going to want to make sure your boots fit snugly. That's right; now snap them into your **bindings**. And you're also going to want a good pair of **goggles** to protect your eyes. It's a bright day today, so there's going to be a lot of glare out there on the slopes. We don't want you hitting any of those **moguls**! 
 
-A: Bob, since you're a beginner skier and might take a few spills, it is a good idea to have a good warm pair of dry ski gloves.
+A: Bob, since you're a beginner skier and might **take a few spills**, it is a good idea to have a good warm pair of dry ski gloves.
 
-C: Easy there, Rick! Well, let's head on over to the chairlift, and test your skills! All right, we're up here on the bunny hill, so, Bob, why don't you do a few snow-plow turns.
-Gnarly run, Rick! Nice carving! You've got some mad skills! That was sick! 
+C: Easy there, Rick! Well, let's head on over to the chairlift, and test your skills! All right, we're up here on the **bunny hill**, so, Bob, why don't you do a few snow-plow turns.
+**Gnarly** run, Rick! Nice carving! You've got some mad skills! That was **sick**! 
 
-A: You wanna see gnarley? Well, see that bump over there, I'm gonna get some major air.
+A: You wanna see gnarley? Well, see that bump over there, I'm gonna **get some major air**.
 
 C: Butt plant! 
 
@@ -303,18 +303,20 @@ B: Ha ha ha! He lost his skis! Yard sale! ! !
 
 A: Ahem, well. Thanks for joining us here today, I think that about does it. Bob, Ian, time for some après-ski? 
 
-C: No way, man! We're off to grab some freshies! ! !
+C: No way, man! We're off to **grab some freshies**! ! !
 
 ### [105] The Office - Job Well Done
-A: And so, that concludes my outline for our marketing strategy next year. Thank you very much for your time. B: Hey, that was quite the Presentation! Honestly, I was completely blown away by your strategy outline. I've gotta say, Alex, you really wowed me today. 
+A: And so, that concludes my outline for our marketing strategy next year. Thank you very much for your time. 
 
-A: Aw, come on; it was nothing. I'm just doing my job.
+B: Hey, that was **quite the Presentation**! Honestly, I was completely **blown away** by your strategy outline. I've gotta say, Alex, you really **wowed me** today. 
+
+A: Aw, come on; **it was nothing**. I'm just doing my job.
 
 B: No, I think you deserve some recognition here; I mean, if I look back on your previous Presentations, this is a huge improvement. 
 
-A: Well, Kristin did give me a hand with the slides. Shes a real wiz on PowerPoint.
+A: Well, Kristin did give me a hand with the **slides**. Shes a real **wiz** on PowerPoint.
 
-B: And I saw that you took on board my feedback about pricing strategies. I really appreciate you taking the time to think through my suggestions. 
+B: And I saw that you **took on board** my feedback about pricing strategies. I really appreciate you taking the time to **think through** my suggestions. 
 
 A: Yeah, well, that was some good advice. You made some really good points.
 
