@@ -1,5 +1,5 @@
 ---
-title: EnglishPod_51-100
+title: EnglishPod_91_180
 createTime: 2026/06/01 08:19:20
 permalink: /English/EnglishPod/14wybo4y/
 ---
@@ -409,3 +409,68 @@ B: There is some really good news though!
 A: Really? What!
 
 B: I got offered a new job!
+
+### [109] The Weekend - Breaking up
+A: Honey, do you have a second? 
+
+B: Sure! Are you okay? You seem a bit worried. What's on your mind? 
+
+A: We need to talk. 
+
+B: Okay. . .
+
+A: I've been thinking, and well, I think we need to start seeing other people. 
+
+B: What? Why? I mean, we've had our ups and downs, and we have the occasional disagreement, but we're happy together.
+
+A: That's just it, I'm not happy anymore, Tim. It's not you, it's me. I know that I can be hard to deal with, and you are a great guy! You are the type of guy that any woman would kill for!
+
+B: So, what are you saying? You're breaking up with me because I'm perfect? 
+
+A: Tim, you are too good for me. You deserve someone who can make you smile and make you happy the way that you made me happy. I could say that I'll be all you need, but that would be a lie. I know I'd only hurt you, I know I'd only make you cry. 
+
+B: Baby, come on. Don't do this to me! Whatever it is, we can work it out. Just give me another chance! I know that we can get through this, but we gotta stick together! Don't leave me. 
+
+A: I can't, Tim. I hope someday you can find some way to understand I'm only doing this for you. I don't really wanna go but, deep in my heart I know this is the kindest thing to do. 
+
+B: Laura. . .
+
+A: Here are your keys. I'll send my sister to pick up the rest of my things next week. I'm sorry, Tim. I wish you all the best, and I hope that one day we can meet again. I'll always love you. Goodbye.
+
+### [110] Daily Life - Registering for University
+A: Excuse me? Is this where I register? I'd like to sign up for my courses for next semester. 
+
+B: Yes, of course. I need your student ID please.
+
+A: Here you are. 
+
+B: Okay, Susan. It says here that you are a business major and you are in your second year. Is this information correct?
+
+A: Yes. I do want to take some additional credits this year to get a minor in psychology. 
+
+B: Sure. That's not a problem. Do you have the list of courses you want to take this semester?
+
+A: Yeah. Here's my list. I'm not sure if the class schedule will allow me to take all of them though. 
+
+B: Yeah, that's perfect. What about the subjects for your minor?
+
+A: Oh yeah! Almost forgot! I need to take fundamental linguistics, consumer psychology and neuroanatomy. 
+
+B: Wow, you are going to be busy this semester! Okay, here you go. You are registered now; you'll have to make your first tuition payment before classes start.
+
+### [111] The Weekend - Golf
+A: Good morning golf aficionados! My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland. 
+
+B: Thank you, Rick! As you can see, ladies and gentleman, we are here in beautiful Pebble Beach where the top golfers in the world are trying to win the grand prize of one million dollars! 
+
+A: Whoa, that's a lot of cash! Let's go to the course and see how Tiger Woods is doing. 
+
+B: All right, we're here at the eighth hole. It's a par four, and has some very difficult hazards which many golfers find difficult to avoid. Although, I did see Jack Nicklaus hit a hole in one on this very same hole! 
+
+A: Tiger Woods is about to tee off, and let's see if he has the same luck as Jack. Tiger is asking his caddie for his driver and, he seems to be very nervous.
+
+B: Oh no! Not a good swing at all! It's definitely not his day today. On the seventh hole he got a bogey and before that he barely made par. He will definitely not get a birdie on this shot.
+
+A: It seems that his ball has flown somewhere deep in the trees. He is having a hard time finding it and even his caddie has climbed a tree to try and spot it. 
+
+B: Oh no! A bear! Run, Tiger, run! Somebody call animal control!
