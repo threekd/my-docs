@@ -415,21 +415,21 @@ A: Honey, do you have a second?
 
 B: Sure! Are you okay? You seem a bit worried. What's on your mind? 
 
-A: We need to talk. 
+A: **We need to talk.** 
 
 B: Okay. . .
 
-A: I've been thinking, and well, I think we need to start seeing other people. 
+A: I've been thinking, and well, I think we need to **start seeing other people**. 
 
-B: What? Why? I mean, we've had our ups and downs, and we have the occasional disagreement, but we're happy together.
+B: What? Why? I mean, we've had our **ups and downs**, and we have the occasional disagreement, but we're happy together.
 
-A: That's just it, I'm not happy anymore, Tim. It's not you, it's me. I know that I can be hard to deal with, and you are a great guy! You are the type of guy that any woman would kill for!
+A: That's just it, I'm not happy anymore, Tim. **It's not you, it's me**. I know that I can be **hard to deal with**, and you are a great guy! You are the type of guy that any woman would kill for!
 
 B: So, what are you saying? You're breaking up with me because I'm perfect? 
 
 A: Tim, you are too good for me. You deserve someone who can make you smile and make you happy the way that you made me happy. I could say that I'll be all you need, but that would be a lie. I know I'd only hurt you, I know I'd only make you cry. 
 
-B: Baby, come on. Don't do this to me! Whatever it is, we can work it out. Just give me another chance! I know that we can get through this, but we gotta stick together! Don't leave me. 
+B: Baby, come on. Don't do this to me! Whatever it is, we can **work it out**. Just give me another chance! I know that we can **get through this**, but we gotta **stick together**! Don't leave me. 
 
 A: I can't, Tim. I hope someday you can find some way to understand I'm only doing this for you. I don't really wanna go but, deep in my heart I know this is the kindest thing to do. 
 
@@ -438,25 +438,25 @@ B: Laura. . .
 A: Here are your keys. I'll send my sister to pick up the rest of my things next week. I'm sorry, Tim. I wish you all the best, and I hope that one day we can meet again. I'll always love you. Goodbye.
 
 ### [110] Daily Life - Registering for University
-A: Excuse me? Is this where I register? I'd like to sign up for my courses for next semester. 
+A: Excuse me? Is this where I **register**? I'd like to **sign up for** my courses for next semester. 
 
 B: Yes, of course. I need your student ID please.
 
 A: Here you are. 
 
-B: Okay, Susan. It says here that you are a business major and you are in your second year. Is this information correct?
+B: Okay, Susan. It says here that you are a business **major** and you are in your **second year**. Is this information correct?
 
-A: Yes. I do want to take some additional credits this year to get a minor in psychology. 
+A: Yes. I do want to take some additional **credits** this year to get a minor in psychology. 
 
 B: Sure. That's not a problem. Do you have the list of courses you want to take this semester?
 
-A: Yeah. Here's my list. I'm not sure if the class schedule will allow me to take all of them though. 
+A: Yeah. Here's my list. I'm not sure if the **class schedule** will allow me to take all of them though. 
 
 B: Yeah, that's perfect. What about the subjects for your minor?
 
 A: Oh yeah! Almost forgot! I need to take fundamental linguistics, consumer psychology and neuroanatomy. 
 
-B: Wow, you are going to be busy this semester! Okay, here you go. You are registered now; you'll have to make your first tuition payment before classes start.
+B: Wow, you are going to be busy this semester! Okay, here you go. You are registered now; you'll have to make your first **tuition** payment before classes start.
 
 ### [111] The Weekend - Golf
 A: Good morning golf aficionados! My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland. 
@@ -474,3 +474,20 @@ B: Oh no! Not a good swing at all! It's definitely not his day today. On the sev
 A: It seems that his ball has flown somewhere deep in the trees. He is having a hard time finding it and even his caddie has climbed a tree to try and spot it. 
 
 B: Oh no! A bear! Run, Tiger, run! Somebody call animal control!
+
+### [112] Daily Life - Dr. Plumber
+A: Good afternoon! Did you call for a plumber? 
+
+B: Yes, yes I did. Please come in! I'm so glad you came! This old house is falling apart! Come on into the bathroom. See, here, there's water leaking everywhere!
+
+A: I see. Let me have a look. It seems that your toilet is clogged, and that's why it won't flush. Let me just get my plunger. No, that's not working either. I suspect that there's some sort of foreign object in the pipes that's causing a blockage. That's what's making your toilet overflow.
+
+B: Oh, that must be because of my four-year-old daughter. She is always flushing things down the toilet. You know how kids are. 
+
+A: Yeah, I have a little one myself. Anyway, these water pipes are really rusty, so they also should be changed. That could be causing water to not drain completely; that might lead to more problems in the future. I would also suggest fixing this faucet that isn't shutting off properly. I could have it all finished by today if it's urgent.
+
+B: That would be great! Is it expensive? 
+
+A: Let's see. . . I would say about eight hundred dollars.
+
+B: What? That's more than I make in a day and I'm a heart surgeon!
