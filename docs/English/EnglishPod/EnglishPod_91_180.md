@@ -459,32 +459,32 @@ A: Oh yeah! Almost forgot! I need to take fundamental linguistics, consumer psyc
 B: Wow, you are going to be busy this semester! Okay, here you go. You are registered now; you'll have to make your first **tuition** payment before classes start.
 
 ### [111] The Weekend - Golf
-A: Good morning golf aficionados! My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland. 
+A: Good morning golf **aficionados**! My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland. 
 
-B: Thank you, Rick! As you can see, ladies and gentleman, we are here in beautiful Pebble Beach where the top golfers in the world are trying to win the grand prize of one million dollars! 
+B: Thank you, Rick! **As you can see**, ladies and gentleman, we are here in beautiful Pebble Beach where the top golfers in the world are trying to win the grand prize of one million dollars! 
 
-A: Whoa, that's a lot of cash! Let's go to the course and see how Tiger Woods is doing. 
+A: Whoa, that's a lot of cash! Let's go to the **course** and see how Tiger Woods is doing. 
 
-B: All right, we're here at the eighth hole. It's a par four, and has some very difficult hazards which many golfers find difficult to avoid. Although, I did see Jack Nicklaus hit a hole in one on this very same hole! 
+B: All right, we're here at the eighth hole. It's a par four, and has some very difficult hazards which many golfers find difficult to avoid. Although, I did see Jack Nicklaus hit **a hole in one** on this very same hole! 
 
-A: Tiger Woods is about to tee off, and let's see if he has the same luck as Jack. Tiger is asking his caddie for his driver and, he seems to be very nervous.
+A: Tiger Woods is about to **tee off**, and let's see if he has the same luck as Jack. Tiger is asking his **caddie** for his **driver** and, he seems to be very nervous.
 
-B: Oh no! Not a good swing at all! It's definitely not his day today. On the seventh hole he got a bogey and before that he barely made par. He will definitely not get a birdie on this shot.
+B: Oh no! Not a good swing at all! It's definitely **not his day** today. On the seventh hole he got a **bogey** and before that he barely made **par**. He will definitely not get a **birdie** on this shot.
 
-A: It seems that his ball has flown somewhere deep in the trees. He is having a hard time finding it and even his caddie has climbed a tree to try and spot it. 
+A: It seems that his ball has flown somewhere deep in the trees. He is **having a hard time** finding it and even his caddie has climbed a tree to try and spot it. 
 
 B: Oh no! A bear! Run, Tiger, run! Somebody call animal control!
 
 ### [112] Daily Life - Dr. Plumber
-A: Good afternoon! Did you call for a plumber? 
+A: Good afternoon! Did you call for a **plumber**? 
 
-B: Yes, yes I did. Please come in! I'm so glad you came! This old house is falling apart! Come on into the bathroom. See, here, there's water leaking everywhere!
+B: Yes, yes I did. Please come in! I'm so glad you came! This old house is **falling apart**! Come on into the bathroom. See, here, there's water **leaking** everywhere!
 
-A: I see. Let me have a look. It seems that your toilet is clogged, and that's why it won't flush. Let me just get my plunger. No, that's not working either. I suspect that there's some sort of foreign object in the pipes that's causing a blockage. That's what's making your toilet overflow.
+A: I see. Let me have a look. It seems that your toilet is **clogged**, and that's why it won't flush. Let me just get my **plunger**. No, that's not working either. I suspect that there's some sort of foreign object in the pipes that's causing a blockage. That's what's making your toilet overflow.
 
-B: Oh, that must be because of my four-year-old daughter. She is always flushing things down the toilet. You know how kids are. 
+B: Oh, that must be because of my four-year-old daughter. She is always **flushing** things down the toilet. You know how kids are. 
 
-A: Yeah, I have a little one myself. Anyway, these water pipes are really rusty, so they also should be changed. That could be causing water to not drain completely; that might lead to more problems in the future. I would also suggest fixing this faucet that isn't shutting off properly. I could have it all finished by today if it's urgent.
+A: Yeah, I have a little one myself. Anyway, these **water pipes** are really rusty, so they also should be changed. That could be causing water to not drain completely; that might lead to more problems in the future. I would also suggest fixing this **faucet** that isn't **shutting off** properly. I could have it all finished by today if it's urgent.
 
 B: That would be great! Is it expensive? 
 
