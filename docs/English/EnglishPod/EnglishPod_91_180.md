@@ -491,3 +491,47 @@ B: That would be great! Is it expensive?
 A: Let's see. . . I would say about eight hundred dollars.
 
 B: What? That's more than I make in a day and I'm a heart surgeon!
+
+### [113] The office - Sorry I'm Late
+A: Where is everyone? We were supposed to start fifteen minutes ago! 
+
+B: Jo called and said she'd be here **in a sec**. She said she got **tied up** with a client.
+
+C: Sorry I'm late everyone. There was a huge **traffic jam** on the highway this morning. 
+
+D: Morning everyone! Were you **stuck in traffic** as well, Jess? There was a huge pileup on the highway and traffic was **backed up for miles**.
+
+B: Scott just called and said that he's **running late**. His last meeting **ran over**, but he's on his way now. 
+
+A: Guys, this is not acceptable. If I say the meeting starts at ten, the meeting starts at ten. Not ten-oh-one! And definitely not ten-twenty! All right. Let's get started. So the first thing I want to talk about is our. . . 
+
+E: I'm really sorry, everyone! I know I'm late. But really, it's not my fault. I was getting a coffee at Starbucks, and the line was way too long. I was waiting for twenty minutes to get my coffee!
+
+### [114] The Weekend - 1980's
+A: Jim! What's up man! 
+
+B: Charlie! Is that your **ride**? It's **butt** ugly, dude!
+
+A: Don't be a **airhead**! This is a nineteen sixty-nine Chevy Impala! I just need to fix it up a bit. In a couple of months, this baby is gonna be **wicked**! 
+
+B: Not even! Check it out! Now that's a fresh ride!
+
+A: Too bad the driver is a major **dweeb**. Anyone can have a car like that if their daddy is **loaded** like his. 
+
+B: He's coming this way, be cool.
+
+C: Hey guys! What do you think of my automobile? Isn't it **bad to the bone**? 
+
+A: Word! The ladies are gonna be lining up to **get with you** when they see you driving around in that car.
+
+C: You really think so? 
+
+B: For sure!
+
+C: Awesome! 
+
+A: Haha..Psych! you totally fell for it.
+
+C: You are a real **scumbag**, Charlie. When I **do the nasty** with the prom queen, we'll see who has the last laugh. 
+
+B: Dude, **don't have a cow**!
