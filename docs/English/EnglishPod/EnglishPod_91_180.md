@@ -21,7 +21,7 @@ C: Greetings **earthlings**. I come from afar, from a distant galaxy known only 
 
 A: Why are you here? Where did you come from?
 
-C: We have been observing you for the last three thousand years. We have seen the amazing capacity that humans have to create **such wonders as** the Taj Mahal or masterpieces such as the Haffner symphony.Unfortunately, your intelligence and creativity does not come without **consequence**. Your **ambition** and desire for more will be your **downfall**, and we are here to save your planet from you.
+C: We have been observing you for the last three thousand years. We have seen the amazing capacity that humans have to create **such wonders as** the Taj Mahal or masterpieces such as the Haffner **symphony**.Unfortunately, your intelligence and creativity does not come without **consequence**. Your **ambition** and desire for more will be your **downfall**, and we are here to save your planet from you.
 
 B: You think you have us figured out? **What gives you the right** to come and judge us? **Who are you to play God** with our fate? 
 
@@ -535,3 +535,39 @@ A: Haha..Psych! you totally fell for it.
 C: You are a real **scumbag**, Charlie. When I **do the nasty** with the prom queen, we'll see who has the last laugh. 
 
 B: Dude, **don't have a cow**!
+
+### [115] Daily Life - I Don't Feel So Good
+A: Are you okay, man? You don't look very well. 
+
+B: Ugh, I feel terrible. I went out last night with Trevor and things **got a little out of hand**.
+
+A: Nice! So, where did you guys go? 
+
+B: We hit a couple of local bars, and met up with some friends. **Everything was cool** until Mike came along, and it turned out that it was his birthday yesterday!
+
+A: Oh no! Mike's birthday is a **drinkfest** for sure! 
+
+B: **Tell me about it**! We drank everything in the bar!
+
+A: Is that why you missed work today? 
+
+B: Yeah. I woke up this morning feeling really **nauseous**. I threw up like five times.
+
+A: Eww! 
+
+B: I was so **dehydrated** that I drank like a gallon of water, and my head has been **pounding** all day. I swear, I'm never going to drink again!
+
+A: Too bad man, tonight is Tracy's going away party and she asked if you were gonna go. 
+
+B: Oh, yeah. I'm there!
+
+### [116] The Office - You Missed The Deadline
+A: And so, I just wanted to check in with you and find out where we are with this project. As you know, you've missed a **fairly** significant deadline last week, and this will negativity impact the team's ability to move forward with the next stages of this project.
+
+B: I know, I'm really sorry that I missed the deadline. But really, it wasn't my fault. You see, we had all of these unexpected technical problems at the last minute, and that I couldn't get into the database and extract the kind of information that I needed for the data analyis. You know, if the tech guys would have done their job and kept the CRM stable, then I wouldn't have missed my deadline. 
+
+A: Oh, come on! An excuse like that is **tantamount to lying**. You're **essentially** blaming the tech team for your time management issues, rather than accepting responsibility for the fact that you were **procrastinating** for the past two weeks. 
+
+B: No, I'm not trying to **pass the buck** here; I know that it was me who is ultimately responsible for getting this done. But the thing is, I could have finished on time if the system hadn't gone down. And you know, with everything I've got going on now, I can't afford to waste time dealing with technical problems. I've got a lot on my plate and there are only twenty-four hours in a day...
+
+A: I'm not going to accept this excuse. You're using these small technical **glitches** **as a crutch** and trying to **rationalize** the fact that you've missed your deadline. Look, we have standards and I expect you to live up to those standards. No more phoney excuses. If you're in over your head, you tell me. No more missed deadlines. Now, I want that data on my desk by nine am!
