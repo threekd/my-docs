@@ -571,3 +571,49 @@ A: Oh, come on! An excuse like that is **tantamount to lying**. You're **essenti
 B: No, I'm not trying to **pass the buck** here; I know that it was me who is ultimately responsible for getting this done. But the thing is, I could have finished on time if the system hadn't gone down. And you know, with everything I've got going on now, I can't afford to waste time dealing with technical problems. I've got a lot on my plate and there are only twenty-four hours in a day...
 
 A: I'm not going to accept this excuse. You're using these small technical **glitches** **as a crutch** and trying to **rationalize** the fact that you've missed your deadline. Look, we have standards and I expect you to live up to those standards. No more phoney excuses. If you're in over your head, you tell me. No more missed deadlines. Now, I want that data on my desk by nine am!
+
+### [117] The Weekend - I'm Sorry I Love You IX
+A: Veronica wait! Come on honey, get back in the car. Let's **talk it over**, okay? 
+
+B: No! I'm tired of your lies! I don't know who you are anymore! 
+
+A: Veronica. It's me, the man that has and always will love you. I'm sorry that I've lied to you. Believe me, it's been so hard for me as well, and **time and again**, I've thought of **coming clean**. But, I couldn't put you, or my mission at risk. It's all over now. My assignment is complete and now I have to go back to India. 
+
+B: What? Are you kidding? Is there anything else I should know before I never see you again? How could you **deceive** me like that?
+
+A: Yes. . . Veronica. . . I know that this isn't the best time and that you probably hate me right now but, I want to be completely **forthright** with you. I know deep in my heart that you are the best thing that has ever happened to me. Veronica. . . will you marry me? Come with me to India baby, I can't make up for everything that's happened, but I can promise you my **undying love**. I will be the most **devoted** husband, and I will **cherish** you always. 
+
+B: Steven. . . I can't just leave everything **at the drop of a hat**! With everything that has happened between us, I just don't know you any more. I just can't **build** a relationship on a **foundation** of lies. I do love you but. . . I can't go with you. I'm sorry. . . I love you. . . 
+
+AIRPORT: This is the last call for flight eight sixteen from Los Angeles to Hyderabad.
+
+C: I'm sorry sir we can't wait any longer you must board the plane. Are you waiting for someone? 
+
+A: I was but, I don't think she is coming. . .
+
+### [118] Daily Life - Baby Talk
+A: Honey, the baby is up again. 
+
+B: **It's your turn**! I went last night. 
+
+A: Fine! Hello **widdle** baby! Why are you crying widdle baby? Oh, I see, you made a doo-doo! 
+
+B: What's going on hun? Why is the baby crying?
+
+A: The widdle baby made a **doo -doo**! 
+
+B: What a good boy! Lets get this **icky diaper** off you.
+
+A: Looky what I have here! Mickey Mouse **jammies**! oopsie-daisy! Did the widdle baby just tinkle all over daddy? 
+
+B: Yes he did! Yes he did! You just made a **wee wee** all over daddy!
+
+A: Hold still while I change this **yucky** diaper. 
+
+C: What going on in here?
+
+A: Oh look it's nana! Say hi to nana! 
+
+C: He's so adorable! I could just **eat him up**!
+
+A: Ok, say bye to nana! Time to go beddy - bye!
