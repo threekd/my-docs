@@ -617,3 +617,41 @@ A: Oh look it's nana! Say hi to nana!
 C: He's so adorable! I could just **eat him up**!
 
 A: Ok, say bye to nana! Time to go beddy - bye!
+
+### [119] The Weekend - Being Scared
+A: Eddie, why are we at this **scary looking** mansion? It's like, ultra **spooky**! 
+
+B: I told you already Shabby, the owner of the house says there is a ghost **haunting** his house so we have to go in and investigate.
+
+C: I don't like this! 
+
+D: Come on guys, stop being such **cowards**. It's a mystery and an adventure!
+
+A: This place **gives me the creeps**! Seriously guys, let's get out of here! I'm getting **goosebumps** just being here! 
+
+C: Shabby is a **scaredy cat**!
+
+D: That laugh came from this room. Let's go and check it out. 
+
+B: Look! A ghost! Run!
+
+### [120] The Weekend - Boxing
+A: Welcome back, boxing fans! My name is Rick Fields, and here with me is the man with an iron jaw, Bob Copeland. 
+
+B: Thank you, Rick! We are coming to you live from Las Vegas! We're in the beautiful MGM Grand Hotel and Casino where the world heavyweight championship is about **to get under way**! 
+
+A: That's right Bob! We are about to witness the legendary Italian Stallion himself, Rocky Balboa, **square off against** his lifetime rival, Apollo Creed! This will be a **gruesome** match for sure. 
+
+B: Both fighters are in the **ring**, and we are about to begin.
+
+C: In the blue corner, weighing in at two hundred and twenty pounds, the former heavyweight champion of the world, "The Master of Disaster", the one and only, Apollo Creed! In the red corner, weighing two hundred and eighteen pounds and with a record of forty-seven wins and thirty-seven **knockouts**, the undefeated, undisputed, heavyweight champion of the world, the "Italian Stallion", Rocky Balboa!
+
+A: There is the bell and this fight is underway! Apollo quickly attacks Rocky with quick strong **jabs**! Rocky **dodges** successfully and counterattacks with a strong right hook! 
+
+B: Apollo is cut! Rocky landed a strong blow to his right eyebrow and cut him!
+
+A: This is his chance! Rocky quickly throws a left, right, another left! Apollo is **getting pounded**! 
+
+B: Apollo recovers with a powerful **haymaker** and catches Rocky off guard! He's down! the ref starts the count!
+
+C: 1,2,3,4,5, . . . . .
