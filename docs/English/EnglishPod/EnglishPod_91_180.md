@@ -655,3 +655,37 @@ A: This is his chance! Rocky quickly throws a left, right, another left! Apollo 
 B: Apollo recovers with a powerful **haymaker** and catches Rocky off guard! He's down! the ref starts the count!
 
 C: 1,2,3,4,5, . . . . .
+
+### [121] Global View - Presidential Speech
+A: Good evening, my fellow Americans. **Three days from now**, after a half-century of service of our country, I shall **lay down** the responsibilities of office as, in a traditional and **solemn** ceremony, the authority of the Presidency is **vested** in my successor. This evening **I come to you with a message of** leave-taking and farewell, and to share a few final thoughts with you, my countrymen.
+
+A: Like every other citizen, I wish the new President, and all who will labor with him, **Godspeed**. I pray that the coming years will be blessed with peace and prosperity for all. 
+
+A: Our people expect their President and the Congress to find essential agreement on questions of great importance, **the wise resolution of which** will better shape the future of our great nation. 
+
+A: My own relations with Congress began on a **remote and tenuous** basis when, long ago, a member of the Senate appointed me to West Point. I then had the pleasure of building more intimate relationship with Congress during the war and immediate post-war period.
+
+A: Finally, we have progressed to the mutually interdependent relationship we've had during these past eight years.
+
+### [122] Daily Life - Supermarket Cashier
+A: Excuse me sir, this is the express **check-out lane** for people that have fifteen items or fewer. It looks like you have more than fifteen items there. 
+
+B: Oh, come on! I have sixteen items! **Cut me some slack**, will ya? 
+
+A: Fine! Please place your items on the **belt** and push your shopping cart through. Do you prefer **paper or plastic**? 
+
+B: Plastic. I also have a couple of **coupons**.
+
+A: No problem, I'll take those. Sir, these coupons **expired** yesterday. 
+
+B: Darn! Oh, well. I guess **it's just not my day**. Thanks anyway.
+
+A: Do you have a **club card** or will it be cash? 
+
+B: Yeah I got a club card. Here you go.
+
+A: Will this be debit or credit? 
+
+B: Debit please. Also, could I get **cash back**? Fifty dollars would be great.
+
+A: Yeah, sure. Your total is seventy-dollars and thirty-three cents. Here is your receipt. Have a nice day.
