@@ -689,3 +689,43 @@ A: Will this be debit or credit?
 B: Debit please. Also, could I get **cash back**? Fifty dollars would be great.
 
 A: Yeah, sure. Your total is seventy-dollars and thirty-three cents. Here is your receipt. Have a nice day.
+
+### [123] The Weekend  - 1990's
+A: Hey four-eyes! What's up man, how have you been? 
+
+B: Not bad, just went to the **mall** and picked up some junk. Check out my new Adidas! 
+
+A: Those are **dope**! You are gonna be getting **mad props** from the **gang**, man. Anyways, have you seen Betty lately? 
+
+B: Dude, **don't even go there**. That girl started **trippin'** cuz I went to the movies with Veronica the other day. **I was like** "look, you knew how I was before you got with me".
+
+A: That's right! You're such a playa, man. Dude, there's Mad Max. Let's go say hi. 
+
+B: Max! What's up! Are you okay? You look like you just saw a ghost.
+
+C: I got an F in English class. My life is over. . . 
+
+A: Dude, get over it! You need to lay off the books for a while and have some fun! Come on, **let's bounce**.
+
+C: Where are we going? Oh, crap. My dad is gonna **go postal** when he finds out about this. 
+
+A: I'm gonna open a can of **Whopass** on you if you don't come with me now!
+
+C: Okay, okay. Geez. . .
+
+### [124] Daily Life - Tools
+A: Alright, ladies and gentlemen. We've been hired to build a **deck** on this here house, and turn this boring and drab lawn into a backyard oasis. There is one catch, though. We've only got one day to finish this, so I'm gonna need everyone to give **one hundred and ten percent** today. It's going to be tough, but we've got a great team here, and I know that together we can tackle this project. That being said, let's get to work! 
+
+B: That's right. Now, remember, we've been over the **plans**, but we really need to make sure that everything is up to code. The home inspectors here are pretty thorough, so please make sure you follow the plans exactly. And remember the carpenter's **rule of thumb**: measure twice and cut once. 
+
+A: Okay, guys. Let's get at it. Bob! Pass me that hammer! The nails won't go in; the wood is too hard. I think I'm gonna need the **nail gun**. That did it!
+
+C: Do me a favor and help me **cut this two-by-four**, will ya? Pass me the **circular saw**, and grab hold of the end of the board. Now help me drill some holes in it so we can place the bolts.
+
+B: I think you should **sand** the edges. Look at all these **splinters**, someone could get hurt. Geez. . . you gotta **take pride in** your work! 
+
+C: Yeah, you're right. Pass me the sander and I'll take care of it.
+
+A: Julia! Get over here with the **level**, **measuring tape** and that box of screws! 
+
+C: Oh, no! Look out below!
