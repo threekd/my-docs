@@ -729,3 +729,103 @@ C: Yeah, you're right. Pass me the sander and I'll take care of it.
 A: Julia! Get over here with the **level**, **measuring tape** and that box of screws! 
 
 C: Oh, no! Look out below!
+
+### [125] Daily Life - No Smoking
+A: It smells like an **ashtray** in here! 
+
+B: Hi honey! What's wrong? Why do you have that look on your face?
+
+A: What's wrong? I thought we agreed that you were gonna **quit** smoking. 
+
+B: No! I said I was going to **cut down** which is very different. You can't just expect me to **go cold turkey** overnight! 
+
+A: Look, there are other ways to quit. You can try the nicotine patch, or nicotine chewing gum. We spend a fortune on cigarettes every month and now laws are **cracking down** and not allowing smoking in any public place. It's not like you can just **light up** like before.
+
+B: I know, I know. I am really, I am trying but, I don't have the **willpower** to just quit. I can't fight with the **urge** to reach for my **pack of smokes** in the morning with coffee or after lunch! Please understand? 
+
+A: Fine! I want a divorce!
+
+### [126] The Weekend - That's Funny!
+AnnoHuenclleor: Hello, everyone, and welcome to **open mic night**! You're in for a real treat as we've got a lot of great **comics** here with us tonight. First up, we have a very funny man coming straight from the state of Montana, Robert Hicks! 
+
+A: Thank you, everyone! Well, what a lovely crowd. You know, there's nothing I love better than **standup comedy**! You know, I've been working on my **routine** for months now, and I've got some real **zingers** for you tonight. Let's start out with some short jokes, how about that? Where do you find a one legged dog? Where you left it.
+
+A: Get it? mmm Anyways. . . What do you call a sheep with no legs? A cloud! 
+
+A: Tough crowd. . . Alright, now you're going to love this joke. It's hilarious! What do cows do for entertainment? They rent moooovies ! moooovies!
+
+A: Okay, Okay, we've got a few **hecklers** in the audience, but this one is good! What does a fish say when it runs into a wall? DAM! 
+
+A: Okay, Last one! Why do gorillas have big **nostrils**? Coz they got big fingers! ! ! !
+
+CrowGd: Get off the stage! You suck! 
+
+A: Thanks everyone that was my time.
+
+### [127] The Weekend - I Love That Song!
+Host: Welcome back, music lovers, to "I Love That Song"! The game show where we test your musical knowledge to the extreme! Let's get started! Team A. . . Guess this tune: Team 
+
+A: Carrying Your Love With Me by George Straight! The genre is country music! 
+
+Host: You are right! one hundred points to team A! Now, for our next cut. 
+
+Team B: Thong Song by Sisqo! I believe the genre is R&B?
+
+Host: One hundred big points for team B! For all our viewers the acronym R&B stands for Rhythm and Blues. On that note, DJ, play our next song! B Team 
+
+B: Superstar by The Carpenters!
+
+Host: And the genre? 
+
+Team B: Um. . . Um. . . Adult Contemporary?
+
+Host: That's right! A hundred points! Uh oh! That sound means it's double or nothing! The songs are more difficult and the points are doubled! Let's hear our next song! 
+
+Team A: Too easy! That song is Kinslayer by the Finnish power metal group, Nightwish!
+
+Host: You are correct! Very impressive team A! And it seems we have a tie! It's time now for the tie-breaker round! Each team will be played three songs and they must tell us the genre of each song in less than five seconds! Team A, are you ready?
+
+Team A: Ready! 
+
+Host: Let's hear it!
+
+Team A: Hip Hop, Classical and Gothic metal! 
+
+Host: You are right! Team B, the pressure is on, if you get all of them right, we will move on to sudden death. If you miss one, you lose! DJ, Let's hear it!
+
+Team B: Rap, Disco and. . . and. . .
+
+### [128] Daily Life - I'm Sorry I Love You X
+Gulam: Steven! Good to see you brother! How are you? How was your trip? 
+
+Steven: It was fine. I've been better but, it's great to be home, I've missed you all! How's mom?
+
+Gulam: She's great! All she ever does is talk about you -her little boy that went to the United States. You're her pride and joy, you know that? 
+
+Steven: Can't wait to see her. And you? What's new with you? 
+
+Gulam: Well, Nisha and I are expecting! You'll have another nephew or niece soon! Steven: That's great! Wow! Congrats! You two are great together, ya know. You have such a beautiful family. I hope one day I can have that.
+
+Gulam: Of course, man! Come on! I mean, everything was set here for you to marry Shalini! You know, she's still pining after you. I don't think she'll ever get over you. 
+
+Steven: What are you talking about? I hardly knew her! How could she be in love with me? I couldn't go through with it even though she is a great woman. No, I left my heart in the United States. I just hope Veronica is happy. 
+
+Gulam: Get over it! You're home now. Everyone here thinks so highly of you; there'll be girls throwing themselves at you. You can marry anyone you want!
+
+Steven: I don't want to marry anyone! I want to marry her! Don't you understand? 
+
+Gulam: You are incorrigible.
+
+Liliana: Steven! My baby how are you! I've missed you so much! 
+
+Steven: Hey, mom! Great to see you!
+
+Liliana: You look so thin! Didn't those Americans feed you? Come come, let's have some chai. By the way. . . There is a girl here waiting for you. 
+
+Veronica: Hi Steven.
+
+Steven: Veronica! How did you get here? How did you know where I live? I waited for you at the airport but you never showed. . . 
+
+Veronica: I also have some little secrets that I haven't told you about, but we can discuss that later. I realized that I was just scared. Scared of how much I love you and of the commitment that marriage requires. I'm here now. Now there is something I wanna ask you. Steven, will you marry me?
+
+Priest: I now declare you, husband and wife. You may kiss the bride.
