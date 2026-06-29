@@ -829,3 +829,100 @@ Steven: Veronica! How did you get here? How did you know where I live? I waited 
 Veronica: I also have some little secrets that I haven't told you about, but we can discuss that later. I realized that I was just scared. Scared of how much I love you and of the commitment that marriage requires. I'm here now. Now there is something I wanna ask you. Steven, will you marry me?
 
 Priest: I now declare you, husband and wife. You may kiss the bride.
+
+### [129] 
+A: We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of these involved our own country. Despite the carnage of these conflicts, America is today the strongest, the most influential and most productive nation in the world. We are understandably proud of this preeminence, yet we realize that America’s leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on how we use our power in the interests of world peace and human betterment.
+
+A: Throughout America’s adventure in free government, such basic purposes have been to keep the peace; to foster progress in human achievement, and to enhance liberty, dignity and integrity among peoples and among nations. Visit A: We pray that peoples of all faiths, all races, all nations, may have their great human needs satisfied; that those now denied opportunity shall come to enjoy it to the full; that all who yearn for freedom may experience its spiritual blessings; that those who have freedom will understand, also, its heavy responsibilities; that all who are insensitive to the needs of others will learn charity; that the scourges of poverty, disease and ignorance will be made to disappear from the earth, and that, in the goodness of time, all peoples will come to live together in a peace guaranteed by the binding force of mutual respect and love.
+
+A: Now, on Friday noon, I am to become a private citizen. I am proud to do so. I look
+
+### [130] 
+A: Hey there, you look a little lost. Are you new here?
+
+B: Yeah how’d you know?
+
+A: You can always spot the newbies. I can give you a few pointers if you want. Were you trying to use
+this machine here?
+
+B: Yeah! I just started my training today and I’m not really sure where to begin.
+
+A: It’s ok, I know how it is. This machine here will work out your upper body, mainly your triceps and biceps. Are you looking to develop strength or muscle tone and definition?
+
+B: Well, I don’t want to be ripped like you! I just want a good physique with weights and cardio.
+
+### [131]
+A: Okay, next question. If Eric **asked you out** on a date, what would you say?
+
+B: Duh! I would say yes! Eric is the most popular kid in school! Okay, my turn. What would you do if you won the lottery?
+
+A: Let’s see.... If I won the lottery, I would buy two tickets for a trip around the world.
+
+B: If you buy me a ticket I will go with you for sure!
+
+A: My dad will **freak out** if I even mention a trip like that!
+
+B: Alright this is a good one. What would your mom say if you told her you are going to get married?
+
+A: If I told her that, she would faint and **have me committed**!
+
+### [132] Daily Life - Mechanic
+A: Howdy! Nice car! What seems to be the problem?
+
+B: I don’t know! This stupid old car started **spewing** white smoke and it just **died on** me. Luckily, I managed to start it up and drive it here. What do you think it is?
+
+A: Not sure yet. How about you **pop the hood** and we can take a look. Hmmm, it doesn’t look good.
+
+B: What do you mean? My daddy gave me this car for my birthday last month. It’s **brand new**!
+
+A: Well missy, the white smoke that you saw is steam from the **radiator**. You overheated your engine so now the **pistons** are **busted** and so is your **transmission**. You should have called us and we could have towed you over here when your car died.
+
+B: Ugh... So how long is this going to take? An hour?
+
+A: I’m afraid a bit more than that. We need to order the spare parts, take apart your electrical system, fuel **pump** and engine and then put it back together again. You are going to have to leave it here for at least two weeks.
+
+B: What! How am I supposed to get to school or go shopping? This is not happening!
+
+### [133]
+A: Ok, let’s go through this one more time. I don’t want anymore ruined or dyed blouses!
+
+B: I know, I know. OK, so I have to separate the colors from the whites and put them in this strange looking contraption so called washing machine.
+
+A: Right. You have to turn it on and program it depending on what type of clothes you are washing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use fabric softener and this detergent when washing.
+
+B: So complicated! Ok, what about this red wine stain? How do I get it out?
+
+A: Since this is a white t-shirt, you can just pour a little bit of bleach on it and it will do the trick.
+
+B: Cool. Then I can just throw everything in the dryer for an hour and its all set right?
+
+A: No! Since you are washing delicates and cotton, you should set the dryer to medium heat and for twenty minutes.
+
+B: You know what? I’ll just have everything dry cleaned.
+
+### [134]
+A: Seriously, I don’t know why we need to get a new TV.
+
+B: Honey I told you already. I can’t appreciate the graphics level and detail of the games on my Playstation 3 on our old TV.
+
+C: Good afternoon folks! How can I be of service today?
+
+B: I’m looking to upgrade to a newer, bigger television set.
+
+C: You’ve come to the right place! What size are you looking for?
+
+A: Just a normal sized TV for our living room.
+
+C: I see. Well this set here is on sale. It’s a forty six inch HDTV screen and has all the works. Three HDMI connectors, USB, VGA and S - Video ports. It even has a DVI port so you can hook up your PC or laptop! This is without a doubt the complete home theater experience!
+
+B: This is exactly what I need! Can you imagine watching movies or playing video games on this thing?
+
+A: Honey, I think it’s a bit too big. I don’t even think it will fit in our living room.
+
+C: Not to worry, we will deliver and install it in your home. It comes with a wall mount so you can just hang it on the wall like a picture!
+
+B: This is great! How much will this set me back?
+
+C: Lucky for you, this is the last one we have in stock so it’s half off!
+
+B: I’ll take it!
