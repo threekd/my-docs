@@ -1,6 +1,6 @@
 ---
-title: EnglishPod_251_300
-permalink: /English/EnglishPod/EnglishPod_251_300/
+title: EnglishPod_251-300
+permalink: /English/EnglishPod/EnglishPod_251-300/
 createTime: 2026/06/30 08:12:54
 ---
 
