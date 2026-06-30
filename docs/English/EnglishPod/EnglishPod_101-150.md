@@ -786,10 +786,65 @@ B: Awesome!
 
 
 ### [138] Daily Life - Renting A Car
+A: Hi, I made a reservation for a mid-size vehicle. The name is Jimmy Fox.
+
+B: I'm sorry, we have no mid-size available at the moment.
+
+A: I don't understand, I made a reservation, do you have my reservation?
+
+B: Yes, we do, unfortunately we ran out of cars.
+
+A: But the reservation keeps the car here. That's why you have the reservation.
+
+B: I know why we have reservations.
+
+A: I don't think you do. If you did, I'd have a car. See, you know how to take the reservation, you just don't know how to hold the reservation and that's really the most important part of the reservation, the holding. Anybody can just take them.
+
+B: But we do have a compact or an SUV if you'd like.
+
+A: Fine. I'll take the compact.
+
+B: Alright. We have a blue Ford Focus for you Mr. Fox. Would you like insurance?
+
+A: Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.
 
 ### [139] The Weekend - Playing Chess
+A: Bobby! Come here, look what I got you!
+
+B: What is that?
+
+A: A chess board! Daddy is going to teach you how to play!
+
+B: Cool!
+
+A: Ok, each player gets 16 pieces. You can be the white ones and I'll play with the black pieces. Now in the front, you set up the pawns. Those are the least valuable pieces and can only move one space forward. When you are about to capture another piece, it can move one space diagonally.
+
+B: What about all these other pieces?
+
+A: See this one that looks like a tower? It's called the rook. The one with the tall hat is called the bishop. See this little horsey? This is called the knight, it's a very important piece so it's best to not let your opponent capture it.
+
+B: And these two? They are husband and wife?
+
+A: That's right! That's the queen and that's the king. If the other player captures your king, he will say "Check Mate" and the game is over! Doesn't this sound fun?
+
+B: Nah! This is boring! I'm gonna go play Killer Zombies on my PlayStation!
 
 ### [140] Daily Life - Buying a Computer
+A: So can you fix it?
+
+B: I'm sorry sir. This computer is not broken or damaged. It's simply just too old! That's why your programs and applications are running slow. There really isn't much I can do.
+
+A: What do you mean? I bought this computer just three years ago!
+
+B: Yes, but technology is ever changing and technology is becoming obsolete faster and faster!
+
+A: Ok, I know where this is going. How much will it cost me to get a new computer?
+
+B: Well, this desktop over here is our latest model. It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte. Of course, it includes a mouse, keyboard and desk speakers.
+
+A: I have no idea what you are talking about. I just want to know if it's good and if I will be able to play solitaire without the computer crashing or freezing all the time!
+
+B: This PC is top of the line and I guarantee it will never freeze! If it does, we'll give you your money back!
 
 ## P141-150
 
@@ -832,6 +887,31 @@ B: Thanks honey! You have such great fashion sense. Now, what am I going to do w
 
 
 ### [143] Daily Life - The Butcher
+A: Hi. What can I get for you?
+
+B: I’d like a half a pound of ground beef, please.
+
+A: Good choice! Our ground beef is extra lean, if you know what I mean.
+
+B: Could I also have half a dozen pork chops and two pounds of boneless chicken breasts?
+
+A: No, no no no chicken breasts at the moment, but we have some nice chicken thighs.
+
+B: No, that won't do. I'll take this smoked ham you have here.
+
+A: Okay, is there anything else?
+
+B: Do you have any other cold cuts? Is this salami and bologna you have here?
+
+A: Yes! It's very fine meat! Made it myself...
+
+B: Sounds good. Okay, that's it.
+
+A: Wait! We have T-bone, rib eye, and sirloin steaks. They are very fresh! Just came from the slaughter house...
+
+B: Mmm... No that's okay, really. I think that's all for today.
+
+A: Okay. That will be thirty-four dollars and fifty cents.
 
 ### [144] Global View - Capital Punishment
 

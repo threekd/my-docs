@@ -43,10 +43,71 @@ B: See? Was that hard? If you would only listen to me more often, you would be b
 
 
 ### [203] Daily Life - Calling Tech Support
+A: Hello, thanks for calling 123TechHelp, I’m Todd. How can I help you?
+
+B: Hello? Can you help me? My computer! Oh man...
+
+C: It’s okay sir, calm down. What happened?
+
+B: I turned on my laptop and it broke! I mean, the monitor went black!
+
+C: Ok, sir, it sounds like you might have a virus.
+
+B: I don’t feel sick,...let me check... Nope! No fever, I’m fine.
+
+C: No, your computer might have a virus, I mean, it has a bad program on it. Maybe that’s why it crashed. I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.
+
+B: Phew! ……Wait a minute, CRASH??!! Spyware? Trojans! What? where? when?!
 
 ### [204] Global View - Understanding a Trial
+A: Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime he did not commit. The prosecution has accused my client of being a pickpocket! I know we have heard the testimony of many people here today, …. people who claim the defendant, my client, stole their wallets. I feel sorry for these victims, I really do……… but my client is innocent!
+
+A: Let’s look at the facts… one: These 'so-called' witnesses did not actually see the defendant steal anything………. two: When the police stopped him, he did not have any of the stolen wallets. There is no evidence.
+
+A: Therefore, Ladies and Gentlemen of the jury, I ask you to think carefully before giving your verdict. My client is innocent!
+
+B: Ladies and Gentlemen of the jury, have you reached a verdict?
+
+C: Yes, your honor. our verdict is……not guilty!
+
+D: Thank you so much! You were great! Thank you for all your hard work!
+
+A: You’re welcome Robert! I knew you were innocent so my job was easy. Take care of yourself, okay?
+
+D: Thanks once again...
+
+A: Hey! Where’s my wallet?
 
 ### [205] The Office - Closing The Deal
+A: I’m glad you could find time to meet with me, Mr. Johnson. I can’t think of a nicer environment for our meeting today, the ambiance here is lovely!
+
+B: No problem, if possible I always combine business with pleasure. Now, let’s hear more about these chocolates you’re offering.
+
+A: Well, as you know, I have recently become the sole distributor for Grangers Gourmet Bon-bons here in the United States. They’re a new manufacturer and are looking to break into the luxury market. Naturally, your restaurant sprang into my mind immediately. I think your brand exemplifies many ofthe same traits as Grangers and serving these chocolates would really add to your reputation for providing elegant, luxurious, first class dining.
+
+B: Hmmm, sounds interesting…. gourmet chocolates , where are they produced? Belgium?
+
+A: Actually, the factory is located in Scotland.
+
+B: Really? I didn’t think they were known for their luxury chocolate production…
+
+A: That’s what makes this such a fantastic opportunity! The government is one hundred percent supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over one thousand units. They’ve also reduced the red tape involved at customs as well. Here, I brought these especially for you, try one!
+
+B: Oh, thanks. Mmm, hmm, creamy texture, smooth….
+
+A: Unique aren’t they? I bet you’ve never tasted anything like it! Quality is assured as I personally visit the factory to make sure no one’s cutting corners with the ingredients. Only the crème de la crème make it through inspection.
+
+B: Yes, very interesting flavors……. Slightly spicy, very unique, that’s for sure. Exactly what ARE the ingredients?
+
+A: I have it on highest authority that this traditional secret recipe has been handed down inthe Granger family for generations. I’m sure you can keep a secret. Buttermilk, cacao beans, sugar and Haggis.
+
+B: Haggis? What’s Haggis?
+
+A: It’s a traditional Scottish delicacy; you take sheep’s liver, heart and lung and stuff it inside ofthe sheep’s stomach.
+
+B: Ah, get back to you.
+
+A: Mr. Johnson? Mr. Johnson?
 
 ### [206] Daily Life - Talking To Your Roomate
 
@@ -116,12 +177,72 @@ B: Do what you have to do! One other thing, don’t tell the rest of the stockho
 
 
 ### [209] Daily Life - Office Gossip
+A: Psssst! Pssssssssst! Hey! Eric, have you heard?
+
+B: Hm? No… go on, tell me, what’s the latest office gossip?
+
+A: Well, you didn’t hear this from me but the rumor is………. is getting a promotion!
+
+B: No way! But… she’s a terrible worker… and you can’t trust her… she’s so two-faced – you can’t believe anything she says!
+
+C: Hey guys, what are you two whispering about?
+B: Oh Hi Paula! How are you?
+
+C: I’ve got some good news! I’m getting a promotion!
+
+A: Congratulations! Eric and I were just saying that you are the best person forthe job….
+
+B: Yes! You’re the best!
 
 ### [210] Daily Life - Meeting the In-laws
+A: Mother, father, I'd like to introduce you to my fiancé, Bob.
+
+B: Hello, Bob. Welcome.
+
+C: Thanks for having me. Nice to meet the both of you. I've heard so much!
+
+D: So Cindy told you about bringing home her last boyfriend, then? Hah, that idiot...
+
+B: Shhh! Thurston, you're going to scare the poor boy. Come in and have a drink. Dinner will be on in just a bit.
+
+D: What'll you be having? Whiskey? Bourbon? Pick your poison!
+
+C: If you have a lemonade that'd be great.
+
+D: Lemona...?
+
+B: Why sure, there's some in the fridge!
+
+A: Mother makes her own lemonade from scratch. It's the best!
+
+D: So what are your hobbies, son? If you want, we can do some hunting tomorrow. I've just picked up a new rifle I've been meaning to try out. Should be a real hoot!
+
+C: Um. I'm not really. eh. I don't really hunt.
+
+D: You don't hunt? Well I'll be...
+
+A: Bob is an animal rights activist. He doesn't believe in harming animals.
+
+B: Dinner's ready! Let's go out to the patio where the pig is roasting.
+
+C: Roast pig? I'm a vegetarian.
 
 ## P211-220
 
 ### [211] The Weekend - Playing Board Games
+A: Hey- Why did you take that money? You are such a cheater! I should send you to jail!
+
+B: I am not cheating. When you pass go, you collect $200, Everyone knows that!
+
+A: Well you can’t just take the money. You have to ask the bank for money. And I’m the banker.
+
+B: Banker?
+
+A: Yes…
+
+B: Can I have my $200 please?
+
+A: Sure. Here you are, $200, Thank you, please come again! Now it's my turn to roll the dice.
 
 ### [212] Global View - Last Will And Testament
 
@@ -202,10 +323,80 @@ A: Very funny! Get a move on! People will be here any minute.
 
 
 ### [216] Daily Life - Health Food
+A: Ok darling, got some pizzas, potato chips, hot dogs and lots of cheese!
+
+B: Oh John, I thought we said we would start eating right! Remember? Our new healthy lifestyle? That’s all junk food!
+
+A: Hrumph! Right, so what did you get?
+
+B: Well, healthy food , of course! I got some whole wheat bread, skimmed milk, fresh fish and organic carrots….
+
+A: Organic? What’s organic? Do we need organic carrots…?
+
+B: They were grown without using any chemicals that are harmful to our health. And yes, John, we need organic carrots….
+
+A: Oh, so organic vegetables are the ‘green’ option, right?
+
+B: Yup, better for the environment and better for us!
+
+A: Wait a minute, that? …Doughnuts? they organic doughnuts, Kelly?
+
+B: …. I like doughnuts.
 
 ### [217] Global View - Volunteering
+A: Thanks a lot for pitching in once again Judy, we really appreciate your help. It seems that at this time of year there are more and more people who are struggling to make ends meet. There aren’t many professional chefs like you who are so generous with their time.
 
+B: Don’t be silly Mark, I’m more than happy to donate my time to a good cause. Volunteering at the soup kitchen has been really rewarding for me. You know, it’s satisfying to provide good meals for those who are less fortunate, I feel like I’m really making a difference in some small way.
+
+A: Well, your skills are definitely appreciated here! The people who come here have fallen on hard times and a delicious hot meal can really bolster their spirits. That smells great! The needy are sure lucky to have you!
+
+B: Thanks Mark!
+
+B: Here you go, enjoy your meal!
+
+C: Thank you my dear, Oh this looks lovely.
+
+B: You’re welcome, Hello sir, today we have…. are you doing here?
+
+D: Hey Judy! I’ll have a little of everything, thanks…. smells great!
+
+B: George, seriously …what are you doing here? I haven’t seen you since our divorce was finalized. You’ve got no right to be here, you’re hardly homeless!
+
+D: Don’t be like that Judy, I really miss your home cooking!
 ### [218] Daily Life - Divorce
+A: Joanne, let’s not make this divorce any more acrimonious than it already is, okay? Let’s just get down to business and start dividing this stuff up fairly, so we can go our separate ways, alright?
+
+B: Fine with me. I just want to get this over with. It’s important we make a clean break. I should have signed a pre-nup.
+
+A: What was that?
+
+B: Nothing! Anyway, you’re right, there’s no reason this has to be nasty. My lawyer tells me you’ve accepted our alimony proposal and the division of property, as well as the custody agreement- I keep the cat and you get the dog. So that’s done…. finally.
+
+A: Let’s not go there, Joanne! Ok, so let’s start with the record collection, I’ll take the albums I contributed and you can have your cheesy disco albums back.
+
+B: Fine, but I’m keeping the antique gramophone as my grandfather gave it to me.
+
+A: I believe that was a wedding present to both of us, Joanne. And you hardly ever use it!
+
+B: He’s my grandfather, and he never really liked you anyway!
+
+A: Whatever! Alright, I’ll concede the silly gramophone, if you’ll agree that I get the silver tea set.
+
+B: How typical, when are you ever going to use a silver tea set? Fine! I don’t want to drag this out any longer than necessary. What’s next? What about these old photographs?
+
+A: Which ones? Let me have a look. Wow, look at that! That brings back memories…. That?
+
+B: Our trip to Italy! I remember that day. We were going to visit the Trevi fountain, and we got caught in the rain….
+
+A: … and you looked so adorable with your hair all wet. I had to take a picture of you standing there in that little alley, smiling and laughing in the rain….
+
+B: Oh, we really did have fun back then didn’t we?
+
+A: Oh, Joanne, are we making a big mistake? I know our relationship has been on the rocks for sometime but are you sure we can’t reconcile and try again? I still love you.
+
+B: Oh Jeff! I love you too! I’m so glad we didn’t have to decide who keeps the motorcycle.
+
+A: The motorcycle? But that’s mine!
 
 ### [219] Global View - Baby Shower
 
@@ -301,10 +492,108 @@ B: Yeah.
 
 
 ### [223] Daily Life - Facial Hair
+A: Ok Sally, we have an artist here to help us. We’ll ask you questions about the bank robber you saw and Paul will draw a picture. Are you ready?
+
+B: Yes, hmmm. Well, he had brown hair…… long hair…… and he had some facial hair…… was brown, too.
+
+A: Good! Ok, the facial hair, was it a beard or a mustache?
+
+B: Both! His mustache was very short and thin, …. on the top of his lip.
+
+C: un-uh hmmm…, like this?
+
+B: Yes, that’s the mustache! But the beard isn’t right, mean, it didn’t cover his whole face…. think it was just on his chin.
+
+A: A goatee? Was it like Paul’s?
+
+B: Ah yes, that’s it, he had a goatee.........
+
+C: Okay, what about sideburns? Did he have sideburns?
+
+B: Um, they were long and thick, yours!
+
+C: Alright, was this the man you saw?
+
+B: Yes, that’s him! Hmmmmm, he looks a lot like you.
+
+A: Hmmm, why yes he does. Paul, where were you on Friday afternoon?
+
+C: What? That’s ridiculous! It wasn’t me! I didn't do anything.
 
 ### [224] Global View - Crime Scene
+A: Alright, Officer McGraw, Give it to me straight, what are we looking at here?
 
+B: Detective MeGee! We’re glad to see you! We could sure use your expertise on this one. It’s a break-in, but nothing seems to have been stolen. We received a call from the Bear family at around ten thirty this morning. They had gone out for a walk before breakfast and came home to this mess! Broken chairs and porridge all over the place! Apparently, Momma Bear had made the porridge a little too hot, you see, and they were waiting for it to cool down.
+
+A: Okay then, let’s start examining the evidence…. Have the forensics team been in yet?
+
+B: Yes sir. They found some fingerprints on the bowls and are analyzing them back at the lab as we speak. Hopefully, they will be able to identify the burglar soon.
+
+A: Hmmmm,Ah ha! What’s this? A strand of golden hair…… this is a very important piece of trace evidence McGraw. It tells me the suspect has long golden hair……. very few men have long golden hair……. our criminal could be a woman……
+
+B: A woman? Was she working alone? Did she have an accomplice?
+
+A: An accomplice? No, no McGraw, she was definitely working alone. See here, there are footprints in the porridge, here on the floor…. footprints, tells me that our suspect is small…. could possibly be a child.
+
+B: A child? Surely not, sir…
+
+A: We must follow the clues, McGraw! The evidence doesn’t lie! Now, let’s reconstruct the crime…… the suspect came in, sat in each chair breaking the smallest one into little pieces. Next, the porridge. she obviously tried to eat it and because it was so hot, she dropped it on the floor…. this mess. interesting. These footprints seem to lead upstairs. McGraw, did your officers clear the scene?
+
+B: Well, there was no one down here… and maybe we forget to check upstairs.
+
+C: Hey! What’s with all the noise? I’m trying to sleep up here!
+
+A: There she is! Get her!
 ### [225] The Weekend - Planning A Crime
+A: Alright, let’s run through this one more time from the top. I will be positioned here, across from the bank on this park bench. Now, according to the intel we got from Jimmy…
+
+B: ah, who’s Jimmy?
+
+A: Jeez Ralph! Pay attention, will ya? Jimmy’s our mole, you know…. the guy on the inside… He’s been snooping and passing on the info to us so we can pull this heist off!
+
+C: Yea, Ralph, clean the moth balls outta your ears and listen up. This here is important , you don’t wanna end up back in the slammer, do ya? Your role is pretty important here, we’re depending on you, man.
+
+B: Ok, ok! I’m listening! moth balls, hrumph…
+
+A: Alright then, …. was I? Oh yeah, ok, so I’ll be the lookout…. here on the bench across from the bank. Nobody moves until I give the go-ahead, Alright? And what’s the go-ahead? …Ralph?
+
+B: You, umm… ah…. yeah, you’ll take off your hat and scratch your head!
+
+A: Right. When I take my hat off and scratch my head, you do what?
+
+B: I get in the box.
+
+C: Right, you get in the box. I’ll make sure it’s all sealed and then, posing as a delivery guy, I'll drop off a ‘special package’ for the manager. Now, according to Jimmy, the bank manager is leaving early on Tuesday 'cause it’s his wedding anniversary. He and the wife are having a romantic rendezvous in the country, so any packages delivered will be left unopened in his office until he gets back late on Wednesday….
+
+A: ……Which gives us access to his office for at least Come hours…. Ralph, this is where you come in…. where are you?
+
+B: I’m standing right next to you Sammy, Sorry Sam, I’m in the box. Right there… in that box.
+
+C: …. what do you do once I deliver you to the manager’s office?
+
+B: I stay in the box until the bank has closed, . I get out of the box.
+
+A: …. then? What next, Ralph? Oh for Pete’s sake! This is never going to work.
+
+B: Hey, give me a chance here, fellas! I, um, I crack the safe . then, thenI take the money…. then I… ummmmm, I get back in the box.
+
+C: 'Atta boy Ralph! In the morning I come back to the bank, say there’s been a mix-up with the delivery I made and take the ‘special package’ back here.
+
+A: Alright, let’s get some sleep… it’s a big day tomorrow fellas!
+
+C: A perfect plan, Sammy! It went off without a hitch!
+
+A: Let’s open this up and get Ralph out here so we can start counting the money!
+
+B: Phew! I sure am glad to see you guys! I was sure getting lonely with no one to talk.
+
+C: That’s nice, ok how much!
+
+B: Huh?Uh,, really, really, really glad?
+
+A: Money, Ralph! Money!
+
+B: Oh man, I knew I forgot something…….
 
 ### [226] Global View - Fundraiser
 
@@ -402,6 +691,39 @@ B: Ah! Not onme! Ow!
 
 
 ### [229] Daily Life - Buying Men’s Shoes
+A: Hi! I am looking for a pair of shoes for my son.
+
+B: Sure thing! Here we are! If you're looking for dress shoes, we have several different styles of Oxfords for boys. We also carry athletic shoes, hiking boots.
+
+A: Oh Jacob, how about these sneakers?
+
+C: Mom? They've got Velcro.
+
+A: Well, then how about these? What is this style called?
+
+B: They're tennis shoes. They're very popular with teens and young adults.
+
+C: Oooo, Mom, can I get these?
+
+A: What are those?
+
+C: They're Chuck Taylor's! Everyone has them! Can I, please?
+
+A: I don't know. Would they go with your clothes? The backs are really high. and the way the tongue just sticks up. They're almost like a boot. And the sole doesn't look like it would have a very good grip.
+
+C: They're only forty-five dollars! And they've got cool fluorescent orange shoelaces! Mom?
+
+A: Ok, try them on.
+
+B: What size are your feet?
+
+A: He is a size nine.
+
+B: We'll try a size forty-three on you first and see how that fits.
+
+A: A what?
+
+B: They come in European sizes. He should be a size forty-three. I'll be right back.
 
 ### [230] The Weekend - Gardening
 
@@ -428,6 +750,33 @@ B: Well, good luck with your garden, especially con- sidering we are inthe dry s
 ## P231-240
 
 ### [231] Daily Life - Buying Women’s Shoes
+A: Hi, excuse me Miss? I'm looking for a dress shoe. My usual pair that I've had for years have finally been stretched out of shape. They don't provide any support anymore.
+
+B: Sure, what kind of shoe are you looking for? We've got strappy sandals, sleek high heels, edgy pumps, or if you're looking for something a little more practical, we've got Mary Janes, ballerinas.
+
+A: Show me some classic high heels, please.
+
+B: Ok, right this way. What color did you have in mind?
+
+A: Black. Classic.
+
+B: Of course. We've got this style here that is very popular. Because it's an open-toe shoe, you can wear it any time of the year. They look great on everyone.
+
+A: Umm. too shiny. And I wear pantyhose with my shoes so let's look for a closed-toe shoe.
+
+B: Ok, these are a very nice pair of leather shoes with a two-inch heel so they are very comfortable.
+
+A: I don't like the pointed toes. Let me take a look at what else you have. Too high. That one looks like the back would cut into my heel. I have a high instep so I doubt that one will fit properly. I don't want bows. I find slingbacks very uncomfortable. Those might as well be stilettos. Too modern. Ah, finally, this is what I'm looking for.
+
+B: What size?
+
+A: Seven-and-a-half.
+
+B: Here we are How does it fit?
+
+A: Hmmm. not good. They're too tight. The length is right, but the shoe is too narrow and it's pinching my toes. And there'd be no room for my insoles. You know what? I don't think I have the patience for this today. They just don't make shoes like they used to. I'll come back another time.
+
+B: Have a nice day, Ma'am.
 
 ### [232] Daily Life - Toys
 

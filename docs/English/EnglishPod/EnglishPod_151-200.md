@@ -32,8 +32,44 @@ A: Interesting. I think that question is better suited for my philosophy class. 
 
 
 ### [152] The Office - Cut It Out
+A: Hey, Mary, can you cut that out?
+
+B: Cut what out I'm not doing anything.
+
+A: The tapping of your pen on your desk. It’s driving me crazy.
+
+B: Fine! By the way would you mind not slurping your coffee every time you have a cup!
+
+A: I don’t slurp my coffee. And plus, how can you hear it when you're shouting into your phone all the time?
+
+B: You 've got to be kidding me! You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to shoot the breeze?
+
+A: Look, we have a lot of accumulated anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I’m willing to forgive and forget and if you are.
+
+B: Fine. Let’s call a truce. I’ll try to more considerate and to keep the noise down
+
+A: Yeah, I'll try to do the same. So, I was wondering you wanna go out to dinner Friday night?
 
 ### [153] Daily Life - Homesick
+A: Tom! How are you? We missed you at the party last night. Are you ok?
+
+B: I don’t know. I didn't really feel like going out. I guess I'm feeling a little homesick.
+
+A: Come on We've been through this already! Look, I know the adjustment was hard when you first got here, but we agreed that you were gonna try and deal with it.
+
+B: I was. It’s just that the holidays are coming up and I won’t be able to home because I can’t afford the airfare. I'm just longing for some of the comforts of home, like my mom’s cooking and being around my family.
+
+A: Yeah, it can get pretty lonely over the holidays. When I first got here, I’d get depressed and nostalgic for anything that reminded me of home. I almost let it get to me, but then I started going out, keeping myself busy and before I knew it, I was used to to it.
+
+B: I see what you mean, but I 'm still bummed out.
+
+A: Ok how does this sound: let's get you suited up and hit the dance club tonight. I hear that an awesome DJ is playing and there will be a lot of pretty single girls there!
+
+B: You know, I could really go for that. You don’t mind being my wingman for tonight?
+
+A: Not at all! It be fun! It will be like a boys night out... well kinda...
+
+B: Great! I must warn you though, whatever happens, don't let me go on a drinking binge. Trust me, it's not a pretty picture!
 
 ### [154] The Weekend - Rock Band
 
@@ -307,6 +343,17 @@ A: They’ll never take me alive!
 
 
 ### [168] The Weekend - Cooking A Thanksgiving Dinner
+A: Hello everyone and welcome back to our show. Today we are going to learn how to cook the perfect thanksgiving turkey! I will share a secret that I have kept for over 30 years on how to cook the perfect, most mouth watering, juiciest turkey in the world! Let's get started!
+
+A: First of all, we must bring out or key ingredient; whiskey. You see, the grains used to make whiskey along with the alcohol, brings out the flavor of the turkey meat. Let's pour 1 cup of whiskey on the turkey, and serve yourself a cup as well! Cheers! Ahhh! That's good 12 year whiskey right there. Ok, back to our turkey. Preheat your oven to 475 degrees Fahrenheit. Now have another cup of whiskey.
+
+A: Now that the oven is hot, we place our bird on a rack inside a roasting pan. Let's add some whiskey to give some extra flavor and let's have another cup. That hit the spot. There we go, we can leave it in there for the next 45 minutes. In the meantime, lets have another sip of whiskey and start with our delicious pumpkin pie.
+
+A: Lightly whisk together 2 eggs and the extra yolk in a large bowl. Once that's ready we can put sugar, spices such as cloves, grated nutmeg and cinnamon with some cream and dark rum into a saucepan. Slowly bring up to simmering point stirring occasionally. Now you may notice that we are using some dark rum in this pie. This is because the richness of the pumpkin is beautifully enhanced by the dark rum, so to celebrate this great occasion, yourself a glass! Cheers!
+
+A: Now that we have finished with the filling, let's Bake the pie for 45 to 50 minutes until the filling has puffed up around the edges and the center is almost set. ALl done! A cup of rum to celebrate the completion of this great thanksgiving dinner!
+
+A: After waiting for an hour, and having a couple of drinks, it's time to check on our turkey! Take the turkey out of the oven, pick the turkey off of the ground. Don't worry, it will add flavor to this recipe. Now also remove the pie from the oven and serve while still hot! Cheers and happy thanksgiving!
 
 ### [169] The Weekend - Roller Coaster
 
@@ -840,7 +887,15 @@ B: That’s why it was so weird traveling from Beijing to LA! Because of the hug
 
 
 ### [192] Global View - Natural Disasters
+A: Those are the headlines for today, and now for the international weather report with Mike Sanderson.
 
+B: Thank you, Bob! This past week has been the beginning of Armageddon for many, a series of unprecedented meteorological events occurred around the world. In Switzerland, a major avalanche was reported in the Alps. Fortunately, no one was injured. Due to to the extreme cold this winter, a blizzard has struck the US Midwest, causing classes in schools and universities to be temporarily canceled.
+
+B: Moving to to Latin American, Ecuador has suffered a six month drought that has not only affected farming, but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country. In Chile, a major earthquake that registered seven point five on the Richter scale struck the southern region. Losses are reported to be in the billions. Authorities have not yet released an official statement.
+
+A: Not a great week for the world! Any good news?
+
+B: I'm afraid not, Bob. One of the major volcanoes in Mexico has erupted, causing major floods and landslides in the region. Meanwhile, Mexico 's coast has been hit by hurricane Liliana and officials say that all the seismic activity leads them to believe that a tsunami may hit Central America, affecting Honduras, Guatemala and Panama. That's all the news we have for today, but stay tuned for updates on the six o'clock news. Back to you Bob.
 ### [193] Daily Life - Building Your Dream Home
 
 A: Mr. and Mrs. Robinson! Let’s get straight to it. You have saved up your money for years and are now ready to build your dream home. What did you have in mind?
