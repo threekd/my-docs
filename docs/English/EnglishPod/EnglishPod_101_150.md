@@ -1,217 +1,14 @@
 ---
-title: EnglishPod_91_180
-createTime: 2026/06/01 08:19:20
-permalink: /English/EnglishPod/14wybo4y/
+title: EnglishPod_101_150
+permalink: /English/EnglishPod/EnglishPod_101_150/
+createTime: 2026/05/25 10:49:02
 ---
 
 # EnglishPod
 
 ## P91-180
 
-### [91] The Weekend - Aliens
-A: Oh honey, this is so romantic! I have never seen so many stars before! It's beautiful! 
-
-B: See that **constellation** there? That's Orion! And the very bright star? Well, it's not a star since it doesn't blink. That's actually Venus. 
-
-A: What's that big flashy one? 
-
-B: I don't know. . . I think it's a UFO!
-
-C: Greetings **earthlings**. I come from afar, from a distant galaxy known only to a few. 
-
-A: Why are you here? Where did you come from?
-
-C: We have been observing you for the last three thousand years. We have seen the amazing capacity that humans have to create **such wonders as** the Taj Mahal or masterpieces such as the Haffner **symphony**.Unfortunately, your intelligence and creativity does not come without **consequence**. Your **ambition** and desire for more will be your **downfall**, and we are here to save your planet from you.
-
-B: You think you have us figured out? **What gives you the right** to come and judge us? **Who are you to play God** with our fate? 
-
-C: Silence human! It is that **belligerent** attitude that has caused years of pain and **anguish** among yourselves! Now you will pay the price!
-
-### [92] The Weekend - 1950's
-A: **Heya**, Tracy. How are you doing?
-
-B: I'm **swell**, Sandy!
-
-A: Hey listen, you wanna go to the **sock hop** with me this Friday? It'll be a blast! 
-
-B: First of all it's the **Sadie Hawkins dance**. The girls gotta ask the guys. Also. . .
-
-A: Oh, right. So when are you gonna ask me? **I've had my eye on** you for a while. 
-
-C: Hey, buddy. **Ease off** my girl, man. Or do you want a **knuckle-sandwich**?
-
-B: **Cool it**, guys. 
-
-A: Your girl? Says who?
-
-C: Says me, **pipsqueak**! 
-
-### [93] Intermediate - Volleyball
-A: It's a beautiful day here in New Zealand at the Men's Volleyball world championship. My name is Rick Fields and I'm joined by the man with the plan, Bob Copeland. 
-
-B: Thank you, Rick. We've got a very exciting **encounter** **ahead of us** today as two **powerhouse** teams, Brazil and China, face off against each other and try to qualify for the next round. **Without a doubt**, both teams are in top shape and this **will prove to be** a competitive match.
-
-A: The ref signals the start of the game and here we go. Ribeiro serves and China quickly receives the ball. Chen **bumps** it to the setter, and. . . a very nice **set** by Chen!
-
-B: Xu **spikes** it! Wow, what a great hit! The Brazilian blockers anticipated the play and tried to block him but he managed to get the ball in! **Great play**. 
-
-A: It's China's **service** now. What a superb **jump serve** by Li, oh, and we have a let serve. The ball was coming in fast and almost made it over the net.
-
-B: Brazil calls for a time out and we'll be right back, after a short commercial break.
-
-### [94] Global View - Big Bang Theory
-A: **What's up**? You don't look too good. 
-
-B: Yeah, my head hurts, that's all. I've been in physics class all day. It's killer!
-
-A: I liked physics. It's all math, really; arcs, curves, velocity, cool stuff. 
-
-B: Yeah, yeah, but today's lesson was all about the creation of the universe.
-
-A: A physics class about the creation of the universe? That's some pretty unscientific language there. Sounds more religious to me. 
-
-B: It's all religion. Take the theory of the Big Bang. How is it possible that all of the stuff in the universe comes from an explosion? That's no better than Atlas carrying the globe on his back or African myths about turtles and stuff. 
-
-A: Turtles? Whatever. . . Look, all that's required for the creation of **matter** is an imbalance of **particles** and **anti-particles**. At least, that's what the math says.
-
-B: Math, sh. . math. What's the evidence? 
-
-A: There is evidence! You know Edwin Hubble? He's the guy who in the early twentieth century was the first scientist to measure the **drift of matter** in the universe, **thus** **advancing notions** of an expanding universe. What would it be expanding from? Well, the Big Bang. . . DUH! 
-
-B: Anyway, it's just a theory. Why do people go around **touting** theories? Where's the **rigor** in that?
-
-A: Dude, don't **equivocate**. A theory only becomes a theory after withstanding **rigorous** testing. You slept through class, didn't you? 
-
-B: Agh! You're making my head hurt again! Quit with the questions!
-
-### [95] Daily Life - Talking About a Past Event
-A: Mike! What's going on, man! Long time no see! 
-
-B: Hey, Pat! Yeah, I haven't seen you in **ages**! How's it going?
-
-A: This is going great! It's funny running into you like this. Small world there! Just last week I **ran into** Matt as well. 
-
-B: Yeah? How's he doing?
-
-A: He's doing well. We went out for a couple of beers and the funniest thing happened. 
-
-B: Oh yeah?
-
-A: Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden, Matt saw a mouse run under his chair and he completely **lost it**! He started **freaking out**, and screaming. . . 
-
-B: Ha ha, really? 
-
-A: Yeah, and the funniest thing was, that he jumped on to his chair and started **shrieking** like a girl. You should have been there! Everyone was **staring** and laughing. . . it was hilarious!
-
-B: Ha Ha.
-
-### [96] The Weekend - 1960's English
-A: Hey man. . . I really like your **pad**. Those lava lamps are **far out**! Thanks for letting me **crash** here tonight. 
-
-B: It's no problem, brother! I wanted a pad where people could come, listen to music and just hang loose, you **dig** what I'm saying?
-
-A: I dig it man! We could **throw a bash** here and make it a really happening scene! 
-
-B: Yeah man, that would be **groovy**! Hey, I gotta **split** for a while, are you OK here by yourself?
-
-A: Don't worry about me brother. . . You go **take care of business**. 
-
-B: Alright, peace out.
-
-### [97] Daily Life - Weather Forecast
-A: . . . And now, let's go to Kenny Williams for today's weather **forecast**. 
-
-B: Thank you Bill, and good morning Salt Lake City!
-
-A: What's the weather looking like today, Kenny? 
-
-B: Well, it's a bit of a mixed bag in Utah today; we've got heavy cloud cover here in Northern Utah, and we're calling for **scattered showers** throughout the day, with a day-time high of forty-five degrees.
-Now, if we move down to the south of the state, we can see that **a cold front is moving in**. We can expect clear skies, but it will be quite cold, with temperatures **hovering** around the thirty degree mark.
-
-A: It's a chilly day folks, so don't forget your coats! What about tomorrow Kenny? Do you have good news for us? 
-
-B: Well, it'll be a rainy day for Northern Utah; we can expect some **isolated downpours** in the morning. Winds will be **coming in from** the North East, with **gusts** reaching twenty-three miles per hour. Salt Lake City can expect the rain to turn to **sleet** in the evening. Things are looking a bit better for the South; we'll see cloudy skies with a chance of showers. Later in the day, we can expect partly cloudy skies, with a forecast high of thirty-eight degrees.
-
-A: You heard it folks! It's gonna be **a cold one**! 
-
-B: That's right, Bill. We will have more later on today on the six o'clock news. That's the weather forecast for this morning.
-
-### [98] Daily Life - Flattering
-A: Valerie! Hi! Wow how have you been? **It's been such a long time**! 
-
-B: Darlene! Indeed, it's been a while! How have you been? Wow, you look amazing! **I love what you've done with** your hair!
-
-A: Really? Thanks! I went to that hair salon you told me about, but enough about me! Look at you! God! **You haven't aged a day**! What is your secret! 
-
-B: Ha ha, come on! Well, I've been watching what I eat, and I work out three times a week. **By the way, I heard** your son recently graduated! 
-
-A: Yes, my little Paul is finally a doctor. They grow up so fast you know.
-
-B: **He is such a handsome guy**. He gets his **looks from** his mother of course! 
-
-A: Thank you! What about your daughter, Pamela? I heard she has passed the **bar exam** and married recently.
-
-B: Oh yes. She had a beautiful wedding in Cozumel Mexico and we all attended. 
-
-A: Such a lovely girl. I hope my Paul is lucky enough to find a girl like that someday!
-
-B: But of course! Well, **it's been great talking to you**, but I have to get going. 
-
-A: Same here! We will catch up soon, maybe over coffee!
-
-B: That would be great! Give me a call! 
-
-A: See you soon! Bye! Ugg. . . I can not stand that woman or her **obnoxious** daughter.
-
-### [99] Global View - Movie Review
-A: Welcome back movie lovers to another ” Premier Movie Review”. My name is Richard Clarke and I am joined today by the very **erudite** David Watson. 
-
-B: Thank you Dick.Today we are going to talk about the movie ” Lion King”. Tell me, **what is your impression of this film**? 
-
-A: Well, I think this film is simply a **fable**, **depicting** man's eternal greed for power, and in my opinion, it's a very fine film. Even despite **the accusations of plagiarism** of traditional folk tales from other countries. The musical score was amazing, the animation was very well done, and the story was simply **enchanting**. 
-
-B: I think otherwise. Even though the animation was technically strong, and as you say, the score and songs performed by Elton John were great, the film lacks a certain originality; it lacked heart. And I would dare to say, it was too predictable. 
-
-A: Predictable! How! Come on Dave, It's a G-rated movie! It's for the kids! It's not a thriller!
-
-B: Well, that's just it. It did have some very dramatic and intense scenes. For example when Mufasa dies, or the dark, **grim portrayal** of Scar. Even so, the film is linear. Mufasa dies, Simba runs away thinking it's his fault. Falls in love and returns to retake what is rightfully his. It's just too cliché. 
-
-A: How can it be **cliché**? It's a fable! It's telling a time-honoured story! The movie make a point of how the hunger for power leads to corruption, and teaches children the value of respect, life and love. 
-
-B: You have always been so soft, Dick!
-
-A: Open your heart Dave. Don't shut us out. 
-
-B: Anyway... That's all for today folks! Join us next time as we talk about; How to lose a guy in 10 days. I'm sure you'll love that one Dick!
-
-### [100] Daily Life - Where are you from?
-A: Where to, miss?
-
-B: Hi! Crenshaw and Hawthorne, at the Holiday Inn that is on that corner.
-
-A: **Sure thing**. So, where are you flying in from?
-
-B: From China.
-
-A: Really? You don't look very Chinese to me, **if you don't mind me saying so**.
-
-B: It's fine. I am actually from Mexico. I was in China on a business trip, visiting some local companies that manufacture bathroom products.
-
-A: Wow sounds interesting! **Excuse me if I am being a bit nosy but**, how old are you?
-
-B: Don't you know it's rude to ask a lady her age?
-
-A: **Don't get me wrong**! It's just that you seem so young and already doing business overseas!
-
-B: Well thank you! In that case, I am 26 years old, and **what about yourself**?
-
-A: I am 40 years old and was **born and raised** here in the good old U.S, although I have some Colombian **heritage**.
-
-B: Really? That's great! Do you speak Spanish?
-
-A: Uh...yeah...of course!
-
-B: Que bien! Entonces podemos hablar en espanol!
+## P101-110
 
 ### [101] The Weekend - 1970's
 A: Hey man! **How's it hanging**? 
@@ -458,6 +255,8 @@ A: Oh yeah! Almost forgot! I need to take fundamental linguistics, consumer psyc
 
 B: Wow, you are going to be busy this semester! Okay, here you go. You are registered now; you'll have to make your first **tuition** payment before classes start.
 
+## P111-120
+
 ### [111] The Weekend - Golf
 A: Good morning golf **aficionados**! My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland. 
 
@@ -656,6 +455,8 @@ B: Apollo recovers with a powerful **haymaker** and catches Rocky off guard! He'
 
 C: 1,2,3,4,5, . . . . .
 
+## P121-130
+
 ### [121] Global View - Presidential Speech
 A: Good evening, my fellow Americans. **Three days from now**, after a half-century of service of our country, I shall **lay down** the responsibilities of office as, in a traditional and **solemn** ceremony, the authority of the Presidency is **vested** in my successor. This evening **I come to you with a message of** leave-taking and farewell, and to share a few final thoughts with you, my countrymen.
 
@@ -851,6 +652,8 @@ A: It’s ok, I know how it is. This machine here will work out your upper body,
 
 B: Well, I don’t want to be ripped like you! I just want a good physique with weights and cardio.
 
+## P131-140
+
 ### [131]
 A: Okay, next question. If Eric **asked you out** on a date, what would you say?
 
@@ -883,12 +686,13 @@ A: I’m afraid a bit more than that. We need to order the spare parts, take apa
 
 B: What! How am I supposed to get to school or go shopping? This is not happening!
 
-### [133]
+### [133] Daily Life - Doing Laundry
+
 A: Ok, let’s go through this one more time. I don’t want anymore ruined or dyed blouses!
 
 B: I know, I know. OK, so I have to separate the colors from the whites and put them in this strange looking contraption so called washing machine.
 
-A: Right. You have to turn it on and program it depending on what type of clothes you are washing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use fabric softener and this detergent when washing.
+A: Right. You have to turn it on and program it de- pending on what type of clothes you are wash- ing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use fabric softener and this detergent when washing.
 
 B: So complicated! Ok, what about this red wine stain? How do I get it out?
 
@@ -900,14 +704,16 @@ A: No! Since you are washing delicates and cotton, you should set the dryer to m
 
 B: You know what? I’ll just have everything dry cleaned.
 
-### [134]
+
+### [134] Daily Life - Buying a TV
+
 A: Seriously, I don’t know why we need to get a new TV.
 
 B: Honey I told you already. I can’t appreciate the graphics level and detail of the games on my Playstation 3 on our old TV.
 
 C: Good afternoon folks! How can I be of service today?
 
-B: I’m looking to upgrade to a newer, bigger television set.
+B: I’m looking to upgrade to a newer, bigger televi- sion set.
 
 C: You’ve come to the right place! What size are you looking for?
 
@@ -926,3 +732,271 @@ B: This is great! How much will this set me back?
 C: Lucky for you, this is the last one we have in stock so it’s half off!
 
 B: I’ll take it!
+
+
+### [135] Daily Life - Cheer Up
+
+A: Ok... I’ll talk to you later. Bye
+
+B: Carrie, are you ok? You seem a bit down.
+
+A: I just got off the phone with my boyfriend. He is always getting upset and losing his temper over nothing. It’s so hard to talk to him at times.
+
+B: Maybe it’s just that he is stressed out from work or something. He does have a pretty nerve wracking job you know.
+
+A: Yeah but, he is always in a really foul mood. I try to find out what’s bothering him or get him to talk about his day but, he always shuts down and brushes me off.
+
+B: Men are like that you know. They can feel ner- vous, anxious or on edge and the only way they can express it is by trying to hide it through ag- gressiveness.
+
+A: I guess you are right. What do you think I should do? He wasn’t always this grouchy you know...
+
+B: Talk to him, try to cheer him up when he is down and if that doesn’t work, I say get rid of him and get a new one!
+
+A: You are something else you know that?
+
+
+### [136] Global View - Gambling
+
+A: Did you hear? The state is thinking of legalizing gambling in our city! Soon we are gonna have amazing hotels and casinos here which will be good for our business!
+
+B: Are you serious? Gambling is a vice industry built on deception and fed by the intentional exploita- tion of human weakness for the sole purpose of monetary gain! It disgusts me.
+
+A: What are you talking about? How does it exploit people?
+
+B: Well, to begin with, Gambling is addictive, ruins marriages, destroys families and bankrupts com- munities. Once you are addicted it is very diffi- cult to stop. People have lost their houses, cars and been left out on the street after becoming addicted. Secondly, it exploits because men be- come addicted to gambling most often because of the action and risk. Women gamble to escape, and senior citizens will start gambling for the so- cial interaction. Underage gamblers often start gambling on sports with friends and then illegal bookies.
+
+A: Geez! Now that I think about it, maybe legalizing gambling isn’t such a good idea! Although, I have been to Las Vegas, and I didn’t become addicted or anything like that.
+
+B: You cannot predict who will become addicted to gambling. Now excuse me, I have a protest rally to organize!
+
+
+### [137] Daily Life - Getting Internet Service
+
+A: Welcome to Galanet. How can I help you?
+
+B: Hi. I would like to get an internet plan for my house.
+
+A: Of course. We have three different plans with dif- ferent prices you can choose from. The first one is the cheapest but most basic plan which is thirty dollars a month. This is for broadband internet with a download speed of five hundred and twelve kbps.
+
+B: I have no idea what kbps means. I just want to be able to get online, play games and chat with my friends. Oh, and watch movies online as well.
+
+A: Well, this connection might be a bit too slow for your needs. I suggest you get the premium pack- age for fifty dollars a month which includes a con- nection speed of two megabytes. That way you can play games online without any lag. This pack- age also includes a wireless router and a personal firewall absolutely free!
+
+B: Do I have to pay an installation fee?
+
+A: Lucky for you, this month we aren’t charging our normal installation fee. You are saving yourself 100 bucks right there! And we’ll throw in this pen drive!
+
+B: Awesome!
+
+
+### [138] Daily Life - Renting A Car
+
+### [139] The Weekend - Playing Chess
+
+### [140] Daily Life - Buying a Computer
+
+## P141-150
+
+### [141] Daily Life - What If? Part 2
+
+A: This is the good life! We have it good don’t you think?
+
+B: Yeah of course! Although, don’t you ever wonder what ”could have been”?
+
+A: What do you mean?
+
+B: Well, sometimes I think of how things could have turned out if I had done things a little differently.
+
+A: For example?
+
+B: Like for example, if I hadn’t studied architecture, I would have become an artist like I wanted to.
+
+A: I see. Yeah now that I think of it, I wouldn’t have gotten married if I hadn’t moved to this town and met Sally.
+
+B: You see! Everything happens for a reason! We wouldn’t even have met if I hadn’t been in that car accident ten years ago!
+
+A: Well, I have no regrets!
+
+B: I’ll drink to that!
+
+
+### [142] The Weekend - What Do I Wear?
+
+A: Honey come on! We are going to be late! Hon- estly, you take longer getting ready than I do!
+
+B: I was drying my hair and ironing my shirt! Can you come here for a sec? I need your help.
+
+A: What is it? Why are all these clothes on the bed?
+
+B: I don’t know what to wear! Ok, give me your opin- ion. Do you like the way this looks? The striped short sleeved shirt with this checkered sweater and my lucky sandals. I like the cut and hemline of these shorts so I think I’ll wear these as well.
+
+A: Are you joking? What am I going to do with you? We are going to a dinner party not the beach! Wear the shirt with the silk tie I bought you and these corduroy pants. It’s chilly outside so you can wear this coat.
+
+B: Thanks honey! You have such great fashion sense. Now, what am I going to do with my hair?
+
+
+### [143] Daily Life - The Butcher
+
+### [144] Global View - Capital Punishment
+
+A: Do you think we should be tougher on crime?
+
+B: Well, it depends on what you mean.
+
+A: For example, we could bring back the death penalty for murder, give longer prison sentences for lesser offences and lock up juvenile offenders.
+
+B: Those really sound like Draconian measures. Firstly, what do you do about miscarriages of justice if you’ve already put innocent people to death?
+
+A: You’d only use capital punishment if you were ab- solutely sure that you’d convicted the right person.
+
+B: But, there’ve been many cases of wrongful con- viction where people have been imprisoned for many years. The authorities were sure at the time, but later it was shown that the evidence was unreliable. In some cases, it’d been fabricated by the police.
+
+A: Well, no system of justice can be perfect, but surely there’s a good case for longer prison sen- tences to deter serious crime.
+
+B: I doubt whether they could act as an effective de- terrent while the detection rate is so low. The best way to prevent crime is to convince people who commit it that they’re going to be caught. It doesn’t make sense to divert all your resources into the prison system.
+
+A: But if you detect more crimes, you’ll still need pris- ons. In my reckoning, if we could lock up more juvenile criminals, they’d learn that they couldn’t get away with it. Soft sentences will merely en- courage them to do it again.
+
+B: Yes, but remember that prisons are often schools for criminals. To remove crime from society, you really have to tackle its causes.
+
+A: Well, if I were president, I would impose tougher laws and punishment. I would have a peaceful so- ciety based on fear of punishment, not conscious- ness of doing the right thing.
+
+B: You sound like a dictator!
+
+A: Well if it works, why not?
+
+
+### [145] Daily Life - Chicken Pox
+
+A: What’s wrong with you? Why are you scratching so much?
+
+B: I feel itchy! I can’t stand it anymore! I think I may be coming down with something. I feel light- headed and weak.
+
+A: Let me have a look. Whoa! Get away from me!
+
+B: What’s wrong?
+
+A: I think you have chicken pox! You are contagious! Get away! Don’t breathe on me!
+
+B: Maybe it’s just a rash or an allergy! We can’t be sure until I see a doctor.
+
+A: Well in the meantime you are a biohazard! I didn’t get it when I was a kid and I’ve heard that you can even die if you get it as an adult!
+
+B: Are you serious? You always blow things out of proportion. In any case, I think I’ll go take an oat- meal bath.
+
+A: Ewww!
+
+
+### [146] Global View - Animal Rights
+
+A: You should have seen the T.V. show that was on last night, the topic it covered was really interest- ing; animal rights.
+
+B: Do you really believe in that? If they are going to focus on something, they should do it on civil rights. ’
+
+A: Yes, but we can t deny that animals are vulnera- ble, defenseless, and are completely at the mercy of human beings.
+
+B: I understand your point, but we continue to have transgressions against human rights. If so much ’ attention weren t devoted to the topic of animals, we would then concentrate more on saving a hu- man being instead of protecting a koala. ’
+
+A: You can t compare apples and oranges; I be- lieve that both topics are important and that we ’ can t ignore them, the mistreatment of animals can cause a great environmental imbalance.I be- lieve that governments should prohibit activities like poaching.
+
+B: Well, you are right on that point. This is the reason ’ that I don t buy leather and I try to buy synthetic products. ’
+
+B: At least you re doing your part. My contribution is to have a pet in the house that I treat like a member of the family. ’
+
+A: As long as you don t treat it better than your wife, ’ it s fine.
+
+
+### [147] Daily Life - The Argument
+
+A: Wow, that terrible movie is finally over. Next time I’m picking the film, because I don’t want to end up seeing a chick flick.
+
+B: Well you should have picked, in the end you al- ways complain about everything.
+
+A: Not everything, just this film. Even the title is ridiculous; and it’s so long, those are the two and a half most wasted hours of my life, so much so that I’m thinking about asking them to give me my money back.
+
+B: I’m thinking of taking you back home. I thought we could have a nice evening, but you’re always so negative.
+
+A: I’m only complaining about a movie that I could have rented or bought and then thrown in the garbage.
+
+B: You see, that’s what I’m talking about, I can’t stand your sarcastic jokes anymore
+
+A: Next time, go with your gay friend who is more in touch with his feelings.
+
+B: Well he’s more of a man than you are; at least he appreciates love stories.
+
+A: Love? More like one-night-stands.
+
+B: Don’t criticize Mario or else I’ll start on those fat, drunk friends of yours; they’re no saints.
+
+A: My friends? Fat? What about those whales you call friends?
+
+B: You’re unbearable; you can walk home, I’m leav- ing.
+
+
+### [148] Daily Life - Paranoid
+
+A: Dan, Dan dude. You have to come over to my house right now!
+
+B: Is everything Ok?
+
+A: Just get over here!
+
+A: Come in! Quickly!
+
+B: So, since when is your house a bank?
+
+A: What do you mean?
+
+B: I mean, what’s up with the and locks and iron bars on your windows.
+
+A: Security Dan, security! You can never be too safe you know! A lot of sickos out there. Just the other day they caught that peeping tom red handed! Had a high power telescope and binoculars by his window.
+
+B: Whats the matter with you? Why are you acting all paranoid?
+
+A: Paranoid? I’m not paranoid! I’m cautious! You see Dan, we have to be on guard at all time! Peo- ple just invade your privacy as if they knew you! Telemarketers, solicitors, even your bank! They have way too much information! I like to keep ev- erything on a need to know basis
+
+B: OK, well, what did you want to see me about?
+
+A: You are being watched! Be careful Dan! Be care- ful!
+
+
+### [149] Daily Life - Moving
+
+A: Ok, that’s fine. Bye.
+
+B: What happened?
+
+A: That’s it, my lease is up. I have to move.
+
+B: What? Why? Can’t you renew it?
+
+A: The owner apparently is selling this place to make way for the construction of a parking lot
+
+B: Well, I can help you pack. We should start looking for a new place for you ASAP.
+
+A: I think I might move in with my parents for a couple of months until I can find something. You know how hard it is to find a decent place around here. I’m gonna have to put most of my stuff in storage for a while.
+
+B: Well, let me know if there’s anything I can do to help out.
+
+A: Actually, would you mind looking after my pet tarantula and snake for a couple of weeks?
+
+B: hehe.. sure
+
+
+### [150] The Weekend - Bug Spray
+
+A: The mosquitos are biting me!
+
+B: Me too, I can’t stop scratching. They are every- where! Sneaky little jerks.
+
+A: Do you have any bug spray?
+
+B: No, I forgot to buy some.
+
+A: Then we’ll have to put up with it.
+
+B: We can cover ourselves with beer! That way if they bite us, they’ll get drunk and fall asleep
+
+A: That’s without a doubt, the best idea youve had! Lets do it!
+
+B: Run! They are thirsty for more!
