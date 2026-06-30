@@ -54,6 +54,22 @@ B: Perfect. Thank you. Bye...
 
 A: Sir, wait! ! I need your address!
 
+### [053] The Weekend - Head Chef
+
+A: ...Right away sir, your order will be ready shortly. Jean Pierre, we have another special for table seven!
+
+B: I’m working as fast as I can! We’re really in the weeds! Where is my sous chef? Luc! I need you to peel more potatoes. Marie, chop some onions and carrots for the stew.
+
+A: Jean Pierre another special! We’re really packed tonight! We’re running low on wine. Is there any left in the cellar?
+
+C: Sorry I’m late, everyone. Wow, we are doing really well tonight!
+
+B: Harry, stop talking and get over here I need this sauce stirred and the fish needs to be butchered and buttered.
+
+C: Ok, I’m on it!
+
+A: Jean Pierre, table seven has requested to see the chef! I think they are food critics from Cuisine Magazine
+
 ### [54] Intermediate - I'm Sorry But I Love You V
 A: Honey, of course I forgive you! I love you so much! I've really missed you. I was wrong to get upset over nothing. 
 
@@ -74,6 +90,20 @@ A: What's wrong? Why are you asking these questions?
 B: This baby isn't mine! I was away the first week of February at a training seminar! 
 
 A: I... I... no, it can't be...
+
+### [055] Intermediate - Hockey
+
+A: Hello everyone! I’m Rick Fields, and here with me is Bob Copeland.
+
+B: Howdy folks, and welcome to today’s game! You know, Rick, today is a key game between Russia and Canada. As you know, the winner will move on to the finals.
+
+A: That’s right, and it looks like we’re just about ready to start the match. The ref is calling the players for the face-off... and here we go! The Russians win possession and immediately set up their attack! Federov gets checked hard into the boards!
+
+B: Maurice Richard has the puck now, and passes it to the center. He shoots! Wow what a save by the goalie!
+
+A: Alright, the puck is back in play now. Pavel Bure is on a breakaway! He is flying down the ice! The defenders can’t keep up! Slap shot! He scores
+
+B: What an amazing goal!
 
 ### [56] Daily Life - Planning a Bank Robbery
 A: All right, so this is what we are going to do. I've carefully mapped this out, so don't screw it up. Mr. Rabbit, you and Mr. Fox will go into the bank wearing these uniforms. We managed to get replicas of the one the guards wear when they pick up the money. 
@@ -109,6 +139,24 @@ D: The elevator has some sort of malfunction. Just take the stairs dude. What fl
 
 B: I have to go up fifteen floors! Never mind. Made it! There is the copier!
 
+### [058] Daily Life - This Is Your Captain Speaking
+
+A: And the next thing you know, we’re running to- wards the... Oh...did you feel that?
+
+B: Yeah, don’t worry about it; we’re just going through a bit of turbulence.
+
+C: Ladies and gentlemen, this is your captain speak- ing. It looks like we’ve hit a patch of rough air, so we’re going to have a bit of a bumpy ride for the next several minutes, and...
+
+A: This why I hate flying... Oh!
+
+C: At this time, I’d like to remind all of our passen- gers to fasten their seat beltsand remain seated until the fasten seat belt sign is turned off. Please ensure that all cabin baggageis carefully stowed under the seat in front of you. I’ll be back back to update you in a minute.
+
+A: Did you hear that? Brent!
+
+B: Don’t worry about it. This is totally normal. It hap- pens all the
+
+C: Ah, ladies and gentlemen, this is your captain again. We’ve got quite a large patch of rough air ahead of us, so for your safety, we will be sus- pending in-flight service. I would ask all in-flight crew to return to their seats at this time. I would also like to ask that all our passengers refrain from using the lavatory until the seat belt sign has been switched off We can expect...
+
 ### [59] Job Interview I
 A: Okay, so let's go over everything one more time. I really want you to get this job! 
 
@@ -127,6 +175,26 @@ A: Sounds good, and so, why do you want to work with them?
 B: Well, as I said they're the industry leaders, they have a really great growth strategy, amazing development opportunities for employees, and it seems like they have strong corporate governance. They're all about helping companies grow and **unleashing potential**. I guess their **core values** and mission really **resonated** with me. Oh, and they offer six weeks' vacation, stock options and bonuses... I'm totally going to cash in on that. 
 
 A: You idiot! Don't say that! Do you want this job, or not?
+
+### [060] Intermediate - New Guy in Town IV
+
+A: All right, drag her over here, and help me tie her up.
+
+B: I can’t believe she fell for it! She is a lot more gullible than I thought!
+
+A: Well, you gotta admit, my acting was brilliant!
+
+B: Whatever. I was the one that convinced her to come. Look, she’s waking up!
+
+C: What’s going on? Ellen? What are you doing?
+
+A: The cat’s out of the bag, you witch! You can stop pretending, now!
+
+B: Yeah Lois , we know who you are! Now, we want some answers! Why are you here?
+
+C: Fools! You don’t know who you’re dealing with! You can’t stop me!
+
+B: Run!
 
 ## P61-70
 
@@ -224,6 +292,26 @@ B: To be honest, I **struggle** with organization and time management. Punctuali
 A: Great... Well, let me tell you that I am very pleased with this interview. We are short-listing our candidates this week, and next week we will inform our short listed candidates of the day and time for a second interview with our CEO.
 
 B: Great, thanks a lot! I hope to hear from you! Good bye.
+
+### [066] The Office - Calling The Office
+
+A: Ello-hay, Aniel-day eaking-spay, ow-hay ay-may I elp-hay ou-yay
+
+B: Ay-hay, Aniel-day, Ulie-jay ere-hay
+
+A: Ay-hay, Ulie-jay, ow-hay are ou-yay? ’
+
+B: Actually, I m eeling-fay ite-quay ill otday-tay. ’
+
+A: I m orry-say oo-tay ear-hay, at-they. ut-way is ong-wray? ’
+
+B: I ink-thay I m oming-cay own-day ith-way uh- they oo-flay. I ave-hay a eadache-hay, a ore-say ’ oat-thray and I m eeling-fay ighly-slay everish- fay. ’
+
+A: I ee-say. O-say ou re-yay alling-cay in ick-say?
+
+B: Es-yay, I uz-way oping-hay oo-tay ake-tay uh-they ay-day off oo-tay eecover-ray.
+
+A: Ok, en-they. Ay-tray and et-gay ome-say est-ray.
 
 ### [67] The Weekend - Soccer
 A: Welcome back, soccer fans. My name is Rick Fields and, as always, I am joined by my commentating **wingman**, Bob Copeland. 
@@ -352,6 +440,28 @@ B: Okay, I got it! This is the ring finger!
 
 A: That's my middle finger, Nick. This is my ring finger!
 
+### [074] Daily Life - What Am I Thinking!
+
+A: Miss, your salad.
+
+B: Mmm, looks good! I’m positively famished.
+
+A: And for you, sir...
+
+C: Thank you.
+
+A: Enjoy. B,C:Thank you.
+
+C: I can’t believe she’s on a date with me! I’m so lucky! I must be the luckiest guy in the world! I want to scream at the top of my lungs, ” I’m the luckiest dude in the world! ” Oh, shut up! Don’t be such a dumb ass. She’s so hot. Wait, I can’t say that. That’s sexist. She’s so hot, She’s making me sexist. Oh my god! I’m such a tool. Okay, get it together. Uhh, she’s eating salad. Oh right, I have a salad. Oh, crap! Which fork do I use? Dammit! She’s going to think I’m a moron. What the hell are all these forks for? Which one did she use? Okay, chill... be cool, be cool. Just take a fork... eat your salad...
+
+B: Um... I...
+
+C: Yrmf? Mmmm. Sorry, you were saying?
+
+B: You’re eating my salad.
+
+C: Oh, yes... it’s delicious...
+
 ### [75] Daily Life - Going To The Dentist
 A: Hey, Gary, great to see you again. Please have a seat. So tell me, what seems to be the problem? 
 
@@ -364,6 +474,38 @@ B: Is it gonna hurt?
 A: No, not at all! Just lay back and relax. 
 
 A: Ok, spit.
+
+### [076] Daily Life - Learning Simple Math
+
+A: Alright, children, let’s review. Tommy! Pay atten- tion!
+
+B: Sorry Miss Kadlec.
+
+A: Okay, Crystal, now tell me, what’s four plus eleven?
+
+C: Um...fifteen!
+
+B: Miss Kadlec always asks Crystal; she’s such a teacher’s pet.
+
+A: Okay...and what about fifty six minus sixty?
+
+C: Um... negative four!
+
+A: Very good... twelve times twelve?
+
+B: Very good. Suck up.
+
+C: One hundred and forty four!
+
+A: Zero divided by one?
+
+C: Zero!
+
+A: How did you know that? Okay, smarty pants, the square root of two!
+
+B: Bet you’re not going to get that one, know-it-all.
+
+C: Um...one point four one four two one three five...
 
 ### [77] The Weekend - F1 Racing
 A: Welcome back racing fans! My name is Rick Fields and, as always, I am joined by my partner in crime, Bob Copeland. 
@@ -401,6 +543,28 @@ B: And then what happened?
 
 A: Well, as we say, the rest is history.
 
+### [079] The Weekend - Funky Galaxy Battles
+
+A: They are breaking through! Set your blasters to full power!
+
+B: Excellent job. Search the ship, she’s gotta be in here somewhere... bring her to me!
+
+C: Lord Hater, we have a survivor here...
+
+B: Where is she? Don’t make me destroy you, tell me where she is!
+
+D: Not so fast! She will no longer be your prisoner! It’s time you and I settled this once and for all!
+
+B: You are unwise to think you can defeat me. You know nothing of the power of the obscure side!
+
+D: We will stop you...
+
+C: Lord Hater! We have an unidentified spacecraft taking off from the rear dock! They somehow managed to escape our tractor beam!
+
+B: After them!
+
+C: They are accelerating towards the speed of light We lost them, sir...
+
 ### [80] Daily Life - I'm Sorry I Love You VII
 A: Thank god you **showed up** when you did! He's insane! Do you think we should call the police? 
 
@@ -430,6 +594,30 @@ A: Don't you worry, I'll take care of everything! (starts cutting) Oh my god! I 
 B: Um... no. 
 
 A: Okay, but you are going to be my masterpiece!
+
+### [082] Daily Life - New Guy In Town V
+
+A: What the heck is going on! Did you see that? What was that thing?
+
+B: I don’t know! I’m just glad we made it out! Look, there is a police car! Help! Help! Please stop!
+
+C: Howdy man. What seems to be the problem? Is this man bothering you?
+
+A: Officer, officer, there is, like, a witch creature back there! We tied her up but she broke free, and she was about to have us for dinner!
+
+C: Okay, calm down, calm down. Lemme see your eyes please. Have you been drinking tonight, son?
+
+B: We are telling the truth! She’s in there! We sus- pected her of being a kidnapper or rapist but it turns out she’s an alien or something.
+
+C: Okay, calm down, calm down. Lemme see your eyes please...
+
+B: Ugg! Seriously! Are you gonna help us or not?
+
+C: Okay, let’s go have a look, shall we? Hello? Is anyone in here?
+
+A: Be careful! She might be hiding!
+
+C: It’s perfectly safe... there isn’t anyone...
 
 ### [83] Daily Life - Using The ATM
 A: Stupid girl, making me spend so much money, now I have to get it from the ATM... 
@@ -475,6 +663,26 @@ B: Oh, well that's okay, I'll get some later, thanks... Really it's no problem.
 
 A: Just **hang on** there a sec. Can I get a **price check** on " Fun Times Ribbed Condoms" please! 
 
+### [085] The Weekend - Baseball
+
+A: Hello baseball fans, and welcome back to today’s game! My name is Rick Fields and of course, I am here, once again, with the man that seals the deal, Bob Copeland.
+
+B: It’s a beautiful day to see two world class teams face each other and fight for their right to be called champions.
+
+A: Well, the national anthem has just been sung, and the umpire has started the game. It’s time to play ball!
+
+B: Roger Vargas is up at bat. The pitcher winds up and strike one!
+
+A: A very nice curve ball by the pitcher. The catcher gives him the sign, he winds up and Vargas gets a line drive!
+
+B: The players are scrambling to get the ball. Vargas gets to first base and he’s still going! The out- fielder throws it to second! Vargas slides! He’s safe!
+
+A: Great play!
+
+B: We have a runner on third and up at bat is Brian Okami! There’s the pitch, he hits it! It’s going, going, that ball is gone!
+
+A: Home run by Okami! That puts this team ahead by two as we are at the bottom of the fifth inning here at Richie Stadium!
+
 ### [86] Daily Life - Looking for an Apartment
 A: Hi! We are the Christianson's! We are here to see the apartment. 
 
@@ -495,6 +703,26 @@ A: Yes, it is! Too good to be true...
 B: The living room and dinning room are quite **spacious** as you can see, and down this hall, here's the **master bedroom**. It has a huge **walk-in closet** and an en suit bathroom. We can't go in there yet as the police... I mean the clean up crew hasn't finished. 
 
 A: What do you mean? What's in here?
+
+### [087] The Weekend - Star Trek The Lost Generation
+
+A: Captain, we’re under attack by an unidentified ship.
+
+B: Damage report.
+
+A: We’ve sustained heavy damage to the engines. We’ve lost our warp drive.
+
+B: We’ll have to attempt to make contact. This is Captain Picard of the Starship Enterprise. We don’t wish to engage. What is the nature of this attack?
+
+C: I am Captain Kor of the ship Klothos. Your ship attacked our search party...
+
+B: No! You’re not doing it right! Kor doesn’t sound like that. His voice is deeper!
+
+C: I am Captain Kor of the ship Klothos. Your sh...
+
+B: No! If you can’t do a Klingon voice, I’ll have to find a more serious Star Trek fan actor who actually can, OK?
+
+C: But... but... I already bought the Klingon suit! And the wig...
 
 ### [88] Daily Life - Will You Be My Girlfriend?
 A: Hey, you're early! Where's everyone? 
