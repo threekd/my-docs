@@ -684,19 +684,19 @@ B: What! How am I supposed to get to school or go shopping? This is not happenin
 
 ### [133] Daily Life - Doing Laundry
 
-A: Ok, let’s go through this one more time. I don’t want anymore ruined or dyed blouses!
+A: Ok, **let’s go through this one more time**. I don’t want anymore ruined or **dyed** blouses!
 
-B: I know, I know. OK, so I have to separate the colors from the whites and put them in this strange looking contraption so called washing machine.
+B: I know, I know. OK, so I have to separate the colors from the whites and put them in this strange looking contraption so called **washing machine**.
 
-A: Right. You have to turn it on and program it de- pending on what type of clothes you are wash- ing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use fabric softener and this detergent when washing.
+A: Right. You have to turn it on and program it de- pending on what type of clothes you are wash- ing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use **fabric softener** and this **detergent** when washing.
 
 B: So complicated! Ok, what about this red wine stain? How do I get it out?
 
-A: Since this is a white t-shirt, you can just pour a little bit of bleach on it and it will do the trick.
+A: Since this is a white t-shirt, you can just pour a little bit of **bleach** on it and it will **do the trick**.
 
-B: Cool. Then I can just throw everything in the dryer for an hour and its all set right?
+B: Cool. Then I can just throw everything in the dryer for an hour and it's **all set** right?
 
-A: No! Since you are washing delicates and cotton, you should set the dryer to medium heat and for twenty minutes.
+A: No! Since you are washing **delicates** and cotton, you should set the dryer to medium heat and for twenty minutes.
 
 B: You know what? I’ll just have everything dry cleaned.
 
@@ -705,7 +705,7 @@ B: You know what? I’ll just have everything dry cleaned.
 
 A: Seriously, I don’t know why we need to get a new TV.
 
-B: Honey I told you already. I can’t appreciate the graphics level and detail of the games on my Playstation 3 on our old TV.
+B: Honey I told you already. I can’t **appreciate** the **graphics** level and detail of the games on my Playstation 3 on our old TV.
 
 C: Good afternoon folks! How can I be of service today?
 
@@ -715,7 +715,7 @@ C: You’ve come to the right place! What size are you looking for?
 
 A: Just a normal sized TV for our living room.
 
-C: I see. Well this set here is on sale. It’s a forty six inch HDTV screen and has all the works. Three HDMI connectors, USB, VGA and S - Video ports. It even has a DVI port so you can hook up your PC or laptop! This is without a doubt the complete home theater experience!
+C: I see. Well this set here is on sale. It’s a forty six inch **HDTV** screen and has all **the works**. Three HDMI connectors, USB, VGA and S - Video ports. It even has a DVI port so you can **hook up** your PC or laptop! This is without a doubt the complete home theater experience!
 
 B: This is exactly what I need! Can you imagine watching movies or playing video games on this thing?
 
@@ -723,7 +723,7 @@ A: Honey, I think it’s a bit too big. I don’t even think it will fit in our 
 
 C: Not to worry, we will deliver and install it in your home. It comes with a wall mount so you can just hang it on the wall like a picture!
 
-B: This is great! How much will this set me back?
+B: This is great! **How much will this set me back**?
 
 C: Lucky for you, this is the last one we have in stock so it’s half off!
 
