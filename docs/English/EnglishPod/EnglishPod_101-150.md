@@ -688,7 +688,7 @@ A: Ok, **let’s go through this one more time**. I don’t want anymore ruined 
 
 B: I know, I know. OK, so I have to separate the colors from the whites and put them in this strange looking contraption so called **washing machine**.
 
-A: Right. You have to turn it on and program it de- pending on what type of clothes you are wash- ing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use **fabric softener** and this **detergent** when washing.
+A: Right. You have to turn it on and program it depending on what type of clothes you are washing. For example for delicates, you should set a shorter washing cycle. Also, be sure to use **fabric softener** and this **detergent** when washing.
 
 B: So complicated! Ok, what about this red wine stain? How do I get it out?
 
@@ -709,7 +709,7 @@ B: Honey I told you already. I can’t **appreciate** the **graphics** level and
 
 C: Good afternoon folks! How can I be of service today?
 
-B: I’m looking to upgrade to a newer, bigger televi- sion set.
+B: I’m looking to upgrade to a newer, bigger television set.
 
 C: You’ve come to the right place! What size are you looking for?
 
@@ -734,32 +734,32 @@ B: I’ll take it!
 
 A: Ok... I’ll talk to you later. Bye
 
-B: Carrie, are you ok? You seem a bit down.
+B: Carrie, are you ok? You seem a bit **down**.
 
-A: I just got off the phone with my boyfriend. He is always getting upset and losing his temper over nothing. It’s so hard to talk to him at times.
+A: I just got off the phone with my boyfriend. He is always getting upset and **losing his temper** over nothing. It’s so hard to talk to him at times.
 
-B: Maybe it’s just that he is stressed out from work or something. He does have a pretty nerve wracking job you know.
+B: Maybe it’s just that he is **stressed out** from work or something. He does have a pretty **nerve wracking** job you know.
 
-A: Yeah but, he is always in a really foul mood. I try to find out what’s bothering him or get him to talk about his day but, he always shuts down and brushes me off.
+A: Yeah but, he is always in a really foul mood. I try to find out what’s bothering him or get him to talk about his day but, he always shuts down and **brushes me off**.
 
-B: Men are like that you know. They can feel ner- vous, anxious or on edge and the only way they can express it is by trying to hide it through ag- gressiveness.
+B: Men are like that you know. They can feel nervous, anxious or **on edge** and the only way they can express it is by trying to hide it through aggressiveness.
 
-A: I guess you are right. What do you think I should do? He wasn’t always this grouchy you know...
+A: I guess you are right. What do you think I should do? He wasn’t always this **grouchy** you know...
 
-B: Talk to him, try to cheer him up when he is down and if that doesn’t work, I say get rid of him and get a new one!
+B: Talk to him, try to **cheer him up** when he is down and if that doesn’t work, I say get rid of him and get a new one!
 
-A: You are something else you know that?
+A: **You are something else you know that**?
 
 
 ### [136] Global View - Gambling
 
-A: Did you hear? The state is thinking of legalizing gambling in our city! Soon we are gonna have amazing hotels and casinos here which will be good for our business!
+A: Did you hear? The state is thinking of **legalizing** gambling in our city! Soon we are gonna have amazing hotels and casinos here which will be good for our business!
 
-B: Are you serious? Gambling is a vice industry built on deception and fed by the intentional exploita- tion of human weakness for the sole purpose of monetary gain! It disgusts me.
+B: Are you serious? Gambling is a **vice** industry **built on** **deception** and fed by the intentional exploitation of human weakness for the **sole** purpose of **monetary** gain! It disgusts me.
 
-A: What are you talking about? How does it exploit people?
+A: What are you talking about? How does it **exploit** people?
 
-B: Well, to begin with, Gambling is addictive, ruins marriages, destroys families and bankrupts com- munities. Once you are addicted it is very diffi- cult to stop. People have lost their houses, cars and been left out on the street after becoming addicted. Secondly, it exploits because men be- come addicted to gambling most often because of the action and risk. Women gamble to escape, and senior citizens will start gambling for the so- cial interaction. Underage gamblers often start gambling on sports with friends and then illegal bookies.
+B: Well, to begin with, Gambling is addictive, ruins marriages, destroys families and bankrupts communities. Once you are addicted it is very difficult to stop. People have lost their houses, cars and been left out on the street after becoming addicted. Secondly, it exploits because men become addicted to gambling most often because of the action and risk. Women gamble to escape, and senior citizens will start gambling for the social interaction. Underage gamblers often start gambling on sports with friends and then illegal **bookies**.
 
 A: Geez! Now that I think about it, maybe legalizing gambling isn’t such a good idea! Although, I have been to Las Vegas, and I didn’t become addicted or anything like that.
 
@@ -772,11 +772,11 @@ A: Welcome to Galanet. How can I help you?
 
 B: Hi. I would like to get an internet plan for my house.
 
-A: Of course. We have three different plans with dif- ferent prices you can choose from. The first one is the cheapest but most basic plan which is thirty dollars a month. This is for broadband internet with a download speed of five hundred and twelve kbps.
+A: Of course. We have three different plans with different prices you can choose from. The first one is the cheapest but most basic plan which is thirty dollars a month. This is for broadband internet with a download speed of five hundred and twelve kbps.
 
 B: I have no idea what kbps means. I just want to be able to get online, play games and chat with my friends. Oh, and watch movies online as well.
 
-A: Well, this connection might be a bit too slow for your needs. I suggest you get the premium pack- age for fifty dollars a month which includes a con- nection speed of two megabytes. That way you can play games online without any lag. This pack- age also includes a wireless router and a personal firewall absolutely free!
+A: Well, this connection might be a bit too slow for your needs. I suggest you get the premium package for fifty dollars a month which includes a connection speed of two megabytes. That way you can play games online without any lag. This package also includes a wireless router and a personal firewall absolutely free!
 
 B: Do I have to pay an installation fee?
 
@@ -873,13 +873,13 @@ B: I’ll drink to that!
 
 ### [142] The Weekend - What Do I Wear?
 
-A: Honey come on! We are going to be late! Hon- estly, you take longer getting ready than I do!
+A: Honey come on! We are going to be late! Honestly, you take longer getting ready than I do!
 
 B: I was drying my hair and ironing my shirt! Can you come here for a sec? I need your help.
 
 A: What is it? Why are all these clothes on the bed?
 
-B: I don’t know what to wear! Ok, give me your opin- ion. Do you like the way this looks? The striped short sleeved shirt with this checkered sweater and my lucky sandals. I like the cut and hemline of these shorts so I think I’ll wear these as well.
+B: I don’t know what to wear! Ok, give me your opinion. Do you like the way this looks? The striped short sleeved shirt with this checkered sweater and my lucky sandals. I like the cut and hemline of these shorts so I think I’ll wear these as well.
 
 A: Are you joking? What am I going to do with you? We are going to a dinner party not the beach! Wear the shirt with the silk tie I bought you and these corduroy pants. It’s chilly outside so you can wear this coat.
 
@@ -923,19 +923,19 @@ A: For example, we could bring back the death penalty for murder, give longer pr
 
 B: Those really sound like Draconian measures. Firstly, what do you do about miscarriages of justice if you’ve already put innocent people to death?
 
-A: You’d only use capital punishment if you were ab- solutely sure that you’d convicted the right person.
+A: You’d only use capital punishment if you were absolutely sure that you’d convicted the right person.
 
-B: But, there’ve been many cases of wrongful con- viction where people have been imprisoned for many years. The authorities were sure at the time, but later it was shown that the evidence was unreliable. In some cases, it’d been fabricated by the police.
+B: But, there’ve been many cases of wrongful conviction where people have been imprisoned for many years. The authorities were sure at the time, but later it was shown that the evidence was unreliable. In some cases, it’d been fabricated by the police.
 
-A: Well, no system of justice can be perfect, but surely there’s a good case for longer prison sen- tences to deter serious crime.
+A: Well, no system of justice can be perfect, but surely there’s a good case for longer prison sentences to deter serious crime.
 
-B: I doubt whether they could act as an effective de- terrent while the detection rate is so low. The best way to prevent crime is to convince people who commit it that they’re going to be caught. It doesn’t make sense to divert all your resources into the prison system.
+B: I doubt whether they could act as an effective deterrent while the detection rate is so low. The best way to prevent crime is to convince people who commit it that they’re going to be caught. It doesn’t make sense to divert all your resources into the prison system.
 
-A: But if you detect more crimes, you’ll still need pris- ons. In my reckoning, if we could lock up more juvenile criminals, they’d learn that they couldn’t get away with it. Soft sentences will merely en- courage them to do it again.
+A: But if you detect more crimes, you’ll still need prisons. In my reckoning, if we could lock up more juvenile criminals, they’d learn that they couldn’t get away with it. Soft sentences will merely encourage them to do it again.
 
 B: Yes, but remember that prisons are often schools for criminals. To remove crime from society, you really have to tackle its causes.
 
-A: Well, if I were president, I would impose tougher laws and punishment. I would have a peaceful so- ciety based on fear of punishment, not conscious- ness of doing the right thing.
+A: Well, if I were president, I would impose tougher laws and punishment. I would have a peaceful society based on fear of punishment, not consciousness of doing the right thing.
 
 B: You sound like a dictator!
 
@@ -946,7 +946,7 @@ A: Well if it works, why not?
 
 A: What’s wrong with you? Why are you scratching so much?
 
-B: I feel itchy! I can’t stand it anymore! I think I may be coming down with something. I feel light- headed and weak.
+B: I feel itchy! I can’t stand it anymore! I think I may be coming down with something. I feel lightheaded and weak.
 
 A: Let me have a look. Whoa! Get away from me!
 
@@ -958,22 +958,22 @@ B: Maybe it’s just a rash or an allergy! We can’t be sure until I see a doct
 
 A: Well in the meantime you are a biohazard! I didn’t get it when I was a kid and I’ve heard that you can even die if you get it as an adult!
 
-B: Are you serious? You always blow things out of proportion. In any case, I think I’ll go take an oat- meal bath.
+B: Are you serious? You always blow things out of proportion. In any case, I think I’ll go take an oatmeal bath.
 
 A: Ewww!
 
 
 ### [146] Global View - Animal Rights
 
-A: You should have seen the T.V. show that was on last night, the topic it covered was really interest- ing; animal rights.
+A: You should have seen the T.V. show that was on last night, the topic it covered was really interesting; animal rights.
 
 B: Do you really believe in that? If they are going to focus on something, they should do it on civil rights. ’
 
-A: Yes, but we can t deny that animals are vulnera- ble, defenseless, and are completely at the mercy of human beings.
+A: Yes, but we can t deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.
 
-B: I understand your point, but we continue to have transgressions against human rights. If so much ’ attention weren t devoted to the topic of animals, we would then concentrate more on saving a hu- man being instead of protecting a koala. ’
+B: I understand your point, but we continue to have transgressions against human rights. If so much ’ attention weren t devoted to the topic of animals, we would then concentrate more on saving a human being instead of protecting a koala. ’
 
-A: You can t compare apples and oranges; I be- lieve that both topics are important and that we ’ can t ignore them, the mistreatment of animals can cause a great environmental imbalance.I be- lieve that governments should prohibit activities like poaching.
+A: You can t compare apples and oranges; I believe that both topics are important and that we ’ can t ignore them, the mistreatment of animals can cause a great environmental imbalance.I believe that governments should prohibit activities like poaching.
 
 B: Well, you are right on that point. This is the reason ’ that I don t buy leather and I try to buy synthetic products. ’
 
@@ -986,7 +986,7 @@ A: As long as you don t treat it better than your wife, ’ it s fine.
 
 A: Wow, that terrible movie is finally over. Next time I’m picking the film, because I don’t want to end up seeing a chick flick.
 
-B: Well you should have picked, in the end you al- ways complain about everything.
+B: Well you should have picked, in the end you always complain about everything.
 
 A: Not everything, just this film. Even the title is ridiculous; and it’s so long, those are the two and a half most wasted hours of my life, so much so that I’m thinking about asking them to give me my money back.
 
@@ -1006,7 +1006,7 @@ B: Don’t criticize Mario or else I’ll start on those fat, drunk friends of y
 
 A: My friends? Fat? What about those whales you call friends?
 
-B: You’re unbearable; you can walk home, I’m leav- ing.
+B: You’re unbearable; you can walk home, I’m leaving.
 
 
 ### [148] Daily Life - Paranoid
@@ -1029,11 +1029,11 @@ A: Security Dan, security! You can never be too safe you know! A lot of sickos o
 
 B: Whats the matter with you? Why are you acting all paranoid?
 
-A: Paranoid? I’m not paranoid! I’m cautious! You see Dan, we have to be on guard at all time! Peo- ple just invade your privacy as if they knew you! Telemarketers, solicitors, even your bank! They have way too much information! I like to keep ev- erything on a need to know basis
+A: Paranoid? I’m not paranoid! I’m cautious! You see Dan, we have to be on guard at all time! People just invade your privacy as if they knew you! Telemarketers, solicitors, even your bank! They have way too much information! I like to keep everything on a need to know basis
 
 B: OK, well, what did you want to see me about?
 
-A: You are being watched! Be careful Dan! Be care- ful!
+A: You are being watched! Be careful Dan! Be careful!
 
 
 ### [149] Daily Life - Moving
@@ -1063,7 +1063,7 @@ B: hehe.. sure
 
 A: The mosquitos are biting me!
 
-B: Me too, I can’t stop scratching. They are every- where! Sneaky little jerks.
+B: Me too, I can’t stop scratching. They are everywhere! Sneaky little jerks.
 
 A: Do you have any bug spray?
 
