@@ -786,27 +786,27 @@ B: Awesome!
 
 
 ### [138] Daily Life - Renting A Car
-A: Hi, I made a reservation for a mid-size vehicle. The name is Jimmy Fox.
+A: Hi, I made a reservation for a **mid-size vehicle**. The name is Jimmy Fox.
 
 B: I'm sorry, we have no mid-size available at the moment.
 
 A: I don't understand, I made a reservation, do you have my reservation?
 
-B: Yes, we do, unfortunately we ran out of cars.
+B: Yes, we do, unfortunately we **ran out** of cars.
 
 A: But the reservation keeps the car here. That's why you have the reservation.
 
-B: I know why we have reservations.
+B: I know why we have **reservations**.
 
 A: I don't think you do. If you did, I'd have a car. See, you know how to take the reservation, you just don't know how to hold the reservation and that's really the most important part of the reservation, the holding. Anybody can just take them.
 
-B: But we do have a compact or an SUV if you'd like.
+B: But we do have a **compact** or an SUV if you'd like.
 
 A: Fine. I'll take the compact.
 
 B: Alright. We have a blue Ford Focus for you Mr. Fox. Would you like insurance?
 
-A: Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.
+A: Yeah, **you better** give me the insurance, because I am gonna **beat the hell out of** this car.
 
 ### [139] The Weekend - Playing Chess
 A: Bobby! Come here, look what I got you!
