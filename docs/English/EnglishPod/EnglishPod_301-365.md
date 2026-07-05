@@ -125,6 +125,23 @@ A: Nice! Let’s go!
 
 
 ### [307] The Office - Small Talk Series - Showing Interest
+A: Hey Michelle, this is my friend James. He's visiting Shanghai from New York.
+
+B: Oh, hi James. Nice to meet you. So, uh. you visiting for business or pleasure?
+
+C: Well, actually a little of both. I'm meeting some business contacts but I'm also taking some Mandarin classes too.
+
+B: That's cool! How's it going?
+
+C: Well, I'm finding the classes pretty tough actually, but I'm having a great time in Shanghai. It's really an amazing city.
+
+B: It sure is. Are you staying for long?
+
+C: Only two weeks unfortunately. I wish I could stay longer but.
+
+B: Well listen, if you need someone to show youthe sights then just call me. I'm having a little get together at my new apartment next week so if you want to drop bythen.
+
+C: That sounds great. I'd love to! Let me take down your number Michelle.
 
 ### [308] Daily Life - Boxers and Briefs
 
@@ -167,10 +184,44 @@ A: It all sounds exquisite! I can’t wait!
 
 
 ### [310] The Office - Small Talk 2
+A: So Michelle, let me introduce you to Maria. She's my colleague from Brazil. Maria, this is Michelle.
+
+B: Hi Michelle. So what do you do here in Shanghai? I mean, what work do you do?
+
+C: I work in advertising right now. How about you?
+
+B: I'm actually inthe wine business.
+
+C: That sounds really great. I love wine myself! Is this your first time to Shanghai Maria?
+
+B: No actually, I often visit. I usually come to China for business at least once a year. Also, I love the restaurants in Shanghai, so that's a good reason to come.
+
+C: Me too. Actually, there's a great Brazilian restaurant I recommend. I mean, the food is delicious butthe service isn't so good. I often like to get together with friends and have a great barbecue there.
+
+A: We should go together some time.
+
+C: Wonderful idea! I'd love that!
 
 ## P311-320
 
 ### [311] The Office - Sorry I’m Late
+A: Okay everyone, shall we begin?
+
+B: Sorry Maggie, but we are missing a few people. Can we hang on a sec?
+
+A: Well, I did say eleven o’clock sharp, and it’s now five past so….
+
+C: Hi everyone, I’m so sorry I’m late. It’s raining cats and dogs outside and I had to wait ages for a taxi.
+
+A: Okay James, take a seat quickly please. Right, the subject ofthe meeting is.
+
+D:Hi guys. Please excuse me ,I was held up in traffic.
+
+A: Right, as I was saying the subject ofthe m…
+
+E: Hi Maggie. I’m terribly sorry. The traffic is murder out there.
+
+A: Sit down Bruno! Okay now, as you are aware, the topic for this meeting is ‘The importance of being punctual’. Who would like to start?
 
 ### [312] The Weekend - Ordering Drinks
 
@@ -198,6 +249,27 @@ C: That’s the idea!
 
 
 ### [313] The Office - Small talk 3
+A: Hey Michelle! Is that you?
+
+B: Wow, Grace! Long time no see! Where have you been?
+
+A: Oh yeah. Well you see I got a promotion, so I moved tothe new Pudong office last September.
+
+B: You did? Congratulations!
+
+A: Thanks a lot. So how are things with you Michelle?
+
+B: Well, same old same oldyou know. Nothing much has changed here.
+
+A: Are you still seeing Chris?
+
+B: No, actually we split up last month.
+
+A: Oh dear. I'm sorry to hear that.
+
+B: But I met a really cute guy last night at a networking party so, ….....well, let's just wait and see......
+
+A: Good for you Michelle!
 
 ### [314] Daily Life - Making A Collect Call
 
@@ -225,16 +297,146 @@ B: I ran out of credit and I also didn’t have twenty five cents N forthe payph
 
 
 ### [315] The Office - Sending A Quote Via Email
+A: Melanie, can you help me with something? We need to finalize the account with the Mexican Embassy and, I need some advice on phrasing this letter correctly in English.
+
+B: Sure Tracy, let me just get my laptop. all set.
+
+A: Okay, so……. toWhom It May Concern, I am writing.
+
+B: Um, Tracy? I think that’s a little too formal. I know you want to be polite but you’ve already made contact with them, so in English you can be more relaxed inthe opening….
+
+A: Okay, more relaxed. Got it…. Hey Sally, what’s up? It’s Tracy here, just.
+
+B: Okay Tracy, now it’s too relaxed! You’ve still got to show some respect. How about starting with “Dear Ms. Cooper, I’m writing to confirm…?
+
+A: Great, okay. “Dear Miss Cooper, I’m writing to confirm the final quotation forthe full page back cover color advertisement you requested forthe spring issue of Voila magazine.
+
+B: That’s great….
+
+A: “ The final costing, including advert design and production, comes to forty-five thousand six hundred RMB. We want payment ten working days before publication or we will cancel the ad. Thanks for…”
+
+B: Woo, okay back up a second Tracy. That’s too direct. Can I suggest you say, " please note thatfinal payment is due two working weeks before publication? You don’t want to offend her.
+
+A: Oops okay. You are right. Then I can just end with “All the best, Tracy”
+
+B: Hmmmm, maybe, but I’d play it safeand just finish with “Yours Sincerely”. That’s more professional.
+
+A: Oh, Melanie you are a life saver, thank you!
 
 ### [316] Daily Life - Small Talk Series 4 - Discussing Recent
+A: Hi Michelle. Do you need to usethe photocopier?
+
+B: Oh hi Jeremy. No please, go ahead. So how are you Jeremy? I was talking to Linda about you only last week.
+
+A: Oh I'm fine thanks. I'm super busy with work actually. Did you hear about the Lawson contract?
+
+B: No, tell me more.
+
+A: Well, I was discussing the contract with Bill and he said that they metthe head of Lawsons last week.
+
+B: And.
+
+A: And hopefully they are going to confirm the deal on Wednesday, fingers crossed
+
+B: That's great news Jeremy. Congratulations! Anyway, I must get back, but give my regards to your wife Monica.
+
+A: I will Michelle. Speak to you soon.
 
 ### [317] The Office - First Paycheck
+A: Hey, Susan. Have you got a sec? I have some questions about my paycheck.
+
+B: You bet, Emily. Pull up a chair.
+
+A: Well, this is my first paycheck here inthe States and there are a few things I don’t understand. First off, what is this FICA, and SUI Y tax, and why are there deductions both for Medicare and for my health insurance plan?
+
+B: OK, let’s start from the top of your pay stub. This number here represents your gross pay.
+
+A: Yes, that’s easy enough to understand.
+
+B: Then here we have a series of deductions. First off are the federal ones. FICA stands for Federal Insurance Contribution Act, or something like that. It’s your federal income tax. And then there’s Social Security and Medicare, which are both federal programs to help you out after you retire or if you were unable to work.
+
+A: All right, I see. So the Medicare isn’t actually a health insurance I can use now.
+
+B: That’s right. Below the federal deductions are the state deductions. There’s the state income tax, and then this SUI SDItax you were asking about is paying into an unemployment and disability fund that our state has set up, but you can see it’s a pretty small quantity that they take.
+
+A: Yeah, I don’t mind giving them a dollar fifty for that. So there are two separate income taxes – one at a state level and one at a federal level?
+
+B: That’s right. Not all states have an income tax. Some use higher property taxes or sales taxes instead.
+
+A: I see. All right, well I think everything else I can figure out on my own. The deductions for health insurance and my 401(K) are pretty self-explanatory. Thanks for your help, Susan.
+
+B: No problem! All those deductions do add up, and nobody’s net pay is as high as they’d like. I can understand why you’d want some explanation.
+
+A: Yeah, I guess it’s the same in the UK, I just never paid much attention. See you later!
 
 ### [318] Global View - Allergies
+A: Argh...I feel terrible, I keep sneezing and my eyes are all watery, what’s wrong with me?
 
-### [319] Daily Life - Small Talk 5 - Brief Talk With A Stranger
+B: Wow, you’re not dying are you, it looks like you have a cold, you should take some medicine.
+
+A: I don’t think it’s a cold, I feel fine if I move a few feet away from my desk.
+
+B: Maybe we should put you into quarantine ha ha, jokes aside, I think you might have an allergy.
+
+A: An allergy? I never thought about that, I don’t think I’m allergic to pollen though and I’m desensitized to bee stings after being stung so many times, Hmm…
+
+A: Ow! Why did you chuck that peanut at me?
+
+B: Just checking if you’re allergic to peanuts, I guess not.
+
+A: Not funny! I could have gone into Anaphylactic Shock.
+
+B: Okay my bad, how about dust? This office is full of it.
+
+A: Yes the whole is office is dusty yet I only feel affected near our desks!
+
+Cat: Meow meow meow
+
+A: You brought your cat into the office?!
+
+B: Yes, it’s Mr Snuffle’s birthday today, I didn’t want him to be alone on his special day!
+
+A: ACHOO! Argh put it away ACHOO!
+
+B: I guess we found the problem, your allergic to cats!
+
+### [319] Daily Life - Small Talk 5 - Brief Talk With A 
+B: A: Oh dear Miss, you are soaked! Wow, it's really raining heavily outside.
+
+B: Yes, it sure is. I had to run here from work! I need to rush as I'm on my lunch break.
+
+A: Well please, why don't you go ahead of me in line? I'm in no hurry.
+
+B: Oh, that's so nice of you! Thank you very much.
+
+A: My pleasure Miss. Actually, could you recommend what to eat here? I've never been here before.
+
+B: Sure. Well, the avocado sandwich is delicious, and it's the healthiest thing on the menu. Personally, I think the beef salad is the tastiest choice. I usually get that. Also, the milkshakes are the best milkshakes in town!
+
+A: Well, thanks for the suggestions.
+
+B: Oh, don't mention it.
 
 ### [320] Global View - Taking The GMAT
+A: I can’t seem to progress up the career ladder no matter how hard I try and I have been here for 2 years already!
+
+B: Well, have you thought of getting an MBA? I heard it does wonders in getting you to the top.
+
+A: An MBA hey… well my degree wasn’t in business, the business schools won’t be interested in me.
+
+B: Nonsense! The business schools measure your ability through a test called GMAT.
+
+A: GMAT? What does that stand for and what will the test contain?
+
+B: Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section. Not only does the test mark you on the number of questions answered but also on the difficulty.
+
+A: Okay this sounds a little tough, how am I supposed to practice for this?
+
+B: Up to you, you could have a one on one session with a tutor or group sessions, you can also use free or private computer software. Going to church might help as well!
+
+A: No matter what I do I’m going to ace this test and go on to become a corporate fat cat!
+
+B: Umm…That’s the spirit!
 
 ## P321-330
 
@@ -264,6 +466,27 @@ A: I’m stuffed!
 
 
 ### [322] The Office - Small Talk 6 - Talking About Yourself
+A: Excuse me, is this seat taken?
+
+B: No, please feel free.
+
+A: Thanks a lot.
+
+B: Do you work in Shanghai?
+
+A: Yes I do. How about you?
+
+B: No, I'm a tourist. This place is amazing! It's much bigger than I imagined, and much more exciting! There's so much to see here.
+
+A: You can say that again! It's much more modern than people imagine. Where are you from?
+
+B: Um, well let's see.....I'm from Kansas originally. A much quieter and more peaceful place than here, that's for sure!
+
+A: Uh huh....
+
+B: But I'm living in Paris right now.
+
+A: Oh Paris! Wonderful, I'd love to visit some time!
 
 ### [323] Daily Life - Cancelled Flight
 
@@ -306,6 +529,21 @@ B: Count me in!
 
 
 ### [325] The Office - Small Talk 7 - Talking About A Trip
+A: Hey Michelle. Good to see you. Are you at lunch?
+
+B: Oh hi Jim. No I just got back. I thought you were on vacation now.
+
+A: No, I wish I was! I just got back from Spain actually.
+
+B: Oh wonderful! Have you been there before or was it your first time?
+
+A: My first time. I've traveled around Europe a lot, but this was my first time to Spain. It was amazing, and the weather was just beautiful! No rain, and just sun, sun, sun....
+
+B: I'm so jealous of you. I've never been anywhere in Europe. I've always dreamed of traveling around and seeing the sights.
+
+A: Well, I really recommend Spain. You really should go.Anyway, it's been great to catch up, but I must be going, this is my floor. Speak again soon I hope.
+
+B: For sure. Take care.
 
 ### [326] Daily Life - Report Card
 
@@ -340,6 +578,25 @@ A: Yeah right, I’ll do it now...
 
 
 ### [328] The Office - Small Talk 8 - Talking About Work
+A: Ah Michelle hi. I was hoping to see you. How have you been? How's the family?
+
+B: Oh hello Mr. Campbell. I'm fine and Jack's doing well. How are you?
+
+A: I'm fine thanks. I got your report this morning. Thank's for that. Are you joining the conference today?
+
+B: Yes, I'm leaving at four pm.
+Mr Campbell
+Good, well we can discuss this more then, but I think the figures are looking very good for this quarter.
+
+B: Yes, me too.
+Mr Campbell
+I'm planning to discuss the advertising budget at the conference. I don't think we should continue with the TV advertising.
+
+B: No, me neither. It's far too expensive.
+
+A: Well, let's discuss this more at the conference. Maybe we can share a taxi there.
+
+B: Yes, sure.
 
 ### [329] Daily Life - Going To The Bakery
 
@@ -383,6 +640,23 @@ A: Great! I’ll make an appointment!
 ## P331-340
 
 ### [331] The Office - Small Talk 9 - Talking About The Weather
+A: Hey Michelle, jump in quick. It's pouring out there!
+
+B: Oh hi Melissa. Are you going to the conference too? I was planning to pick up Mr. Campbell.
+
+A: Yes, he told me. We need to pick him up at his hotel and then go to the conference.
+
+B: Oh I see, okay. So I heard you got married. Congratulations!
+
+A: Ah thank you! I'm very excited. We were going to get married next year, but then we decided to get married on holiday instead. It was wonderful.
+
+B: That sounds so romantic! Jack and I were hoping to get married in Europe next year, but we had to postpone our plans. We just don't have the money!
+
+A: I know what you mean. I think Shanghai is getting more and more expensive, don't you?
+
+B: I sure do. In my opinion it's actually becoming more expensive than back home.
+
+A: Definitely. Oh there's Mr. Campbell. Driver can you stop here please?
 
 ### [332] Daily Life - Setting Up Your Voice mail Message
 
@@ -427,6 +701,21 @@ A: Well, ummm, they...Time for a break! We can talk about it when you get back.
 
 
 ### [334] The Office - Small Talk 10 - General Talk
+A: Hi ladies. Thanks for picking me up. It's awful weather out there!
+
+C: Absolutely. It's been raining for hours.
+
+A: How are you Melissa? Are you okay?
+
+B: I'm great thanks, Mr. Campbell.
+
+C: Do you have any business trips planned soon Mr. Campbell?
+
+A: Of course. I'm always travelling! I will leave for London next Monday, and then I'll fly to Boston from there. It's going to be a busy month. How about you Michelle? Any vacation plans?
+
+C: Yes. Mike and I will travel to Beijing to see Mikes parents for Spring festival, and hopefully next year we will visit London. I hear it's a wonderful city.
+
+A: I couldn't agree more. London is really fantastic. It's my favorite city. I'm sure you'll have a great time.
 
 ### [335] The Weekend - Going To The Playground
 
@@ -471,6 +760,61 @@ A: Hey, honey! Is that you? Don’t eat all the cookies - I want some, too!
 
 
 ### [337] Global View - The Night Before Christmas
+Twas the night before Christmas, when all through the house
+Not a creature was stirring, not even a mouse;
+The stockings were hung bythe chimney with care,
+In hopes that St. Nicholas soon would be there;
+The children were nestled all snug in their beds,
+And mama in her 'kerchief, and I in my cap,
+Had just settled down for a long winter's nap,
+When out onthe lawn there arose such a clatter,
+I sprang from the bed to see what wasthe matter.
+Away tothe window I flew like a flash,
+Tore open the shutters and threw up the sash.
+The moon onthe breast ofthe new-fallen snow
+Gave the lustre of mid-day to objects below,
+When, what to my wondering eyes should appear,
+But a miniature sleigh, and eight tiny reindeer,
+With a little old driver, so lively and quick,
+I knew in a moment it must be St. Nick.
+More rapid than eagles his coursers they came,
+And he whistled, and shouted, and called them by name;
+" Now, Dasher! now, Dancer! now, Prancer and Vixen!
+On, Comet! on Cupid! on, Donder and Blitzen!
+Tothe top ofthe porch! to the top ofthe wall!
+Now dash away! dash away! dash away all!
+As dry leaves that before the wild hurricane fly,
+When they meet with an obstacle, mount tothe sky,
+So up to the house-top the coursers they flew,
+With the sleigh full of toys, and St. Nicholas too.
+And then, in a twinkling, I heard onthe roof
+The prancing and pawing of each little hoof.
+As I drew in my head, and was turning around,
+Down the chimney St. Nicholas came with a bound.
+He was dressed all in fur, from his head to his foot,
+And his clothes were all tarnished with ashes and soot;
+A bundle of toys he had flung on his back,
+And he looked like a peddler just opening his pack.
+His eyes -- how they twinkled! his dimples how merry!
+His cheeks were like roses, his nose like a cherry!
+His droll little mouth was drawn up like a bow,
+Andthe beard of his chin was as white asthe snow;
+The stump of a pipe he held tight in his teeth,
+Andthe smoke it encircled his head like a wreath;
+He had a broad face and a little round belly,
+That shook, when he laughed like a bowlful of jelly.
+He was chubby and plump, a right jolly old elf,
+And I laughed when I saw him, in spite of myself;
+A wink of his eye and a twist of his head,
+Soon gave me to know I had nothing to dread;
+He spoke not a word, but went straight to his work,
+And filled allthe thestockings; then turned with a jerk,
+And laying his finger aside of his nose,
+And giving a nod, upthe chimney he rose;
+He sprang to his sleigh, to his team gave a whistle,
+And away they all flew like the down of a thistle.
+But I heard him exclaim, ere he drove out of sight,
+" Christmas to all, and to all a good-night.
 
 ### [338] Daily Life - Having Leftovers
 
@@ -654,6 +998,41 @@ A: Sounds like you are really getting in shape!
 
 
 ### [346] Global View - All About Wines
+A: Hello there, welcome to Wine World. Let me know if I can help you out at all.
+
+B: Um, yes, please, I could really use some help. I’m going over to my boss’ house for dinner tonight and don’t know what kind of wine I should bring.
+
+A: OK, do you know what kind of food will be served?
+
+B: Well, his wife is Japanese. He said she makes really good sushi.
+
+A: Hmm, that’s a bit of a challenge. Sushi is notoriously difficult to pair with wine. Well, let’s see. have to be a white wine, of course.
+
+B: Why? Wouldn’t a red wine go well with sushi?
+
+A: No, I don’t think so. Sushi is a very delicately flavored food, and red wine would be a jarring contrast. You need a white wine, which has more subtle flavors, to complement the fish.
+
+B: I see. So should I get a bottle of Chardonnay? That’s a white wine, right?
+
+A: Yes, Chardonnay is a white wine, but I’m not sure it’d be your best bet. Chardonnay is one of the more full-bodied whites, and tends to be a bit oaky. I’d suggest that you go for something brighter, like this Sauvignon Blanc from New Zealand.
+
+B: Sauvignon Blanc? What’s that?
+
+A: That’s another varietal, or type of grape, just like Chardonnay.
+
+B: Let’s see. The label says it’s got "attractive citrus and grassy aromas that give way to crisp, mineral flavors and a bone-dry finish. Serve chilled." Oh, no, how long will it take to chill the wine? I’m on my way to the dinner now.
+
+A: It’s OK, don’t worry, we’ll just choose a wine from the cooler. We don’t have quite as extensive a selection over here, but...this Rhone Valley white would be lovely.
+
+B: All right. What varietal is that?
+
+A: Well, this is a French wine, so they don’t always specify the varietal on the label. The French believe that the soil a grape is grown in is one of the most important factors in the final flavor of the wine. This wine is probably a blend of a few different types of grapes, mostly Viognier, I’d guess.
+
+B: And you think this is a good wine?
+
+A: Yes, this is one of our best-sellers. It’s not quite as dry as the Sauvignon Blanc we were looking at earlier, which means it’s more approachable. It’s light and crisp, with a bit of a vanilla aroma.
+
+B: Perfect! I’ll take it!
 
 ### [347] Global View - Immigration and Customs
 

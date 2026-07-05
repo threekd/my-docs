@@ -819,21 +819,109 @@ A: You’re kidding! I’m on! Where do I sign up?
 
 
 ### [234] Daily Life - Going to the Doctor
+A: Good afternoon Chloe, I’m Doctor Evans. What seems to be the problem?
+
+B: Hi, Dr Evans. Thanks for seeing me on such short notice. When I woke up this morning I had a really sore throat and a really bad cough. I think I am coming down with the flu.
+
+A: Ah I see, yes you do sound rather croaky. Well let’s have a look, shall we? Could you please open your mouth and say " ah".
+
+B: "Ahhhhhhhh"
+
+A: Good, yes, your tonsils are a little swollen and red. How are your ears, blocked at all?
+
+B: A little actually. My sinuses are a little blocked up as well – I really feel terrible.
+
+A: Ok Chloe, can you please breathe in and out slowly for me while I listen to your chest? You really are all bunged up, you don’t sound too good at all. Ok I’m going to set you up with a bunch of antibiotics. You will need to take these orange pills twice a day and these blue pills every evening. You will also have to take this cough medicine three times a day after meals. Finally, I am giving you an inhaler to use every time you feel breathless… just to clear up your lungs!
+
+B: Whoa! So many drugs…. I hate swallowing pills. Am I able to go to work?
+
+A: Absolutely not! You are highly contagious! You don’t want to infect the rest of your co-workers do you? I recommend staying in bed for at least three days and drinking plenty of fluids so you don’t get weak and dehydrated. You can catch up on all the latest tv shows and movies!
+
+B: Ok! Would you mind writing me a doctor’s note for work, otherwise they may think I am faking it!
+
+A: Ha-ha, sure not a problem! Here you are. Now off you go and away to bed. If you have any questions just give me a call! Feel better soon and take care.
+
+B: Thanks doc, bye!
 
 ### [235] The Office - Interview Skills Part 1 - The Introduc-
+A: Come in.
+
+B: Mr Parsons ?
+
+A: Ah, you must be Rebecca. Please do come in.
+
+B: Thank you for making some time to see me Mr Parsons. It's a pleasure to meet you finally.
+
+A: The pleasure's all mine Rebecca. Have a seat please . Now would you like any refreshments? Tea or coffee?
+
+B: A coffee would be lovely thank you. Black, no sugar.
+
+A: No problem. Sally can we have two coffees please One, no milk or sugar?
+Sally
+
+Certainly Mr Parsons .
+
+A: So Rebecca, I understand you had a first interview with Miss Childs last week.
+
+B: Yes that's correct. She filled me in onthe details ofthe job onthe telephone.
+
+A: Great. Well, I'm glad to say she recommended you for a 2nd interview, and here we are. Perhaps we can start by discussing your background and resume details a little?
+
+B: Yes , of course.
 
 ### [236] Daily Life - Trying To Sleep
+A: Alex, what's up with you? You look dreadful!
 
-C: Just take some sedatives! Works for me! Every so often having some melatonin on hand helps me when I have trouble sleeping . It works on all kinds of sleeping disorders . It’s the stuff pilots use to regulate their sleeping patterns . Jill: I heard of that. But does that apply to Alex’s situation?
+B: Hey Jill, I don't know. I've been having trouble sleeping these past few weeks. I usually lie in bed for hours trying to get to sleep . I've tried stretching and different breathing techniques before going to bed . I've tried eating and not eating different foods. I've even tried counting sheep! And then when I finally get to sleep , I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep .
 
-C: Ya sure, why not ? Sounds like he only has transient insomnia since it’s a recent thing so taking melatonin do the trick. Jill: But shouldn’t he be looking into WHY it’s been happening?
+A: Wow, maybe you should get that checked out. Maybe you're stressed?
 
-C: Well aren’t youthe little psychologist? Our buddy’s having trouble sleeping , it’s easy and curable. It’s not something freakish like if he was a sleepwalker. Alex: Well, there’s that too.
+C: Just take some sedatives! Works for me! Every so often having some melatonin on hand helps me when I have trouble sleeping . It works on all kinds of sleeping disorders . It's the stuff pilots use to regulate their sleeping patterns .
+
+A: I heard of that. But does that apply to Alex's situation?
+
+C: Ya sure, why not ? Sounds like he only has transient insomnia since it's a recent thing so taking melatonin do the trick.
+
+A: But shouldn't he be looking into WHY it's been happening?
+
+C: Well aren't youthe little psychologist? Our buddy's having trouble sleeping , it's easy and curable. It's not something freakish like if he was a sleepwalker.
+
+B: Well, there's that too.
 
 
 ### [237] Daily Life - Morning Routine
+A: Stephanie! Did you just get to school? But you were up and about when I left the dorm this morning! That was about an hour and a half ago. This happens all the time! Why do you always take so long to get ready the morning?
+
+B: It's a skill. What can I say? I don't know why, I just have a long routine.
+
+A: Please explain because it makes no sense to me. How can a girl's routine be so complicated? You get up , you shower, you get dressed , you brush your teeth, you're out the door. Half an hour, tops.
+
+B: Jacob, you have the luxury of having a haircut that rarely needs styling. I don't. I have to set aside about an hour and a half to get ready in the mornings. Every day, I wake up and head straight for the shower. Every second day , I wash my hair. If it's a hair-washing day, I frequently need to wash my hair twice because it gets really oily. Then I usually put in a conditioner and have to rinse that out too. Because my hair is so long, I seldom manage to take a shower in under twenty minutes. Afterwards, I often put on a pot of coffee and get dressed while I wait for it to brew. I take a long time to get dressed in the morning. Every now and then I remember to choose my outfit the night before , but usually I do it in the morning. In all , getting dressed takes about half an hour , at which time my hair is now semi-dry so then I have to style my hair. From time to time I'll put my hair up, but oftentimes I blow-dry it straight. And then, because of the texture of my hair, I regularly have to flat-iron it to keep it from frizzing. That's another twenty minutes or so. After that, I have my daily makeup routine.
+
+A: True, I hardly ever see you without your hair done and your makeup on, even when you show up to class in sweatpants. Tell me, how long does it take you to choose that outfit in the morning?
+
+B: Not funny.
 
 ### [238] The Office - Interview Skills Part 2 - Discussing Your
+A: Now, Miss Childs passed on your resume to me and I've had the chance to look it over and I must say I'm quite impressed.
+
+B: Thank you very much. I've tried to keep it short and clear. If there's any questions please feel free to ask me.
+
+A: Well yes, I do have a number of questions, but perhaps first you could give me a brief overview I'd like to get a little bit of an idea of your background.
+
+B: yes of course. Well as you can see from the resume I'm up and grew up in Brooklyn, New York, although our family moved to London when I was quite young, at around rook.
+
+A: Ah I see, so you were actually educated in Europe?
+
+B: yes precisely. Although I was born in the US, I would definitely call London home. But as you see I've actually spent a lot of my life moving from country to country. My Father was inthe oil business before he retired so we also spent a number of years in Saudi Arabia too.
+
+A: Very interesting. So it seems you had quite an adventurous childhood.
+
+B: Absolutely! We were never still for too long. But now I'm really looking to settle down.
+
+A: I see. Okay, well let's move on to discuss your education shall we?
+
+B: Sure.
 
 ### [239] The Weekend - Adventure Sports
 
@@ -883,8 +971,48 @@ B: Yay!
 ## P241-250
 
 ### [241] The Office - Interview Skills 3 - Education Back-
+A: Now, if I look here I see that you completed a BA in English?
+
+B: Yes, that's right. After graduating from high school in New York I attended York University in the UK. My major was English, and my minor was business studies . I completed my BA in 2004.
+
+A: Yes, I'm pleased to see that you also got a distinction.
+
+B: Yes that's right. I've always enjoyed studying. My friends say I'm a bit of a bookworm, but my father always pushed us to succeed academically.
+
+A: Well, it looks like his encouragement paid off Rebecca. So how about extra-curricular activities at University
+
+B: Well I've always been keen on on writing, so I became the editor for the University student magazine, which I really loved. Also I volunteered for a group called Shelter, to help the homeless in York.
+
+A: What did that involve?
+
+B: Providing warm meals and shelter, especially in the winter months . I found it really fulfilling to be part of that group .
+
+A: I'm sure. Okay, now let's move on to your work experience, shall we?
+
+B: Yes, okay.
 
 ### [242] Global View - Learning The Piano
+A: Hi Cody, how did practicing go this week?
+
+B: Well I had several tests and an oral presentation this week so I didn't get a chance to memorize the second page, but I think I mastered the tricky section.
+
+A: Great! Warm up with some scales and arpeggios first. Good, good. This week, work on keeping the rhythm steady when you play the last part with the sixteenth note . Now let's take a look at this tricky section.
+
+B: Charles? Before I start I was wondering if it was ok if I put a small crescendo in here and then decrescendo back to pianissimo again over here?
+
+A: It might work. I'll have to hear it . Show me what you've done. Not bad , not bad .
+
+B: It was horrible! I played play it much better at home!
+
+A: It's just nerves. Just play the right hand for now. One two three four five six, ta ti tri-ple-ti. Good, good. Don't forget the accidentals! The key signature says that note should be a G-sharp but now it's a G-natural. Now add the bass clef. You're going too fast. Remember the tempo for this piece is andante.
+
+B: Is that better?
+
+A: Yes, much better. Watch where you lift your foot off the pedal. What was that?
+
+B: Sorry! The stretch for that octave is always hard to make.
+
+A: That's ok, keep going, you're moving ahead by leaps and bounds . Watch your dynamics! Keep your elbows lifted. Remember to stroke the keys, don't pound. That's better! Remember that as a pianist or any other musician, your technique will be what separates you from the pack just as much or more so as your musicianship.
 
 ### [243] The Weekend - Talking to a Travel Agent
 
@@ -910,6 +1038,21 @@ B: I’m sold ! I want to book this trip. I don’t care what it costs! Money is
 
 
 ### [244] The Office - Interview Skills 4 - Talking About Work
+A: Right Rebecca. Now I see that after graduating from University your first job was.......
+
+B: For a local paper in York called the York Herald. Actually, I started with them as an intern in the beginning. I was really keen on getting some experience in the journalistic world, and this seemed like a good first step.
+
+A: Certainly. And after your internship
+
+B: They seemed impressed, and offered me a position as a junior local news reporter. I ended up staying two years there actually. I was in charge of the sports news section of the newspaper. I really enjoyed it there, and it really helped me build my skills.
+
+A: Yes I see. But you decided to leave them in 2006 right
+
+B: Yes, that's right. My husband and I moved to London, and so I managed to find a position with a National newspaper based in London
+
+A: The London Weekly right
+
+B: Yes, in some ways it was a step down from my previous job but it did offer me much better prospects for the future.
 
 ### [245] The Weekend - Getting A Subscription
 
@@ -960,7 +1103,21 @@ B: Have a great trip.
 
 
 ### [247] The Office - Interview Skills 5 - Discussing Reasons
+A: Okay, now I'd like to find out more about your last job. I see you spent almost four years at the London Weekly , is that right?
 
+B: Yes, that's right. To be honest, the first year was quite tough for me. I was really just treated more like an intern. I didn't have many responsibilities and I found it quite frustrating.
+
+A: So, what changed?
+
+B: Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer .
+
+A: Wow, a real step up!
+
+B: Yes I was responsible for restaurant and food reviews mostly. I spent restaurant years in that position, but to be honest it wasn't an area of journalism I wanted to stay in long-term.
+
+A: I see, so why did you decide to leave finally?
+
+B: I just felt that the paper couldn't offer me any new opportunities. I really needed a more challenging role to be honest.
 ### [248] Daily Life - Dinnerware
 
 A: Honey can you set the table?
@@ -998,3 +1155,15 @@ A: That’s all the time we have for today, but join us next time where we’ll 
 
 
 ### [250] The Office - Interview Skills 6 - Describing Ones
+A: Okay Rebecca. Now youyou've given me a good idea of your work and academic background, but what about you as a person? How would you describe your key strengths?
+
+B: Well Mr. Parsons, as I mentioned before I'm someone who needs new challenges. I'm really focused and hard hard-working. I think my academic results prove this.
+
+A: Yes, true, but how about other personal qualities?
+Hmmmmm, that's a tough question. But I would have to say my passion. I'm really passionate about journalism and passionate about my career.
+
+B: Well I believe I'm a good team-player, but I can also work well independently. I'm very enthusiastic and , well I hope my colleagues would agree, I'm fun to work with.
+
+A: What would you say is your most positive quality?
+
+B: Hmmmmm, that's a tough question. But I would have to say my passion. I'm really passionate about journalism and passionate about my career.

@@ -47,6 +47,21 @@ A: Condoms are usually made out of an elastic ma- terial called Latex. As for yo
 
 
 ### [253] The Office - Interview Skills 7 - Describing Ones
+A: Okay Rebecca, well I think you'vegiven me a clear impression of your positive qualities, but let's talk a little bit about your weaknesses.
+
+B: Okay, well it's always more difficult to describe them isn't it?
+
+A: Definitely, but if you had to pinpoint one weakness what would it be?
+
+B: Well as I mentioned before, I do tend to get frustrated if I don't see progress in my work or career. I suppose I'm quite a restless character. My father always taught me to be a high achiever so.
+
+A: So would you say if things don't go your way at work it could easily get you down?
+
+B: Well, in a way yes. But I must say that even if I'm not completely happy in my work I always give 110% I would never shirk my responsibilities. I suppose sometimes Iexpect too much too soon.
+
+A: Well, you know journalism is a highly competitive world, so you do need to keep pushing yourself it's true. Okay well lets move on to talk about the job position here shall we?
+
+B: Yes please.
 
 ### [254] The Weekend - Making Breakfast
 
@@ -93,6 +108,23 @@ A: Well, the egg will be fertilized within about 24 hours of its release. The ge
 
 
 ### [256] The Office - Interview Skills 8 - Discussing Salary
+A: Okay, well I'm sure you have a number of questions to ask me regarding the position.
+
+B: Yes, well Miss Childs did give me an overview of the position over the phone, but there were some details I'd like to clarify.
+
+A: Well feel free to ask me anything, and I'll try to fill in the details.
+
+B: Could I first ask about the remuneration package ?
+
+A: Yes of course. That's quite an important point isn't it? As a junior sub editor we offer a starting salary of 150,000 HK dollars per annum. This doesn't include a generous housing allowance also.
+
+B: I understand. And are there other bonuses included?
+
+A: Well apart from full health insurance we do offer a company staff bonus scheme linked to readership numbers. But we could go through all the details of that at a later date.
+
+B: Well Mr. Parsons, I am flexible when it comes to salary. The opportunity to work in Hong Kong for you is the most important thing for me.
+
+A: Excellent. Well, what other questions do you have Rebecca?
 
 ### [257] Global View - The World Cup
 
@@ -143,6 +175,23 @@ A: I don’t want to hear it! Now go to your room!
 
 
 ### [259] The Office - Interview Skills 9 - Asking For Informa-
+A: Could you tell me a little about the organization? For example, how big is your workforce here?
+
+B: Well in total we have around 150 employees based in Hong Kong with another 400 in our head office in Beijing. The newsdesk staff in Hong Kong comprises around 80 staff.
+
+A: I see. And how about the working hours?
+
+B: Well, as you know Rebecca, in journalism work hours are not exactly 9-5. You could be on call at any time. We do have to work very unsociable hours at times.
+
+A: Well I am used to that Mr. Parsons, so that's not really a shock for me.
+
+B: Good, as long as you understand that.
+
+A: And when do you need to fill the vacancy, Mr. Parsons?
+
+B: Yesterday! But no, we are hoping to start from the beginning of next month.
+
+A: That sounds ideal.
 
 ### [260] The Weekend - Guns
 
@@ -188,6 +237,23 @@ A: Not funny.
 
 
 ### [262] The Office - Interview Skills 10 - Concluding The In-
+A: Well Rebecca, is there anything else you need to know for now?
+
+B: I don't think so Mr. Parsons. I think you have covered all the main points for me.
+
+A: Okay well listen, here is my business card with my mobile number. If any other questions spring to mind don't hesitate to contact me. Of course you can also call Miss Childs too.
+
+B: Great. Ermm, when can I expect to hear from you?
+
+A: Well, we are finishing the shortlist interviews tomorrow, so we will certainly have a decision made by early next week. Miss Childs will call you to discuss more on Monday or Tuesday. How does that sound?
+
+B: That sounds perfect. Thank you very much for taking the time to speak to me Mr. Parsons.
+
+A: The pleasure's all mine Rebecca.
+
+B: I hope to hear from you very soon.
+
+A: Absolutely. Thanks for coming Rebecca. Goodbye.
 
 ### [263] Global View - Nationalities
 
@@ -369,10 +435,59 @@ B: Finally I’m happy to open up the discussion for any questions or points you
 
 
 ### [272] Daily Life - Getting A Nanny
+A: Hey Mel! Are you up for some tennis today?
+
+B: Sorry, I can’t! I have to go to work, pick up Jake and Maddie from school, and make them an afternoon snack, then take Jake to soccer practice and Maddie to dance class.
+
+A: You sound exhausted. Maybe you should hire a nanny to help you out! She can pick the kids up and take them to their after-school activities. She can also help you do some household chores, and run some errands.
+
+B: Oh, I don't know... it's hard to find the right nanny .You have to consider her previous work experience, the responsibilities you give her, and how she interacts with the kids. I would love to have someone to help me out, though.
+
+A: I think you should definitely consider it! This way you won’t have to juggle such a busy schedule, and you’ll still get to spend time with the kids in the evenings. I can refer you this great nanny Amy. She used to work for my neighbors, before they moved away. She’s very responsible, a good cook, and great with kids.
+
+B: Oh, that’s great. Thanks Grace. Can you give me her number? I’ll talk it over with Dan and give her a call tomorrow. Maybe this way I won’t be so tired every day, and Dan and I might even get to go on a date once in a while .
 
 ### [273] The Weekend - The Zodiac and Horoscopes
+A: Hey Lydia, what are you reading?
+
+B: I’m looking at my horoscope for this month! My outlook is very positive. It says that I should take a vacation to someplace exotic, and that I will have a passionate summer fling!
+
+A: What are you talking about? Let me see that… What are horoscopes?
+
+B: It’s a prediction of your month, based on your zodiac sign . You have a different sign for the month and date you were born in. I was born on April 15th, so I’m an Aries. When were you born?
+
+A: January 5th.
+
+B: Let’s see… you're a Capricorn. It says that you will be feeling stress at work, but you could see new, exciting developments in your love life . Looks like we’ll both have interesting summers!
+
+A: That’s bogus. I don’t feel any stress at work, and my love life is practically nonexistent. This zodiac stuff is all a bunch of nonsense.
+
+B: No it’s not, your astrology sign can tell you a lot about your personality. See? It says that an Aries is energetic and loves to socialize.
+
+A: Well, you certainly match those criteria, but they’re so broad they could apply to anyone. What does it say about me?
+
+B: A Capricorn is serious-minded and practical. She likes to do things in conventional ways. * laughs * That sounds just like you!
 
 ### [274] The Office - Presentation Series 2 - Talking about
+A: As all of you are well aware, competition in the laptop computer sector is intense.
+
+A: We continue to fight with our competitors for market share, and this is the case both in the developed markets in the West, as well as more developing markets in Asia and Africa.
+
+A: You may ask yourself, why is this market so cut-throat? Well the answer is simple. There is a huge untapped potential market out there ,with a huge untapped potential for profit.
+
+A: If I bring up the first graph here, it shows the increase in terms of number of computer owners across the globe.
+
+A: As you can see in the 1980's computer ownership amounted to around 0.5% of the total world population. Since the 1990's, computer ownership has risen dramatically.
+
+A: In the new millennium we saw an even larger explosion in computer owners , with figures rising to around 4- 5%, an increase of 1000 % percent compared with the 1980's .
+
+A: If we move on to discuss the figures for China specifically we can see in Chart B that the overall figure for computer ownership stands at around 60 million, which represents a huge increase in a very short time period.
+
+A: Now of course 60 million is just a drop in the ocean if you compare the total population of China, and this is a key reason why the personal computer market is such a hot market.
+
+A: For us at Alpha, and of course for all our competitors as well, we have millions of potential customers who are looking to join the internet generation.
+
+A: If we do this right we really can reap huge rewards in a very short time frame. I'd now like to move on to discuss the x420 brand itself, and compare and contrast with some of our key competitors.
 
 ### [275] Daily Life - Kitchen Appliances
 
@@ -409,6 +524,19 @@ A: Yes of course. We can activate all these services in about an hour.
 
 
 ### [277] The Office - Presentation Series 3 - Making Com-
+A: Now a key question you might ask yourself is what differentiates the new x420 line with our previous models, and also of course with some of our competitors.
+
+A: In other words what makes the x420 stand out from all the others? This is a key question, and is something I'd like to explore in a little depth. Firstly, the x420 has a range of USPs that really make it a cut above the rest.
+
+A: The first thing to mention is that the x420 is the first in a new generation of ultra-light laptop computers. It is only 2lbs, which compares very favorably with all our key competitors. In terms of computer performance, for such a light machine it’s very powerful. 4Gb of RAM, with an ultra-fast processor.
+
+A: The most advanced video and sound cards on the market are installed with a crystal-clear 15-inch LCD display. The x420 really stands out as next generation laptop. Compared with our previous x540 range it really is in a league of its own .
+
+A: Now, if we go on to look at projected sales for the x420 we can see that sales revenue for 2010 is expected to hit at least 20 million dollars. Now this is really a conservative estimate.
+
+A: If our marketing campaign is successful I'm confident that we could see a doubling of this figure at the very least. Now please bear in mind that this is only for the first year of production.
+
+A: I'm certain that in the coming three years the x420 will actually overtake all our existing products, both in terms of sales and revenue. Okay, now let's move on to discuss our marketing concept and look more closely at our key competitors.
 
 ### [278] Global View - At The Car Dealership
 
@@ -463,14 +591,81 @@ B: I want you to put your hands behind your head! You are under arrest!
 
 
 ### [280] The Office - Presentation Series 4 - Discussing the
+A: Now, of course, with all this cutting-edge technology there must be a catch, you might ask yourself. I bet the retail price will be too much for most consumers, you might say. Well, you'd be wrong!
+
+A: Yes, of course the x420 is aimed at the luxury market, but if you compare the price of our leading competitors, the x420 represents incredible value for money. At only15,000RMB it is far more affordable and far more attractive than almost every leading brand and model.
+
+A: So, what differentiates us from our competitors? Well, if we compare Orange's luxury MP40 range then we can really highlight some of the differences.
+
+A: Now, of course Orange has an enviable record for producing revolutionary and top class products, and I must admit the MP40 is a breathtaking machine. However, for most consumers the MP40 is simply far too expensive to consider.
+
+A: Compared with the x420 it is more expensive and there's no doubt that considering the quality and workmanship that goes into the x420 we really win hands down on value for money.
+
+A: Also, if you compare the after sales service we offer I think we can proudly boast the best customer service facilities in the whole lap-top sector. As opposed to most of our rivals, we guarantee quality, we guarantee service and we guarantee reliability.
+
+A: The questions we must ask ourselves are " What does the Alpha brand stand for? and also " How can we set ourselves apart from our competitors? The answer to both of these questions is the same my friends.
+
+A: Alpha stands first and foremost for quality, for excellence and for service. If we always stick to this philosophy then I'm confident that we will really be able to expand our market share significantly. Okay, let me move on now to give you an idea of our marketing campaign for the x420
 
 ## P281-290
 
 ### [281] The Weekend - Breaking Up
+A: Hello?
+
+B: Hey! Do you want to go out tonight?
+
+A: No, I think I’ll pass. Mark broke up with me. I feel awful.
+
+B: What?!? What happened? Just last week you were talking about going on vacation together!
+
+A: I don't know what I did wrong. He said he needed some space to figure things out... He said I didn’t do anything wrong, that I’m a great person... just not the one for him...
+
+B: Ugh! That’s so cliché. Mark’s not worth your time, Lydia. You deserve so much better!
+
+A: I know we had hit a rough patch but I had hoped we could work it out next weekend, when we both had some time off... I think he found someone else. I had been getting suspicious because he had been spending a lot of time with a coworker...
+
+B: Whatever. He’s a jerk, forget about him! There are many more fish in the sea.
+
+A: Talk about being cliché, Maggie! But you’re right. There’s no use for me to sulk around... Let’s go out tonight!
 
 ### [282] Global View - Physics
+A: Good morning, everybody. Welcome to Physics 101. My name is Ed Brown, and I will be your professor for this semester. Since today is our first class, I wanted to give you an overview of what this course will look like, how you will be graded, and what we will cover this semester.
+
+B: Will we be focusing more on theoretical physics or experimental physics, Professor?
+
+A: This is an introductory course, and my aim is to give you a broad overview of the field of physics. The term “ physics” encompasses many different areas of research and study, and I hope this course will provide you with conceptual understanding of physics, which will prove useful whether or not you choose to further your study in this field.
+
+A: We will begin the course by looking at the fundamental concepts of physics, then by the middle of the semester we will begin exploring the more theoretical side of physics. It is essential that you first have a firm grasp of the fundamentals, so that you can better understand the theoretical concepts when we get to them.
+
+B: Will we learn about black holes, wormholes, and string theory?
+
+A: We will learn about the general theory of relativity, including black holes. We will also explore developing theories in quantum mechanics, such as string theory. We will discuss some hypothetical features of space-time, like wormholes.
+
+A: We will also explore some of the more influential developments in the fields of thermodynamics, electromagnetism, and nuclear physics, all of which have had significant impacts on modern life. Now, I am going to have the TAs pass out the syllabus for this class, so you can see how this course will be graded.
+
+B: Oh man, looks like this isn’t gonna be the easy A I thought it’d be!
 
 ### [283] The Office - Presentation Series 5 - Deferring Ques-
+
+A: Now, as we have already discussed there is a huge untapped market out there both in Asia, in other developing markets, and in the more mature markets for us to push into. Now of course, this represents an enormous challenge with enormous rewards for the winners, but for any new product we need a great marketing message and marketing campaign
+
+A: It needs to be directed and focused at our target consumer, and needs to be pitched at exactly the right level. The question we must first address is of course, who is our target consumer and secondly what do they expect from the next generation Alpha lap-top?
+
+A: Let's first of all tackle the first question. Our target consumer for the x420 is the middle class, white collar worker with an above average income. However, as we mentioned before the total number of computer owners is expanding rapidly and we need to broaden our audience for this product.
+
+A: For example, the x420 is also ideally suited to the younger student sector, who might use laptops both for study and gaming. There is no doubt that.
+
+B: Mr. Ford, if I could just interrupt a moment. You say that the computer is suitable for students, but don't you think the price of the x420 is just too much for most students?
+
+A: Well, that's a fair point. If you don't mind I'd like to tackle your question a little bit later in the Q and A section. Is that okay?
+
+B: Yes sure.
+
+A: Okay, so as I was saying we have an exciting campaign planned for the x420. Firstly, we will have a nationwide television campaign, as well as advertising on radio and also in many computer publications. We also intend to.
+
+B: I'm sorry to stop you Mr. Ford, but do you really think that a television campaign is cost effective. I mean, how much is that going to cost?
+
+A: Well I don't have the figures to hand, but I'd be happy to discuss those figures with you after the presentation. Okay let me just go on to talk a little more about the exciting campaign we have in store.
 
 ### [284] Daily Life - Tune Up
 
@@ -511,6 +706,19 @@ A: I know! I was in ankle deep water trying to get to my car that day! The handy
 
 
 ### [286] The Office - Presentation Series 6 - Addressing the
+A: The campaign that we have in store for the x420 is exciting, imaginative and revolutionary. We have spent two years listening to and responding to feedback from customers and staff alike.
+
+A: I would like to say that without the assistance and support of each and every one of you we really could not have devised this campaign. I'd like to take my hat off and really thank you all for the wonderful work you've done so far, not only in helping support our marketing efforts, but also in your continuing your commitment to Alpha computers.
+
+A: There's no doubt in my mind that we have a great workforce here and together we can really push Alpha computers to a whole new level of success.
+
+A: On the subject of the campaign let me ask you all a question. How do we define the perfect lap-top? Is it about affordability, quality, speed, reliability? What do you look for in a consumer? Well, I believe the answer lies in a combination of all of these elements.
+
+A: Our campaign will really hammer home the point that the x420 is a state-of-the-art laptop for all of your computing needs. With our television campaign we hope to really reach out to a huge audience.
+
+A: We have a great ad campaign planned focusing on the fantastic USP' s of the x420. We have hired one of the best PR companies to work with us on the campaign, and have already completed three separate TV adverts, all focusing on one key feature of the x420.
+
+A: I'm excited to say that today, for the first time, we will unveil to all of you here the first of these
 
 ### [287] Daily Life - High School Reunion
 
@@ -562,13 +770,100 @@ A: Maybe I should just get a tongue piercing!
 
 ### [289] The Office - Presentation Series 7 - Handling Tech-
 
+A: Okay, so if we could dim the lights Jonathan, we can kick-off with the first TV advert. Please note that we are still in the early days with this advert, so it might seem a bit rough round the edges. Okay, so. just need to click this and the advert should pop up on the screen...
+
+A: Hmmmmmm. Sorry about this. Bear with me me a second. There seems to be a problem with the projector. Let me see. could you lend a hand a second?
+
+B: It looks like the projector is not recognizing the computer. Let me check the connection a second... Well the connection seems okay, and the computer is running normally.
+
+A: Okay. Sorry guys. Obviously a problem with the system. Let's just reboot and start over. Let's see if this resolves the issue.
+
+B: Right, lets try again. No, still nothing Michael. There might be a technical issue with the projector. I think maybe the projector has overheated. We might need to cool it down for ten minutes and start again. I'll call IT support to come over right now.
+
+A: Okay guys. Unfortunately technical problems do crop up from time to time, don't they? But it's not a huge problem. In the meantime while the IT guys get to work on that I can talk a little bit more about the advertising concept and what we are looking to achieve overall with this campaign.
+
 ### [290] The Weekend - Buying Jewelery
+A: Good afternoon, sir, is there anything I can help you with today?
+
+B: umm... yeah!I’m looking for a nice gift to give my girlfriend. Our fifth anniversary’s next Friday.
+
+A: Well, I would be happy to assist you in choosing the perfect gift for her. Is there anything particular that you have in mind?
+
+B: No, not really... I'm completely at a loss.
+
+A: Well, you can give her a set of pearl earrings, or this beautiful heart-shaped pendant. What is her favorite gemstone?
+
+B: That purple one. I’m sorry...I've never bought jewelery for anyone and I’m kind of nervous.
+
+A: Don’t worry, we specialize in providing our customers a relaxed, pressure-free shopping environment. That stone is an amethyst. We have a range of beautiful amethyst pieces. Take a look at this bracelet. It’s 18K rose-gold, studded with amethyst and blue topaz. It’s a great statement piece.
+
+B: Oh...wow. That’s really pretty. Jess would love that. But... I was thinking of something a little more delicate, perhaps a necklace?
+
+A: We have this beautiful platinum pendant, or you could also get her a locket. You could also get her a timepiece---it's both glamorous yet functional. If you tell me a little more about your girlfriend, maybe I can help you find something for her.
+
+B: Jess? Well, she’s very smart, and has a great sense of humor. She’s very feminine...
+
+A: Perhaps you could give her a ring?
+
+B: Well...actually...I was thinking about asking Jess to marry me...I've just been so nervous.
+
+A: Well sir, I believe your fifth anniversary is a great time to propose!
+
+B: Okay, I’ve decided. I’m going to pop the question!
+
+A: Fabulous! We should look at engagement rings then! Now that’s a whole other section.
+
 
 ## P291-300
 
 ### [291] Daily Life - Ordering Chinese Food
+A: Hi, welcome to Happy Buddah! Can I get you anything to drink?
 
+B: A Coke for me, please.
+
+C: I’ll have a Sprite.
+
+A: Okay, I’ll go get that for you. Are there any questions with the menu?
+
+C: Do you use MSG?
+
+A: No ma’am, we are MSG-free.
+
+C: Oh man, I haven’t had Chinese food in so long! I want everything! This place has the BEST sesame chicken.
+
+B: Yeah, I’ve been craving Chinese for such a long time. I used to get take-out all the time. It’s definitely been a while. Let’s start off with some crab rangoon.
+
+C: Ooh yeah, that sounds good. I think I’m going to get the sesame chicken with fried rice, a spring roll, and egg drop soup.
+
+B: It’s so tempting to order everything on the menu, it all looks so appetizing! I think I’ll get General Tso’s chicken, hot and sour soup, fried wontons, and white rice.
+
+C: Aren’t you supposed to be on a diet? You should at least get brown rice.
+
+B: I don’t think so! I hate brown rice, and I’m so sick of eating healthy all the time. I’ve been eating so much salad I swear I’ve forgotten what meat tastes like! There’s no better remedy than some nice, greasy, calorie-laden Chinese food. I might even get an order of broccoli beef!
+
+C: Gosh, I’m so hungry! Let’s call the waitress over!
 ### [292] The Office - Presentation Series 8 - Common Pre-
+A: So as I mentioned previously the campaign advertisement will focus on those key elements that every consumer looks for in a quality laptop: affordability, quality, speed and reliability. We have pulled out all the stops to produce a product that really rivals all our competitors.
+
+A: Actually, just to illustrate my point let me give you an anecdote here. I remember last year I was playing golf with one of our key suppliers. It was a lovely summer afternoon. Anyway, I invited our supplier for a game of golf, and wanted to get his input on the new x420.
+
+A: Actually, I often get together with him for a good game of golf. It really is a wonderful way to relax. To be honest, I'm not that great at golf, but I have improved in the last few years. But the key to golf is practice, practice, practice. I've lost my thread. What was I talking about again?
+
+B: I think you were discussing the campaign advertisement Michael.
+
+A: Yes, excuse me. I'm afraid I got side-tracked there. Yes anyway, the campaign. Well, erm. let me see. Is the projector working yet Jonathan?
+
+B: No sorry, IT are still fixing it.
+
+A: Ahh okay, erm... all the information on the campaign is on the PowerPoint. I haven't actually got my notes with me...ermlet me see, erm.....
+Audience Member
+Mr. Ford, could you at least tell us the schedule for the campaign? When are the first advertisements scheduled for?
+
+A: That's a good question. Unfortunately I erm...don't have that information on me. I will have to get back to you on that point.
+
+B: Okay Michael, the projector is fixed. I think we're ready.
+
+A: Thank goodness. Okay everyone, sorry for the delay. So without further ado the new x420 marketing campaign! Enjoy! oh ermmm. I'm terribly sorry, this is not the advert, this is my golfing holiday in Barbados. I think I must have brought the wrong file. Can we take five?
 
 ### [293] Advanced Media - Cheese Lovers
 
@@ -603,6 +898,19 @@ B: Sir, you got the wrong flyer. Sir, sir!
 
 
 ### [295] The Office - Presentation Series 9 - Summary and
+A: Right everyone. I apologize that I can't show you the marketing campaign today, but next week you will all have the opportunity to see if for yourselves, and I have no doubt that you will be impressed. Let me wrap up the presentation by summarising my key points.
+
+A: As I mentioned at the outset, 2010 represents a key year for Alpha computers. The recession is hopefully behind us. It is clear to everyone in the computer industry that demand is booming, especially in the developing markets.
+
+A: If we are to succeed in this ultra-competitive field then we really need to push forward and offer our customers products that meet their needs on all levels. As I hope I have illustrated, the x420 represents the kind of computer that can really satisfy those needs.
+
+A: I gave you an idea of the kind of revenue we expect to hit in 2010 with the new x420 range, and believe me, this is really just the beginning. Once we establish the x420 in the market we have plans to continue to expand our range with ever more revolutionary and impressive products.
+
+A: Alpha computers is dedicated to innovation and improvement. I really see no limit to our potential as long as we stick to the principles I stressed earlier: quality, excellence and service.
+
+A: Before we move on to the Q and A section I'd really like to leave you with a quote that really sums up everything that we've discussed today, and hopefully it will provide you with the same inspiration that it gives me.
+
+A: As the great Henry Ford once said " Quality means doing it right, when no one is looking" Well, in fact our customers are looking; they are looking for us to lead the way and to give them the quality that our competitors cannot. We cannot let them down!
 
 ### [296] Global View - Vegan Or Vegetarian?
 
@@ -643,6 +951,23 @@ C: I... ah..I’ll have the horse tripe.
 
 
 ### [298] The Office - Presentation Series 10 - The Q and A
+A: Well everyone, I'm sure you'd like to join me in thanking Michael for what was a really inspirational presentation. Sincere thanks Michael.
+
+A: Now, I'm sure many of you will be keen to ask some questions, so I'd like to open it up a Q and A session. Please raise your hand if you have any questions at all. Janice, go ahead.
+
+B: Yes thank you Jonathan. I would just like to go back to the comment Mr. Ford made in regards to our competitors, particularly Orange. Now as you know, Orange has established themselves as the market leader in the high-end lap-top market.
+
+B: How does Mr. Ford expect to compete with a company that has such a huge reputation and huge resources?
+
+C: Well Janice, first of all, thanks for a very good question. I think you have hit the nail on the head actually. Orange are the global leaders precisely because of their size and power.
+
+C: But, although we can't compete in terms of size I do believe we hold an advantage in terms of dedication to customer service. Yes, I admit this is a David and Goliath battle,but don't forget who won that contest.
+
+D:Ermmm, Mr Ford. Could you elaborate on the actual technical details of the x420 a little more?
+
+C: I'd love to but I think we are a little pressed for time right now. However Jonathan has all the technical specs for you on the powerpoint presentation, which you can look over in your own time.
+
+E: Mr. Ford. One final question. Would you like to join me for a game of golf this Sunday?
 
 ### [299] Daily Life - Returning A Product
 
