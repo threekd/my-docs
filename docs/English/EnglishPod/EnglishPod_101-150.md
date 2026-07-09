@@ -817,15 +817,15 @@ A: A chess board! Daddy is going to teach you how to play!
 
 B: Cool!
 
-A: Ok, each player gets 16 pieces. You can be the white ones and I'll play with the black pieces. Now in the front, you set up the pawns. Those are the least valuable pieces and can only move one space forward. When you are about to capture another piece, it can move one space diagonally.
+A: Ok, each player gets 16 pieces. You can be the white ones and I'll play with the black pieces. Now in the front, you set up the **pawns**. Those are the least valuable pieces and can only move one space forward. When you are about to **capture another piece**, it can move one space diagonally.
 
 B: What about all these other pieces?
 
-A: See this one that looks like a tower? It's called the rook. The one with the tall hat is called the bishop. See this little horsey? This is called the knight, it's a very important piece so it's best to not let your opponent capture it.
+A: See this one that looks like a tower? It's called **the rook**. The one with the tall hat is called the **bishop**. See this little **horsey**? This is called the **knight**, it's a very important piece so it's best to not let your opponent capture it.
 
 B: And these two? They are husband and wife?
 
-A: That's right! That's the queen and that's the king. If the other player captures your king, he will say "Check Mate" and the game is over! Doesn't this sound fun?
+A: That's right! That's the queen and that's the king. If the other player captures your king, he will say "**Check Mate**" and the game is over! Doesn't this sound fun?
 
 B: Nah! This is boring! I'm gonna go play Killer Zombies on my PlayStation!
 
@@ -836,21 +836,21 @@ B: I'm sorry sir. This computer is not broken or damaged. It's simply just too o
 
 A: What do you mean? I bought this computer just three years ago!
 
-B: Yes, but technology is ever changing and technology is becoming obsolete faster and faster!
+B: Yes, but technology is **ever changing** and technology is becoming **obsolete** faster and faster!
 
-A: Ok, I know where this is going. How much will it cost me to get a new computer?
+A: Ok, **I know where this is going**. How much will it cost me to get a new computer?
 
-B: Well, this desktop over here is our latest model. It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte. Of course, it includes a mouse, keyboard and desk speakers.
+B: Well, this desktop over here is our latest model. It has a four **gigahertz** processor with sixteen **gigabytes** in RAM and a hard disk with one **terabyte**. Of course, it includes a mouse, keyboard and desk speakers.
 
 A: I have no idea what you are talking about. I just want to know if it's good and if I will be able to play solitaire without the computer crashing or freezing all the time!
 
-B: This PC is top of the line and I guarantee it will never freeze! If it does, we'll give you your money back!
+B: This PC is **top of the line** and I guarantee it will never **freeze**! If it does, we'll give you your money back!
 
 ## P141-150
 
 ### [141] Daily Life - What If? Part 2
 
-A: This is the good life! We have it good don't you think?
+A: This is **the good life**! We have it good don't you think?
 
 B: Yeah of course! Although, don't you ever wonder what ”could have been”?
 
@@ -864,26 +864,26 @@ B: Like for example, if I hadn't studied architecture, I would have become an ar
 
 A: I see. Yeah now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and met Sally.
 
-B: You see! Everything happens for a reason! We wouldn't even have met if I hadn't been in that car accident ten years ago!
+B: You see! **Everything happens for a reason**! We wouldn't even have met if I hadn't been in that car accident ten years ago!
 
 A: Well, I have no regrets!
 
-B: I'll drink to that!
+B: **I'll drink to that**!
 
 
 ### [142] The Weekend - What Do I Wear?
 
 A: Honey come on! We are going to be late! Honestly, you take longer getting ready than I do!
 
-B: I was drying my hair and ironing my shirt! Can you come here for a sec? I need your help.
+B: I was drying my hair and **ironing** my shirt! Can you come here for a sec? I need your help.
 
 A: What is it? Why are all these clothes on the bed?
 
-B: I don't know what to wear! Ok, give me your opinion. Do you like the way this looks? The striped short sleeved shirt with this checkered sweater and my lucky sandals. I like the cut and hemline of these shorts so I think I'll wear these as well.
+B: I don't know what to wear! Ok, give me your opinion. **Do you like the way this looks**? The **striped** short **sleeved** shirt with this **checkered** sweater and my lucky **sandals**. I like the cut and **hemline** of these shorts so I think I'll wear these as well.
 
-A: Are you joking? What am I going to do with you? We are going to a dinner party not the beach! Wear the shirt with the silk tie I bought you and these corduroy pants. It's chilly outside so you can wear this coat.
+A: Are you joking? What am I going to do with you? We are going to a dinner party not the beach! Wear the shirt with the silk tie I bought you and these **corduroy** pants. It's chilly outside so you can wear this coat.
 
-B: Thanks honey! You have such great fashion sense. Now, what am I going to do with my hair?
+B: Thanks honey! You have such great **fashion sense**. Now, what am I going to do with my hair?
 
 
 ### [143] Daily Life - The Butcher
