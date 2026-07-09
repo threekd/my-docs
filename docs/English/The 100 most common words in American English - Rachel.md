@@ -45,7 +45,7 @@ aside: true
 8. that
     - [ðæt] often don't
     - [ðət]
-    - [ðəd] next word begins with a vowel or diphthong, it's a Flap T
+    - [ðæd] next word begins with a vowel or diphthong, it's a Flap T
     - [ðə] Stop T if followed by a consonant
 9. have
     - [hæv]
@@ -148,4 +148,21 @@ aside: true
 42. up
     - [ʌp] stressed, P is a stop consonant.
 43. out
-    - [aʊt]
+    - [aʊt] stressed, T is a stop consonant.
+    - [aʊd] unstressed, T is a Flap T if followed by a vowel or diphthong
+44. if
+    - [ɪf] unstressed, said very quickly
+45. about
+    - [əˈbaʊt]
+46. who
+    - [hu]
+    - [u]
+47. get
+    - [gɛt] always stressed
+    - [gɛd] Flap T if followed by a vowel or diphthong
+48. which
+    - [wɪtʃ]
+49. go
+    - [goʊ]
+50. me
+    - [mi] unstressed, said very quickly
