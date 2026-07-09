@@ -22,6 +22,13 @@ export default defineNavbarConfig([
     ],
   },
   {
+    text: 'English Notes',
+    items: [
+      { text: 'EnglishPod', link: '/English/EnglishPod/EnglishPod_001-050/.md' },
+      { text: '100 most common words', link: '/English/100_Most_Common_Words.md' },
+    ],
+  },
+  {
     text: 'Project Setups',
     items: [
       { text: 'LobeHub', link: '/Project_Setups/LobeHub/initial.md' },
