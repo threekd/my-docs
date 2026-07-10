@@ -233,7 +233,7 @@ B: Actually, he's a bit strange. I don't know... I've just got **a bad feeling**
 
 A: Really? Why? 
 
-B: Well, yesterday I brought over a **housewarming gift**, but Armand started acting really **weird**, and then he practically **kicked me out**! I tried to, sort of, peek into his house, but everything was so dark inside that I couldn't really get a good look. The whole thing really **creeped me out**! 
+B: Well, yesterday I brought over a **housewarming gift**, but Armand started acting really **weird**, and then he practically **kicked me out**! I tried to sort of peek into his house, but everything was so dark inside that I couldn't really get a good look. The whole thing really **creeped me out**! 
 
 A: Well, **you'll never guess what I saw** this morning. A delivery truck pulled into his driveway, and it dropped off a long, rectangular box. It almost looked like a coffin! 
 

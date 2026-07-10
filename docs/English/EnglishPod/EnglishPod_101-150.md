@@ -891,9 +891,9 @@ A: Hi. What can I get for you?
 
 B: I'd like a half a pound of ground beef, please.
 
-A: Good choice! Our ground beef is extra lean, if you know what I mean.
+A: Good choice! Our **ground beef** is extra **lean**, **if you know what I mean**.
 
-B: Could I also have half a dozen pork chops and two pounds of boneless chicken breasts?
+B: Could I also have **half a dozen** **pork chops** and two pounds of **boneless chicken breasts**?
 
 A: No, no no no chicken breasts at the moment, but we have some nice chicken thighs.
 
@@ -901,13 +901,13 @@ B: No, that won't do. I'll take this smoked ham you have here.
 
 A: Okay, is there anything else?
 
-B: Do you have any other cold cuts? Is this salami and bologna you have here?
+B: Do you have any other **cold cuts**? Is this **salami and bologna** you have here?
 
 A: Yes! It's very fine meat! Made it myself...
 
 B: Sounds good. Okay, that's it.
 
-A: Wait! We have T-bone, rib eye, and sirloin steaks. They are very fresh! Just came from the slaughter house...
+A: Wait! We have **T-bone**, **rib eye**, and **sirloin steaks**. They are very fresh! Just came from the slaughter house...
 
 B: Mmm... No that's okay, really. I think that's all for today.
 
