@@ -110,6 +110,8 @@ aside: true
     - [əɹ]
 30. she
     - [ʃi] said very quickly
+
+## 31-40
 31. or
     - [ɔr]
     - [ər]
@@ -166,3 +168,137 @@ aside: true
     - [goʊ]
 50. me
     - [mi] unstressed, said very quickly
+
+## 51-60
+51. when
+    - [wɛn]
+    - [wən]
+    - [wɪn]
+52. make
+    - [meɪk] longer, shape of stress, more clear
+53. can
+    - [kæn] main verb
+    - [kən] helping verb
+54. like
+    - [laɪk]
+55. time
+    - [taɪm] stressed
+56. no
+    - [noʊ] stressed
+57. just
+    - [dʒʌst] stressed
+58. him
+    - [hɪm]
+    - [əm]
+59. know
+    - [noʊ] stressed
+60. take
+    - [teɪk] stressed
+
+## 61-70
+61. people
+    - [ˈpipəl] stressed
+62. into
+    - [ˈɪntu]
+    - [ˈɪndə] Flap T
+63. year
+    - [jɪəɹ] stressed
+64. your
+    - [jɔɹ] almost never
+    - [jəɹ]
+65. good
+    - [gʊd]
+66. some
+    - [sʌm]
+    - [səm]
+67. could
+    - [kʊd]
+    - [kəd]
+68. them
+    - [ðɛm]
+    - [ɛm]
+69. see
+    - [si] stressed
+70. other
+    - [ˈʌðəɹ]
+
+## 71-80
+71. than
+    - [ðæn]
+    - [ðæʌn]
+    - [ðən]
+72. then
+    - [ðɛn]
+    - [ðən]
+73. now
+    - [naʊ] stressed
+74. look
+    - [lʊk] stressed
+75. only
+    - [ˈoʊnli] stressed
+76. come
+    - [kʌm] stressed
+77. its
+    - [ɪts]
+    - [ts]
+78. over
+    - [ˈoʊvəɹ] stressed
+79. think
+    - [θɪŋk]
+    - [θiŋk]
+80. also
+    - [ˈɔlsoʊ]
+
+## 81-90
+81. back
+    - [bæk]
+82. after
+    - [ˈæftəɹ]
+83. use
+    - [jus] noun
+    - [juz] verb
+84. two
+    - [tu] stressed
+85. how
+    - [haʊ] light H
+86. our
+    - [aʊəɹ]
+    - [aɹ]
+    - [əɹ]
+87. work
+    - [wɜɹk]
+88. first
+    - [fɜɹst]
+89. well
+    - [wɛl]
+90. way
+    - [weɪ] stressed
+
+## 91-100
+91. even
+    - [ˈivən] fast, unstressed
+92. new
+    - [nu] stressed
+93. want
+    - [wɑnt]
+    - [wɔnt]
+    - [wʌnt]
+94. because
+    - [bɪˈkɑz]
+    - [bɪˈkɔz]
+    - [bɪˈkʌz]
+    - [bɪˈkəz]
+    - [kəz]
+95. any
+    - [ˈɛni]
+96. these
+    - [ðiz]
+97. give  
+    - [gɪv] in certain contexts, we drop the final sound.
+98. day
+    - [deɪ] stressed
+99. most
+    - [moʊst]
+100. us
+    - [ʌs]
+    - [əs]
