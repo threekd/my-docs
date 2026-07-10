@@ -293,12 +293,15 @@ aside: true
     - [ˈɛni]
 96. these
     - [ðiz]
+
 97. give  
     - [gɪv] in certain contexts, we drop the final sound.
-98. day
+
+98. day  
     - [deɪ] stressed
-99. most
+
+99. most  
     - [moʊst]
 100. us
-    - [ʌs]
-    - [əs]
+     - [ʌs]
+     - [əs]
