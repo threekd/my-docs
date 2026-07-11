@@ -889,7 +889,7 @@ B: Thanks honey! You have such great **fashion sense**. Now, what am I going to 
 ### [143] Daily Life - The Butcher
 A: Hi. What can I get for you?
 
-B: I'd like a half a pound of ground beef, please.
+B: I'd like a half pound of ground beef, please.
 
 A: Good choice! Our **ground beef** is extra **lean**, **if you know what I mean**.
 
