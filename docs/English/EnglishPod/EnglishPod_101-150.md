@@ -914,28 +914,29 @@ B: Mmm... No that's okay, really. I think that's all for today.
 A: Okay. That will be thirty-four dollars and fifty cents.
 
 ### [144] Global View - Capital Punishment
+Professoar: That's all for today's class. We will continue our lecture on crime and punishment tomorrow.
 
 A: Do you think we should be tougher on crime?
 
 B: Well, it depends on what you mean.
 
-A: For example, we could bring back the death penalty for murder, give longer prison sentences for lesser offences and lock up juvenile offenders.
+A: For example, we could bring back the death penalty for murder, give longer prison sentences for lesser offences and lock up **juvenile** offenders.
 
-B: Those really sound like Draconian measures. Firstly, what do you do about miscarriages of justice if you've already put innocent people to death?
+B: Those sound like really Draconian measures. Firstly, what do you do about **miscarriages of justice** if you've already put innocent people to death?
 
 A: You'd only use capital punishment if you were absolutely sure that you'd convicted the right person.
 
-B: But, there've been many cases of wrongful conviction where people have been imprisoned for many years. The authorities were sure at the time, but later it was shown that the evidence was unreliable. In some cases, it'd been fabricated by the police.
+B: But, there've been many cases of **wrongful conviction** where people have been imprisoned for many years. The authorities were sure at the time, but later it was shown that the evidence was unreliable. In some cases, it'd been **fabricated** by the police.
 
 A: Well, no system of justice can be perfect, but surely there's a good case for longer prison sentences to deter serious crime.
 
-B: I doubt whether they could act as an effective deterrent while the detection rate is so low. The best way to prevent crime is to convince people who commit it that they're going to be caught. It doesn't make sense to divert all your resources into the prison system.
+B: I doubt whether they could act as an effective **deterrent** while the detection rate is so low. The best way to prevent crime is to convince people who commit it that they're going to be caught. It doesn't make sense to divert all your resources into the prison system.
 
-A: But if you detect more crimes, you'll still need prisons. In my reckoning, if we could lock up more juvenile criminals, they'd learn that they couldn't get away with it. Soft sentences will merely encourage them to do it again.
+A: But if you detect more crimes, you'll still need prisons. **In my reckoning**, if we could lock up more juvenile criminals, they'd learn that they couldn't **get away with** it. Soft sentences will merely encourage them to do it again.
 
 B: Yes, but remember that prisons are often schools for criminals. To remove crime from society, you really have to tackle its causes.
 
-A: Well, if I were president, I would impose tougher laws and punishment. I would have a peaceful society based on fear of punishment, not consciousness of doing the right thing.
+A: Well, if I were president, I would **impose** tougher laws and punishment. I would have a peaceful society based on fear of punishment, not consciousness of doing the right thing.
 
 B: You sound like a dictator!
 
@@ -967,7 +968,7 @@ A: Ewww!
 
 A: You should have seen the T.V. show that was on last night, the topic it covered was really interesting; animal rights.
 
-B: Do you really believe in that? If they are going to focus on something, they should do it on civil rights. '
+B: Do you really believe in that? If they are going to focus on something, they should do it on civil rights.
 
 A: Yes, but we can t deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.
 
