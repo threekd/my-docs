@@ -947,40 +947,40 @@ A: Well if it works, why not?
 
 A: What's wrong with you? Why are you scratching so much?
 
-B: I feel itchy! I can't stand it anymore! I think I may be coming down with something. I feel lightheaded and weak.
+B: I feel **itchy**! I can't stand it anymore! I think I may be **coming down with** something. I feel **lightheaded** and weak.
 
 A: Let me have a look. Whoa! Get away from me!
 
 B: What's wrong?
 
-A: I think you have chicken pox! You are contagious! Get away! Don't breathe on me!
+A: I think you have chicken pox! You are **contagious**! Get away! Don't breathe on me!
 
-B: Maybe it's just a rash or an allergy! We can't be sure until I see a doctor.
+B: Maybe it's just a **rash** or an allergy! We can't be sure until I see a doctor.
 
-A: Well in the meantime you are a biohazard! I didn't get it when I was a kid and I've heard that you can even die if you get it as an adult!
+A: Well **in the meantime** you are a **biohazard**! I didn't get it when I was a kid and I've heard that you can even die if you get it as an adult!
 
-B: Are you serious? You always blow things out of proportion. In any case, I think I'll go take an oatmeal bath.
+B: Are you serious? You always **blow things out of proportion**. In any case, I think I'll go take an oatmeal bath.
 
 A: Ewww!
 
 
 ### [146] Global View - Animal Rights
 
-A: You should have seen the T.V. show that was on last night, the topic it covered was really interesting; animal rights.
+A: You should have seen the TV show that was on last night, the topic it covered was really interesting; animal rights.
 
 B: Do you really believe in that? If they are going to focus on something, they should do it on civil rights.
 
-A: Yes, but we can t deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.
+A: Yes, but we can t deny that animals are **vulnerable**, defenseless, and are completely **at the mercy of** human beings.
 
-B: I understand your point, but we continue to have transgressions against human rights. If so much ' attention weren t devoted to the topic of animals, we would then concentrate more on saving a human being instead of protecting a koala. '
+B: I understand your point, but we continue to have **transgressions** against human rights. If so much attention weren't devoted to the topic of animals, we would then concentrate more on saving a human being instead of protecting a koala.
 
-A: You can t compare apples and oranges; I believe that both topics are important and that we ' can t ignore them, the mistreatment of animals can cause a great environmental imbalance.I believe that governments should prohibit activities like poaching.
+A: You can't **compare apples and oranges**; I believe that both topics are important and that we can't ignore them, the mistreatment of animals can cause a great environmental imbalance.I believe that governments should prohibit activities like **poaching**.
 
-B: Well, you are right on that point. This is the reason ' that I don t buy leather and I try to buy synthetic products. '
+B: Well, you are right on that point. This is the reason that I don't buy leather and I try to buy **synthetic products**.
 
-B: At least you re doing your part. My contribution is to have a pet in the house that I treat like a member of the family. '
+B: At least you re **doing your part**. My contribution is to have a pet in the house that I treat like a member of the family.
 
-A: As long as you don t treat it better than your wife, ' it s fine.
+A: As long as you don't treat it better than your wife, it's fine.
 
 
 ### [147] Daily Life - The Argument
