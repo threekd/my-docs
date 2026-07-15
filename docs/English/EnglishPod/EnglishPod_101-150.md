@@ -985,29 +985,31 @@ A: As long as you don't treat it better than your wife, it's fine.
 
 ### [147] Daily Life - The Argument
 
-A: Wow, that terrible movie is finally over. Next time I'm picking the film, because I don't want to end up seeing a chick flick.
+A: Wow, that terrible movie is finally over. Next time I'm picking the film, because I don't want to end up seeing a **chick flick**.
 
 B: Well you should have picked, in the end you always complain about everything.
 
-A: Not everything, just this film. Even the title is ridiculous; and it's so long, those are the two and a half most wasted hours of my life, so much so that I'm thinking about asking them to give me my money back.
+A: Not everything, just this film. Even the title is ridiculous, and it's so long, those are the two and a half most wasted hours of my life, so much so that I'm thinking about asking them to give me my money back.
 
 B: I'm thinking of taking you back home. I thought we could have a nice evening, but you're always so negative.
 
 A: I'm only complaining about a movie that I could have rented or bought and then thrown in the garbage.
 
-B: You see, that's what I'm talking about, I can't stand your sarcastic jokes anymore
+B: You see, that's what I'm talking about, I can't stand your **sarcastic** jokes anymore
 
-A: Next time, go with your gay friend who is more in touch with his feelings.
+A: Next time, go with your gay friend who is more **in touch with** his feelings.
 
-B: Well he's more of a man than you are; at least he appreciates love stories.
+B: Well he's more of a man than you are, at least he appreciates love stories.
 
-A: Love? More like one-night-stands.
+A: Love stories? More like **one-night-stands**.
 
-B: Don't criticize Mario or else I'll start on those fat, drunk friends of yours; they're no saints.
+B: Don't criticize Mario or else I'll start on those fat, drunk friends of yours, they're no **saints**.
 
 A: My friends? Fat? What about those whales you call friends?
 
-B: You're unbearable; you can walk home, I'm leaving.
+B: You're **unbearable**; you can walk home, I'm leaving.
+
+A: Fine!
 
 
 ### [148] Daily Life - Paranoid
