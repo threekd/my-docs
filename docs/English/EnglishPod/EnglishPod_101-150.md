@@ -1028,16 +1028,15 @@ A: What do you mean?
 
 B: I mean, what's up with the and locks and iron bars on your windows.
 
-A: Security Dan, security! You can never be too safe you know! A lot of sickos out there. Just the other day they caught that peeping tom red handed! Had a high power telescope and binoculars by his window.
+A: Security Dan, security! **You can never be too safe** you know! A lot of **sickos** out there. Just the other day they caught that **peeping tom** **red handed**! Had a high power telescope and binoculars by his window.
 
 B: Whats the matter with you? Why are you acting all paranoid?
 
-A: Paranoid? I'm not paranoid! I'm cautious! You see Dan, we have to be on guard at all time! People just invade your privacy as if they knew you! Telemarketers, solicitors, even your bank! They have way too much information! I like to keep everything on a need to know basis
+A: Paranoid? I'm not paranoid! I'm cautious! You see Dan, we have to be on guard at all time! People just invade your privacy as if they knew you! **Telemarketers**, **solicitors**, even your bank! They have way too much information! I like to keep everything on a **need to know basis**.
 
 B: OK, well, what did you want to see me about?
 
 A: You are being watched! Be careful Dan! Be careful!
-
 
 ### [149] Daily Life - Moving
 
@@ -1045,19 +1044,19 @@ A: Ok, that's fine. Bye.
 
 B: What happened?
 
-A: That's it, my lease is up. I have to move.
+A: That's it, my **lease** **is up**. I have to move.
 
-B: What? Why? Can't you renew it?
+B: What? Why? Can't you **renew** it?
 
-A: The owner apparently is selling this place to make way for the construction of a parking lot
+A: The owner apparently is selling this place to **make way for** the construction of a parking lot
 
-B: Well, I can help you pack. We should start looking for a new place for you ASAP.
+B: Well, I can help you **pack**. We should start looking for a new place for you **ASAP**.
 
-A: I think I might move in with my parents for a couple of months until I can find something. You know how hard it is to find a decent place around here. I'm gonna have to put most of my stuff in storage for a while.
+A: I think I might **move in** with my parents for a couple of months until I can find something. You know how hard it is to find a decent place around here. I'm gonna have to put most of my stuff in storage for a while.
 
 B: Well, let me know if there's anything I can do to help out.
 
-A: Actually, would you mind looking after my pet tarantula and snake for a couple of weeks?
+A: Actually, **would you mind** looking after my pet tarantula and snake for a couple of weeks?
 
 B: hehe.. sure
 
@@ -1066,16 +1065,16 @@ B: hehe.. sure
 
 A: The mosquitos are biting me!
 
-B: Me too, I can't stop scratching. They are everywhere! Sneaky little jerks.
+B: Me too, I can't stop scratching. They are everywhere! **Sneaky** little jerks.
 
 A: Do you have any bug spray?
 
 B: No, I forgot to buy some.
 
-A: Then we'll have to put up with it.
+A: Then we'll have to **put up with it**.
 
-B: We can cover ourselves with beer! That way if they bite us, they'll get drunk and fall asleep
+B: We can **cover ourselves with** beer! That way if they bite us, they'll get drunk and fall asleep.
 
-A: That's without a doubt, the best idea youve had! Lets do it!
+A: That's **without a doubt**, the best idea youve had! Lets do it!
 
 B: Run! They are thirsty for more!
