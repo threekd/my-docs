@@ -18,7 +18,7 @@ B: Twilight? As inthe vampire movies? No way I am watching that. I don’t under
 
 A: Of course it does. It’s like a modern tale of Romeo and Juliet. You have a couple that is in love but can’t be together because they are so different. Add in the fact that immortality and super human strengthis really sexy and there you have it! Plus the cast is hip, young people that make the movie even more enticing.
 
-B: I don’t buy into that. I think it’s just a fad. Pretty soon this will pass and everyone will be into were- wolves or zombies!
+B: I don’t buy into that. I think it’s just a fad. Pretty soon this will pass and everyone will be into werewolves or zombies!
 
 
 ### [302] Global View - Phobias
@@ -50,7 +50,7 @@ A: Hello sir, welcome to Pistolera restaurant. May I take your order?
 
 B: Yes, I would like the chicken cheese enchiladas with a side of guacamole.
 
-A: I’m sorry sir, but we ran out of chicken. May I sug- gest our delicious beef burritos or cheese que- sadillas? Both include a side of guacamole and jalapenos.
+A: I’m sorry sir, but we ran out of chicken. May I suggest our delicious beef burritos or cheese quesadillas? Both include a side of guacamole and jalapenos.
 
 B: Sure I’ll have the burrito.. Do you have nachos?
 
@@ -103,7 +103,7 @@ A: I told you, its harder than you think. Now let a pro show you how it’s done
 
 A: Let’s got out tomorrow night. We can go to a bar and try to find you a girlfriend.
 
-B: I don’t think that’s a good idea. I am just not good with approaching someone and starting up a con- versation.
+B: I don’t think that’s a good idea. I am just not good with approaching someone and starting up a conversation.
 
 A: Maybe you just need a few pick up lines,you know, break the ice.
 
@@ -166,7 +166,7 @@ B: It’s an Indian restaurant! I know you have never had Indian food, so I thou
 
 A: That sounds great! I am craving some type of beef dish.
 
-B: Well, Indian cuisine actually doesn’t serve beef. You see, cows are a sacred animal, a very impor- tant element inthe Hindu religion, so beef is not eaten.
+B: Well, Indian cuisine actually doesn’t serve beef. You see, cows are a sacred animal, a very important element inthe Hindu religion, so beef is not eaten.
 
 A: I see, so what are we having? Chicken?
 
@@ -241,7 +241,7 @@ C: You have to be kidding me!
 
 B: Come on! It’s delicious! Especially when served in a pineapple or coconut.
 
-C: Forget it, I’m ordering for you. I’ll have a Scotch on the rocks and my friend here will have a Man- hattan. Put it on my tab. Here now this is a real drink!
+C: Forget it, I’m ordering for you. I’ll have a Scotch on the rocks and my friend here will have a Manhattan. Put it on my tab. Here now this is a real drink!
 
 B: That’s strong! This is going to get me wasted!
 
@@ -289,7 +289,7 @@ A: Dad?
 
 C: Yeah Tommy, what happened are you ok?
 
-A: Yeah dad everything is ok. I’m calling you be- cause I want to know if it’s ok for me to go to my friend’s house today after school.
+A: Yeah dad everything is ok. I’m calling you because I want to know if it’s ok for me to go to my friend’s house today after school.
 
 C: Yeah sure no problem. You scared me to death! I’ve told you to make a collect call in case of an emergency only! Why didn’t you call me from your mobile phone?
 
@@ -450,13 +450,13 @@ A: Great idea! As long as I don’t get food poisoning! So what is onthe menu to
 
 B: Ok, for starters we have Tom Yam soup. It’s a bit spicy, but really good!
 
-A: This is delicious! The ginger and lemongrass re- ally gives it a nice taste!
+A: This is delicious! The ginger and lemongrass really gives it a nice taste!
 
-B: Now this next dish is one of the most famous. For- eigners call it papaya salad butthe proper name is Tom Sam. It is a spicy salad made from a mix of fresh vegetables including shredded unripened papaya and tomato.
+B: Now this next dish is one of the most famous. Foreigners call it papaya salad butthe proper name is Tom Sam. It is a spicy salad made from a mix of fresh vegetables including shredded unripened papaya and tomato.
 
-A: This is delicious! The combination of sour and spicy is really interesting! I could have this every- day!
+A: This is delicious! The combination of sour and spicy is really interesting! I could have this everyday!
 
-B: Ok, now forthe last and best dish in my opinion. This is called Pad Thai. It’s stir-fried noodles with eggs, fish sauce, tamarind juice, red chili pepper plus bean sprouts, shrimp and tofu and garnished with crushed peanuts and coriander. It’s practi- cally Thailand’s national dish!
+B: Ok, now forthe last and best dish in my opinion. This is called Pad Thai. It’s stir-fried noodles with eggs, fish sauce, tamarind juice, red chili pepper plus bean sprouts, shrimp and tofu and garnished with crushed peanuts and coriander. It’s practically Thailand’s national dish!
 
 A: Wow, this is great! I never knew Thai food was so creative and delicious!
 
@@ -490,7 +490,7 @@ A: Oh Paris! Wonderful, I'd love to visit some time!
 
 ### [323] Daily Life - Cancelled Flight
 
-A: Good afternoon Sir, may I please see your pass- port and reservation?
+A: Good afternoon Sir, may I please see your passport and reservation?
 
 B: Here you go.
 
@@ -513,17 +513,17 @@ A: Thank you for your understanding sir. I will book your flight now.
 
 A: So what are you doing for Thanksgiving?
 
-B: Not much really. It’s more of an American tradi- tion, so back home we don’t really celebrate it. In fact, I am not even sure of what exactly is being celebrated!
+B: Not much really. It’s more of an American tradition, so back home we don’t really celebrate it. In fact, I am not even sure of what exactly is being celebrated!
 
 A: Well you know, it’s a time to get together with all your family and be thankful for everything!
 
 B: Yeah but, how did this holiday come to be?
 
-A: Well, the first settlers of Massachusetts arrived there because of religious persecution from Eng- land and King James. Once inthe New World, they befriended an native named Squanto, who taught them how to harvest food from the area such as corn.
+A: Well, the first settlers of Massachusetts arrived there because of religious persecution from England and King James. Once inthe New World, they befriended an native named Squanto, who taught them how to harvest food from the area such as corn.
 
 B: Interesting! I am amazed how big and delicious thanksgiving dinners are!
 
-A: Come to my house for Thanksgiving! We are hav- ing turkey, pumpkin pie, mashed potatoes with gravy, and lots of stuffing!
+A: Come to my house for Thanksgiving! We are having turkey, pumpkin pie, mashed potatoes with gravy, and lots of stuffing!
 
 B: Count me in!
 
@@ -551,11 +551,11 @@ A: Look, Jimmy’s report came today.
 
 B: Let’s have a look. What is this? Where are all the grades?
 
-A: He’s in the third grade Sam! You see under each subject that he is being taught in school, he re- ceives a mark from one to three. A one means his achievement or work is excellent. Here in Sci- ence for example he got a two, which means its satisfactory.
+A: He’s in the third grade Sam! You see under each subject that he is being taught in school, he receives a mark from one to three. A one means his achievement or work is excellent. Here in Science for example he got a two, which means its satisfactory.
 
 B: What about here in physical education?
 
-A: He got a three here which means it’s unsatisfac- tory. We should work on that with him.
+A: He got a three here which means it’s unsatisfactory. We should work on that with him.
 
 B: So confusing! In my day we got an A or B if we were doing well and if we failed an exam we would get an F!
 
@@ -570,9 +570,9 @@ A: What are you talking about? I’m always a size four. Here, I’ll try these.
 
 B: They seem a bit too tight. Shall I find you a larger size?
 
-A: No, they fit fine! They show off my curves per- fectly!
+A: No, they fit fine! They show off my curves perfectly!
 
-B: Yeah, your love handles. Yeah, they sure do, al- though... here, you forgot to close this button.
+B: Yeah, your love handles. Yeah, they sure do, although... here, you forgot to close this button.
 
 A: Yeah right, I’ll do it now...
 
@@ -623,13 +623,13 @@ A: Your total is forty three dollars and twenty cents.
 
 ### [330] The Weekend - Fortune Telling
 
-A: Look at this newspaper article about this famous local medium. It says that she is really gifted and so popular now, that she is booked solid with ap- pointments for the next twelve months!
+A: Look at this newspaper article about this famous local medium. It says that she is really gifted and so popular now, that she is booked solid with appointments for the next twelve months!
 
 B: You don’t really believe in all that hocus pocus mumbo jumbo do you?
 
-A: Well I have had many friends that went to a psy- chic and got their palms read and most of the things the psychic told her came true!
+A: Well I have had many friends that went to a psychic and got their palms read and most of the things the psychic told her came true!
 
-B: Of course it does! They tell you general and obvi- ous things like that you will be successful or have a big house. I think most of the times they are just scam artists.
+B: Of course it does! They tell you general and obvious things like that you will be successful or have a big house. I think most of the times they are just scam artists.
 
 A: Well historically it is a practice that many cultures share. Reading the tarot cards, in the east they would even read tea leaves! I even heard that there are people that make you smoke a cigar, and then read your ashes.
 
@@ -664,7 +664,7 @@ A: Can you help me set up my voicemail message? I just got this service and I am
 
 B: Sure! You just basically gotta let the caller know who they called, and ask them for their contact information so you can call them back.
 
-A: Ok, so can I say, “ This is Abby’s voicemail. I will call you later, so leave me your name and num- ber”.
+A: Ok, so can I say, “ This is Abby’s voicemail. I will call you later, so leave me your name and number”.
 
 B: That’s more or less the idea, but try something that sounds more friendly.
 
@@ -677,7 +677,7 @@ A: That’s perfect! Can you say that again and record it for me?
 
 ### [333] Global View - Human Anatmoy
 
-A: OK class, so today we are going to continue with our anatomy class, today we will review every- thing we have learned. Can anyone tell me what the first major organ is?
+A: OK class, so today we are going to continue with our anatomy class, today we will review everything we have learned. Can anyone tell me what the first major organ is?
 
 B: The brain!
 
@@ -685,7 +685,7 @@ A: That’s right the brain! It serves as a control center for the body, handlin
 
 B: The heart!
 
-A: Very good! It pumps blood throughout the body, using the circulatory system such as blood ves- sels and veins. Now let’s not forget that our lungs provide oxygen to our heart and body to keep us alive! Now what about the organs that help us digest food?
+A: Very good! It pumps blood throughout the body, using the circulatory system such as blood vessels and veins. Now let’s not forget that our lungs provide oxygen to our heart and body to keep us alive! Now what about the organs that help us digest food?
 
 B: The stomach and intestines!
 
@@ -693,7 +693,7 @@ A: Very good! Let’s not forget that the stomach is the one that breaks down ou
 
 B: Yeah! Our kidneys, liver and bladder!
 
-A: Oh yes, you are right. Very important organs in- deed.
+A: Oh yes, you are right. Very important organs indeed.
 
 B: So what do these organs do teacher?
 
@@ -748,7 +748,7 @@ A: Really? How do you know it was Santa?
 
 B: Well I heard that naughty boys and girls get coal in their stockings, so I thought I’d be nice and make Santa cookies. I even left out some milk. I heard someone in the kitchen eating the cookies, so I came downstairs!
 
-A: Hmm... well I know that Santa won’t come down the chimney with you hiding behind the tree, spy- ing on him!
+A: Hmm... well I know that Santa won’t come down the chimney with you hiding behind the tree, spying on him!
 
 B: Really?
 
@@ -756,7 +756,7 @@ A: Really! Let’s go back upstairs and get back to bed. That way, we can let Sa
 
 B: O-K...
 
-A: Hey, honey! Is that you? Don’t eat all the cookies - I want some, too!
+A: Hey, honey! Is that you? Don’t eat all the cookies I want some, too!
 
 
 ### [337] Global View - The Night Before Christmas
@@ -824,11 +824,11 @@ B: Leftovers.
 
 A: What? Leftovers of what and from when?
 
-B: From last night! I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sand- wiches!
+B: From last night! I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sandwiches!
 
-A: Isn’t that dangerous though? I mean bacteria and germs reproducing on food that was left out or re- heated?
+A: Isn’t that dangerous though? I mean bacteria and germs reproducing on food that was left out or reheated?
 
-B: Well, I didn’t leave the turkey out at room temper- ature for more than a an hour and I refrigerated it soon after we finished eating. Also, when reheat- ing, I put it inthe oven for fifteen minutes at one hundred degrees Celsius.
+B: Well, I didn’t leave the turkey out at room temperature for more than a an hour and I refrigerated it soon after we finished eating. Also, when reheating, I put it inthe oven for fifteen minutes at one hundred degrees Celsius.
 
 A: Well ok, I am just afraid of getting food poisoning.
 
@@ -845,11 +845,11 @@ A: Well Allen is a great student. He is a hard worker and very well behaved, how
 
 B: I guess he gets that from me, I never did well in math when I was a kid. What can I do at home to compliment what he is learning in the classroom.
 
-A: Well, it’s important that you sit with him and re- view his homework assignments and help him with math. I would also recommend he stay af- ter school twice a week for tutoring sessions. It will really help a lot.
+A: Well, it’s important that you sit with him and review his homework assignments and help him with math. I would also recommend he stay after school twice a week for tutoring sessions. It will really help a lot.
 
-B: Thanks a lot! I will definitely do that. Is there any- thing else?
+B: Thanks a lot! I will definitely do that. Is there anything else?
 
-A: Um.. yes. Here is a notice from our financial de- partment, seems your child’s tution is overdue.
+A: Um.. yes. Here is a notice from our financial department, seems your child’s tution is overdue.
 
 B: Oh yes, I....
 
@@ -862,11 +862,11 @@ A: Do you have a New Year’s resolution?
 
 B: I was thinking about it, but I’m never able to keep my New Year’s resolution. Last year for example I joined a gym and only went twice.
 
-A: Yeah I know what you mean. That’s why this year I am keeping things more simple. Maybe like get- ting together with friends I haven’t seen in a long time, or doing some volunteering work.
+A: Yeah I know what you mean. That’s why this year I am keeping things more simple. Maybe like getting together with friends I haven’t seen in a long time, or doing some volunteering work.
 
 B: That seems reasonable. We should get together and watch the ball drop in Times Square.
 
-A: Sure, as long as you don’t try to kiss me at mid- night!
+A: Sure, as long as you don’t try to kiss me at midnight!
 
 B: Well, we can’t break tradition! It’s bad luck!
 
@@ -878,7 +878,7 @@ A: Ok, so are you ready to learn how to bake a cake?
 
 B: Almost, let me just put my apron on.
 
-A: Ok, so the first thing we are going to do is pre- heat the oven, that way we have it at the desired temperature once we finish preparing everything. Set it to three hundred and seventy five degrees Fahrenheit.
+A: Ok, so the first thing we are going to do is preheat the oven, that way we have it at the desired temperature once we finish preparing everything. Set it to three hundred and seventy five degrees Fahrenheit.
 
 B: Got it.
 
@@ -894,7 +894,7 @@ A: Yeah, but grease and flour it first so the cake won’t stick to it when it b
 
 B: Done. So how long do we bake it for?
 
-A: We can leave it in there for about twenty five min- utes. Then we let it cool for ten minutes before we remove the cake from the pan.
+A: We can leave it in there for about twenty five minutes. Then we let it cool for ten minutes before we remove the cake from the pan.
 
 B: Wow! This was a lot easier than I thought!
 
@@ -907,7 +907,7 @@ B: Shhh!! Please keep your voice down. There are people reading and studying her
 
 A: Ok, I’m sorry. Are you the librarian? Maybe you can help me, I am looking for a book.
 
-B: Yes I am. You can check our online catalog to search the book you want based on the genre, title or if you know the author, I can point you to- wards the right direction.
+B: Yes I am. You can check our online catalog to search the book you want based on the genre, title or if you know the author, I can point you towards the right direction.
 
 A: I am looking for a book that has nursery rhymes.
 
@@ -961,7 +961,7 @@ C: Superb choice. I will be back shortly with the wine.
 
 A: Madison Suites, how may I help you?
 
-B: Yes, I’m calling from Mexico. I will be in town next week and would like to know if you have availabil- ity.
+B: Yes, I’m calling from Mexico. I will be in town next week and would like to know if you have availability.
 
 B: OK ma’am, can you tell me the date you expect to check in?
 
@@ -992,7 +992,7 @@ B: Actually I will! I am working out with a personal trainer that gets on my cas
 
 A: That’s cool, does your personal trainer basically teach you how to work out?
 
-B: Yeah. He makes a work put plan depending onthe areas I want to work on, orthe muscles I want to build. Like for example in order to get better mus- cle tone in my abs, pecs and biceps, he makes me work out with free weights. Then for my quads, calves and hamstrings, I do leg lifts or squats.
+B: Yeah. He makes a work put plan depending onthe areas I want to work on, orthe muscles I want to build. Like for example in order to get better muscle tone in my abs, pecs and biceps, he makes me work out with free weights. Then for my quads, calves and hamstrings, I do leg lifts or squats.
 
 A: Sounds like you are really getting in shape!
 
@@ -1056,7 +1056,7 @@ A: How long do you plan to stay in the United States?
 
 B: Almost three weeks.
 
-A: Sir, you didn’t fill out the information on your ar- rival card of where you will be staying.
+A: Sir, you didn’t fill out the information on your arrival card of where you will be staying.
 
 B: Oh, I’m sorry, but there are a couple of different places I will travel to within the United States, so I wasn’t sure what to put.
 
@@ -1085,7 +1085,7 @@ A: Not at all, guys also get facials, manicures and pedicures. There is nothing 
 
 B: True. So what do they do to you at your beauty spa?
 
-A: Well, first they exfoliate my face, getting rid of all the dead skin. Then I get a face mask with nutri- ents that keep my skin healthy and young. After- wards, they apply some moisturizer and you leave feeling like a million bucks.
+A: Well, first they exfoliate my face, getting rid of all the dead skin. Then I get a face mask with nutrients that keep my skin healthy and young. Afterwards, they apply some moisturizer and you leave feeling like a million bucks.
 
 B: That doesn’t really sound like something I would be interested in. In any case, I just wash my face every night and use sunscreen during the day.
 
@@ -1104,17 +1104,17 @@ A: You should get acupuncture treatment. My mom was always having headache issue
 
 B: The results are too slow. On top of that, just the thought of smoking needles poking into my flesh frightens me.
 
-A: They don’t just randomly stick you, they find your pressure points. The heat allows the body to im- mediately respond to the treatment, restoring the body’s ”chi”.
+A: They don’t just randomly stick you, they find your pressure points. The heat allows the body to immediately respond to the treatment, restoring the body’s ”chi”.
 
 B: But I get scared the moment I see a needle. How could I stand having needles in my body for hours on end?
 
-A: The needles are very thin, and as long as the doctor’s technique is good, and the patient him- self is relaxed, it won’t hurt–on the contrary it will actually alleviate pain. Now there are high-tech needles that are micro thin; they don’t hurt at all. However, if you are really scared of acupuncture, scraping or cupping are also options.
+A: The needles are very thin, and as long as the doctor’s technique is good, and the patient himself is relaxed, it won’t hurt–on the contrary it will actually alleviate pain. Now there are high-tech needles that are micro thin; they don’t hurt at all. However, if you are really scared of acupuncture, scraping or cupping are also options.
 
-B: Scraping is too terrifying. When they finish scrap- ping, your body is all red, as if you were just tor- tured. Cupping is the same, your body ends up with red circles all over it–looks like someone beat you up.
+B: Scraping is too terrifying. When they finish scrapping, your body is all red, as if you were just tortured. Cupping is the same, your body ends up with red circles all over it–looks like someone beat you up.
 
 A: This only signifies that the toxins have left the body. Actually, there is only discomfort during the treatment process. Once it’s over you feel very comfortable.
 
-B: Chinese medicine is strange. The patients are al- ready ill, and then the doctor makes them suffer more.
+B: Chinese medicine is strange. The patients are already ill, and then the doctor makes them suffer more.
 
 A: This is the only way to get at the problem. Anyway, if you want to relieve the pain,You are just going to have to be tough and do it.
 
@@ -1129,7 +1129,7 @@ B: My brother in law is having a small get together at his house and he invited 
 
 A: Is it a family thing or just friends?
 
-B: A bit of both. Some cousins, aunts and uncles will be there, but also some friends from the neigh- borhood.
+B: A bit of both. Some cousins, aunts and uncles will be there, but also some friends from the neighborhood.
 
 A: Is your great uncle Rick going to be there? He is really funny.
 
@@ -1157,7 +1157,7 @@ B: What about Rubella and Mumps?
 
 A: Well, I can only give him these for now, and after a couple of weeks I can administer the rest.
 
-B: Ok great. Doctor, I think I also may need a Tetanus booster. Last time I got it was maybe fif- teen years ago!
+B: Ok great. Doctor, I think I also may need a Tetanus booster. Last time I got it was maybe fifteen years ago!
 
 A: We will check our records and I’ll have the nurse administer the booster as well. Now, please hold Ricky’s arm tight, this may sting a little.
 
@@ -1172,9 +1172,9 @@ A: Well, the Great Wall of China, the Taj Mahal in India.
 
 B: I’ve been there! It really is an amazing work of architecture and art. The entire complex is made of white marble and in the interior of the tomb, the walls are covered with gems and emeralds!
 
-A: Cool! Also amongst the winners is Petra, in Jor- dan, Machu Picchu in Peru and the pyramid in Chichenitza in Mexico.
+A: Cool! Also amongst the winners is Petra, in Jordan, Machu Picchu in Peru and the pyramid in Chichenitza in Mexico.
 
-B: Wait a minute! It also says that the Christ Re- deemer statue in Brazil and the Colosseum in Rome are wonders. I would love to go to Italy and see the Colosseum, stand in the middle like a gladiator!
+B: Wait a minute! It also says that the Christ Redeemer statue in Brazil and the Colosseum in Rome are wonders. I would love to go to Italy and see the Colosseum, stand in the middle like a gladiator!
 
 A: Well, let’s see if we can find some cheap airfare and we can go towards the end of the year.
 
@@ -1185,7 +1185,7 @@ B: Good idea!
 
 A: Hey, Jordan, is that you? Long time no see!
 
-B: Oh, hey, no kidding! I haven’t seen you since ori- entation three months ago! So how’ve you been? Settling into college life OK?
+B: Oh, hey, no kidding! I haven’t seen you since orientation three months ago! So how’ve you been? Settling into college life OK?
 
 A: Yeah, I think so! I pledged Phi Iota Alpha, so I’m living atthe frat house now.
 
@@ -1193,7 +1193,7 @@ B: Oh, so you’re a frat boy now, huh?
 
 A: Yeah, yeah, I know, it’s totally cliche´, but really, I think it’s been a good decision. I’ve got a lot of support and good suggestions from the guys. What about you? What have you been up to?
 
-B: Not much. I’m still living at home and commuting to school. I ended up dropping that metalwork- ing class I was so excited about. It just wasn’t as interesting as I’d hoped. The guidance counselor suggested that I focus on my prerequisite courses so that I can make sure the credits count.
+B: Not much. I’m still living at home and commuting to school. I ended up dropping that metalworking class I was so excited about. It just wasn’t as interesting as I’d hoped. The guidance counselor suggested that I focus on my prerequisite courses so that I can make sure the credits count.
 
 A: That sounds smart...but kind of boring.
 
@@ -1300,7 +1300,7 @@ B: What? I sent you three or four messages!
 
 A: I didn’t get any of them. I was waiting for you to text me the address of where the party was and I never got your message.
 
-B: Why didn’t you just call? I hate sending SMS mes- sages.
+B: Why didn’t you just call? I hate sending SMS messages.
 
 A: Well, because I didn’t have any credit on my phone. I used it all up this month.
 
@@ -1319,7 +1319,7 @@ B: What? That sounds really dodgy tome.
 
 A: No way, Tom is an honest person, he wouldn’t lie tome.
 
-B: No I mean, it seems like someone may have hacked his email account and sent that out. I mean think about it, why would he email you in- stead of calling you.
+B: No I mean, it seems like someone may have hacked his email account and sent that out. I mean think about it, why would he email you instead of calling you.
 
 A: Do you really think someone is trying to scam people into sending money?
 
@@ -1328,17 +1328,17 @@ B: For sure! There are so many con artists out there, you never really know.
 
 ### [360] Global View - Urban Legends
 
-A: Have you read all these crazy things that are go- ing on around the world?
+A: Have you read all these crazy things that are going on around the world?
 
 B: What do you mean?
 
-A: I was reading about how some people get tricked or drugged in their hotel rooms and have their or- gans removed! Then they are sold onthe black market.
+A: I was reading about how some people get tricked or drugged in their hotel rooms and have their organs removed! Then they are sold onthe black market.
 
 B: Don’t tell me you actually believe all that? Don’t beso gullible, they are just urban legends. They are just stories people make up to scare you.
 
 A: Well, I was also reading about how some popular songs have subliminal or even satanic messages if you play them backwards! Can you believe that?
 
-B: You really think an artist or songwriter is going to go through the trouble of putting subliminal or sa- tanic messages in a song? Don’t beso naive!
+B: You really think an artist or songwriter is going to go through the trouble of putting subliminal or satanic messages in a song? Don’t beso naive!
 
 A: Well maybe you are right, but how about the story of how KFC has rows of headless chickens which are super grown in order to get bigger chickens faster!
 
@@ -1354,11 +1354,11 @@ B: Ok, maybe we can order a soup and a salad from the restaurant down the street
 
 A: I was thinking of getting a hamburger, fries and a chocolate sundae.
 
-B: You eat too much junk food. That sort of stuff clogs up your arteries and is very high in choles- terol.
+B: You eat too much junk food. That sort of stuff clogs up your arteries and is very high in cholesterol.
 
 A: Well I never seem to gain weight so I don’t mind.
 
-B: It’s not only about getting fat or not, it’s about be- ing healthy. You could really have some health problems later on.
+B: It’s not only about getting fat or not, it’s about being healthy. You could really have some health problems later on.
 
 A: How about pizza or maybe some fried chicken! Better yet, let’s order some hot dogs!
 
@@ -1390,7 +1390,7 @@ A: Well, you still live with your parents, so she does have a point.
 
 B: What do you mean? Lots of people live with their parents, especially when rent isso expensive andthe slump inthe economy.
 
-A: Yeah, but you are almost forty! Plus, you make good money so there is really no excuse. It’s sim- ply because you are a momma’s boy.
+A: Yeah, but you are almost forty! Plus, you make good money so there is really no excuse. It’s simply because you are a momma’s boy.
 
 B: Whatever dude, I have everything I need, why would I move out! Have a great roof over my head, my mom does my laundry and cooks for me, what else could a guy ask for!
 
@@ -1428,12 +1428,12 @@ A: Kevin, what is this mess? It looks like a pigsty in here! Clean this up!
 
 B: Ok dad, I will do it in a minute, let me just finish this level of this game.
 
-A: No, I said now! Plus, you are grounded, you’re not allowed to play video games. I wantyou to make your bed, dothe laundry and then come down- stairs and sweep the floors.
+A: No, I said now! Plus, you are grounded, you’re not allowed to play video games. I wantyou to make your bed, dothe laundry and then come downstairs and sweep the floors.
 
 B: That’s so unfair!
 
 A: You have to pull your weight around here young man. My house, my rules.
 
-B: But I already mopped the floors, dusted the furni- ture and vacuumed the rugs!
+B: But I already mopped the floors, dusted the furniture and vacuumed the rugs!
 
 A: That’s great, but you still have work to do, so get to it.

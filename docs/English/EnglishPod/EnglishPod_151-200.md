@@ -10,17 +10,17 @@ createTime: 2026/06/30 08:10:21
 
 A: It’s been a long time since I last saw you. Where have you been?
 
-B: The exams and plans I have to turn in in are driv- ing me crazy, I don’t even have time to sleep.
+B: The exams and plans I have to turn in in are driving me crazy, I don’t even have time to sleep.
 
 A: It’s the same for me. I’m up to my neck in work, but at least finals are coming soon and we’ll have a vacation. Where are you going now?
 
-B: I’m going to Anthropology class and now with the year anniversary of Darwin, it’s the only thing we study. Frankly, I’m sick and tired and tired of hear- ing about this guy.
+B: I’m going to Anthropology class and now with the year anniversary of Darwin, it’s the only thing we study. Frankly, I’m sick and tired and tired of hearing about this guy.
 
 A: What? Why? How can you not like Darwin? I mean the man changed the entire perception of how things came to and his theory is backed by pretty solid evidence!
 
 B: I don’t like him. His theory of human evolution and natural selection is full of holes. It lacks the solid evidence of which you speak of.
 
-A: That statement puts you at odds with half of the academy. Not to mention your professors! Fur- thermore, the explanation proposed by Darwin about the origin of species and the mechanism of natural selection constitutes a grand step to- ward a coherent understanding of the world and evolutionist ideas.
+A: That statement puts you at odds with half of the academy. Not to mention your professors! Furthermore, the explanation proposed by Darwin about the origin of species and the mechanism of natural selection constitutes a grand step toward a coherent understanding of the world and evolutionist ideas.
 
 B: I’m not minimizing his grand contributions, it’s just that his theory reminds of the conundrum of the chicken and the egg.
 
@@ -81,7 +81,7 @@ A: Uh... Yeah! I’ve told you a thousand times that I’m learning to play the 
 
 B: Aside from yourself, who are the other members of the band?
 
-A: We have a guy who plays guitar, and another who plays bass. Although we still haven’t found any- one to be our singer. You told me that you had some musical talent, right?
+A: We have a guy who plays guitar, and another who plays bass. Although we still haven’t found anyone to be our singer. You told me that you had some musical talent, right?
 
 B: Yes, I’m a singer.
 
@@ -106,9 +106,9 @@ A: Aw come on! It’s just some innocent fun! You know how these things are! We 
 
 B: Well, I don’t know.
 
-A: Come on! If one of your friends was getting mar- ried I wouldn’t mind you going to her bachelorette party!
+A: Come on! If one of your friends was getting married I wouldn’t mind you going to her bachelorette party!
 
-B: Good,because my friend Wendy is getting mar- ried and I’m organizing her party!
+B: Good,because my friend Wendy is getting married and I’m organizing her party!
 
 A: What!
 
@@ -119,27 +119,27 @@ A: Oh no! The lights went out! Honey can you light a candle?
 
 B: Sure. What do we do now?
 
-A: Well, we can just talk, you know, like we used to.Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new s I was living with my father at the time, when he received a phone call. Hmm... I know! I’ll tell you a scary story! It hap- pened to me and my dad when I was a teenager... (fade out - fade in new scene) I was living with my father at the time, when he received a phone call.
+A: Well, we can just talk, you know, like we used to.Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new s I was living with my father at the time, when he received a phone call. Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new scene) I was living with my father at the time, when he received a phone call.
 
 B: Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new scene) I was living with my father at the time, when he received a phone call. I was living with my father at the time, when he received a phone call. Father: (phone rings) Hello? Yes this is him. I see, I’m sorry to hear that. Ok no problem. I’ll be there shortly. (hang up the phone) Pack some clothes Tony, my great aunt is very ill and no one in the family wants to take care of her. We are going to stay at her house for a few days. Kid: Aunt? What aunt? I never knew you had a great aunt! Father: Well, the family doesn’t talk about her or get near her, for that matter. Kid: Why is that? Father: Come on, we have to go.
 
-B: So we arrived at this old house on the outskirts of our town. There was almost no one around and the house had an eerie look to it. Once inside the house, we walked to her room and I was sur- prised to find my dad’s great aunt in a wheelchair, yelling at someone, but we were alone in the room. Father: Hi, aunt Ursula! This is my son Tony. Ursula: Why have you come? Why are you here? Don’t you know it isn’t safe? My time is near, he is coming for me. Kid: Who is coming for you? Ursula: The prince of darkness! The lord of the underworld, the tempter, the old ser- pent. Father: Come on, aunt Ursula let’s lay you down. You need to get some rest. Tony, help me lay her down.
+B: So we arrived at this old house on the outskirts of our town. There was almost no one around and the house had an eerie look to it. Once inside the house, we walked to her room and I was surprised to find my dad’s great aunt in a wheelchair, yelling at someone, but we were alone in the room. Father: Hi, aunt Ursula! This is my son Tony. Ursula: Why have you come? Why are you here? Don’t you know it isn’t safe? My time is near, he is coming for me. Kid: Who is coming for you? Ursula: The prince of darkness! The lord of the underworld, the tempter, the old serpent. Father: Come on, aunt Ursula let’s lay you down. You need to get some rest. Tony, help me lay her down.
 
-B: That night, we slept in one of the 12 rooms of that big old mansion. The trees outside seemed to come alive and their shadows formed ghoulish shapes on my bed. All of a sudden, we heard scream- ing. Ursula: Ursula: (muffled distant screaming, kid runs towards the sounds - her volume increases) Ahhh! Get off me beast! I won’t let you take me! Ahhh! Kid: Dad! Dad! Something is attacking aunt Ursula! Ursula: Ursula: Take your claws off me! Go back to the underworld you demon! I shall be judged before you can take me! Father: The door is jammed! Stand back! (kicks the door down) Aunt Ursula! Where are you? Kid: Over here! (heavy breathing fx)
+B: That night, we slept in one of the 12 rooms of that big old mansion. The trees outside seemed to come alive and their shadows formed ghoulish shapes on my bed. All of a sudden, we heard screaming. Ursula: Ursula: (muffled distant screaming, kid runs towards the sounds her volume increases) Ahhh! Get off me beast! I won’t let you take me! Ahhh! Kid: Dad! Dad! Something is attacking aunt Ursula! Ursula: Ursula: Take your claws off me! Go back to the underworld you demon! I shall be judged before you can take me! Father: The door is jammed! Stand back! (kicks the door down) Aunt Ursula! Where are you? Kid: Over here! (heavy breathing fx)
 
-B: And as we approached her, she was ly- ing on the floor, with her hands and feet open like the Vitruvian Man, breathing heavily with bloody marks and scratches on her arms, legs and face. Remem- ber how I mentioned that she was in a wheel chair? My aunt had been para- lyzed from the neck down for just over a year. After this incident, strange things would happen in the house and my aunt would yell and scream, according to her, warding off the evil that had come to get her. As the days passed, she became very weak and eventually was unable to talk. My dad had to work during the day, so I was left to care for her. When she lost her voice and laid on her death bed, I would hear her breathe, in and out. Ursula:: (Breathing wheezing fx spaced out be- tween inhale and exhale)
+B: And as we approached her, she was lying on the floor, with her hands and feet open like the Vitruvian Man, breathing heavily with bloody marks and scratches on her arms, legs and face. Remember how I mentioned that she was in a wheel chair? My aunt had been paralyzed from the neck down for just over a year. After this incident, strange things would happen in the house and my aunt would yell and scream, according to her, warding off the evil that had come to get her. As the days passed, she became very weak and eventually was unable to talk. My dad had to work during the day, so I was left to care for her. When she lost her voice and laid on her death bed, I would hear her breathe, in and out. Ursula:: (Breathing wheezing fx spaced out between inhale and exhale)
 
 ### [157] The Weekend - Trick Or Treat
 
-A: Trick - or -treat
+A: Trick or -treat
 
-B: Tom, aren’t you a littletoo old to be trick-or - treat- ing?
+B: Tom, aren’t you a littletoo old to be trick-or treating?
 
-A: What are you talking about? Where is your Hal- loweenspirit? Didn’t you ever dress up in a cos- tume and go around the neighborhood trick-or- treatingwith your friends?
+A: What are you talking about? Where is your Halloweenspirit? Didn’t you ever dress up in a costume and go around the neighborhood trick-or- treatingwith your friends?
 
 B: Of course I did, but when I was ten! Trick -or- treatingis for kids, plus, I ’msure people will think you’re a kidnapper or something, running around with kids NCP at night.
 
-A: Whatever, I’mgoing next doorI heard Mrs. Robin- son is giving out big bags of M&Ms!
+A: Whatever, I’mgoing next doorI heard Mrs. Robinson is giving out big bags of M&Ms!
 
 
 ### [158] Global View - All Saints Day
@@ -156,7 +156,7 @@ B: This is a very special day among many cultures around the world especially in
 
 A: Seriously? I thought it was just like any other day, except for the fact that people visit the cemetery and remember their loved ones.
 
-B: Well, that’s just part of it People across the world celebrate in different waysIn Mexcio for example it’s common to see people building private altars honoring the deceasedusing sugar skulls, prepar- ing the favorite foods and beverages of the de- parted and visiting graves with these as gifts. In the Philippines , the tombs are cleaned or re- painted, candles are lit and flowers are offered Entire families camp out in cemeteries .and some- times spend a night or two near their relatives’ tombs!
+B: Well, that’s just part of it People across the world celebrate in different waysIn Mexcio for example it’s common to see people building private altars honoring the deceasedusing sugar skulls, preparing the favorite foods and beverages of the departed and visiting graves with these as gifts. In the Philippines , the tombs are cleaned or repainted, candles are lit and flowers are offered Entire families camp out in cemeteries .and sometimes spend a night or two near their relatives’ tombs!
 
 A: Whoa! That’sscary! I don’t know if I could do that!
 
@@ -167,17 +167,17 @@ B: Why? We should fear the living, not the dead .
 
 A: Hello sir, how may I help you?
 
-B: I would like to buy some flowers, please. Some- thing really nice.
+B: I would like to buy some flowers, please. Something really nice.
 
 A: I see, may I ask whatthe occasion is?
 
 B: It’s not really an occasion, it’s more like I’m sorry.
 
-A: Very well. This arrangement here is very popu- lar among regretful husb ands and boyfriends. It has a dozenlong stem red roses with a couple of sunflowers and a single orchid that stands out. It includes a small teddy bear to achievethe effect of immediate forgiveness.
+A: Very well. This arrangement here is very popular among regretful husb ands and boyfriends. It has a dozenlong stem red roses with a couple of sunflowers and a single orchid that stands out. It includes a small teddy bear to achievethe effect of immediate forgiveness.
 
 B: I think I’m gonna need more than just a dozen red roses and a bear. What else do you recommend?
 
-A: Mmm, well this is our ” I’m sorry I cheated on you” package. Two dozen red roses lined with tulips, carnati ons and lilies. The fragrance and beauty of this flower arrangement is sure to make her for- give you.
+A: Mmm, well this is our ” I’m sorry I cheated on you” package. Two dozen red roses lined with tulips, carnati ons and lilies. The fragrance and beauty of this flower arrangement is sure to make her forgive you.
 
 B: I don’t think that’s gonna cut it. I need something bigger and better!
 
@@ -202,7 +202,7 @@ A: Yeah, you’re right. We aren’t getting any younger and our kids are gettin
 
 B: Exactly! I searched onthe web and found a couple of HMO’s with low co pays and good coverage. The deductibles are low, too.
 
-A: Sounds good, although, do you think we can qual- ify for insurance? Those insurance companies are real pirates when it comes to money.
+A: Sounds good, although, do you think we can qualify for insurance? Those insurance companies are real pirates when it comes to money.
 
 B: Well, we don’t have any pre existing illnesses or conditions, so we should be fine.
 
@@ -218,7 +218,7 @@ A: MarkWhere have you been? I’ve been calling you all morning.
 
 B: I’ve been playing computer games.
 
-A: What? So you blew me off yesterday and today over a stupid video game? What game is so im- portant that you have no time for me anymore? What are you playing?
+A: What? So you blew me off yesterday and today over a stupid video game? What game is so important that you have no time for me anymore? What are you playing?
 
 B: It’s called Counter Strike It’s a first person shooter game. It’s awesome. It’s a multi player game where you can go online and compete against players from all over the world.
 
@@ -256,24 +256,24 @@ B: Well, they mentioned how people put away money in something called a 401K?
 
 A: Yeah, I know it sounds weird, but a 401k is a type of retirement plan that allows employees to save and invest for their own retirement Through a you can authorize your employer to deduct a certain amount of money from your paycheck and invest it inthe plan Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your nest egg.
 
-B: That’s interesting and logical I guess. In my coun- try, we also have to contribute to a government- run retirement fund, but most people don’t really trust itso they just invest in properties or things like that.
+B: That’s interesting and logical I guess. In my country, we also have to contribute to a government run retirement fund, but most people don’t really trust itso they just invest in properties or things like that.
 
 A: That seems a bit unstable don’t you think?
 
-B: Yeah, but corrupt governments inthe past have created distrust among banks and financial insti- tutions, so now people prefer to have money hid- den in a jar or a piggy bank.
+B: Yeah, but corrupt governments inthe past have created distrust among banks and financial institutions, so now people prefer to have money hidden in a jar or a piggy bank.
 
 A: I’ve been thinking of doing that lately! I don’t want some banker to run off with my money!
 
 
 ### [164] Daily Life - Apology Letter
 
-A: Dear Mary, I come here today, in this way, be- cause I need to apologize to you. I failed you. Although I did not lie to you in words, I lied to you with faces that did not belong to me. I never meant to ruin the friendship that meant the world to me. You mean the world to me and now I come to you asking for forgiveness. If in your heart you find you can’t, then I will understand and learn from this experience.
+A: Dear Mary, I come here today, in this way, because I need to apologize to you. I failed you. Although I did not lie to you in words, I lied to you with faces that did not belong to me. I never meant to ruin the friendship that meant the world to me. You mean the world to me and now I come to you asking for forgiveness. If in your heart you find you can’t, then I will understand and learn from this experience.
 
-A: You came into my life at a time when I needed you the most. We talked about so many things that I started to realize my heart and my soul could ac- tually feel something other than hurt. You placed comfort where there was fear, confidence where there was doubt, a shoulder where tears could fall and completeness where there was emptiness. I wanted to hold onto to this so badly that I did whatever it took for you to notice. What I didn’t realize was that I could lose my entire being, all of who I was and all that I had placed in you.
+A: You came into my life at a time when I needed you the most. We talked about so many things that I started to realize my heart and my soul could actually feel something other than hurt. You placed comfort where there was fear, confidence where there was doubt, a shoulder where tears could fall and completeness where there was emptiness. I wanted to hold onto to this so badly that I did whatever it took for you to notice. What I didn’t realize was that I could lose my entire being, all of who I was and all that I had placed in you.
 
-A: I wanted to be the one who would be there when you needed to talk. I wanted to be the comfort for your soul when the world was too much to handle. I wanted to be strong for you when everything else seemed impossible. I wanted to love you in only the way you deserved to be loved, never realizing that I was destroying myself and you. Somehow I needed you to be a part of my life. The only prob- lem was that I was willing to jeopardize everything to get that done.
+A: I wanted to be the one who would be there when you needed to talk. I wanted to be the comfort for your soul when the world was too much to handle. I wanted to be strong for you when everything else seemed impossible. I wanted to love you in only the way you deserved to be loved, never realizing that I was destroying myself and you. Somehow I needed you to be a part of my life. The only problem was that I was willing to jeopardize everything to get that done.
 
-A: All the things that I told you about how I felt and how you make me feel were true. Nothing else mattered to me except hearing the laughter in your voice when you were happy. You made my days easy to get through and my nights peace- ful; you helped me look forward to another day. Even though distance separated us, just being was enough.
+A: All the things that I told you about how I felt and how you make me feel were true. Nothing else mattered to me except hearing the laughter in your voice when you were happy. You made my days easy to get through and my nights peaceful; you helped me look forward to another day. Even though distance separated us, just being was enough.
 
 A: I’m sorry for hurting you and if I had to do all over again I would have been 100% with you. Forgive me please,
 
@@ -296,7 +296,7 @@ B: That is a very serious problem you see, the bank must assess your personal in
 A: You know what? I don’t really need the money. Thanks anyways!
 
 
-### [166] Daily Life - Dr. Botox
+### [166] Daily Life Dr. Botox
 
 A: What are you doing?
 
@@ -306,7 +306,7 @@ A: Come on! Stop being so vain. You look great! You are beautiful!
 
 B: Yes, I am, but I think it’s time for some plastic surgery I’m tired of these wrinkles and sagging skin. See?
 
-A: I don’t see any wrinkles or sagging skin! You are stop beings ridiculous. Besides, I think that peo- ple who get Botox, have facelifts, or tummy tucks look weird. It doesn’t look natural.
+A: I don’t see any wrinkles or sagging skin! You are stop beings ridiculous. Besides, I think that people who get Botox, have facelifts, or tummy tucks look weird. It doesn’t look natural.
 
 B: Whatever, I think I’m gonna get liposuction and a nose joband some breast implantsas well.
 
@@ -325,11 +325,11 @@ A: Yeah! When I got my nose job I was black and blue for a week!
 
 A: Ok! I’m ready for my driving lesson! Should I start the car?
 
-B: Hold on there Fittipaldi, first let’s go over things one more time. Now before you even think of starting the car, make sure your seat is at a com- fortable position and you can grip the steering wheelfirmly. Next check your rear view mirrorsto make sure you can see properly.
+B: Hold on there Fittipaldi, first let’s go over things one more time. Now before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheelfirmly. Next check your rear view mirrorsto make sure you can see properly.
 
 A: We have been through this a million times! Let’s get going already! I’m ready!
 
-B: Fine start the car. now gently step onthe clutch and shift to 1st gear. Good, now accelerate gen- tly and let go ofthe clutch as u do it. There we gogood!
+B: Fine start the car. now gently step onthe clutch and shift to 1st gear. Good, now accelerate gently and let go ofthe clutch as u do it. There we gogood!
 
 A: I’m doing it! I’m driving! This is awesome! Le’ts turn some music on!
 
@@ -359,7 +359,7 @@ A: After waiting for an hour, and having a couple of drinks, it's time to check 
 
 A: I’m so excited! We are finally here! Six Flags Magic Mountain! This isthe best amusement park inthe world!
 
-B: Alright settle down now, you’re gonna give your- self a heart attack.
+B: Alright settle down now, you’re gonna give yourself a heart attack.
 
 C: I can’t believe they charged us dollars each. It seems like a rip offdon’t you think? It’s not like I’m gonna get on these rides.
 
@@ -386,7 +386,7 @@ B: What are you talking about? It wasn’t more than a month ago that you were r
 
 A: I know I know!
 
-B: Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humil- iated and kill you, but she is the woman that you love andthe woman of your dreams! Why would you want to end that or jeopardize it like this? Sec- ond of all, you are just getting cold feet. You know deep down inside that you want to marry her, so cut the crap and do it!
+B: Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humiliated and kill you, but she is the woman that you love andthe woman of your dreams! Why would you want to end that or jeopardize it like this? Second of all, you are just getting cold feet. You know deep down inside that you want to marry her, so cut the crap and do it!
 
 B: You’re right. I’m being crazy! Ok, I’m ready, lets do this!
 
@@ -400,7 +400,7 @@ A: Hello, ma’am, can I help you find something?
 
 B: Yes, actually I’m looking to buy a camera.
 
-A: We’ve got a wide selection do you know if you’d like a point-and-shoot, or something a lit- tle fancier? Are you shopping for yourself or for someone else?
+A: We’ve got a wide selection do you know if you’d like a point-and-shoot, or something a little fancier? Are you shopping for yourself or for someone else?
 
 B: Actually I’m buying a camera for my husband.
 
@@ -418,7 +418,7 @@ B: Yeah, but what kit lens does this camera come with? I don’t want some bulky
 
 A: Oh, well this one has the, uh.
 
-B: Looks to me like an 18-55mm lens. pretty stan- dard, that will do. Not like my husband will be stalking celebrities or anything!
+B: Looks to me like an 18-55mm lens. pretty standard, that will do. Not like my husband will be stalking celebrities or anything!
 
 A: So, ahem, can I interest you in any acc...
 
@@ -428,7 +428,7 @@ A: Polarizing filter um we should! I’m sorry, ma’am. looks like we’re sold
 
 B: No you’re not! There are some right here!
 
-A: Oh, well, would you look at that! Po-la-ri-zing fil- ters.
+A: Oh, well, would you look at that! Po-la-ri-zing filters.
 
 B: Thanks for your help, Ralph!
 
@@ -445,7 +445,7 @@ A: I need this dress and this suit dry cleaned ASAP!
 
 B: OK, I can have it ready by the end ofthe week.
 
-A: No you don’t understand, I need this tomorrow morning! I accidentally spilled beer all over my wife’s dress and we have a wedding to attend to- morrow! She’s gonna kill me!
+A: No you don’t understand, I need this tomorrow morning! I accidentally spilled beer all over my wife’s dress and we have a wedding to attend tomorrow! She’s gonna kill me!
 
 B: Ok, I can have it ready tomorrow afternoon, but this suit is also very stained. I can’t guarantee we can remove it completely.
 
@@ -464,15 +464,15 @@ B: Thank you.
 
 A: So I understand that your family spending has sky rocketed and you want to start budgeting.
 
-C: Yes thats correct. Frankly speaking our house- hold income is relatively high and we have never had any money problems, but I think this isthe main reason as to why our spending has gone out of control.
+C: Yes thats correct. Frankly speaking our household income is relatively high and we have never had any money problems, but I think this isthe main reason as to why our spending has gone out of control.
 
-B: We have two kids and with allowances, paying their credit cards, ours and not to mention our mortgage and car payments. With the recent eco- nomic downturn, my husband’s business has suf- fered and now we need some advice as to how we can prepare a family budget.
+B: We have two kids and with allowances, paying their credit cards, ours and not to mention our mortgage and car payments. With the recent economic downturn, my husband’s business has suffered and now we need some advice as to how we can prepare a family budget.
 
 A: I see. Well you have come tothe right place. First what we need to do, is determine your cash flow. Knowing how much money is coming in will help us allocate spending to different categories such as mortgage, education, groceries, etc.
 
 B: Yes that makes sense.
 
-A: Secondly, I need you to bring all of your receipts forthe last two to three months. That way, we can determine what your average expenditures are and see which category you are spending money onthe most. Usually, your fixed costs are higher and we cant do much about that, but we can usu- ally trim your variable costs such as entertainment or clothing.
+A: Secondly, I need you to bring all of your receipts forthe last two to three months. That way, we can determine what your average expenditures are and see which category you are spending money onthe most. Usually, your fixed costs are higher and we cant do much about that, but we can usually trim your variable costs such as entertainment or clothing.
 
 C: Great! We will do that then! Now how about we treat you to a nice dinner?
 
@@ -487,7 +487,7 @@ B: Where are you going?
 
 A: I told you already! I’m going to. get my nails done.
 
-B: Again? You just went last week! You spend more time atthe nail salon than you do here at home! Honestly, why do you need a manicure ev- ery week?
+B: Again? You just went last week! You spend more time atthe nail salon than you do here at home! Honestly, why do you need a manicure every week?
 
 A: Well, first of all, I like to pamper myself, and my nails look great. You should come with me!
 
@@ -504,11 +504,11 @@ A: Did you read this? It says that the number one new years resolution make is t
 
 B: Why would that be funny?
 
-A: Well, think about it. We are a society that is al- ways on the go, not because we have to, but be- cause we want to.
+A: Well, think about it. We are a society that is always on the go, not because we have to, but because we want to.
 
 B: Why?
 
-A: We work hard and spend less time at home be- cause we are trying to provide for our family with goods and services that are usually unnecessary.
+A: We work hard and spend less time at home because we are trying to provide for our family with goods and services that are usually unnecessary.
 
 B: I don’t agree, but anyways, I think you should start thinking of a new year’s resolution yourself.
 
@@ -648,7 +648,7 @@ C: Of course we can honey. Bill, come on, get dressed.
 
 B: Fine! Not like Santa brought me any gifts!
 
-C: Bill! Honestly, you can be such a grouch some- times.
+C: Bill! Honestly, you can be such a grouch sometimes.
 
 A: Look at all these presents under the Christmas tree! Awesome!
 
@@ -675,17 +675,17 @@ A: Uhg! And this sweater from my aunt? Isn’t it hideous?
 
 B: I guess.
 
-A: Are you even listening? I’m trying to have a con- versation with you.
+A: Are you even listening? I’m trying to have a conversation with you.
 
-B: And I’m trying to watch the game, but you’re yap- ping on about your new clothes!
+B: And I’m trying to watch the game, but you’re yapping on about your new clothes!
 
 A: Well I have to decide which gifts to keep and which to exchange for better ones when I go to the Boxing Day sales this afternoon!
 
-B: Well could you do me the favor of making this quick? It’s the third quarter and you’ve been blab- bering on since the first!
+B: Well could you do me the favor of making this quick? It’s the third quarter and you’ve been blabbering on since the first!
 
 A: Oh, your precious game. You watch the same game every year, and each year your beloved hometown team loses by at least three goals!
 
-B: Oh no you didn’t. You didn’t just insult the Sals- bury Seals, did you? Why don’t you just. just go and return all of those stupid clothes and not come back until the sales are over?
+B: Oh no you didn’t. You didn’t just insult the Salsbury Seals, did you? Why don’t you just. just go and return all of those stupid clothes and not come back until the sales are over?
 
 A: I might just! Enjoy your stupid game!
 
@@ -779,13 +779,13 @@ B: You couldn’t be more wrong! A well written business plan will include an ex
 
 A: Well that seems easy enough.
 
-B: Wait, there’s more! Then you need to introduce and describe your goods or services. What they are and how they are different from competitors’? Then comes the hard part, a market analysis. You need to investigate and analyze hundreds of vari- ables! You need to take into consideration so- cioeconomic factors from GDP per capita to how many children on average the population has! All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually ex- ecute your idea.
+B: Wait, there’s more! Then you need to introduce and describe your goods or services. What they are and how they are different from competitors’? Then comes the hard part, a market analysis. You need to investigate and analyze hundreds of variables! You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has! All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.
 
 A: Geez. Is that all?
 
-B: Almost, the most important piece of information for your investors will be the financial analysis. Here you will calculate and estimate sales, cash flow and profits. After all, people will want to know when they will begin to see a return on their in- vestment!
+B: Almost, the most important piece of information for your investors will be the financial analysis. Here you will calculate and estimate sales, cash flow and profits. After all, people will want to know when they will begin to see a return on their investment!
 
-A: Umm. I think I’ll just stick to my old job and save myself all the hassle of trying to start up a busi- ness!
+A: Umm. I think I’ll just stick to my old job and save myself all the hassle of trying to start up a business!
 
 
 ### [187] Daily Life - Going On A Diet
@@ -794,7 +794,7 @@ A: Oh man! I’ve been starving myself for days now and I haven’t lost an ounc
 
 B: Are you trying to lose weight?
 
-A: Yeah, my friend is getting married next month and I’m supposed to be a bridesmaid. I have to fit into my dress and look nice for her wedding, but I haven’t lost any weight! Look at these love han- dles.
+A: Yeah, my friend is getting married next month and I’m supposed to be a bridesmaid. I have to fit into my dress and look nice for her wedding, but I haven’t lost any weight! Look at these love handles.
 
 B: You don’t have to starve yourself to lose weight. I think that’s where you’re going wrong.
 
@@ -804,7 +804,7 @@ B: Not really. You should try to not eat foods high in calories, salts or satura
 
 A: So you are saying that I should eat, but I should just watch what I eat?
 
-B: Yes! You can also try to reduce your intake of car- bohydrates and foods that are high in cholesterol. You can have steamed veggies or increase your protein intake found in chicken or fish.
+B: Yes! You can also try to reduce your intake of carbohydrates and foods that are high in cholesterol. You can have steamed veggies or increase your protein intake found in chicken or fish.
 
 A: If I do all this do you think I can lose twenty pounds in four weeks?
 
@@ -825,13 +825,13 @@ A: I won’t beat around the bush. Sir, I would like a raise. I currently have t
 
 B: A raise? Son, I would love to give you a raise, but this is just not the right time.
 
-A: I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into con- sideration my hard work, pro-activeness and loy- alty to this company for over a decade.
+A: I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into consideration my hard work, pro-activeness and loyalty to this company for over a decade.
 
-B: Taking into account these factors, and consider- ing I don’t want to start a brain drain, I’m willing to offer you a ten percent raise and an extra five days of vacation time. How does that sound?
+B: Taking into account these factors, and considering I don’t want to start a brain drain, I’m willing to offer you a ten percent raise and an extra five days of vacation time. How does that sound?
 
 A: Great! It’s a deal! Thank you, sir!
 
-B: Before you go, just out of curiosity, what compa- nies were after you?
+B: Before you go, just out of curiosity, what companies were after you?
 
 A: Oh, the electric company, gas company and water company!
 
@@ -840,13 +840,13 @@ A: Oh, the electric company, gas company and water company!
 
 A: Hello sir, may I help you?
 
-B: Yeah, I accidentally dropped my phone in the toi- let.
+B: Yeah, I accidentally dropped my phone in the toilet.
 
 A: I see. Well, you have come to the right place. We have over one hundred models of more than twenty leading mobile phone manufacturers.
 
 B: Sounds good. I don’t want it to be too expensive, maybe something mid-range.
 
-A: We have this new HTC smart phone. It comes with the Android OS so you can download appli- cations. It also has a built-in camera, mp3 player and touch screen. It works on the 3G network so you have fast access to the internet wherever you are.
+A: We have this new HTC smart phone. It comes with the Android OS so you can download applications. It also has a built-in camera, mp3 player and touch screen. It works on the 3G network so you have fast access to the internet wherever you are.
 
 B: What about Wi-fi?
 
@@ -857,15 +857,15 @@ B: One last thing. Is it waterproof?
 
 ### [190] The Weekend - Family Barbecue
 
-A: Is everything ready for the big family barbecue to- morrow?
+A: Is everything ready for the big family barbecue tomorrow?
 
 B: Yep. The steaks and chicken are marinated and I also bought hamburger buns.
 
 A: We should also cook a couple dozen hot dogs and kebabs.
 
-B: Yeah, good idea. We can put some lawn furni- ture outside next to the grill. I also set up the tent outside so we can hide from the sun if it gets too hot.
+B: Yeah, good idea. We can put some lawn furniture outside next to the grill. I also set up the tent outside so we can hide from the sun if it gets too hot.
 
-A: Great! I asked Grace to bring cups and servi- ettes as she is also bringing two big coolers for the beers.
+A: Great! I asked Grace to bring cups and serviettes as she is also bringing two big coolers for the beers.
 
 B: This is gonna be a great barbecue!
 
@@ -881,7 +881,7 @@ A: Well, at the start of the spring we usually have more daylight in the morning
 
 B: I see. That’s convenient! I never understood things like this, such as GMT. I never know what time zone we are in or when to change my clock!
 
-A: That just stands for Greenwich Mean Time. Here in California, we are in Pacific Standard Time, that is eight time zones west of Greenwich. Re- member when we were in Beijing? Well, then we were in China Standard Time, and that’s eight time zones east of Greenwich!
+A: That just stands for Greenwich Mean Time. Here in California, we are in Pacific Standard Time, that is eight time zones west of Greenwich. Remember when we were in Beijing? Well, then we were in China Standard Time, and that’s eight time zones east of Greenwich!
 
 B: That’s why it was so weird traveling from Beijing to LA! Because of the huge time difference, even though we left Beijing at noon and flew for more than eight hours, we still arrived in LA the same day at noon! It’s like we went back in time!
 
@@ -904,21 +904,21 @@ B: A suburban bungalow straight out of the sixties! A perfect lawn with minimal 
 
 C: Uh, honey?
 
-B: In the living room we would have moss-green rugs and a fireplace with a stone mantle and wood paneling on the walls. In the kitchen, the cup- boards would be a pale yellow and we would have a turquoise metal oven and vinyl flooring -
+B: In the living room we would have moss-green rugs and a fireplace with a stone mantle and wood paneling on the walls. In the kitchen, the cupboards would be a pale yellow and we would have a turquoise metal oven and vinyl flooring -
 
-C: Umm, sweetie, but I was thinking of a more mod- ern style house. An open concept house, all glass, wood, metal, and concrete.
+C: Umm, sweetie, but I was thinking of a more modern style house. An open concept house, all glass, wood, metal, and concrete.
 
 B: But sweetums, there is always a lot of wasted space in those kinds of homes. Besides, it’s just a fad. It doesn’t have the homey feeling the old homes do.
 
-C: Sweetie-pie it’s not a lot of wasted space. It is re- laxing and the house would be eco-friendly with an in-floor heating system and designed to retain the heat of the sun in the winter and keep the house cool in the summer. We would have solar panels on the roof -
+C: Sweetie-pie it’s not a lot of wasted space. It is relaxing and the house would be eco-friendly with an in-floor heating system and designed to retain the heat of the sun in the winter and keep the house cool in the summer. We would have solar panels on the roof -
 
 B: Do you know how much those things cost?
 
-C: What about your vintage furniture, dearest? And instead of a lawn, which is also a lot of wasted space and would require environmentally harm- ful pesticides, we would have a fish pond in the backyard and a garden that would cover the whole yard so we could grow our own food!
+C: What about your vintage furniture, dearest? And instead of a lawn, which is also a lot of wasted space and would require environmentally harmful pesticides, we would have a fish pond in the backyard and a garden that would cover the whole yard so we could grow our own food!
 
 B: But buttercup, I thought you always said that you loved visiting your grandmother’s house!
 
-C: And I thought you, Mr. Scientist, were all up on saving the planet with your technological ad- vancements!
+C: And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!
 
 A: Umm well I am just going to go get some coffee while you two keep discussing.
 
@@ -940,15 +940,15 @@ A: Woo hoo! This just might be the start of the rest of my life!
 
 B: What happened?
 
-A: I’m in the market for a job! I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few em- ployers I would like to work for. I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write. I’ve even done my research and found the names of the managers so I can address the letters personally. And you know I can be charming in interviews. Goodbye my penniless days! Hello salary and a career!
+A: I’m in the market for a job! I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for. I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write. I’ve even done my research and found the names of the managers so I can address the letters personally. And you know I can be charming in interviews. Goodbye my penniless days! Hello salary and a career!
 
-B: Ben, we’re fifteen. What kind of job are you look- ing for?
+B: Ben, we’re fifteen. What kind of job are you looking for?
 
 A: Oh, just for a position as a gas station attendant. You know, starting at a simple lowly job, just like all the greats before they made it big in the world.
 
 B: Uh-huh.
 
-A: But I’m just in it for the money, right? How else am I going to be able to afford to keep taking An- gela to the movies? Besides, I love the smell of gasoline, don’t you?
+A: But I’m just in it for the money, right? How else am I going to be able to afford to keep taking Angela to the movies? Besides, I love the smell of gasoline, don’t you?
 
 
 ### [196] Daily Life - Going To The Tailor
@@ -957,28 +957,28 @@ A: Welcome to Bill’s Fabric World. What can I do for you today?
 
 B: I was wondering if you guys also tailor clothes?
 
-A: Sure we do! We have the best tailors in the coun- try! What is it that you need exactly?
+A: Sure we do! We have the best tailors in the country! What is it that you need exactly?
 
 B: Well, I’m looking to get a custom-made suit.
 
-A: Excellent! We have the finest cashmeres at af- fordable prices. How about we get you mea- sured? Let’s start off by measuring the width of your shoulders. Now, let’s measure the length of your arms and this bit around your neck here.
+A: Excellent! We have the finest cashmeres at affordable prices. How about we get you measured? Let’s start off by measuring the width of your shoulders. Now, let’s measure the length of your arms and this bit around your neck here.
 
 B: Can you make sure you leave a little extra space in the collar? My neck gets easily irritated.
 
-A: No problem! Now for your pants, let me just mea- sure your waist and the inseam.
+A: No problem! Now for your pants, let me just measure your waist and the inseam.
 
 B: You might also want to leave a little extra room in the waist area. I tend to gain a few pounds over the holidays.
 
-A: OK. Now you can pick your fabric and pattern de- sign. Please follow me.
+A: OK. Now you can pick your fabric and pattern design. Please follow me.
 
 
 ### [197] Global View - Calling 911
 
-A: Alright class, now that we’re all dressed up let’s see what professions you chose. Ah, I see a fire- man, a police officer, a medic, and a lifeguard! Can anyone tell me what these people have in common?
+A: Alright class, now that we’re all dressed up let’s see what professions you chose. Ah, I see a fireman, a police officer, a medic, and a lifeguard! Can anyone tell me what these people have in common?
 
 B: They save people from bad things?
 
-A: That’s right! Now class, if something bad hap- pened and you had to get help, do you know what phone number you would call?
+A: That’s right! Now class, if something bad happened and you had to get help, do you know what phone number you would call?
 
 C: 911!
 
@@ -997,7 +997,7 @@ B: Pff! I wouldn’t call 911 if the fire alarm went off in my house. The only t
 
 ### [198] Daily Life - Applying CPR
 
-A: Hello everyone and welcome to our CPR for be- ginners course. First of all, does anyone know what CPR stands for?
+A: Hello everyone and welcome to our CPR for beginners course. First of all, does anyone know what CPR stands for?
 
 B: Cardiopulmonary resuscitation!
 
@@ -1005,11 +1005,11 @@ A: That’s right! We apply CPR in the case of cardiac arrest or pulmonary arres
 
 B: What does that mean?
 
-A: Well, basically if your heart stops pumping blood, or your lungs stop pumping air, then we need to get them going again! That’s when we have to apply this procedure. Let’s begin! I need a volun- teer.
+A: Well, basically if your heart stops pumping blood, or your lungs stop pumping air, then we need to get them going again! That’s when we have to apply this procedure. Let’s begin! I need a volunteer.
 
 B: Me! Me!
 
-A: Alright, come here and lay flat on your back. Let’s suppose this young woman has stopped breath- ing. We must lift the person’s chin so that we clear a pathway for air to get into the lungs. Then we place our mouth over the other person’s mouth and blow air two or three times, like this.
+A: Alright, come here and lay flat on your back. Let’s suppose this young woman has stopped breathing. We must lift the person’s chin so that we clear a pathway for air to get into the lungs. Then we place our mouth over the other person’s mouth and blow air two or three times, like this.
 
 B: Wait, what are you doing? I’m a married woman! You can’t just try to kiss me like this!
 
@@ -1030,11 +1030,11 @@ B: I’ve been busy with a first aid course that I started about a week ago at t
 
 A: Cool! I’ve always wanted to do something like that! Have you learned anything useful?
 
-B: For sure! I mean we’ve learned how to apply pres- sure to stop bleeding, how to check for a pulse, and even how to apply CPR!
+B: For sure! I mean we’ve learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR!
 
 A: Have you treated any real emergencies?
 
-B: Well, they took us along with some paramedics. There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of com- pound fractures. His wounds were pretty serious so they had to rush him to the hospital. It was intense!
+B: Well, they took us along with some paramedics. There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures. His wounds were pretty serious so they had to rush him to the hospital. It was intense!
 
 A: I can imagine! I tend to faint when I see blood, so I think I won’t be taking up a course like that anytime soon!
 
@@ -1043,15 +1043,15 @@ A: I can imagine! I tend to faint when I see blood, so I think I won’t be taki
 
 A: I’m hungry, let’s grab a bite to eat.
 
-B: Sure! How about we go home and prepare a cou- ple of sandwiches?
+B: Sure! How about we go home and prepare a couple of sandwiches?
 
 A: Nah! Let’s go get a burger and fries.
 
-B: All you ever do is have unhealthy fast food Pizza, fries, burgers and hot dogs! You have to start eat- ing better!
+B: All you ever do is have unhealthy fast food Pizza, fries, burgers and hot dogs! You have to start eating better!
 
-A: What are you talking about? I have salads some- times.
+A: What are you talking about? I have salads sometimes.
 
-B: Yeah right! I’m serious! You should also cut down on your sugar intake as well. You drink carbon- ated drinks that are high in fructose syrup! It’s really not healthy!
+B: Yeah right! I’m serious! You should also cut down on your sugar intake as well. You drink carbonated drinks that are high in fructose syrup! It’s really not healthy!
 
 A: Fine! I’ll start drinking and having home cooked meals that are low in fat. Are you happy now?
 
