@@ -8,27 +8,27 @@ createTime: 2026/06/30 08:10:21
 
 ### [151] Advanced - Darwin’s Theory Of Evolution
 
-A: It’s been a long time since I last saw you. Where have you been?
+A: Man, it's been forever. Where have you been up lately? 
 
-B: The exams and plans I have to turn in in are driving me crazy, I don’t even have time to sleep.
+B: I've been busy preparing for my exams, not to mention all the term papers I have to write.
 
-A: It’s the same for me. I’m up to my neck in work, but at least finals are coming soon and we’ll have a vacation. Where are you going now?
+A: Same here. **I'm up to my neck in work**, but at least glad that summer holiday is after finals. Where're you heading now? 
 
-B: I’m going to Anthropology class and now with the year anniversary of Darwin, it’s the only thing we study. Frankly, I’m sick and tired and tired of hearing about this guy.
+B: I'm going to my Anthropology class. We've been focus on Darwin all term since the 200th anniversary of his birth or whatever. I'm **sick and tired** of Darwin, Darwin, Darwin!
 
-A: What? Why? How can you not like Darwin? I mean the man changed the entire perception of how things came to and his theory is backed by pretty solid evidence!
+A: What? Why? How can you not like Darwin? His work contains thousands of years of ideas about creation **on their head**. His theory of evolution **revolutionized** the field of Biology and the Anthropology. 
 
-B: I don’t like him. His theory of human evolution and natural selection is full of holes. It lacks the solid evidence of which you speak of.
+B: I don't like him. His theory of **human evolution** and **natural selection** is full of holes. It's not as solid as you made it out to be.
 
-A: That statement puts you at odds with half of the academy. Not to mention your professors! Furthermore, the explanation proposed by Darwin about the origin of species and the mechanism of natural selection constitutes a grand step toward a coherent understanding of the world and evolutionist ideas.
+A: Say that again and you will make enemy of half of the academy. Not to mention your professors! Furthermore, the explanation proposed by Darwin about **the origin of species** and the process of natural selection constitutes a grand step toward a coherent understanding of the world and it very beginnings.
 
-B: I’m not minimizing his grand contributions, it’s just that his theory reminds of the conundrum of the chicken and the egg.
+B: I'm not minimizing his huge contributions to science, it's just that his theory reminds me of the **conundrum** of the chicken and the egg. 
 
 A: What are you talking about?
 
-B: The question is, which was first? The chicken or the egg? I feel the same regarding his theory. How does the first cell of life come to be?
+B: Which came first? The chicken or the egg? This is a classic logical problem and I think it priors to Darwin's theory. How did the very first living organism come to be? 
 
-A: Interesting. I think that question is better suited for my philosophy class. In the meantime, how about we settle this... with a due!
+A: Interesting. I think that question is better suited for my philosophy class. In the meantime, how about we settle this. . . with a due! 
 
 
 ### [152] The Office - Cut It Out
