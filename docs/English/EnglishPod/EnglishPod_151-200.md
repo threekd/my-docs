@@ -44,7 +44,7 @@ A: I don’t slurp my coffee. And plus, how can you hear it when you're shouting
 
 B: **You've got to be kidding me**! You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to **shoot the breeze**?
 
-A: Look, we have a lot of **accumulated** anger from working in these conditions, and it's probably okay to let off steam once in a while, But it's probably not a good idea to keep it up, I’m willing to **forgive and forget** and if you are.
+A: Look, we have a lot of **accumulated** anger from working in these conditions, and it's probably okay to let off steam once in a while, But it's probably not a good idea to keep it up, I’m willing to **forgive and forget**, if you are.
 
 B: Fine. Let’s **call a truce**. I’ll try to more **considerate** and to keep the noise down
 
