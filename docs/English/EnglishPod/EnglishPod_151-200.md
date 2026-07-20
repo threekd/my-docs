@@ -32,21 +32,21 @@ A: Interesting. I think that question is better suited for my philosophy class. 
 
 
 ### [152] The Office - Cut It Out
-A: Hey, Mary, can you cut that out?
+A: Hey, Mary, can you **cut that out**?
 
 B: Cut what out I'm not doing anything.
 
-A: The tapping of your pen on your desk. It’s driving me crazy.
+A: The tapping of your pen on your desk. It’s **driving me crazy**.
 
-B: Fine! By the way would you mind not slurping your coffee every time you have a cup!
+B: Fine! By the way would you mind not **slurping** your coffee every time you have a cup!
 
 A: I don’t slurp my coffee. And plus, how can you hear it when you're shouting into your phone all the time?
 
-B: You 've got to be kidding me! You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to shoot the breeze?
+B: **You've got to be kidding me**! You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to **shoot the breeze**?
 
-A: Look, we have a lot of accumulated anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I’m willing to forgive and forget and if you are.
+A: Look, we have a lot of **accumulated** anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I’m willing to **forgive and forget** and if you are.
 
-B: Fine. Let’s call a truce. I’ll try to more considerate and to keep the noise down
+B: Fine. Let’s **call a truce**. I’ll try to more **considerate** and to keep the noise down
 
 A: Yeah, I'll try to do the same. So, I was wondering you wanna go out to dinner Friday night?
 
