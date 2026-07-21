@@ -966,11 +966,11 @@ A: Ewww!
 
 ### [146] Global View - Animal Rights
 
-A: You should have seen the TV show that was on last night, the topic it covered was really interesting; animal rights.
+A: You should have seen the TV show that was on last night, the topic it covered was really interesting, animal rights.
 
 B: Do you really believe in that? If they are going to focus on something, they should do it on civil rights.
 
-A: Yes, but we can t deny that animals are **vulnerable**, defenseless, and are completely **at the mercy of** human beings.
+A: Yes, but we can't deny that animals are **vulnerable**, defenseless, and are completely **at the mercy of** human beings.
 
 B: I understand your point, but we continue to have **transgressions** against human rights. If so much attention weren't devoted to the topic of animals, we would then concentrate more on saving a human being instead of protecting a koala.
 
@@ -978,7 +978,7 @@ A: You can't **compare apples and oranges**; I believe that both topics are impo
 
 B: Well, you are right on that point. This is the reason that I don't buy leather and I try to buy **synthetic products**.
 
-B: At least you re **doing your part**. My contribution is to have a pet in the house that I treat like a member of the family.
+B: At least you're **doing your part**. My contribution is to have a pet in the house that I treat like a member of the family.
 
 A: As long as you don't treat it better than your wife, it's fine.
 

@@ -53,23 +53,23 @@ A: Yeah, I'll try to do the same. So, I was wondering you wanna go out to dinner
 ### [153] Daily Life - Homesick
 A: Tom! How are you? We missed you at the party last night. Are you ok?
 
-B: I don’t know. I didn't really feel like going out. I guess I'm feeling a little homesick.
+B: I don’t know. I didn't really feel like going out. I guess I'm feeling a little **homesick**.
 
-A: Come on We've been through this already! Look, I know the adjustment was hard when you first got here, but we agreed that you were gonna try and deal with it.
+A: Come on **We've been through this already**! Look, I know the **adjustment** was hard when you first got here, but we agreed that you were gonna try and deal with it.
 
-B: I was. It’s just that the holidays are coming up and I won’t be able to home because I can’t afford the airfare. I'm just longing for some of the comforts of home, like my mom’s cooking and being around my family.
+B: I was. It’s just that the holidays are coming up and I won’t be able to home because I can’t afford the airfare. I'm just longing for some of the **comforts of home**, like my mom’s cooking and being around my family.
 
-A: Yeah, it can get pretty lonely over the holidays. When I first got here, I’d get depressed and nostalgic for anything that reminded me of home. I almost let it get to me, but then I started going out, keeping myself busy and before I knew it, I was used to to it.
+A: Yeah, it can get pretty lonely over the holidays. When I first got here, I’d get depressed and **nostalgic** for anything that reminded me of home. I almost let it get to me, but then I started going out, keeping myself busy and before I knew it, I was used to to it.
 
-B: I see what you mean, but I 'm still bummed out.
+B: I see what you mean, but I 'm still **bummed out**.
 
-A: Ok how does this sound: let's get you suited up and hit the dance club tonight. I hear that an awesome DJ is playing and there will be a lot of pretty single girls there!
+A: Ok how does this sound: let's get you suited up and **hit the dance club** tonight. I hear that an awesome DJ is playing and there will be a lot of pretty single girls there!
 
-B: You know, I could really go for that. You don’t mind being my wingman for tonight?
+B: You know, I could really go for that. You don’t mind being my **wingman** for tonight?
 
-A: Not at all! It be fun! It will be like a boys night out... well kinda...
+A: Not at all! It be fun! It will be like a **boys night out**... well kinda...
 
-B: Great! I must warn you though, whatever happens, don't let me go on a drinking binge. Trust me, it's not a pretty picture!
+B: Great! I must warn you though, whatever happens, don't let me go on a **drinking binge**. Trust me, it's not a pretty picture!
 
 ### [154] The Weekend - Rock Band
 
@@ -102,7 +102,7 @@ A: I know! Anyways I just talked to Alex’s best man and he is organizing the b
 
 B: You aren’t going to a strip club are you? I don’t want you getting a lap dance from some stripper with the excuse that it’s your friends party.
 
-A: Aw come on! It’s just some innocent fun! You know how these things are! We are gonna play drinking games, get him some gag gifts and just have a good time.Nothing too over the top .
+A: Aw come on! It’s just some innocent fun! You know how these things are! We are gonna play drinking games, get him some gag gifts and just have a good time.Nothing too over the top.
 
 B: Well, I don’t know.
 
@@ -119,7 +119,7 @@ A: Oh no! The lights went out! Honey can you light a candle?
 
 B: Sure. What do we do now?
 
-A: Well, we can just talk, you know, like we used to.Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new s I was living with my father at the time, when he received a phone call. Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new scene) I was living with my father at the time, when he received a phone call.
+A: Well, we can just talk, you know, like we used to.Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new's) I was living with my father at the time, when he received a phone call. Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new scene) I was living with my father at the time, when he received a phone call.
 
 B: Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager... (fade out - fade in new scene) I was living with my father at the time, when he received a phone call. I was living with my father at the time, when he received a phone call. Father: (phone rings) Hello? Yes this is him. I see, I’m sorry to hear that. Ok no problem. I’ll be there shortly. (hang up the phone) Pack some clothes Tony, my great aunt is very ill and no one in the family wants to take care of her. We are going to stay at her house for a few days. Kid: Aunt? What aunt? I never knew you had a great aunt! Father: Well, the family doesn’t talk about her or get near her, for that matter. Kid: Why is that? Father: Come on, we have to go.
 
