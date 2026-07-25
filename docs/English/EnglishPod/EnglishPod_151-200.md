@@ -75,13 +75,13 @@ B: Great! I must warn you though, whatever happens, don't let me go on a **drink
 
 A: I’m forming a music band.
 
-B: Do you already know how to play an instrument?
+B: Do you already know how to play an **instrument**?
 
-A: Uh... Yeah! I’ve told you a thousand times that I’m learning to play the drums. Now that I know how to play well, I would like to form a rock band.
+A: Uh... Yeah! I’ve told you a thousand times that I’m learning to play the **drums**. Now that I know how to play well, I would like to form a rock band.
 
 B: Aside from yourself, who are the other members of the band?
 
-A: We have a guy who plays guitar, and another who plays bass. Although we still haven’t found anyone to be our singer. You told me that you had some musical talent, right?
+A: We have a guy who plays guitar, and another who plays bass. Although we still haven’t found anyone to be our singer. You told me that you had musical talent, right?
 
 B: Yes, I’m a singer.
 
