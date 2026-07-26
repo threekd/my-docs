@@ -98,7 +98,7 @@ A: Hi honey! **You’ll never guess what**! My friends Julie and Alex are gettin
 
 B: Wow that’s great news! They’re a great couple!
 
-A: I know! Anyways I just talked to Alex’s **best man** and he is organizing the bachelor party It’s gonna be gonna be so much fun! All the **groomsmen** are thinking up all the wacky and crazythings we are going to do that night.
+A: I know! Anyways I just talked to Alex’s **best man** and he is organizing the bachelor party It’s gonna be so much fun! All the **groomsmen** are thinking up all the wacky and crazy things we are going to do that night.
 
 B: You aren’t going to a **strip club** are you? I don’t want you getting a **lap** dance from some stripper with the excuse that it’s your friends party.
 
@@ -106,7 +106,7 @@ A: Aw come on! It’s just some innocent fun! **You know how these things are**!
 
 B: Well, I don’t know.
 
-A: Come on! If one of your friends was getting married I wouldn’t mind you going to her bachelorette party!
+A: Come on! If one of your friends was getting married, I wouldn’t mind you going to her bachelorette party!
 
 B: Good,because my friend Wendy is getting married and I’m organizing her party!
 
