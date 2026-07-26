@@ -1026,7 +1026,7 @@ B: So, since when is your house a bank?
 
 A: What do you mean?
 
-B: I mean, what's up with the and locks and iron bars on your windows.
+B: I mean, what's up with the four locks and iron bars on your windows.
 
 A: Security Dan, security! **You can never be too safe** you know! A lot of **sickos** out there. Just the other day they caught that **peeping tom** **red handed**! Had a high power telescope and binoculars by his window.
 

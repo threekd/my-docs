@@ -85,7 +85,7 @@ A: We have a guy who plays guitar, and another who plays bass. Although we still
 
 B: Yes, I’m a singer.
 
-A: Perfect. So you can audition this weekend here at my house.
+A: Perfect. So you can **audition** this weekend here at my house.
 
 B: Great! Wait here? You don’t have enough room for the amplifiers, microphones or even your drums! By the way where do you keep them or practice?
 
@@ -94,15 +94,15 @@ A: Dude? What are you talking about? It’s right here! All we need is my Ninten
 
 ### [155] The Weekend - Bachelor Party
 
-A: Hi honey! You’ll never guess what! My friends Julie and Alex are getting married!
+A: Hi honey! **You’ll never guess what**! My friends Julie and Alex are getting married!
 
 B: Wow that’s great news! They’re a great couple!
 
-A: I know! Anyways I just talked to Alex’s best man and he is organizing the bachelor party It’s gonna be gonna be so much fun! All the groomsmen are thinking up all the wacky and crazythings we are going to do that night.
+A: I know! Anyways I just talked to Alex’s **best man** and he is organizing the bachelor party It’s gonna be gonna be so much fun! All the **groomsmen** are thinking up all the wacky and crazythings we are going to do that night.
 
-B: You aren’t going to a strip club are you? I don’t want you getting a lap dance from some stripper with the excuse that it’s your friends party.
+B: You aren’t going to a **strip club** are you? I don’t want you getting a **lap** dance from some stripper with the excuse that it’s your friends party.
 
-A: Aw come on! It’s just some innocent fun! You know how these things are! We are gonna play drinking games, get him some gag gifts and just have a good time.Nothing too over the top.
+A: Aw come on! It’s just some innocent fun! **You know how these things are**! We are gonna play drinking games, get him some **gag gifts** and just have a good time.**Nothing too over the top**.
 
 B: Well, I don’t know.
 
