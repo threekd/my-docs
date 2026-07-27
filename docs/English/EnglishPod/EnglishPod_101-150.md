@@ -1075,6 +1075,6 @@ A: Then we'll have to **put up with it**.
 
 B: We can **cover ourselves with** beer! That way if they bite us, they'll get drunk and fall asleep.
 
-A: That's **without a doubt**, the best idea youve had! Lets do it!
+A: That's **without a doubt**, the best idea you've had! Let's do it!
 
 B: Run! They are thirsty for more!

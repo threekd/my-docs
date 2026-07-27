@@ -121,7 +121,7 @@ B: Sure. What do we do now?
 
 A: Well, we can just talk, you know, like we used to. 
 
-B: Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager...I was living with my father at the time, when he received a phone call. I was living with my father at the time, when he received a phone call. 
+B: Hmm... I know! I’ll tell you a scary story! It happened to me and my dad when I was a teenager...I was living with my father at the time, when he received a phone call.
 
 C: Hello? Yes this is him. I see, I’m sorry to hear that. Ok no problem. I’ll be there shortly. Pack some clothes Tony, my great aunt is very ill and no one in the family wants to take care of her. We are going to stay at her house for a few days. 
 
