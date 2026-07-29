@@ -34,11 +34,11 @@ A: Interesting. I think that question is better suited for my philosophy class. 
 ### [152] The Office - Cut It Out
 A: Hey, Mary, can you **cut that out**?
 
-B: Cut what out I'm not doing anything.
+B: Cut what out, I'm not doing anything.
 
 A: The tapping of your pen on your desk. It's **driving me crazy**.
 
-B: Fine! By the way would you mind not **slurping** your coffee every time you have a cup!
+B: Fine! By the way, would you mind not **slurping** your coffee every time you have a cup!
 
 A: I don't slurp my coffee. And plus, how can you hear it when you're shouting into your phone all the time?
 
