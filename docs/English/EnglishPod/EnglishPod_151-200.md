@@ -175,21 +175,21 @@ A: Whatever, I'm going next door. I heard Mrs.Robinson is giving out big bags of
 
 ### [158] Global View - All Saints Day
 
-C: The Day of the Dead has arrived All Soul's Dayand All Saint's Day!
+C: The Day of the Dead has arrived. All Soul's Day and All Saint's Day!
 
 A: Your neighbor is crazy. Why is he screaming that?
 
-B: Because today is the first of November the Day of the Dead
+B: Because today is the first of November: the Day of the Dead
 
 A: Oh, that's right.
 
 B: This is a very special day among many cultures around the world especially in Latin America
 
-A: Seriously? I thought it was just like any other day, except for the fact that people visit the cemetery and remember their loved ones.
+A: Seriously? I thought it was just like any other day, except for the fact that people visit the cemetery and remember their **loved ones**.
 
-B: Well, that's just part of it People across the world celebrate in different waysIn Mexcio for example it's common to see people building private altars honoring the deceasedusing sugar skulls, preparing the favorite foods and beverages of the departed and visiting graves with these as gifts. In the Philippines , the tombs are cleaned or repainted, candles are lit and flowers are offered Entire families camp out in cemeteries .and sometimes spend a night or two near their relatives' tombs!
+B: Well, that's just part of it. People across the world celebrate in different ways. In Mexcio for example it's common to see people building private **altars** honoring the **deceased** using **sugar skulls**, preparing the favorite foods and beverages of the departed and visiting graves with these as gifts. In the Philippines , the **tombs** are cleaned or repainted, candles are lit and flowers are offered. Entire families camp out in cemeteries and sometimes spend a night or two near their relatives' tombs!
 
-A: Whoa! That'sscary! I don't know if I could do that!
+A: Whoa! That's scary! I don't know if I could do that!
 
 B: Why? We should fear the living, not the dead .
 
