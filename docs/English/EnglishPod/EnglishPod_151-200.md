@@ -57,9 +57,9 @@ B: I don't know. I didn't really feel like going out. I guess I'm feeling a litt
 
 A: Come on **We've been through this already**! Look, I know the **adjustment** was hard when you first got here, but we agreed that you were gonna try and deal with it.
 
-B: I was. It's just that the holidays are coming up and I won't be able to home because I can't afford the airfare. I'm just longing for some of the **comforts of home**, like my mom's cooking and being around my family.
+B: I was. It's just that the holidays are coming up and I won't be able to go home because I can't afford the airfare. I'm just longing for some of the **comforts of home**, like my mom's cooking and being around my family.
 
-A: Yeah, it can get pretty lonely over the holidays. When I first got here, I'd get depressed and **nostalgic** for anything that reminded me of home. I almost let it get to me, but then I started going out, keeping myself busy and before I knew it, I was used to to it.
+A: Yeah, it can get pretty lonely over the holidays. When I first got here, I'd get depressed and **nostalgic** for anything that reminded me of home. I almost let it get to me, but then I started going out, keeping myself busy and before I knew it, I was used to it.
 
 B: I see what you mean, but I 'm still **bummed out**.
 
@@ -204,7 +204,7 @@ A: I see, may I ask what the occasion is?
 
 B: It's not really an occasion, it's more like I'm sorry.
 
-A: Very well. This arrangement here is very popular among regretful husbands and boyfriends. It has a dozen long stem red roses with a couple of **sunflowers** and a single orchid that stands out. It includes a small teddy bear to achievethe effect of immediate forgiveness.
+A: Very well. This arrangement here is very popular among regretful husbands and boyfriends. It has a dozen long stem red roses with a couple of **sunflowers** and a single orchid that stands out. It includes a small teddy bear to achieve the effect of immediate forgiveness.
 
 B: I think I'm gonna need more than just a dozen red roses and a bear. What else do you recommend?
 
