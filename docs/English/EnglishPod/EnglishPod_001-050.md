@@ -584,7 +584,7 @@ A: Me too. You look so beautiful tonight! I wish this night would never end. The
 
 B: What is it? 
 
-A: I woke up today thinking this would be just like any other **ordinary** day, but I was wrong. **A twist of fate** brought us together. I crashed into your life and you into mine, and this may sound crazy, but I'm falling in love with you, Monica.
+A: I woke up today thinking this would be just like any other **ordinary** day, but I was wrong. **A twist of fate** brought us together. I crashed into your life and you into mine, and this may sound crazy, but I'm falling in love with you, Veronica. 
 
 ---
 ### [29] Investing in Emerging Markets
