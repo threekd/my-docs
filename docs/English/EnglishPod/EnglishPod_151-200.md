@@ -125,7 +125,7 @@ B: Hmm... I know! I'll tell you a scary story! It happened to me and my dad when
 
 C: Hello? Yes this is him. I see, I'm sorry to hear that. Ok no problem. I'll be there shortly. Pack some clothes Tony, my great aunt is very ill and no one in the family wants to take care of her. We are going to stay at her house for a few days. 
 
-B: Aunt? What aunt? I never knew you had a great aunt! 
+B: Aunt? What aunt? I never knew you had a **great aunt**! 
 
 C: Well, the family doesn't talk about her or get near her, for that matter. 
 
@@ -141,7 +141,7 @@ D: Why have you come? Why are you here? Don't you know it isn't safe? **My time 
 
 B: Who is coming for you? 
 
-D: The prince of darkness! The lord of the underworld, the tempter, the old serpent. 
+D: **The prince of darkness! The lord of the underworld, the tempter, the old serpent.** 
 
 C: Come on, aunt Ursula let's lay you down. You need to get some rest. Tony, help me lay her down.
 
@@ -245,23 +245,23 @@ B: Not in a million years!
 
 ### [161] Daily Life - Computer Games
 
-A: MarkWhere have you been? I've been calling you all morning.
+A: Mark, Where have you been? I've been calling you all morning.
 
 B: I've been playing computer games.
 
-A: What? So you blew me off yesterday and today over a stupid video game? What game is so important that you have no time for me anymore? What are you playing?
+A: What? So you **blew me off** yesterday and today over a stupid video game? What game is so important that you have no time for me anymore? What are you playing?
 
-B: It's called Counter Strike It's a first person shooter game. It's awesome. It's a multi player game where you can go online and compete against players from all over the world.
+B: It's called **Counter Strike** It's a **first person shooter** game. It's awesome. It's a multi player game where you can **go online** and compete against players from all over the world.
 
-A: You've been wasting your time on this? I can't believe it! It doesn't even look fun or challenging!
+A: You've been **wasting your time** on this? I can't believe it! It doesn't even look fun or challenging!
 
-B: My laptop is on my bed. If you think it's so easy then get onlineand try to beat me.
+B: My laptop is on my bed. If you think it's so easy then get online and try to beat me.
 
 A: Fine!
 
-B: Dammit! Howare youkilling me with a single shot? It's not fair! I don't want to play anymore! Let's go get something to eat.
+B: Damn it! How are you killing me with a single shot? It's not fair! I don't want to play anymore! Let's go get something to eat.
 
-A: Can you bring me something? I am totally hooked on this game!
+A: Can you bring me something? I am totally **hooked** on this game!
 
 
 ### [162] Global View - Veteran's Day
