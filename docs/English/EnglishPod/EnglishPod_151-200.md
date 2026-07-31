@@ -223,21 +223,21 @@ A: Get out of my store you jerk!
 
 A: Hey honey, how was your day?
 
-B: It was alright. I ran into Billand we got totalking for a whileHe's in a bit of a jam.
+B: It was alright. I ran into Bill and **we got to talking for a while**. He's **in a bit of a jam**.
 
 A: Why? What happened?
 
-B: Well, his son had an accident and Billdoesn't have health insurance. This really got me thinking, and I wondered if we shouldn't look into a couple of different HMO's.
+B: Well, his son had an accident and Bill doesn't have health insurance. **This really got me thinking**, and I wondered if we should look into a couple of different **HMO**'s.
 
 A: Yeah, you're right. We aren't getting any younger and our kids are getting older.
 
-B: Exactly! I searched onthe web and found a couple of HMO's with low co pays and good coverage. The deductibles are low, too.
+B: Exactly! I searched on the web and found a couple of HMO's with low **copays** and good **coverage**. The **deductibles** are low, too.
 
-A: Sounds good, although, do you think we can qualify for insurance? Those insurance companies are real pirates when it comes to money.
+A: Sounds good, although, do you think we can **qualify for** insurance? Those insurance companies are real pirates when it comes to money.
 
-B: Well, we don't have any pre existing illnesses or conditions, so we should be fine.
+B: Well, we don't have any **preexisting** illnesses or conditions, so we should be fine.
 
-A: I wish our company or country provided us with healthcare.
+A: I wish our company or country provided us with health care.
 
 B: Not in a million years!
 
