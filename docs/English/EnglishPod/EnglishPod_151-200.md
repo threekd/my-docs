@@ -266,13 +266,15 @@ A: Can you bring me something? I am totally **hooked** on this game!
 
 ### [162] Global View - Veteran's Day
 
-A: Do you have any plans for Veteran's Day
+A: Do you have any plans for **Veteran**'s Day?
 
-B: You mean Armistice Day
+B: You mean **Armistice** Day?
 
-A: Well, as you know, on November 11th allies signed a peace treaty with the Germans, also known astheArmistice Treaty This marked the end of WWI and many countries around the world commemorate this date under names such as ” day. In Poland it's their independence day! There's a lot going on around the world on this day.
+A: **What are you talking about**? November 11th is Veteran's Day! **What planet are you from**?
 
-B: Wow, I didn't know! Probably because I flunked history in school.
+B: Well, as you know, on November 11th, **the allies** signed a **peace treaty** with the Germans, also known as the Armistice Treaty. This marked the end of WWI and many countries around the world commemorate this date under names such as Remembrance day. In Poland it's their independence day! There's a lot going on around the world on this day.
+
+A: Wow, I didn't know! Probably because I **flunked** history in school.
 
 
 ### [163] Global View - Social Security
