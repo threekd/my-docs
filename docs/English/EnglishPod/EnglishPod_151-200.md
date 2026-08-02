@@ -281,19 +281,19 @@ A: Wow, I didn't know! Probably because I **flunked** history in school.
 
 A: Well that was an interesting documentary!
 
-B: For sure! I didn't really understand some ofthe technical jargon they used inthe film when they talked about social security in the US.
+B: For sure! I didn't really understand some of the technical **jargon** they used in the film when they talked about social security in the US.
 
 A: Like what?
 
-B: Well, they mentioned how people put away money in something called a 401K?
+B: Well, they mentioned how people **put away** money in something called a **401K**?
 
-A: Yeah, I know it sounds weird, but a 401k is a type of retirement plan that allows employees to save and invest for their own retirement Through a you can authorize your employer to deduct a certain amount of money from your paycheck and invest it inthe plan Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your nest egg.
+A: Yeah, I know it sounds weird, but a 401k is a type of **retirement plan** that allows employees to save and invest for their own retirement. Through a you can authorize your employer to **deduct** a certain amount of money from your paycheck and invest it in the plan Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your **nest egg**.
 
-B: That's interesting and logical I guess. In my country, we also have to contribute to a government run retirement fund, but most people don't really trust itso they just invest in properties or things like that.
+B: That's interesting and logical I guess. In my country, we also have to contribute to a government run retirement fund, but most people don't really trust it, so they just invest in properties or things like that.
 
 A: That seems a bit unstable don't you think?
 
-B: Yeah, but corrupt governments inthe past have created distrust among banks and financial institutions, so now people prefer to have money hidden in a jar or a piggy bank.
+B: Yeah, but **corrupt** governments in the past have created **distrust** among banks and financial institutions, so now people prefer to have money hidden in a jar or a **piggy bank**.
 
 A: I've been thinking of doing that lately! I don't want some banker to run off with my money!
 
