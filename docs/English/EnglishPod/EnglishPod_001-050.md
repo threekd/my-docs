@@ -618,7 +618,7 @@ B: I guess so... You always rope me into things like this!
 
 C: Ladies! Thank you for coming! You look delicious... I mean beautiful. Please come in. 
 
-A: Oh Oh Armand! You are too kind! 
+A: Oh Armand! You are too kind! 
 
 B: How did I get myself into this...
 
@@ -656,11 +656,11 @@ A: Certainly, I can help you with that. What type of account would you like to o
 
 B: What features do they offer? 
 
-A: Well, if you just take a look here, see, with our chequing account, you can have unlimited daily **transactions** for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum **balance** of $ 10,000 dollars. 
+A: Well, if you just take a look here, see, with our chequing account, you can have unlimited daily **transactions** for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum **balance** of $10,000 dollars. 
 
 B: I see, well, I think I'm more interested in a chequing account; I like to have easy access to my money. 
 
-A: Alright, then, with this chequing account you'll be issued a debit card and a cheque book. Will you require **overdraft** protection? There is an extra fee for that. 
+A: Alright then, with this chequing account you'll be issued a debit card and a cheque book. Will you require **overdraft** protection? There is an extra fee for that. 
 
 B: No, that won't be necessary. 
 
