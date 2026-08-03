@@ -287,7 +287,7 @@ A: Like what?
 
 B: Well, they mentioned how people **put away** money in something called a **401K**?
 
-A: Yeah, I know it sounds weird, but a 401k is a type of **retirement plan** that allows employees to save and invest for their own retirement. Through a you can authorize your employer to **deduct** a certain amount of money from your paycheck and invest it in the plan Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your **nest egg**.
+A: Yeah, I know it sounds weird, but a 401k is a type of **retirement plan** that allows employees to save and invest for their own retirement. Through a 401k you can authorize your employer to **deduct** a certain amount of money from your paycheck and invest it in a 401k plan. Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your **nest egg**.
 
 B: That's interesting and logical I guess. In my country, we also have to contribute to a government-run retirement fund, but most people don't really trust it, so they just invest in properties or things like that.
 
