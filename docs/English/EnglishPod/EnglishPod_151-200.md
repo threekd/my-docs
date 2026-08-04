@@ -314,15 +314,15 @@ A: I'm sorry for hurting you and if I had to do all over again I would have been
 
 B: Hello Sir may I help you?
 
-A: Yes. I would like some information for requesting a loan.
+A: Yes. I would like some information for **requesting a loan**.
 
-B: Very well, here arethe general termsof our loan policies. We pride ourselves in having the lowest interest rate inthe country for personal loans.
+B: Very well, here arethe general termsof our loan **policies**. We **pride ourselves in** having the lowest interest rate in the country for personal loans.
 
-A: I see. So let me get this straight. If I borrow let's say, ten thousand dollars, how much will I have to pay each month?
+A: I see. So **let me get this straight**. If I **borrow** let's say, ten thousand dollars, how much will I have to pay each month?
 
-B: It depends on how long you take to pay it back. If we lend you ten thousand dollars at an annual interest rate of ten percent for forty eight months, you would have to pay each month a portion ofthe loan which is called the principal and another small portion ofthe annual interest rate. This of course is considering that you don't default on a payment!
+B: It depends on how long you take to **pay it back**. If we lend you ten thousand dollars at an annual **interest rate** of ten percent for forty eight months, you would have to pay each month a portion of the loan which is called the principal and another small portion of the annual interest rate. This of course is considering that you don't **default** on a payment!
 
-A: It sounds good but, there is just one problem. I have a terrible credit score.
+A: It sounds good but, there is just one problem. I have a terrible **credit score**.
 
 B: That is a very serious problem you see, the bank must assess your personal information, past loans, assets and any other relevant information such as your credit scorein order to approve your loan.
 
@@ -362,7 +362,7 @@ B: Hold on there Fittipaldi, first let's go over things one more time. Now befor
 
 A: We have been through this a million times! Let's get going already! I'm ready!
 
-B: Fine start the car. now gently step onthe clutch and shift to 1st gear. Good, now accelerate gently and let go ofthe clutch as u do it. There we gogood!
+B: Fine start the car. now gently step onthe clutch and shift to 1st gear. Good, now accelerate gently and let go of the clutch as u do it. There we gogood!
 
 A: I'm doing it! I'm driving! This is awesome! Le'ts turn some music on!
 
@@ -476,7 +476,7 @@ B: Hello Mr. Henderson what can I do for you?
 
 A: I need this dress and this suit dry cleaned ASAP!
 
-B: OK, I can have it ready by the end ofthe week.
+B: OK, I can have it ready by the end of the week.
 
 A: No you don't understand, I need this tomorrow morning! I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow! She's gonna kill me!
 
@@ -568,7 +568,7 @@ B: Put on a sweater! I'm not gonna let you run up my heating bill just because i
 
 A: Dad! I'm gonna catch a cold!
 
-B: When I was your age, my parents didn't have central heating like you do! We had a furnace inthe center ofthe living room and that was it. We used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
+B: When I was your age, my parents didn't have central heating like you do! We had a furnace inthe center of the living room and that was it. We used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
 
 
 ### [177] The Weekend - Decorating a Christmas Tree
