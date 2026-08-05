@@ -316,7 +316,7 @@ B: Hello Sir may I help you?
 
 A: Yes. I would like some information for **requesting a loan**.
 
-B: Very well, here arethe general termsof our loan **policies**. We **pride ourselves in** having the lowest interest rate in the country for personal loans.
+B: Very well, here are the general terms of our loan **policies**. We **pride ourselves in** having the lowest interest rate in the country for personal loans.
 
 A: I see. So **let me get this straight**. If I **borrow** let's say, ten thousand dollars, how much will I have to pay each month?
 
@@ -324,7 +324,7 @@ B: It depends on how long you take to **pay it back**. If we lend you ten thousa
 
 A: It sounds good but, there is just one problem. I have a terrible **credit score**.
 
-B: That is a very serious problem you see, the bank must assess your personal information, past loans, assets and any other relevant information such as your credit scorein order to approve your loan.
+B: That is a very serious problem you see, the bank must assess your personal information, past loans, assets and any other relevant information such as your credit score in order to approve your loan.
 
 A: You know what? I don't really need the money. Thanks anyways!
 
