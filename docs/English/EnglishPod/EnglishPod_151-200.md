@@ -335,19 +335,19 @@ A: What are you doing?
 
 B: Look at me. I look so old! I look as if I were thirty.
 
-A: Come on! Stop being so vain. You look great! You are beautiful!
+A: Come on! Stop being so **vain**. You look great! You are beautiful!
 
-B: Yes, I am, but I think it's time for some plastic surgery I'm tired of these wrinkles and sagging skin. See?
+B: Yes, I am, but I think it's time for some **plastic surgery**. I'm tired of these **wrinkles** and **sagging skin**. See?
 
-A: I don't see any wrinkles or sagging skin! You are stop beings ridiculous. Besides, I think that people who get Botox, have facelifts, or tummy tucks look weird. It doesn't look natural.
+A: I don't see any wrinkles or sagging skin! You are 25, stop beings ridiculous. Besides, I think that people who get **Botox**, have **facelifts**, or tummy tucks look weird. It doesn't look natural.
 
-B: Whatever, I think I'm gonna get liposuction and a nose joband some breast implantsas well.
+B: Whatever, I think I'm gonna get **liposuction** and a **nose job** and some **breast implants** as well.
 
-A: I think you need to get brain surgery. I honestly don't think you need cosmetic surgeryYou look amazing.
+A: I think you need to get brain surgery. I honestly don't think you need **cosmetic surgery**. You look amazing.
 
 B: I thought you were my friend and would support me on this! I just want to feel better about myself and feel more attractive.
 
-A: You don't need plastic surgeryto do that. You are fine the way you are and you have guys drooling all over you! Plus, plastic surgeryhurts!
+A: You don't need plastic surgery to do that. You are fine the way you are and you have guys drooling all over you! Plus, plastic surgery hurts!
 
 B: Really?
 
