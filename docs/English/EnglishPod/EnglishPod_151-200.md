@@ -358,21 +358,21 @@ A: Yeah! When I got my nose job I was black and blue for a week!
 
 A: Ok! I'm ready for my driving lesson! Should I start the car?
 
-B: Hold on there Fittipaldi, first let's go over things one more time. Now before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheelfirmly. Next check your rear view mirrorsto make sure you can see properly.
+B: Hold on there Fittipaldi, first let's go over things one more time. Now before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the **steering wheel** firmly. Next check your **rear view mirrors** to make sure you can see properly.
 
-A: We have been through this a million times! Let's get going already! I'm ready!
+A: We have been through this **a million times**! Let's get going already! I'm ready!
 
-B: Fine start the car. now gently step onthe clutch and shift to 1st gear. Good, now accelerate gently and let go of the clutch as u do it. There we gogood!
+B: Fine start the car. now gently step on the **clutch** and **shift to 1st gear**. Good, now accelerate gently and let go of the clutch as you do it. There we go good!
 
-A: I'm doing it! I'm driving! This is awesome! Le'ts turn some music on!
+A: I'm doing it! I'm driving! This is awesome! Let's turn some music on!
 
 B: Keep your eyes on the road! No music! We are coming up to a red light, step on the brakes. What are you doing? I said the brakes! Look out for those people! Get off the sidewalk!
 
 A: Get out of my way! This is just like playing video games!
 
-B: It's the police! Pull over!
+B: It's the police! **Pull over**!
 
-A: They'll never take me alive!
+A: **They'll never take me alive**!
 
 
 ### [168] The Weekend - Cooking A Thanksgiving Dinner
