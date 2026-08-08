@@ -378,7 +378,7 @@ A: **They'll never take me alive**!
 ### [168] The Weekend - Cooking A Thanksgiving Dinner
 A: Hello everyone and welcome back to our show. Today we are going to learn how to cook the perfect thanksgiving turkey! I will share a secret that I have kept for over 30 years on how to cook the perfect, most **mouth watering**, juiciest turkey in the world! Let's get started!
 
-A: First of all, we must bring out or key ingredient; whiskey. You see, the grains used to make whiskey along with the alcohol, brings out the flavor of the turkey meat. Let's pour 1 cup of whiskey on the turkey, and serve yourself a cup as well! Cheers! Ahhh! That's good **12-year whiskey** right there. Ok, back to our turkey. Preheat your oven to 475 degrees Fahrenheit. Now have another cup of whiskey.
+A: First of all, we must bring out our key ingredient -- whiskey. You see, the grains used to make whiskey along with the alcohol, brings out the flavor of the turkey meat. Let's pour 1 cup of whiskey on the turkey, and serve yourself a cup as well! Cheers! Ahhh! That's good **12-year whiskey** right there. Ok, back to our turkey. Preheat your oven to 475 degrees Fahrenheit. Now have another cup of whiskey.
 
 A: Now that the oven is hot, we place our **bird** on a **rack** inside a roasting pan. Let's add some whiskey to give some extra flavor and let's have another cup. **That hit the spot**. There we go, we can leave it in there for the next 45 minutes. In the meantime, let's have another sip of whiskey and start with our delicious pumpkin pie.
 
