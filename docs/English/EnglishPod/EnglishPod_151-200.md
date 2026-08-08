@@ -378,7 +378,7 @@ A: **They'll never take me alive**!
 ### [168] The Weekend - Cooking A Thanksgiving Dinner
 A: Hello everyone and welcome back to our show. Today we are going to learn how to cook the perfect thanksgiving turkey! I will share a secret that I have kept for over 30 years on how to cook the perfect, most **mouth watering**, juiciest turkey in the world! Let's get started!
 
-A: First of all, we must bring out our key ingredient -- whiskey. You see, the grains used to make whiskey along with the alcohol, brings out the flavor of the turkey meat. Let's pour 1 cup of whiskey on the turkey, and serve yourself a cup as well! Cheers! Ahhh! That's good **12-year whiskey** right there. Ok, back to our turkey. Preheat your oven to 475 degrees Fahrenheit. Now have another cup of whiskey.
+A: First of all, we must bring out our key ingredient -- whiskey. You see, the grains used to make whiskey along with the alcohol, brings out the flavor of the turkey meat. Let's pour one cup of whiskey on the turkey, and serve yourself a cup as well! Cheers! Ahhh! That's good **12-year whiskey** right there. Ok, back to our turkey. Preheat your oven to 475 degrees Fahrenheit. Now have another cup of whiskey.
 
 A: Now that the oven is hot, we place our **bird** on a **rack** inside a roasting pan. Let's add some whiskey to give some extra flavor and let's have another cup. **That hit the spot**. There we go, we can leave it in there for the next 45 minutes. In the meantime, let's have another sip of whiskey and start with our delicious pumpkin pie.
 
@@ -390,17 +390,17 @@ A: After waiting for an hour, and having a couple of drinks, it's time to check 
 
 ### [169] The Weekend - Roller Coaster
 
-A: I'm so excited! We are finally here! Six Flags Magic Mountain! This isthe best amusement park inthe world!
+A: I'm so excited! We are finally here! Six Flags Magic Mountain! This is the best **amusement park** in the world!
 
-B: Alright settle down now, you're gonna give yourself a heart attack.
+B: Alright **settle down now**, you're gonna give yourself **a heart attack**.
 
-C: I can't believe they charged us dollars each. It seems like a rip offdon't you think? It's not like I'm gonna get on these rides.
+C: I can't believe they charged us 35 dollars each. It seems like such a **ripoff** don't you think? It's not like I'm gonna get on these rides.
 
-A: Whoa... Viper! That's the world's highest and fastest roller coaster! You go at more than miles per hour! I wanna go onthat one! Can I mom please? Can I ?
+A: Whoa... Viper! That's the world's highest and fastest **roller coaster**! You go at more than one **miles per hour**! I wanna go on that one! Can I mom please? Can I ?
 
-B: Chris I'm not sure you should get on that it seems a bit too much for you and we just had breakfast minutes ago. I don't think it's a good idea.
+B: Chris I'm not sure you should get on that, it seems a bit too much for you and we just had breakfast 30 minutes ago. I don't think it's a good idea.
 
-A: Aww come on mom! I can handle it. I promise I wont ask for anything else! Besides, it's not like I'm gonna throw upor anything...
+A: Aww **come on** mom! **I can handle it**. I promise I won't ask for anything else! Besides, it's not like I'm gonna **throw up** or anything...
 
 C: Let him go Carol, he'll be fine.
 
