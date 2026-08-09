@@ -394,7 +394,7 @@ A: I'm so excited! We are finally here! Six Flags Magic Mountain! This is the be
 
 B: Alright **settle down now**, you're gonna give yourself **a heart attack**.
 
-C: I can't believe they charged us 35 dollars each. It seems like such a **ripoff** don't you think? It's not like I'm gonna get on these rides.
+C: I can't believe they charged us 35 dollars each. It seems like such a **ripoff** don't you think? It's not like I'm gonna get on these things.
 
 A: Whoa... Viper! That's the world's highest and fastest **roller coaster**! You go at more than one **miles per hour**! I wanna go on that one! Can I mom please? Can I ?
 
