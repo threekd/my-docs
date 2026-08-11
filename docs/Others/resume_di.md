@@ -16,6 +16,9 @@ password: 567
 
 ::: card title="技能清单" icon="mdi-star-outline"
 
+::cryptocurrency-color:auto:: AI Agent 开发:
+    熟悉LangChain以及Agent/RAG/多智能体架构，具备LLM应用开发能力
+
 ::logos:microsoft-icon:: Microsoft Power Platform:
     Power Query、Power BI、Power Automate、Power Apps
 
@@ -28,7 +31,7 @@ password: 567
 ::ant-design:code-outlined:: 其他技能:
     Linux、SQL、Nginx、HTML/CSS、Vue3
 
-::icon-park:english::英语可作为工作语言。
+::icon-park:english::英语读写流利，可进行书面沟通与展示型汇报，具备国际化团队协作基础
 :::
 
 
@@ -51,6 +54,20 @@ password: 567
 
 ::: card title="项目经验" icon="streamline-sharp:user-work-laptop-wifi"
 ::: timeline 
+- **实验室智能数据助理Agent**（个人项目）: 
+    type=success
+    - 项目简介: 
+        - 基于LangChain + 大语言模型，支持自然语言查询、异常检测、自动生成报告的多功能Agent系统
+    - 工作内容: 
+        - 让非技术人员用中文查数据。
+        - 快速查找内部SOP、标准文件。
+    - 工作亮点: 
+        - 基于LangChain和OpenAI API构建，集成自然语言查询、SOP知识库问答、自动报告生成、异常告警四大功能。
+        - 将业务查询需求映射为结构化条件，利用Function Calling自动调用Pandas数据查询、统计分析、图表生成等工具，无需手写SQL。
+        - 通过ChromaDB向量库实现20余份SOP文档的语义检索，回答准确率达90%以上（自己测试）。
+        - 支持多步骤任务：用户一句话即可触发“数据提取→统计分析→报告生成→邮件发送”完整流程，将原需2小时的手工报告缩短至2分钟（对比演示）。
+<br>
+
 - **Product Integrity Program**: 
     type=success
     - 项目简介: 
@@ -62,7 +79,9 @@ password: 567
         - 在促进了流程的标准化和数据的准确性的基础上，登样效率提升两倍，出报告时间由原来的2天缩短至1天。
         - 连接企业数据库系统，实时更新数据，并通过结合各种评判标准，及时发现问题并进行预警。
         - 实验员通过该Dashboard进行数据自检，管理层通过该Dashboard获取项目进度和关键指标。
+        - 该项目在部门年度创新（Innovation）评选中获得第一名。
 <br>
+
 - **原物料预警系统**: 
     type=success
     - 项目简介: 
@@ -71,9 +90,11 @@ password: 567
         - 通过与OU部门和质控经理的多方沟通，了解需求，独立设计并实现了整个系统。
     - 工作亮点: 
         - 通过Forms + Power Automate + Outlook + Power BI, 实现了提交，预警，分析的完整系统。
-        - 通过引入GPT-4o, 规范化人员提交的内容，提升了数据质量。
+        - 利用GPT-4o设计Prompt，自动将人员的非结构化描述转化为标准化记录，为后续Agent分析和预警提供高质量数据入口。
         - 解决了OU部门收集信息难，数据处理过程繁琐的痛点，并有效避免了重复问题的发生，节约了大量的时间和人力成本。
+        - 该项目赋能于中国及东南亚几个国家，多次在上级视察活动中作为特色项目展出，并获得年度团队合作奖第一名。
 <br>
+
 - **实验室数据管理系统**: 
     type=success
     - 项目简介: 
@@ -83,8 +104,9 @@ password: 567
     - 工作亮点: 
         - 库存结构清晰，通过目录-产品-批次的三层结构进行管理，有助于快速定位和查询。
         - 实现了采购申请，审批，入库，出库等流程的自动化，提升了工作效率。
-        - 通过引入 Deepseek 和 调用化学数据库的API，利用CAS Number快速获取标准命名和相关信息，提升了数据的准确性和一致性。
+        - 集成LLM（DeepSeek）与化学数据库CAS Common Chemistry API，实现化合物名称的自动识别与标准化。
 <br>
+
 - **实验室IT 支持**: 
     type=success
     - 提供实验室日常IT支持，解决实验室人员在数据处理和自动化方面的需求。
@@ -95,7 +117,6 @@ password: 567
 <br>
 
 ::: card title="自我评价" icon="mdi-account-star-outline"
-- 喜欢学习新技术，持续关注AI与自动化技术的前沿发展，并成功将其应用于实际业务场景中以提升效率
-- 乐于与团队成员分享经验和知识，共同成长。
-- 具有良好的团队合作精神和责任感，能够主动承担责任，并积极推动项目的进展。
+- 热爱AI与业务结合，正在深入学习Agent与RAG技术，致力于用LLM降低企业流程成本。擅长从业务痛点出发，设计并落地“低代码+AI”的解决方案。
+- 具有良好的团队合作精神和责任感，乐于与团队成员分享经验和知识，共同成长。
 :::

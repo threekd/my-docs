@@ -30,5 +30,10 @@ config:
         icon: 🚀
         details: EnglishPod
         link: /English/EnglishPod/EnglishPod_001-050.md
+      -
+        title: Pydocs
+        icon: 📝
+        details: Python Package Documents
+        link: /Pydocs/
 
 ---

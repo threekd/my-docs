@@ -73,10 +73,25 @@ const EnglishPod = defineCollection({
   sidebar: 'auto',
 })
 
+const pydocs = defineCollection({
+  type: 'post',
+  dir: 'Pydocs',
+  title: 'Python Documentation',
+  link: '/Pydocs/',
+  linkPrefix: '/Pydocs/',
+  postList: true,
+  tags: true,
+  archives: false,
+  categories: false,
+  postCover: 'right',
+  pagination: 15,
+})
+
 export default defineCollection([
   recipes,
   linux,
   lobehub,
   themePlume,
   EnglishPod,
+  pydocs,
 ])

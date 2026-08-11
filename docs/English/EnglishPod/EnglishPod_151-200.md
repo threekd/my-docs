@@ -433,29 +433,29 @@ A: Hello, ma'am, can I help you find something?
 
 B: Yes, actually I'm looking to buy a camera.
 
-A: We've got a wide selection do you know if you'd like a point-and-shoot, or something a little fancier? Are you shopping for yourself or for someone else?
+A: We've got a wide selection do you know if you'd like a **point-and-shoot**, or something a little fancier? Are you shopping for yourself or for someone else?
 
 B: Actually I'm buying a camera for my husband.
 
-A: Ah, well then I'd recommend a nice entry-level digital SLR.
+A: Ah, well then I'd recommend a nice **entry-level** **digital SLR**.
 
 B: Yeah? Can I take a look at the SLRs you carry?
 
 A: Sure thing, follow me. This here is the.
 
-B: The Canon Eos. Yeah it's ok, but I'm looking for something that performs better in low light, has a better display panel, and longer battery life.
+B: The Canon Eos. Yeah it's ok, but I'm looking for something that performs better in low light, has a better **display panel**, and longer battery life.
 
-A: Oh, ah, umthe Nikon D60 is a nice option.
+A: Oh, ah, um the Nikon D60 is a nice option.
 
-B: Yeah, but what kit lens does this camera come with? I don't want some bulky telephoto lens.
+B: Yeah, but what **kit lens** does this camera come with? I don't want some bulky **telephoto lens**.
 
 A: Oh, well this one has the, uh.
 
-B: Looks to me like an 18-55mm lens. pretty standard, that will do. Not like my husband will be stalking celebrities or anything!
+B: Looks to me like an 18-55mm lens. pretty standard, that will do. Not like my husband will be **stalking** celebrities or anything!
 
 A: So, ahem, can I interest you in any acc...
 
-B: Accessories? Do you carry polarizing filters?
+B: Accessories? Do you carry **polarizing filters**?
 
 A: Polarizing filter um we should! I'm sorry, ma'am. looks like we're sold out.
 
