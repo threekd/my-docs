@@ -772,11 +772,11 @@ A: Well, I... anyways, I was just thinking of the red envelopes. I wanna make a 
 ### [38] Daily Life - Buying a Car
 A: Hi there, can I help you folks? 
 
-B: I'm just browsing; seeing what's on the lot. My daughter wants a car for her birthday, you know how it is. 
+B: **I'm just browsing**; seeing what's on the lot. My daughter wants a car for her birthday, you know how it is. 
 
 C: Dad! I'm sixteen already and I'm, like, the only one at school who doesn't have a car! 
 
-A: She is right, you know. Kids these days all have cars. Let me show you something we just got in: a 1996 sedan. Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver. 
+A: She is right, you know. Kids these days all have cars. Let me show you something we just got in: a 1996 **sedan**. Excellent **gas mileage**, it has dual **airbags** and anti lock **brakes**; a perfect **vehicle** for a young driver. 
 
 C: Dad, I love it! It's awesome! Can we get this one please? 
 
@@ -786,13 +786,13 @@ A: Oh, that's just an old World War Two tank that we use for TV commercials. Now
 
 B: Whoa, whoa wait a minute. Tell me more about this tank. 
 
-A: Well, Sir, if you are looking for quality and safety then look no further! Three inches of reinforced steel protect your daughter from short range missile attacks. 
+A: Well, Sir, if you are looking for quality and safety then look no further! Three inches of **reinforced** steel protect your daughter from short range missile attacks. 
 
 B: Does the sedan protect her from missile attacks? 
 
-A: It does not. 
+A: It does not.
 
-B: Well, I don't know. Let me sleep on it. 
+B: Well, I don't know. Let me **sleep on it**. 
 
 A: Did I mention the tank is a tank? 
 
