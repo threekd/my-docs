@@ -470,19 +470,19 @@ A: No problem, ma'am.
 
 ### [172] Daily Life - Dry Cleaners
 
-A: Thank god you are open! I have an emergency!
+A: **Thank god** you are open! I have an emergency!
 
-B: Hello Mr. Henderson what can I do for you?
+B: Hello Mr.Henderson what can I do for you?
 
-A: I need this dress and this suit dry cleaned ASAP!
+A: I need this dress and this suit **dry cleaned** ASAP!
 
-B: OK, I can have it ready by the end of the week.
+B: OK, I can have it ready by **the end of the week**.
 
-A: No you don't understand, I need this tomorrow morning! I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow! She's gonna kill me!
+A: No you don't understand, I need this tomorrow morning! I accidentally **spilled** beer all over my wife's dress and we have a wedding to attend tomorrow! She's gonna kill me!
 
-B: Ok, I can have it ready tomorrow afternoon, but this suit is also very stained. I can't guarantee we can remove it completely.
+B: Ok, I can have it ready tomorrow afternoon, but this suit is also very **stained**. I can't guarantee we can remove it completely.
 
-A: Fine! Can you also iron and starch this shirt?
+A: Fine! Can you also **iron** and **starch** this shirt?
 
 B: Certainly.
 
