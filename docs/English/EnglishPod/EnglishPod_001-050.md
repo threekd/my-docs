@@ -822,7 +822,7 @@ A: That's my brother!
 
 ---
 ### [40] Can I ask you a favor?
-A: Um, **sorry to bother you**, um... my name is Rachel. I'm new here. Can I ask you for a favor? 
+A: Um, **sorry to bother you**, um...my name is Rachel. I'm new here. Can I ask you for a favor? 
 
 B: Hi Rachel, welcome **on board**. I'm afraid I can't help you right now. I'm getting ready for a very important meeting. 
 
