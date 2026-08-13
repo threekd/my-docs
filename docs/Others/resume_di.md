@@ -54,19 +54,6 @@ password: 567
 
 ::: card title="项目经验" icon="streamline-sharp:user-work-laptop-wifi"
 ::: timeline 
-- **实验室智能数据助理Agent**（个人项目）: 
-    type=success
-    - 项目简介: 
-        - 基于LangChain + 大语言模型，支持自然语言查询、异常检测、自动生成报告的多功能Agent系统
-    - 工作内容: 
-        - 让非技术人员用中文查数据。
-        - 快速查找内部SOP、标准文件。
-    - 工作亮点: 
-        - 基于LangChain和OpenAI API构建，集成自然语言查询、SOP知识库问答、自动报告生成、异常告警四大功能。
-        - 将业务查询需求映射为结构化条件，利用Function Calling自动调用Pandas数据查询、统计分析、图表生成等工具，无需手写SQL。
-        - 通过ChromaDB向量库实现20余份SOP文档的语义检索，回答准确率达90%以上（自己测试）。
-        - 支持多步骤任务：用户一句话即可触发“数据提取→统计分析→报告生成→邮件发送”完整流程，将原需2小时的手工报告缩短至2分钟（对比演示）。
-<br>
 
 - **Product Integrity Program**: 
     type=success
