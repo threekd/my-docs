@@ -518,15 +518,15 @@ A: Honey I'll be right back!
 
 B: Where are you going?
 
-A: I told you already! I'm going to. get my nails done.
+A: I told you already! I'm going to **get my nails done**.
 
-B: Again? You just went last week! You spend more time atthe nail salon than you do here at home! Honestly, why do you need a manicure every week?
+B: Again? You just went last week! You spend more time at the **nail salon** than you do here at home! Honestly, why do you need a manicure every week?
 
-A: Well, first of all, I like to pamper myself, and my nails look great. You should come with me!
+A: Well, first of all, I like to **pamper** myself, and my nails look great. You should come with me!
 
 B: Why? I don't want to have nail polish or anything like that!
 
-A: They don't only paint my nails! The manicurist will remove my cuticles, file my nails, and apply at least nails coats of nail polish!
+A: They don't only **paint** my nails! The **manicurist** will remove my **cuticles**, **file** my nails, and apply at least four **coats** of **nail polish**!
 
 B: Yeah, sounds like something I should definitely do.
 

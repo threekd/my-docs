@@ -18,5 +18,15 @@ I think my weakness is that I’m interest-driven. I work very hard when I’m p
 ### Q6 Could you tell me more about your day-to-day work with Power BI at Coca-Cola?
 Sure. My main responsibility is to turn raw data into actionable insights for lab teams. I typically handle the full cycle: gathering requirements from stakeholders, connecting to data sources like SQL databases and SharePoint lists, cleaning and transforming data with Power Query, building data models, and designing interactive dashboards in Power BI. I also create documentation and provide training so users can adopt the dashboards effectively.
 
-### Q7: How is your English ability?
+### Q7: What is your greatest achievement so far?
+I would say the raw material early warning system, because it solved a real cross-functional problem, scaled across multiple countries, and combined automation, AI, and data visualization elegantly. It also changed how people viewed digital tools in the lab.
+
+### Q8: What is the biggest challenge you’ve faced at work?
+The biggest challenge was building the raw material early warning system. The data came from multiple countries, and people described issues in very different ways — there was no standard format. So the first hurdle was to turn messy, unstructured input into reliable, analyzable data.
+
+I solved it by combining automation with AI. I designed a GPT-based prompt that converted free-text descriptions into standardized records, and then integrated that with Power Automate for alerts and Power BI for analysis. At the same time, I had to work closely with local teams to make sure the system matched their real workflows.
+
+The real challenge wasn’t technical — it was aligning diverse users around one simple process. In the end, the system was adopted across China and Southeast Asia, and it genuinely reduced repetitive work and prevented recurring issues.
+
+### Q9: How is your English ability?
 I’m comfortable reading and writing English. If needed, I can give a presentation in English. I might speak a little more slowly at times, but I make sure I’m clear.
