@@ -30,3 +30,6 @@ The real challenge wasn’t technical — it was aligning diverse users around o
 
 ### Q9: How is your English ability?
 I’m comfortable reading and writing English. If needed, I can give a presentation in English. I might speak a little more slowly at times, but I make sure I’m clear.
+
+
+Over the past year, I have traveled several times, studied English, read English original books, and learned to play a musical instrument — the harmonica

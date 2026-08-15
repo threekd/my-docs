@@ -533,25 +533,25 @@ B: Yeah, sounds like something I should definitely do.
 
 ### [175] Global View - New Years Resolution
 
-A: Did you read this? It says that the number one new years resolution make is to spend more time with friends and family.
+A: Did you read this? It says that the number one new years' resolution people make is to spend more time with friends and family.
 
 B: Why would that be funny?
 
-A: Well, think about it. We are a society that is always on the go, not because we have to, but because we want to.
+A: Well, think about it. We are a society that is always **on the go**, not because we have to, but because we want to.
 
 B: Why?
 
-A: We work hard and spend less time at home because we are trying to provide for our family with goods and services that are usually unnecessary.
+A: We work hard and spend less time at home because we are trying to provide for our family with **goods and services** that are usually unnecessary.
 
 B: I don't agree, but anyways, I think you should start thinking of a new year's resolution yourself.
 
 A: What's the point? We always make a new year's resolution and by February we will have forgotten about it. It's pointless.
 
-B: Well then maybe you should resolve to sticking to your goals and objectives.
+B: Well then maybe you should **resolve** to **sticking to** your goals and objectives.
 
-A: What about you? Your gym bag is gathering dust and you still have brand new running shoes that are yet to be jogged in.
+A: What about you? Your gym bag is **gathering dust** and you still have **brand new** running shoes that are yet to be jogged in.
 
-B: Well, I would go if you kept your promise of going tothe gym with me everyday!
+B: Well, I would go if you kept your promise of going to the gym with me everyday!
 
 A: Yeah yeah whatever.
 
