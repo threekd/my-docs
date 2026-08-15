@@ -396,7 +396,7 @@ B: Alright **settle down now**, you're gonna give yourself **a heart attack**.
 
 C: I can't believe they charged us 35 dollars each. It seems like such a **ripoff** don't you think? It's not like I'm gonna get on these things.
 
-A: Whoa... Viper! That's the world's highest and fastest **roller coaster**! You go at more than one **miles per hour**! I wanna go on that one! Can I mom please? Can I ?
+A: Whoa... Viper! That's the world's highest and fastest **roller coaster**! You go at more than one hundred **miles per hour**! I wanna go on that one! Can I mom please? Can I ?
 
 B: Chris I'm not sure you should get on that, it seems a bit too much for you and we just had breakfast 30 minutes ago. I don't think it's a good idea.
 
