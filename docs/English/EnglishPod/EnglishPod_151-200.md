@@ -558,23 +558,35 @@ A: Yeah yeah whatever.
 
 ### [176] Daily Life - Heating
 
-A: It's freezing in here! Can I turn up the heat?
+A: It's **freezing** in here! Can I **turn up** the heat?
 
-B: Don't touch that thermostat! You don't paythe bills around here!
+B: Don't touch that **thermostat**! You don't pay the bills around here!
 
-A: Dad! Are you serious? What's the point of having central heating if we can't use it! Look, I can see my breath!
+A: Dad! Are you serious? What's the point of having **central heating** if we can't use it! Look, I can see my breath!
 
-B: Put on a sweater! I'm not gonna let you run up my heating bill just because it's a bit chilly.
+B: Put on a sweater! I'm not gonna let you **run up** my heating bill just because it's a bit **chilly**.
 
-A: Dad! I'm gonna catch a cold!
+A: Dad! I'm gonna **catch a cold**!
 
-B: When I was your age, my parents didn't have central heating like you do! We had a furnace inthe center of the living room and that was it. We used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
+B: When I was your age, my parents didn't have central heating like you do! We had a **furnace** in the center of the living room and that was it. We used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
 
 
 ### [177] The Weekend - Decorating a Christmas Tree
+A: I'm home. Everyone, come here. I bought a Christmas tree. Look at this beautiful pine tree. 
+
+B: Wow, it's huge. Are you sure it will fit in the living room? 
+
+C: Awesome. I'll go get the Christmas lights. 
+
+A: Of course it will. Help me put it in the living room. 
+
+C: I found the lights. 
+
+B: I got the Christmas ornaments. We could also place these stockings next to the chimney. 
+
+C: Great idea. While we decorate the tree, we can listen to some good old Christmas songs.
 
 ### [178] Daily Life - Finding the perfect present
-
 A: Bill. Bill! You gotta help me!
 
 B: What's wrong? Slow down or you are gonna give yourself a heart attack.
