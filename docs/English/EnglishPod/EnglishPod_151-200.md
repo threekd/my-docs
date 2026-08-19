@@ -572,9 +572,9 @@ B: When I was your age, my parents didn't have central heating like you do! We h
 
 
 ### [177] The Weekend - Decorating a Christmas Tree
-A: I'm home. Everyone, come here. I bought a Christmas tree. Look at this beautiful pine tree. 
+A: I'm home. Everyone, come here. I bought a **Christmas tree**. Look at this beautiful **pine tree**. 
 
-B: Wow, it's huge. Are you sure it will fit in the living room? 
+B: Wow, it's huge. Are you sure **it will fit** in the living room? 
 
 C: Awesome. I'll go get the Christmas lights. 
 
@@ -582,9 +582,9 @@ A: Of course it will. Help me put it in the living room.
 
 C: I found the lights. 
 
-B: I got the Christmas ornaments. We could also place these stockings next to the chimney. 
+B: I got the Christmas **ornaments**. We could also place these **stockings** next to the **chimney**. 
 
-C: Great idea. While we decorate the tree, we can listen to some good old Christmas songs.
+C: Great idea. While we **decorate** the tree, we can listen to some good old Christmas songs.
 
 ### [178] Daily Life - Finding the perfect present
 A: Bill. Bill! You gotta help me!
@@ -653,7 +653,7 @@ A: In a one horse open sleigh
 
 A: O'er the fields we go
 
-A: Laughing allthe way
+A: Laughing all the way
 
 A: Bells on bob tails ring
 

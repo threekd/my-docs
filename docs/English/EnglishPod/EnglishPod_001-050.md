@@ -970,7 +970,7 @@ B: Someone get her out of here! Get me the defibrillator. Okay, clear! Again! Cl
 
 C: Okay, what's happening? 
 
-B: The patient is in acute respiratory failure, I think were going to have to intubate! 
+B: The patient is in acute respiratory failure, I think were going to have to innovate! 
 
 C: Alright! Tubes in! Bag him! Someone give him 10 cc's of adrenaline! Let's go, people move, move! 
 
