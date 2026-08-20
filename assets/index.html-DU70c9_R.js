@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n}from"./app-DPQeTMaU.js";const o={};function a(c,r){return n(),e("div")}const i=t(o,[["render",a]]),l=JSON.parse('{"path":"/Pydocs/","title":"Python Documentation","lang":"en-US","frontmatter":{"lang":"en-US","title":"Python Documentation","draft":true},"git":{},"filePathRelative":null,"headers":[],"type":"posts"}');export{i as comp,l as data};
