@@ -593,11 +593,11 @@ B: What's wrong? Slow down or you are gonna give yourself a heart attack.
 
 A: Tomorrow is Christmas and I haven't bought my mom anything! I'm such a bad son!
 
-B: **Take it easy**! Let's go tothe mall, window shop a little and see if there is anything she might like.
+B: **Take it easy**! Let's go to the mall, window shop a little and see if there is anything she might like.
 
 A: That's just it! I don't know what to get her! Last year I got her a ring that was **two sizes too big** and a pair of shoes five sizes too small! I **suck at** getting presents for people.
 
-B: That's where you're making a big mistake! You can't just guess peoples' likes or sizes! Especially with clothes or jewelry. On top of that, I think that you should get your mom something that shows how much you love her. Atthe same time you should show her that you took the time and effort to look for something that she would really like!
+B: That's where you're making a big mistake! You can't just guess peoples' likes or sizes! Especially with clothes or jewelry. On top of that, I think that you should get your mom something that shows how much you love her. At the same time you should show her that you took the time and effort to look for something that she would really like!
 
 A: Yeah you're right. **When it comes down to it**, I can be pretty **tacky**.
 
