@@ -17,7 +17,7 @@ password: 567
 ::: card title="技能清单" icon="mdi-star-outline"
 
 ::cryptocurrency-color:auto:: AI Agent 开发:
-    熟悉LangChain以及Agent/RAG/多智能体架构，具备LLM应用开发能力
+    多阶段 LLM 管线设计与实现、提示词工程与 JSON 结构化输出，擅长AI应用落地。
 
 ::logos:microsoft-icon:: Microsoft Power Platform:
     Power Query、Power BI、Power Automate、Power Apps
@@ -54,6 +54,21 @@ password: 567
 
 ::: card title="项目经验" icon="streamline-sharp:user-work-laptop-wifi"
 ::: timeline 
+
+- **Litnebula - 世界文学影响图谱 Web 应用**(个人项目，全栈独立开发): 
+    type=success
+    - 项目简介: 
+        - 从电子书一键生成"作者-作品-提及关系"的结构化文学图谱：上传电子书后，由多阶段 LLM Agent 管线自动提取实体与关系，经去重与人工审核后发布为 3D 交互图谱。
+        - 已发布为Web应用，可现场展示。
+    - 工作内容: 
+        - 设计并实现多阶段 LLM Agent 管线：电子书解析 → 元数据/实体提取(A1/A2) → 书内提及识别与涟漪分类(B) → 作者补全 → 批次构建 → 草稿落库 → 人工审核发布，各阶段以提示词 + JSON Schema 约束输出并自动重试解析失败。
+        - 实现三阶段去重（字符级基础匹配 + 向量语义嵌入 + LLM 兜底确认），并引入置信度分流机制：模型输出 confidence(0~1)，高置信直通、低置信跳过、中间区间触发二次判定，误判/漏检明细随批次落盘供审计。
+        - 构建后台导入任务队列（并发上限、限流、取消与垃圾清理）与"提取→去重→审核→发布"闭环，全程审计日志。
+    - 工作亮点: 
+        - 独立完成全栈开发（FastAPI + SQLite + React/TypeScript + Three.js + DeepSeek/阿里云百炼），2 周内交付可用版本。
+        - 后端 316 个单元测试、前端 73 个测试；、多用户数据隔离。
+        - 通过置信度分流与二次判定，将 LLM 输出不稳定问题显式化、可审计，显著降低漏检/误判对数据质量的影响。
+<br>
 
 - **Product Integrity Program**: 
     type=success
@@ -104,6 +119,6 @@ password: 567
 <br>
 
 ::: card title="自我评价" icon="mdi-account-star-outline"
-- 热爱AI与业务结合，正在深入学习Agent与RAG技术，致力于用LLM降低企业流程成本。擅长从业务痛点出发，设计并落地“低代码+AI”的解决方案。
+- 热爱AI与业务结合，已独立落地多个LLM应用，擅长从业务痛点出发，设计并实现"低代码+AI"的解决方案。
 - 具有良好的团队合作精神和责任感，乐于与团队成员分享经验和知识，共同成长。
 :::

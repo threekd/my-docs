@@ -612,23 +612,23 @@ A: Silent night, holy night
 
 A: All is calm, all is bright
 
-A: Round yon Virgin Mother and Child
+A: **Round yon** Virgin Mother and Child
 
-A: Holy Infant so tender and mild
+A: Holy Infant so **tender and mild**
 
-A: Sleep in heavenly peace
+A: Sleep in **heavenly peace**
 
 A: Sleep in heavenly peace
 
 A: Silent night, holy night
 
-A: Shepherds quake at the sight
+A: Shepherds **quake** at the sight
 
-A: Glories stream from heaven afar
+A: **Glories stream** from heaven afar
 
-A: Heavenly hosts sing Alleluia!
+A: **Heavenly hosts** sing Alleluia!
 
-A: Christ, the Saviour is born
+A: Christ, the **Saviour** is born
 
 A: Christ, the Saviour is born
 
@@ -636,9 +636,9 @@ A: Silent night, holy night
 
 A: Son of God, love's pure light
 
-A: Radiant beams from Thy holy face
+A: **Radiant beams** from **Thy** holy face
 
-A: With the dawn of redeeming grace
+A: With the dawn of **redeeming** grace
 
 A: Jesus, Lord, at Thy birth
 
