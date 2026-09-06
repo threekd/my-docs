@@ -9,31 +9,36 @@ password: 567
 
 ::: card title="基本信息" icon="mdi-account-circle-outline"
 - 姓名: 张磾 | 性别: 男 | 年龄: 30岁 
-- 学校: 山东理工大学 | 专业: 物理学 | 学历: 本科
+- 学校: 山东理工大学(2015-2019) | 专业: 物理学 | 学历: 本科
 - 手机: 17861969190 | 微信: st_mos | 邮箱: threekd42@gmail.com
+:::
+
+::: card title="求职意向" icon="mdi-rocket-launch-outline"
+::carbon:ai-agent:: AI Agent 应用开发 / 数字化转型
+
+::majesticons:award-line:: 3 年+ 快消企业实验室数字化经验，独立落地多个"低代码+AI"应用（LLM Agent 管线、Power Platform、BI 看板）。擅长从业务痛点出发，梳理业务逻辑，将非结构化数据转化为可用的数据资产，成果曾获部门创新奖第一名。
 :::
 
 
 ::: card title="技能清单" icon="mdi-star-outline"
 
 ::cryptocurrency-color:auto:: AI Agent 开发:
-    多阶段 LLM 管线设计与实现、提示词工程与 JSON 结构化输出，擅长AI应用落地。
+    Prompt 工程、JSON Schema 结构化输出、RAG、MCP
+
+::ant-design:code-outlined:: 编程语言:
+    熟练掌握Python、Linux、SQL; 熟悉Nginx、HTML/CSS、Vue3
 
 ::logos:microsoft-icon:: Microsoft Power Platform:
     Power Query、Power BI、Power Automate、Power Apps
 
-::material-icon-theme:python:: Python:
-    熟练使用Pandas进行数据清洗与分析，利用Requests爬取数据，使用FastAPI构建轻量级API服务，使用PyQt6开发桌面应用
-
 ::cryptocurrency-color:auto:: 自动化与低代码开发:
     具备从0到1搭建业务流程应用的能力，熟悉明道云HAP低代码平台
-
-::ant-design:code-outlined:: 其他技能:
-    Linux、SQL、Nginx、HTML/CSS、Vue3
 
 ::icon-park:english::英语读写流利，可进行书面沟通与展示型汇报，具备国际化团队协作基础
 :::
 
+<div style="page-break-after: always;"></div>
+<br>
 
 ::: card title="工作经历" icon="mdi-briefcase-outline"
 
@@ -43,20 +48,33 @@ password: 567
 
 ::solar:card-outline:: 职位: **Lab Digital Specialist**
 
-::material-symbols-light:network-node::主要职责: 
-- 负责实验室的数字化转型项目，利用低代码平台与数据分析工具优化核心业务流程。
-- 主导数据自动化处理与可视化看板开发，为实验室运营与管理层决策提供数据支持。
-- 为实验室用户提供IT解决方案与培训，推广数字化工具，提升团队数字化技能。
+::material-symbols-light:network-node::工作成果: 
+- 主导实验室数字化转型，落地 3 个数字化系统（详见项目经历）。
+- 通过 Power Query/Python 自动化 + Power BI 看板，登样效率提升 2 倍，报告周期由 2 天缩短至 1 天。
+- 为实验室提供 IT 解决方案与培训，推广 Python/Power BI 工具，赋能业务人员自助完成数据可视化。
+- 所负责项目分获部门年度创新第一名、年度团队合作奖第一名。
+
+<br>
+
+::mdi:company:: 公司: **启卓教育/汉德自动化**
+
+::uiw:date:: 时间: 2019年8月 - 2021年12月
+
+::material-symbols-light:network-node::主要经历: 
+
+- 启卓教育 - 数理化辅导教师（带出 4 名初三学生考入重点高中），积累了面向不同对象的沟通与培训能力。
+- 汉德自动化 - 机械资料中英核对、全站仪测量数据处理。
+
 :::
 
 <div style="page-break-after: always;"></div>
 <br>
 
-::: card title="项目经验" icon="streamline-sharp:user-work-laptop-wifi"
+::: card title="项目经历" icon="streamline-sharp:user-work-laptop-wifi"
 ::: timeline 
 
-- **Litnebula - 世界文学影响图谱 Web 应用**(个人项目，全栈独立开发): 
-    type=success
+- **Litnebula - 世界文学影响图谱 Web 应用**(离职后个人项目，全栈独立开发): 
+    time=2026/08/18 - 2026/08/30 type=success
     - 项目简介: 
         - 从电子书一键生成"作者-作品-提及关系"的结构化文学图谱：上传电子书后，由多阶段 LLM Agent 管线自动提取实体与关系，经去重与人工审核后发布为 3D 交互图谱。
         - 已发布为Web应用，可现场展示。
@@ -66,12 +84,12 @@ password: 567
         - 构建后台导入任务队列（并发上限、限流、取消与垃圾清理）与"提取→去重→审核→发布"闭环，全程审计日志。
     - 工作亮点: 
         - 独立完成全栈开发（FastAPI + SQLite + React/TypeScript + Three.js + DeepSeek/阿里云百炼），2 周内交付可用版本。
-        - 后端 316 个单元测试、前端 73 个测试；、多用户数据隔离。
+        - 后端 316 个单元测试、前端 73 个测试、多用户数据隔离、账号安全（Argon2、Turnstile、CSRF、限流）。
         - 通过置信度分流与二次判定，将 LLM 输出不稳定问题显式化、可审计，显著降低漏检/误判对数据质量的影响。
 <br>
 
 - **Product Integrity Program**: 
-    type=success
+    time=2023/03/10 - 2024/06/01 type=success
     - 项目简介: 
         - 收集市场样品进行质量分析和合规检验，并提交对应的分析报告
     - 工作内容: 重新设计并优化了登样(Log in)和出报告(report)流程: 
@@ -83,9 +101,14 @@ password: 567
         - 实验员通过该Dashboard进行数据自检，管理层通过该Dashboard获取项目进度和关键指标。
         - 该项目在部门年度创新（Innovation）评选中获得第一名。
 <br>
+:::
 
+<div style="page-break-after: always;"></div>
+
+::: card title="项目经历" icon="streamline-sharp:user-work-laptop-wifi"
+::: timeline 
 - **原物料预警系统**: 
-    type=success
+    time=2024/07/20 - 2025/04/30 type=success
     - 项目简介: 
         - 收集原物料缺陷信息，整合数据，形成统计分析。对关键物料，设立预警机制，及时分享给全系统。
     - 工作内容: 
@@ -98,7 +121,7 @@ password: 567
 <br>
 
 - **实验室数据管理系统**: 
-    type=success
+    time=2025/02/20 - 2025/08/20 type=success
     - 项目简介: 
         - 通过明道云HAP低代码平台，管理实验室的日常数据处理和自动化需求。
     - 工作内容: 
@@ -108,17 +131,4 @@ password: 567
         - 实现了采购申请，审批，入库，出库等流程的自动化，提升了工作效率。
         - 集成LLM（DeepSeek）与化学数据库CAS Common Chemistry API，实现化合物名称的自动识别与标准化。
 <br>
-
-- **实验室IT 支持**: 
-    type=success
-    - 提供实验室日常IT支持，解决实验室人员在数据处理和自动化方面的需求。
-    - 积极推广并组织培训Python，Power query及Power BI的使用，赋能业务人员自己进行简单的数据处理和可视化。
-:::
-
-<div style="page-break-after: always;"></div>
-<br>
-
-::: card title="自我评价" icon="mdi-account-star-outline"
-- 热爱AI与业务结合，已独立落地多个LLM应用，擅长从业务痛点出发，设计并实现"低代码+AI"的解决方案。
-- 具有良好的团队合作精神和责任感，乐于与团队成员分享经验和知识，共同成长。
 :::

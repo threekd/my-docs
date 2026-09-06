@@ -655,7 +655,7 @@ A: O'er the fields we go
 
 A: Laughing all the way
 
-A: Bells on bob tails ring
+A: Bells on **bob tails** ring
 
 A: Making spirits bright
 
