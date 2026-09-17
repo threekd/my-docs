@@ -38,7 +38,7 @@ password: 567
 :::
 
 <div style="page-break-after: always;"></div>
-<br>
+
 
 ::: card title="工作经历" icon="mdi-briefcase-outline"
 
@@ -68,7 +68,6 @@ password: 567
 :::
 
 <div style="page-break-after: always;"></div>
-<br>
 
 ::: card title="项目经历" icon="streamline-sharp:user-work-laptop-wifi"
 ::: timeline 
