@@ -101,3 +101,14 @@
 - levity /'levəti/
     - Lack of appropriate seriousness
 
+### Words from Mythology and History
+- cicerone /ˌsɪsə'roni/
+    - A guide, especially one who takes tourists to museums, monuments, or architectural sites and explains what is being seen.
+- hector /'hektər/
+    - To bully or harass by bluster or personal pressure.
+- hedonism /'hedənɪzəm/
+    - An attitude or way of life based on the idea that pleasure or happiness should be the chief goal.
+- nestor /ˈnɛstɚ/
+    - A senior figure or leader in one's field.
+- spartan /ˈspɑrtn/
+    - Marked by simplicity, avoidance of luxury, and often strict self-discipline or self-denial.
