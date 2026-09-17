@@ -1,6 +1,6 @@
 ---
 title: Resume
-permalink: /Others/resume_agent
+permalink: /Others/resume_di
 navbar: false
 aside: false
 password: 567
