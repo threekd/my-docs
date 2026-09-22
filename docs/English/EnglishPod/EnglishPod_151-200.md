@@ -685,7 +685,7 @@ A: In a one horse open sleigh
 
 A: Dad, dad, dad! Wake up! It's Christmas!
 
-B: Timmy. It's too early for this. Look, it's six in the morning! Go back to bed!
+B: Timmy. It's too early for this. Look, it's six in the morning! **Go back to bed**!
 
 A: No way! Santa already came and left all our presents! Can we go open them? Please! Please!
 
@@ -693,17 +693,17 @@ C: Of course we can honey. Bill, come on, get dressed.
 
 B: Fine! Not like Santa brought me any gifts!
 
-C: Bill! Honestly, you can be such a grouch sometimes.
+C: Bill! Honestly, you can be such a **grouch** sometimes.
 
 A: Look at all these presents under the Christmas tree! Awesome!
 
-B: Alright Timmy, knock yourself out. We should get ready and head to the market to buy everything for the Christmas dinner tonight.
+B: Alright Timmy, **knock yourself out**. We should get ready and **head to** the market to buy everything for the Christmas dinner tonight.
 
-C: Yeah you're right. It's the first time we are hosting Christmas dinner at our house so everything has to be perfect.
+C: Yeah you're right. It's the first time we are **hosting** Christmas dinner at our house so everything has to be perfect.
 
 B: I got the list right here. Ham, turkey, mashed potatoes, ingredients for the gravy and of course, yams!
 
-C: My dad offered to bring the eggnog so we should be set!
+C: My dad offered to bring the **eggnog** so **we should be set**!
 
 
 ### [182] Global View - Boxing Day

@@ -112,3 +112,9 @@
     - A senior figure or leader in one's field.
 - spartan /ˈspɑrtn/
     - Marked by simplicity, avoidance of luxury, and often strict self-discipline or self-denial.
+- stentorian /sten'tɔːriən/
+    - Extremely loud, often with especially deep richness of sound.
+- stoic /'stoʊɪk/
+    - Seemingly indifferent to pleasure or pain.
+- sybaritic /ˌsɪbə'rɪtɪk/
+    - Marked by a luxurious or sensual way of life.
