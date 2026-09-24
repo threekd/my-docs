@@ -743,19 +743,19 @@ A: Merry Christmas!
 
 A: Bye, mom!
 
-B: Wait, Jimmy, it's cold outside. Put a hat on!
+B: Wait, Jimmy, it's cold outside. Put a **hat** on!
 
 A: Ok. Bye!
 
-B: No, wait, you will be too cold without mittens.
+B: No, wait, you will be too cold without **mittens**.
 
-A: Alright. See ya!
+A: Alright. **See ya**!
 
-B: Hold on, with that wind, you're going to catch a cold. Wear this scarf.
+B: **Hold on**, with that wind, you're going to **catch a cold**. Wear this **scarf**.
 
 A: Ok, see you after school...
 
-B: Oh... and ear muffs! Put these on... here we go.
+B: Oh... and **ear muffs**! Put these on... **here we go**.
 
 A: Mom?
 
