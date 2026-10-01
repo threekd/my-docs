@@ -787,7 +787,7 @@ B: It's about time!
 
 A: Isn't this great? I always wanted to own a farm, live out in the country, grow my own food!
 
-B: This is very beautiful. Though I have to confess, I don't know the first thing about farming!
+B: This is very beautiful. Though **I have to confess**, **I don't know the first thing about farming**!
 
 A: That's fine! Don't worry about it!
 
@@ -797,15 +797,15 @@ A: Relax, it was just a goat!
 
 B: And that?
 
-A: It's just the cows that are grazing over there. We can milk them later.
+A: It's just the cows that are **grazing** over there. We can **milk them** later.
 
 B: What was that?
 
 A: Honey, seriously, It's just a sheep. Relax!
 
-A: Relax, that was just the horses and donkeys that are in the stable .
+A: Relax, that was just the horses and donkeys that are in the **stable** .
 
-B: You know what? I don't think I can hack it here out in the countryside. I'm going back to the city!
+B: You know what? I don't think I can **hack it out** here in the **countryside**. I'm going back to the city!
 
 
 ### [186] The Office - Business Plan

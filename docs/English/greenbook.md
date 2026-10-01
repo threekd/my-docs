@@ -118,3 +118,20 @@
     - Seemingly indifferent to pleasure or pain.
 - sybaritic /ˌsɪbə'rɪtɪk/
     - Marked by a luxurious or sensual way of life.
+
+### MANIA
+> MANIA in Latin means “madness,” and the meaning passed over into English unchanged. Our word mania can mean a mental illness, or at least an excessive enthusiasm. We might call someone a maniac who was wild, violent, and mentally ill—or maybe just really enthusiastic about something. Too much caffeine might make you a bit manic. But the intense mood swings once known as manic-depressive illness are now usually called bipolar disorder instead.
+
+- kleptomania /ˌkleptə'meɪniə/
+    - A mental illness in which a person has a strong desire to steal things.
+- dipsomaniac /ˌdɪpsə'meɪniæk/
+    - A person with an extreme and uncontrollable desire for alcohol.
+- megalomaniac /ˌmeɡələ'meɪniæk/
+    - A mental disorder marked by feeling of great personal power and importance.
+- egomaniac /ˌiːɡoʊ'meɪniæk/
+    - Someone who is extremely self-contered and ignores the problems and concerns of others.
+### PSYCH
+> PSYCH comes from the Greek word psyche, meaning “breath, life, soul.” Psychology is the science of mind and behavior, and a psychologist treats or studies the mental problems of individuals and groups. Psychiatry is a branch of medicine that deals with mental and emotional disorders, and a psychiatrist (like any other doctor) may prescribe drugs to treat them.
+- psyche /'saɪki/
+    - Soul, personality, mind.
+- psy
